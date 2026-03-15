@@ -1,0 +1,24 @@
+<mat-toolbar color="primary" class="nav-toolbar">
+  <span class="nav-title">
+    <mat-icon>local_hospital</mat-icon>
+    CNA Study App
+  </span>
+  <span class="spacer"></span>
+  <nav class="nav-links">
+    <a mat-button routerLink="/" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact: true}">
+      <mat-icon>home</mat-icon> Home
+    </a>
+    <a mat-button routerLink="/topics" routerLinkActive="active-link">
+      <mat-icon>menu_book</mat-icon> Topics
+    </a>
+    <a mat-button routerLink="/glossary" routerLinkActive="active-link">
+      <mat-icon>search</mat-icon> Glossary
+    </a>
+    <a mat-button routerLink="/flashcards" routerLinkActive="active-link">
+      <mat-icon>style</mat-icon> Flashcards
+    </a>
+    <a mat-button routerLink="/quiz" routerLinkActive="active-link">
+      <mat-icon>quiz</mat-icon> Quiz
+    </a>
+  </nav>
+</mat-toolbar>

@@ -1,0 +1,46 @@
+<div class="topics-container">
+  <!-- Topic detail view -->
+  <div *ngIf="selected; else topicList">
+    <button mat-button (click)="back()" class="back-btn">
+      <mat-icon>arrow_back</mat-icon> Back to Topics
+    </button>
+
+    <div class="topic-header" [style.border-left-color]="selected.color">
+      <mat-icon [style.color]="selected.color">{{ selected.icon }}</mat-icon>
+      <div>
+        <h1>{{ selected.title }}</h1>
+        <p>{{ selected.summary }}</p>
+      </div>
+    </div>
+
+    <mat-accordion>
+      <mat-expansion-panel *ngFor="let section of selected.sections; let i = index" [expanded]="i === 0">
+        <mat-expansion-panel-header>
+          <mat-panel-title>{{ section.heading }}</mat-panel-title>
+        </mat-expansion-panel-header>
+        <p class="section-content">{{ section.content }}</p>
+      </mat-expansion-panel>
+    </mat-accordion>
+  </div>
+
+  <!-- Topic grid -->
+  <ng-template #topicList>
+    <h1>Study Topics</h1>
+    <p class="subtitle">Select a topic to start studying</p>
+
+    <div class="topics-grid">
+      <mat-card
+        *ngFor="let topic of topics"
+        class="topic-card"
+        (click)="select(topic)"
+        [style.border-top-color]="topic.color">
+        <mat-card-content>
+          <mat-icon class="topic-icon" [style.color]="topic.color">{{ topic.icon }}</mat-icon>
+          <h2>{{ topic.title }}</h2>
+          <p>{{ topic.summary }}</p>
+          <mat-chip class="section-count">{{ topic.sections.length }} sections</mat-chip>
+        </mat-card-content>
+      </mat-card>
+    </div>
+  </ng-template>
+</div>

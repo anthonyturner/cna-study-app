@@ -1,0 +1,68 @@
+@import '@angular/material/prebuilt-themes/azure-blue.css';
+
+:root {
+  --nav-bg-start: #0B1F3A;
+  --nav-bg-end: #1565C0;
+  --primary: #1565C0;
+  --primary-light: #1E88E5;
+  --accent: #00ACC1;
+  --bg-page: #EEF3FA;
+  --bg-card: #FFFFFF;
+  --text-heading: #0B1F3A;
+  --text-body: #374151;
+  --text-muted: #6B7A99;
+  --border: #DDE5F0;
+  --radius-card: 14px;
+  --shadow-card: 0 2px 12px rgba(11, 31, 58, 0.08);
+  --shadow-hover: 0 10px 32px rgba(11, 31, 58, 0.16);
+  --transition: 0.2s ease;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: var(--bg-page);
+  color: var(--text-body);
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4 {
+  color: var(--text-heading);
+  font-weight: 700;
+  margin-top: 0;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-page); }
+::-webkit-scrollbar-thumb { background: #90A4AE; border-radius: 6px; }
+::-webkit-scrollbar-thumb:hover { background: var(--primary); }
+
+::selection { background: rgba(21, 101, 192, 0.15); }
+
+/* Material icon fix — prevent clipping when font-size > 24px */
+mat-icon {
+  overflow: visible !important;
+  flex-shrink: 0;
+}
+
+/* Material overrides */
+.mat-mdc-card {
+  border-radius: var(--radius-card) !important;
+  box-shadow: var(--shadow-card) !important;
+}
+
+.mat-mdc-progress-bar {
+  border-radius: 8px;
+  height: 6px;
+}
+
+.mat-mdc-chip {
+  font-size: 0.78rem !important;
+  font-weight: 500 !important;
+}

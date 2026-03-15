@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "term": "Activities of Daily Living (ADLs)",
+    "definition": "Routine daily activities that a person performs independently, including bathing, dressing, grooming, toileting, eating, and transferring.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 2,
+    "term": "Abduction",
+    "definition": "Movement of a limb away from the midline of the body.",
+    "category": "Anatomy & Movement"
+  },
+  {
+    "id": 3,
+    "term": "Adduction",
+    "definition": "Movement of a limb toward the midline of the body.",
+    "category": "Anatomy & Movement"
+  },
+  {
+    "id": 4,
+    "term": "Ambulation",
+    "definition": "The act of walking or moving from place to place.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 5,
+    "term": "Apical Pulse",
+    "definition": "The heartbeat heard at the apex of the heart using a stethoscope, located at the 5th intercostal space at the midclavicular line.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 6,
+    "term": "Asepsis",
+    "definition": "The absence of disease-causing microorganisms. Medical asepsis reduces the number of microorganisms; surgical asepsis eliminates all microorganisms.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 7,
+    "term": "Aspiration",
+    "definition": "The inhalation of food, fluid, or foreign material into the airway, which can cause choking or pneumonia.",
+    "category": "Safety"
+  },
+  {
+    "id": 8,
+    "term": "Blood Pressure",
+    "definition": "The force exerted by blood against the walls of the arteries. Recorded as systolic (contraction) over diastolic (relaxation) pressure. Normal adult range: 120/80 mmHg.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 9,
+    "term": "Body Mechanics",
+    "definition": "The use of correct posture, balance, and movement to prevent injury when lifting, moving, or repositioning patients.",
+    "category": "Safety"
+  },
+  {
+    "id": 10,
+    "term": "Catheter",
+    "definition": "A flexible tube inserted into the body to drain fluids; a urinary (Foley) catheter drains urine from the bladder.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 11,
+    "term": "Contracture",
+    "definition": "Permanent shortening and tightening of muscles or tendons causing deformity and limited range of motion, often resulting from prolonged immobility.",
+    "category": "Anatomy & Movement"
+  },
+  {
+    "id": 12,
+    "term": "Decubitus Ulcer",
+    "definition": "Also known as a pressure ulcer or bedsore; a wound caused by prolonged pressure on skin over bony prominences.",
+    "category": "Skin Care"
+  },
+  {
+    "id": 13,
+    "term": "Dyspnea",
+    "definition": "Difficulty breathing or shortness of breath.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 14,
+    "term": "Edema",
+    "definition": "Swelling caused by excess fluid accumulation in body tissues.",
+    "category": "Anatomy & Movement"
+  },
+  {
+    "id": 15,
+    "term": "Empathy",
+    "definition": "The ability to understand and share the feelings of another person; different from sympathy in that it involves perspective-taking.",
+    "category": "Communication"
+  },
+  {
+    "id": 16,
+    "term": "Extension",
+    "definition": "Straightening of a joint, increasing the angle between bones.",
+    "category": "Anatomy & Movement"
+  },
+  {
+    "id": 17,
+    "term": "Flexion",
+    "definition": "Bending of a joint, decreasing the angle between bones.",
+    "category": "Anatomy & Movement"
+  },
+  {
+    "id": 18,
+    "term": "Fowler's Position",
+    "definition": "A semi-sitting position where the head of the bed is raised 45–60 degrees. Semi-Fowler's is 30–45 degrees. Used to aid breathing and feeding.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 19,
+    "term": "Gait Belt",
+    "definition": "A belt used to help transfer or ambulate a patient safely by providing a secure grip around the patient's waist.",
+    "category": "Safety"
+  },
+  {
+    "id": 20,
+    "term": "Hand Hygiene",
+    "definition": "The most important method of preventing the spread of infection; includes handwashing with soap and water or using alcohol-based hand sanitizer.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 21,
+    "term": "Heimlich Maneuver",
+    "definition": "An emergency technique used to dislodge an object from the airway of a choking person using abdominal thrusts.",
+    "category": "Safety"
+  },
+  {
+    "id": 22,
+    "term": "Hypertension",
+    "definition": "High blood pressure; a systolic reading consistently above 140 mmHg or diastolic above 90 mmHg.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 23,
+    "term": "Hypotension",
+    "definition": "Low blood pressure; systolic reading below 90 mmHg. Orthostatic hypotension occurs when blood pressure drops upon standing.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 24,
+    "term": "Incontinence",
+    "definition": "The inability to control bladder (urinary) or bowel (fecal) function.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 25,
+    "term": "Intake and Output (I&O)",
+    "definition": "Measurement and recording of all fluids taken in (oral, IV) and all fluids expelled (urine, drainage) to monitor fluid balance.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 26,
+    "term": "Isolation Precautions",
+    "definition": "Practices used to prevent the spread of infection, including standard precautions, contact, droplet, and airborne precautions.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 27,
+    "term": "Lateral Position",
+    "definition": "Side-lying position; used to relieve pressure on the back and sacrum.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 28,
+    "term": "Logrolling",
+    "definition": "A technique used to turn a patient as a unit, maintaining spinal alignment; used for patients with spinal injuries.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 29,
+    "term": "Negligence",
+    "definition": "Failure to provide the standard of care that a reasonably prudent person would provide, resulting in harm to a patient.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 30,
+    "term": "Nonverbal Communication",
+    "definition": "Communication without words, including body language, facial expressions, eye contact, gestures, and touch.",
+    "category": "Communication"
+  },
+  {
+    "id": 31,
+    "term": "NPO",
+    "definition": "Latin for 'nothing by mouth' (nil per os); a patient restriction from eating or drinking, often before surgery or procedures.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 32,
+    "term": "Ostomy",
+    "definition": "A surgically created opening (stoma) in the body to divert waste. A colostomy diverts stool; a urostomy diverts urine.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 33,
+    "term": "Pathogen",
+    "definition": "A microorganism that causes disease, including bacteria, viruses, fungi, and parasites.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 34,
+    "term": "Personal Protective Equipment (PPE)",
+    "definition": "Equipment worn to minimize exposure to hazards, including gloves, gowns, masks, goggles, and face shields.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 35,
+    "term": "Prone Position",
+    "definition": "Lying face down on the abdomen.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 36,
+    "term": "Pulse Oximetry",
+    "definition": "A non-invasive measurement of oxygen saturation in the blood (SpO2). Normal range: 95–100%.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 37,
+    "term": "Range of Motion (ROM)",
+    "definition": "The full movement potential of a joint. Active ROM is performed by the patient; passive ROM is performed by the CNA.",
+    "category": "Anatomy & Movement"
+  },
+  {
+    "id": 38,
+    "term": "Respiration",
+    "definition": "The process of breathing; one respiration = one inhalation + one exhalation. Normal adult rate: 12–20 breaths/minute.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 39,
+    "term": "Restraints",
+    "definition": "Devices used to limit patient movement; require a physician order, patient/family consent, and regular monitoring. The least restrictive method must always be tried first.",
+    "category": "Safety"
+  },
+  {
+    "id": 40,
+    "term": "Scope of Practice",
+    "definition": "The procedures, actions, and processes a healthcare worker is permitted to perform based on their training, experience, and licensure.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 41,
+    "term": "Supine Position",
+    "definition": "Lying flat on the back (face up).",
+    "category": "Patient Care"
+  },
+  {
+    "id": 42,
+    "term": "Temperature",
+    "definition": "A vital sign measuring body heat. Normal oral temperature: 98.6°F (37°C). Can be measured orally, rectally, axillary, or tympanically.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 43,
+    "term": "Transfer Belt",
+    "definition": "See Gait Belt; a safety device used when assisting patients with movement.",
+    "category": "Safety"
+  },
+  {
+    "id": 44,
+    "term": "Trendelenburg Position",
+    "definition": "Position where the body is laid flat on the back with the feet elevated higher than the head; used in some emergency situations.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 45,
+    "term": "Urinary Tract Infection (UTI)",
+    "definition": "An infection in any part of the urinary system. Common in catheterized patients; symptoms include burning, frequency, and cloudy urine.",
+    "category": "Patient Care"
+  }
+]

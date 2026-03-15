@@ -1,0 +1,133 @@
+.flashcards-container {
+  h1 {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #0B1F3A;
+    margin-bottom: 4px;
+    letter-spacing: -0.02em;
+  }
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+
+  mat-form-field { min-width: 200px; }
+}
+
+.counter {
+  text-align: center;
+  color: #6B7A99;
+  margin: 8px 0 4px;
+  font-size: 0.88rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+.card-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flashcard {
+  width: 100%;
+  max-width: 580px;
+  height: 300px;
+  perspective: 1200px;
+  cursor: pointer;
+  margin-bottom: 28px;
+}
+
+.card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.55s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.flashcard.flipped .card-inner {
+  transform: rotateY(180deg);
+}
+
+.card-front, .card-back {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 32px;
+  text-align: center;
+}
+
+.card-front {
+  background: white;
+  box-shadow: 0 8px 32px rgba(11, 31, 58, 0.1);
+  border: 1px solid #DDE5F0;
+
+  h2 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #0B1F3A;
+    margin: 14px 0;
+    letter-spacing: -0.01em;
+    line-height: 1.3;
+  }
+}
+
+.card-back {
+  background: linear-gradient(135deg, #0D47A1 0%, #00838F 100%);
+  box-shadow: 0 8px 32px rgba(13, 71, 161, 0.28);
+  transform: rotateY(180deg);
+  color: white;
+
+  p {
+    font-size: 1.05rem;
+    line-height: 1.75;
+    color: rgba(255, 255, 255, 0.95);
+    margin: 0;
+  }
+}
+
+.card-label {
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  opacity: 0.45;
+  margin-bottom: 8px;
+}
+
+.hint {
+  font-size: 0.72rem;
+  opacity: 0.4;
+  margin-top: 12px !important;
+}
+
+.nav-buttons {
+  display: flex;
+  gap: 16px;
+}
+
+.no-cards {
+  text-align: center;
+  padding: 64px 24px;
+  color: #6B7A99;
+
+  mat-icon {
+    font-size: 56px;
+    height: 56px;
+    width: 56px;
+    display: block;
+    margin-inline: auto;
+    margin-bottom: 12px;
+    opacity: 0.35;
+  }
+}

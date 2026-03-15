@@ -1,0 +1,122 @@
+.home-container {
+  padding: 0;
+}
+
+.hero {
+  background: linear-gradient(135deg, #0B1F3A 0%, #0D47A1 55%, #00838F 100%);
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  padding: 80px 24px 72px;
+  color: white;
+
+  // Subtle grid pattern
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image:
+      linear-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255, 255, 255, 0.04) 1px, transparent 1px);
+    background-size: 44px 44px;
+    pointer-events: none;
+  }
+
+  // Radial glow
+  &::after {
+    content: '';
+    position: absolute;
+    top: -30%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 700px;
+    height: 700px;
+    background: radial-gradient(circle, rgba(0, 188, 212, 0.18) 0%, transparent 65%);
+    pointer-events: none;
+  }
+
+  .hero-icon {
+    font-size: 76px;
+    height: 76px;
+    width: 76px;
+    color: #00E5FF;
+    margin-bottom: 22px;
+    filter: drop-shadow(0 0 24px rgba(0, 229, 255, 0.55));
+    position: relative;
+    z-index: 1;
+    display: block;
+    margin-inline: auto;
+  }
+
+  h1 {
+    font-size: 2.9rem;
+    font-weight: 800;
+    margin: 0 0 16px;
+    color: white;
+    position: relative;
+    z-index: 1;
+    letter-spacing: -0.03em;
+    line-height: 1.15;
+  }
+
+  .subtitle {
+    font-size: 1.1rem;
+    color: rgba(255, 255, 255, 0.72);
+    position: relative;
+    z-index: 1;
+    max-width: 520px;
+    margin: 0 auto;
+    line-height: 1.65;
+  }
+}
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(255px, 1fr));
+  gap: 22px;
+  margin-top: 32px;
+}
+
+.feature-card {
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border-top: 3px solid transparent;
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 32px rgba(11, 31, 58, 0.16) !important;
+  }
+
+  mat-card-content {
+    text-align: center;
+    padding: 30px 20px 14px !important;
+
+    .feature-icon {
+      font-size: 54px;
+      height: 54px;
+      width: 54px;
+      margin-bottom: 14px;
+      display: block;
+      margin-inline: auto;
+    }
+
+    h2 {
+      margin: 0 0 10px;
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: #0B1F3A;
+    }
+
+    p {
+      color: #6B7A99;
+      font-size: 0.88rem;
+      line-height: 1.65;
+      margin: 0;
+    }
+  }
+
+  mat-card-actions {
+    justify-content: center;
+    padding: 8px 16px 20px !important;
+  }
+}

@@ -1,0 +1,201 @@
+[
+  {
+    "id": "infection-control",
+    "title": "Infection Control",
+    "icon": "sanitizer",
+    "color": "#1976d2",
+    "summary": "Preventing the spread of disease in healthcare settings.",
+    "sections": [
+      {
+        "heading": "Chain of Infection",
+        "content": "Infection requires 6 links: (1) Infectious agent (pathogen), (2) Reservoir (where it lives), (3) Portal of exit (how it leaves), (4) Mode of transmission, (5) Portal of entry (how it enters a new host), (6) Susceptible host. Breaking any link stops the infection."
+      },
+      {
+        "heading": "Standard Precautions",
+        "content": "Used with ALL patients regardless of diagnosis. Treat all blood, body fluids, secretions, and excretions as potentially infectious. Always wash hands before and after patient contact. Wear gloves when contact with blood/body fluids is possible."
+      },
+      {
+        "heading": "Hand Hygiene",
+        "content": "The single most important way to prevent infection. Wash with soap and water for at least 20 seconds. Use alcohol-based sanitizer when hands are not visibly soiled. Always wash: before/after patient contact, after removing gloves, before eating, after restroom use."
+      },
+      {
+        "heading": "Transmission-Based Precautions",
+        "content": "Used in addition to standard precautions for known/suspected infections. Contact Precautions: gown and gloves (e.g., MRSA, C. diff). Droplet Precautions: surgical mask (e.g., influenza, COVID-19). Airborne Precautions: N95 respirator, negative pressure room (e.g., TB, measles)."
+      },
+      {
+        "heading": "PPE Donning and Doffing Order",
+        "content": "Donning (putting on): Gown → Mask/Respirator → Goggles/Face shield → Gloves. Doffing (removing): Gloves → Goggles/Face shield → Gown → Mask/Respirator. Perform hand hygiene after each step and after all PPE is removed."
+      }
+    ]
+  },
+  {
+    "id": "vital-signs",
+    "title": "Vital Signs",
+    "icon": "monitor_heart",
+    "color": "#d32f2f",
+    "summary": "Measuring and recording the key indicators of body function.",
+    "sections": [
+      {
+        "heading": "Temperature",
+        "content": "Normal oral: 98.6°F / 37°C. Routes: Oral (most common), Rectal (most accurate, 1° higher), Axillary (armpit, 1° lower), Tympanic (ear), Temporal (forehead). Report temperature above 100.4°F (fever) or below 96°F (hypothermia)."
+      },
+      {
+        "heading": "Pulse",
+        "content": "Normal adult pulse: 60–100 beats per minute (bpm). Sites: Radial (wrist – most common), Apical (chest), Carotid (neck – used in CPR), Brachial (used for blood pressure). Count for 1 full minute if irregular; 30 seconds × 2 if regular. Note rate, rhythm, and strength."
+      },
+      {
+        "heading": "Respiration",
+        "content": "Normal adult: 12–20 breaths/minute. One respiration = one inhalation + one exhalation. Count after taking pulse (patient should not know you are counting). Note rate, rhythm, and depth. Dyspnea = difficulty breathing. Apnea = absence of breathing."
+      },
+      {
+        "heading": "Blood Pressure",
+        "content": "Normal: less than 120/80 mmHg. Systolic (top number): pressure during heart contraction. Diastolic (bottom number): pressure during relaxation. Hypertension: ≥130/80. Hypotension: <90/60. Use correct cuff size. Place cuff 1 inch above the antecubital space."
+      },
+      {
+        "heading": "Pulse Oximetry",
+        "content": "Measures oxygen saturation (SpO2) in the blood. Normal: 95–100%. Below 90% is a medical emergency — report immediately. Common probe placement: fingertip. Remove nail polish if needed. Poor circulation can affect readings."
+      },
+      {
+        "heading": "Pain",
+        "content": "Often called the 5th vital sign. Use a 0–10 numeric scale or the Wong-Baker FACES scale. Always report and document pain. Do not medicate — that is outside CNA scope of practice; report to nurse."
+      }
+    ]
+  },
+  {
+    "id": "patient-rights",
+    "title": "Patient Rights & Legal Issues",
+    "icon": "gavel",
+    "color": "#7b1fa2",
+    "summary": "Understanding the legal and ethical responsibilities of a CNA.",
+    "sections": [
+      {
+        "heading": "Residents' Rights (Long-Term Care)",
+        "content": "All residents have the right to: dignity and respect, privacy and confidentiality, make their own decisions (autonomy), refuse treatment, be free from abuse and neglect, participate in care planning, voice grievances without retaliation, and have visitors."
+      },
+      {
+        "heading": "HIPAA",
+        "content": "Health Insurance Portability and Accountability Act. Protects the privacy of patients' health information. Never share patient information with unauthorized people, including family members without patient consent. Do not discuss patients in public areas. Violating HIPAA can result in termination and legal penalties."
+      },
+      {
+        "heading": "Abuse and Neglect",
+        "content": "Types of abuse: Physical, Emotional/Psychological, Sexual, Financial/Material exploitation. Neglect: failure to provide needed care. CNAs are mandated reporters — you MUST report any suspected abuse or neglect to a supervisor immediately. Never ignore signs of abuse."
+      },
+      {
+        "heading": "Informed Consent",
+        "content": "Patients have the right to receive information about their treatment and to consent or refuse. CNAs do not obtain informed consent — that is the nurse's or physician's responsibility. However, always explain what you are going to do before performing any procedure."
+      },
+      {
+        "heading": "Advance Directives",
+        "content": "Legal documents stating a patient's wishes about medical care if they become unable to make decisions. Includes: Living Will (specific treatment wishes), Durable Power of Attorney for Healthcare (designates a decision-maker), DNR (Do Not Resuscitate). Know your patient's code status before an emergency."
+      }
+    ]
+  },
+  {
+    "id": "safety",
+    "title": "Safety & Emergency Procedures",
+    "icon": "health_and_safety",
+    "color": "#f57c00",
+    "summary": "Keeping patients safe and responding to emergencies.",
+    "sections": [
+      {
+        "heading": "Fall Prevention",
+        "content": "Lock bed wheels and wheelchair wheels before transfers. Keep bed in lowest position. Use call light within reach. Ensure adequate lighting. Non-slip footwear. Clear pathways. Use gait belt for at-risk patients. Know each patient's fall risk level."
+      },
+      {
+        "heading": "Body Mechanics",
+        "content": "Keep back straight and bend at the knees. Keep load close to your body. Avoid twisting — pivot your feet instead. Keep feet shoulder-width apart for a wide base of support. Push/pull rather than lift when possible. Use mechanical lifts for heavy transfers."
+      },
+      {
+        "heading": "Fire Safety (RACE & PASS)",
+        "content": "RACE: Rescue anyone in danger → Alarm (pull fire alarm) → Confine the fire (close doors) → Extinguish/Evacuate. PASS (fire extinguisher): Pull the pin → Aim at base of fire → Squeeze the handle → Sweep side to side."
+      },
+      {
+        "heading": "Choking & Heimlich Maneuver",
+        "content": "Signs of choking: inability to speak, cough, or breathe; clutching throat. For conscious adult: stand behind patient, place fist above navel, grasp with other hand, give firm upward thrusts. For unconscious: begin CPR and look for the object each time you open the airway."
+      },
+      {
+        "heading": "Restraints",
+        "content": "Always try least restrictive alternatives first (bed alarms, sitter, padding). Require a physician order and must be regularly monitored. Check every 30 minutes; release and reposition at least every 2 hours. Document use, reason, and patient response. Never tie to side rails."
+      }
+    ]
+  },
+  {
+    "id": "personal-care",
+    "title": "Personal Care & Hygiene",
+    "icon": "bathtub",
+    "color": "#0288d1",
+    "summary": "Assisting patients with bathing, grooming, oral care, and dressing.",
+    "sections": [
+      {
+        "heading": "Oral Care",
+        "content": "Provide at least twice daily and after meals. For unconscious patients: use swab applicators, position on side, suction available, never use excess water. Denture care: clean over a sink lined with a towel, store in labeled container with water when not in use."
+      },
+      {
+        "heading": "Bathing",
+        "content": "Water temperature: 105–110°F (41–43°C). Always test water before patient contact. Provide privacy at all times. Work from clean to dirty areas. Wash from distal to proximal on extremities. Perineal care: front to back for females. Respect patient dignity and preferences."
+      },
+      {
+        "heading": "Skin Care & Pressure Ulcer Prevention",
+        "content": "Inspect skin during every bath. Reposition at least every 2 hours. Keep skin clean and dry. Use moisture barriers for incontinent patients. Do NOT massage reddened areas — this can cause damage. Use pressure-relieving devices (special mattresses, heel protectors). Report any skin changes immediately."
+      },
+      {
+        "heading": "Dressing & Grooming",
+        "content": "Dress affected (weak) side first; undress affected side last (strong side out, weak side in). Allow patient choices to promote independence and dignity. Check for proper footwear. Assist with shaving, hair care, and nail care as directed."
+      },
+      {
+        "heading": "Elimination Care",
+        "content": "Provide privacy. Bedpan, urinal, commode, or toilet — use based on patient ability. Measure output if on I&O. Observe and report color, clarity, odor, and amount. Provide perineal care after each elimination episode. Report signs of UTI: burning, frequency, dark or cloudy urine, strong odor."
+      }
+    ]
+  },
+  {
+    "id": "nutrition",
+    "title": "Nutrition & Hydration",
+    "icon": "restaurant",
+    "color": "#388e3c",
+    "summary": "Assisting patients with meals and monitoring nutritional intake.",
+    "sections": [
+      {
+        "heading": "Assisting with Meals",
+        "content": "Wash hands and assist patient with handwashing. Provide oral care before meals if needed. Position patient upright (High Fowler's) for eating. Check tray for correct diet, patient name, and allergies. Allow patient choices. Sit at eye level. Allow adequate time. Do not rush."
+      },
+      {
+        "heading": "Aspiration Prevention",
+        "content": "Keep head of bed elevated at least 30–45 degrees during and 30–60 minutes after eating. Thickened liquids for patients with swallowing difficulties (dysphagia). Cut food into small pieces. Encourage slow eating. Report coughing, choking, or wet/gurgly voice after eating."
+      },
+      {
+        "heading": "Special Diets",
+        "content": "Regular: no restrictions. Soft: easy-to-chew foods. Pureed: blended to smooth consistency. Mechanical soft: chopped/minced foods. Low sodium: less than 2,000mg/day. Diabetic/ADA: consistent carbohydrate intake. NPO: nothing by mouth. Always verify the diet order before serving."
+      },
+      {
+        "heading": "Fluid Intake",
+        "content": "Normal daily intake: 2,000–3,000 mL. Offer fluids frequently throughout the day. Encourage fluids unless on restriction. Record intake in mL if patient is on I&O monitoring. 8 oz = ~240 mL. Signs of dehydration: dry mouth, dark urine, dizziness, confusion."
+      }
+    ]
+  },
+  {
+    "id": "communication",
+    "title": "Communication & Interpersonal Skills",
+    "icon": "forum",
+    "color": "#5d4037",
+    "summary": "Effective communication with patients, families, and the healthcare team.",
+    "sections": [
+      {
+        "heading": "Therapeutic Communication",
+        "content": "Use open-ended questions. Use silence and active listening. Show empathy and respect. Avoid giving advice, false reassurance, or personal opinions. Do not argue with or belittle a patient. Make eye contact. Use the patient's preferred name."
+      },
+      {
+        "heading": "Barriers to Communication",
+        "content": "Language differences, hearing/vision impairment, cognitive impairment (dementia), pain, anxiety, cultural differences. Solutions: speak slowly and clearly, use simple language, face the patient, use visual aids or gestures, use an interpreter when available."
+      },
+      {
+        "heading": "Reporting and Documentation",
+        "content": "Report objective information (what you observe) not subjective interpretation. Use proper medical terminology. Report changes in patient condition immediately to the nurse. Document accurately, completely, and legibly. Never chart care that was not provided. Correct errors by drawing a single line through, dating, and initialing."
+      },
+      {
+        "heading": "Working with the Healthcare Team",
+        "content": "CNAs work under the supervision of licensed nurses (RN/LPN). Respect chain of command. Never perform tasks outside your scope of practice. Ask for help when unsure. Communicate changes and concerns promptly. Treat all team members with respect."
+      }
+    ]
+  }
+]

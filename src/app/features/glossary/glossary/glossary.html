@@ -1,0 +1,61 @@
+<div class="glossary-page">
+
+  <!-- Page header -->
+  <div class="glossary-header">
+    <div class="header-inner">
+      <div class="header-icon-wrap">
+        <mat-icon>menu_book</mat-icon>
+      </div>
+      <div>
+        <h1>CNA Glossary</h1>
+        <p class="header-sub">Essential terminology for the Certified Nursing Assistant exam</p>
+      </div>
+      <div class="term-count-badge">
+        <span class="count">{{ filteredTerms.length }}</span>
+        <span class="label">terms</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Search + filters -->
+  <div class="controls-section">
+    <mat-form-field appearance="outline" class="search-field">
+      <mat-icon matPrefix>search</mat-icon>
+      <input matInput [(ngModel)]="searchQuery" (ngModelChange)="filter()"
+             placeholder="Search terms or definitions…" />
+      <button *ngIf="searchQuery" matSuffix mat-icon-button (click)="clearSearch()" aria-label="Clear">
+        <mat-icon>close</mat-icon>
+      </button>
+    </mat-form-field>
+
+    <div class="filter-chips">
+      <button
+        *ngFor="let cat of categories"
+        class="filter-btn"
+        [class.active]="selectedCategory === cat"
+        (click)="selectCategory(cat)">
+        {{ cat }}
+      </button>
+    </div>
+  </div>
+
+  <!-- Grid -->
+  <div class="terms-grid" *ngIf="filteredTerms.length; else noResults">
+    <div class="term-card" *ngFor="let term of filteredTerms">
+      <div class="term-card-top">
+        <span class="cat-badge">{{ term.category }}</span>
+      </div>
+      <h3 class="term-name">{{ term.term }}</h3>
+      <p class="term-def">{{ term.definition }}</p>
+    </div>
+  </div>
+
+  <ng-template #noResults>
+    <div class="no-results">
+      <mat-icon>search_off</mat-icon>
+      <p>No terms match your search.</p>
+      <span>Try different keywords or clear the filter.</span>
+    </div>
+  </ng-template>
+
+</div>

@@ -1,0 +1,52 @@
+<div class="flashcards-container">
+  <h1>Flashcards</h1>
+
+  <div class="controls">
+    <mat-form-field appearance="outline">
+      <mat-label>Category</mat-label>
+      <mat-select [(ngModel)]="selectedCategory" (ngModelChange)="buildDeck()">
+        <mat-option *ngFor="let cat of categories" [value]="cat">{{ cat }}</mat-option>
+      </mat-select>
+    </mat-form-field>
+    <button mat-stroked-button (click)="restart()">
+      <mat-icon>shuffle</mat-icon> Shuffle
+    </button>
+  </div>
+
+  <p class="counter" *ngIf="deck.length">Card {{ currentIndex + 1 }} of {{ deck.length }}</p>
+
+
+  <div class="card-area" *ngIf="current; else empty">
+    <div class="flashcard" [class.flipped]="flipped" (click)="flip()">
+      <div class="card-inner">
+        <div class="card-front">
+          <div class="card-label">TERM</div>
+          <h2>{{ current.term }}</h2>
+          <mat-chip class="cat-chip">{{ current.category }}</mat-chip>
+          <p class="hint">Click to reveal definition</p>
+        </div>
+        <div class="card-back">
+          <div class="card-label">DEFINITION</div>
+          <p>{{ current.definition }}</p>
+          <p class="hint">Click to flip back</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="nav-buttons">
+      <button mat-stroked-button (click)="prev()" [disabled]="currentIndex === 0">
+        <mat-icon>arrow_back</mat-icon> Previous
+      </button>
+      <button mat-flat-button color="primary" (click)="next()" [disabled]="currentIndex === deck.length - 1">
+        Next <mat-icon>arrow_forward</mat-icon>
+      </button>
+    </div>
+  </div>
+
+  <ng-template #empty>
+    <div class="no-cards">
+      <mat-icon>style</mat-icon>
+      <p>No cards available for this category.</p>
+    </div>
+  </ng-template>
+</div>

@@ -1,0 +1,84 @@
+<div class="quiz-container">
+  <!-- Results screen -->
+  <div *ngIf="finished" class="results">
+    <mat-icon class="result-icon" [style.color]="scorePercent >= 70 ? '#2e7d32' : '#c62828'">
+      {{ scorePercent >= 70 ? 'emoji_events' : 'school' }}
+    </mat-icon>
+    <h2>Quiz Complete!</h2>
+    <p class="score-text">You scored <strong>{{ score }} / {{ questions.length }}</strong> ({{ scorePercent }}%)</p>
+    <p class="score-msg" *ngIf="scorePercent >= 90">Excellent! You're well prepared.</p>
+    <p class="score-msg" *ngIf="scorePercent >= 70 && scorePercent < 90">Good work! Keep reviewing to improve.</p>
+    <p class="score-msg" *ngIf="scorePercent < 70">Keep studying — you'll get there!</p>
+
+    <button mat-flat-button color="primary" (click)="startQuiz()" style="margin-top: 16px">
+      <mat-icon>refresh</mat-icon> Retake Quiz
+    </button>
+
+    <div class="review-section">
+      <h3>Review Answers</h3>
+      <mat-card *ngFor="let r of results; let i = index" class="review-card" [class.correct-card]="r.correct" [class.wrong-card]="!r.correct">
+        <mat-card-header>
+          <mat-icon mat-card-avatar [style.color]="r.correct ? '#2e7d32' : '#c62828'">
+            {{ r.correct ? 'check_circle' : 'cancel' }}
+          </mat-icon>
+          <mat-card-title>Q{{ i + 1 }}: {{ r.question.question }}</mat-card-title>
+          <mat-card-subtitle>{{ r.question.category }}</mat-card-subtitle>
+        </mat-card-header>
+        <mat-card-content>
+          <p *ngIf="!r.correct"><strong>Your answer:</strong> {{ r.question.options[r.selected] }}</p>
+          <p><strong>Correct answer:</strong> {{ r.question.options[r.question.answer] }}</p>
+          <p class="explanation">{{ r.question.explanation }}</p>
+        </mat-card-content>
+      </mat-card>
+    </div>
+  </div>
+
+  <!-- Quiz questions -->
+  <div *ngIf="!finished && current">
+    <div class="quiz-header">
+      <h1>Practice Quiz</h1>
+      <span class="q-counter">{{ currentIndex + 1 }} / {{ questions.length }}</span>
+    </div>
+
+    <mat-progress-bar mode="determinate" [value]="progress" class="progress"></mat-progress-bar>
+
+    <mat-card class="question-card">
+      <mat-card-header>
+        <mat-card-subtitle>
+          <mat-chip>{{ current.category }}</mat-chip>
+        </mat-card-subtitle>
+        <mat-card-title class="question-text">{{ current.question }}</mat-card-title>
+      </mat-card-header>
+      <mat-card-content>
+        <div class="options">
+          <button
+            *ngFor="let option of current.options; let i = index"
+            class="option-btn"
+            [class.selected]="selectedAnswer === i && !answered"
+            [class]="answered ? getLetterClass(current, i) : (selectedAnswer === i ? 'selected' : '')"
+            (click)="!answered && (selectedAnswer = i)"
+            [disabled]="answered">
+            <span class="option-letter">{{ ['A','B','C','D'][i] }}</span>
+            {{ option }}
+          </button>
+        </div>
+
+        <div class="explanation-box" *ngIf="answered">
+          <mat-icon [style.color]="selectedAnswer === current.answer ? '#2e7d32' : '#c62828'">
+            {{ selectedAnswer === current.answer ? 'check_circle' : 'cancel' }}
+          </mat-icon>
+          <p>{{ current.explanation }}</p>
+        </div>
+      </mat-card-content>
+      <mat-card-actions>
+        <button mat-stroked-button *ngIf="!answered" [disabled]="selectedAnswer === null" (click)="submitAnswer()">
+          Submit Answer
+        </button>
+        <button mat-flat-button color="primary" *ngIf="answered" (click)="next()">
+          {{ currentIndex < questions.length - 1 ? 'Next Question' : 'See Results' }}
+          <mat-icon>arrow_forward</mat-icon>
+        </button>
+      </mat-card-actions>
+    </mat-card>
+  </div>
+</div>

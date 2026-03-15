@@ -1,0 +1,70 @@
+.nav-toolbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: linear-gradient(135deg, #0B1F3A 0%, #1565C0 100%) !important;
+  box-shadow: 0 2px 20px rgba(11, 31, 58, 0.35) !important;
+  height: 64px !important;
+}
+
+.nav-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  cursor: pointer;
+  letter-spacing: 0.01em;
+  color: white;
+  text-decoration: none;
+
+  mat-icon {
+    color: #00E5FF;
+    filter: drop-shadow(0 0 8px rgba(0, 229, 255, 0.5));
+    font-size: 26px;
+    height: 26px;
+    width: 26px;
+  }
+}
+
+.spacer { flex: 1; }
+
+.nav-links {
+  display: flex;
+  gap: 2px;
+
+  a {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: rgba(255, 255, 255, 0.78) !important;
+    font-size: 0.85rem;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    padding: 6px 12px !important;
+    border-radius: 8px !important;
+    transition: background 0.2s, color 0.2s;
+    text-decoration: none;
+
+    mat-icon {
+      font-size: 17px;
+      height: 17px;
+      width: 17px;
+    }
+
+    &:hover {
+      background: rgba(255, 255, 255, 0.13) !important;
+      color: white !important;
+    }
+
+    &.active-link {
+      background: rgba(255, 255, 255, 0.2) !important;
+      color: white !important;
+      font-weight: 600;
+    }
+  }
+}
+
+@media (max-width: 700px) {
+  .nav-links a span { display: none; }
+}

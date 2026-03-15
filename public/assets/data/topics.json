@@ -1,0 +1,408 @@
+[
+  {
+    "id": "basics-model",
+    "title": "BASICS Model & Resident Needs",
+    "icon": "psychology",
+    "color": "#6a1b9a",
+    "summary": "Understanding the biopsychosocial model and hierarchy of resident needs.",
+    "sections": [
+      {
+        "heading": "What is the BASICS Model?",
+        "content": "BASICS is a biopsychosocial model that assists staff in planning care for residents that supports remaining abilities and caring relationships. Each letter represents a level in the hierarchy of needs: Biological, Activities of Daily Living, Societal, Inter-personal, Creative, Symbolic."
+      },
+      {
+        "heading": "Biological Needs",
+        "content": "Basic needs for: Food, Water, Oxygen, Safety, Rest, Human Stimulation. When satisfied, fosters Self-Preservation — the resident is physically cared for and safe. Actions to meet biological needs: deliver tray and help prepare meal; provide drinks throughout each shift and remind or encourage the resident to drink them; escort for walks to ensure adequate exercise."
+      },
+      {
+        "heading": "Activities of Daily Living (ADL) Needs",
+        "content": "Personal needs that support lifestyle: Eating, Mobility, Dressing, Toileting, Personal Hygiene. When satisfied, fosters Self-Dependence — the environment provides supplies and assistance to foster self-performance. Actions: provide two choices of outfit each day; assist with bathing; give verbal prompts to guide ambulation; assist to comb hair during AM care."
+      },
+      {
+        "heading": "Societal Needs",
+        "content": "Need for unique personal identity, privacy, and resident's place in society. When satisfied, fosters Self-Identity — environment provides for privacy, affiliation with groups, culture, family customs, education, and resident selection of associations. Actions: celebrate birthday; provide quiet place to visit with family; assist with preparation to attend social group; call by preferred name."
+      },
+      {
+        "heading": "Inter-personal Needs",
+        "content": "Need for connection with others: Love and Belonging. When satisfied, fosters Self-Esteem — the environment fosters social role expression, supports interpersonal and social abilities, promotes social confidence, and creates an atmosphere of caring and being cared about. Actions: encourage telling of personal history with family and staff; introduce to other residents with similar interests; help write a story or draw a picture about things remembered."
+      },
+      {
+        "heading": "Creative Needs",
+        "content": "Need for personal expression, problem-solving opportunities, and meaningful activity that brings joy. When satisfied, fosters Self-Expression — the environment supports independent activity, humor, creativity, use of talents and skills, and ability to problem-solve and make decisions in everyday life. Actions: look for and support successful problem-solving behavior; provide opportunities to solve meaningful problems; have person play piano or participate in cooking class."
+      },
+      {
+        "heading": "Symbolic Needs",
+        "content": "Need for expression of beliefs, hopes, dreams, values, and autonomy (ability to control important aspects of life). Sense of peace in the universe according to the resident's belief in the meaning of life. When satisfied, fosters Self-Actualization — environment encourages hopefulness and self-fulfillment, respects expression of the spiritual dimension, and supports spiritual ministry from outside sources as requested. Actions: help to attend religious services; provide consistency and respect for resident's beliefs; maintain a hopeful attitude; provide experiences that help reach some level of peace."
+      },
+      {
+        "heading": "Behaviors Due to Unmet Needs",
+        "content": "When needs are not met, residents may exhibit: Anxiety, Fear, Anger, Aggressiveness, Depression, Withdrawal. The CNA must identify which need is unmet and take action to meet it."
+      }
+    ]
+  },
+  {
+    "id": "individuality-diversity",
+    "title": "Individuality & Diversity",
+    "icon": "diversity_3",
+    "color": "#00838f",
+    "summary": "Recognizing each resident as a unique individual and providing culturally responsive care.",
+    "sections": [
+      {
+        "heading": "Individuality",
+        "content": "The particular character, or aggregate of qualities, that distinguishes one person or thing from others; sole and personal nature. It is frequently easy to lose sight of the fact that the resident is an individual human being with personal needs and expectations. There is often a tendency to consider the resident as a subject or just another of a large number of persons in the facility. Proper care requires the establishment of a relationship based upon mutual respect and understanding."
+      },
+      {
+        "heading": "Consequences When Individuality is NOT Recognized",
+        "content": "Isolation, Alienation (being excluded), Misunderstanding, Mistrust."
+      },
+      {
+        "heading": "Faces of Diversity",
+        "content": "Diversity includes: Racial classification, National origin, Religious affiliation, Language, Physical size, Gender, Sexual orientation, Age, Disability (both physical and mental), Political orientation, Socio-economic status, Occupational status, Geographical location."
+      },
+      {
+        "heading": "Cultural Desire",
+        "content": "A genuine passion to be open and flexible with others; to accept differences and build on similarities; to be willing to learn from others as cultural informants. Cultural desire involves the commitment of the nurse aide to care for all residents regardless of their cultural values, beliefs, customs, or practices. When caring for challenging residents who may be in direct moral conflict, see the resident as a unique human being — we all come from the same race: the human race. Our goal in providing culturally responsive care is to find common ground."
+      },
+      {
+        "heading": "Cultural Dimensions that Impact Care",
+        "content": "Naming: Naming ties individuals to a particular group, place, and tradition. Ask how the resident wishes to be addressed (in Asian cultures it is customary to write the last name first). Closeness: In Hispanic and Middle Eastern cultures, it is customary to move closer to the person speaking. Touch: In China, a slight bow or nod is given at introductions; in Mexico, touch is frequently used when complimenting. Facial Expressions: In some cultures, expressions convey the opposite of what an individual is feeling. Eye Contact: In America/Russia/Poland, direct eye contact is considered honest and attentive; in Native American and Asian cultures it may be considered rude. Use of Silence: To Asians, silence is a sign of respect; in Arabic and English cultures, silence is used for privacy."
+      }
+    ]
+  },
+  {
+    "id": "communication",
+    "title": "Communication & Interpersonal Skills",
+    "icon": "forum",
+    "color": "#5d4037",
+    "summary": "Effective communication with patients, families, and the healthcare team.",
+    "sections": [
+      {
+        "heading": "Communication Basics",
+        "content": "Communication is the process people use to exchange information. The information we exchange can be: Facts, Feelings, Opinions, and Ideas. Effective communication is necessary in order for you and your co-workers to help each other satisfy the many needs of residents."
+      },
+      {
+        "heading": "Verbal Communication",
+        "content": "The oral or written exchange of information. There are 4 parts: the speaker or sender, the message being sent, the listener or receiver of the message, and feedback. Feedback helps gauge how successful we are conveying our messages — we can reflect (repeat back) what was said in our own words or ask questions to clarify."
+      },
+      {
+        "heading": "Nonverbal Communication",
+        "content": "How you feel about a person, assignment, or task may be communicated nonverbally through: Facial expressions, Body language, Posture, Touch, Tone of Voice. Be aware that your nonverbal communication sends messages even when you are not speaking."
+      },
+      {
+        "heading": "Rules for Communication",
+        "content": "Try to avoid words with more than one meaning; use familiar words; ask for an explanation of an unfamiliar term; be brief and concise; do not add unrelated or unneeded information; stay on the subject; avoid wandering in thought; do not get wordy; organize your thoughts and present them logically; present facts and be specific."
+      },
+      {
+        "heading": "Tone of Voice",
+        "content": "The most comfortable tone is in the middle range. High-pitched tones, very low tones, and loud tones (shouting) are difficult for many older adults to hear and are particularly difficult for those with hearing problems."
+      },
+      {
+        "heading": "Barriers to Communication",
+        "content": "A barrier is anything that prevents the listener's understanding of the message. Barriers can be physical, cultural, and emotional. Common barriers: poor eye contact; ignoring what is being said or interrupting; speaking in another language; use of slang or unfamiliar words; lack of patience or time; feeling stressed or distracted; discussing personal problems; labeling a resident as 'crazy.'"
+      },
+      {
+        "heading": "Therapeutic Communication",
+        "content": "Use open-ended questions. Use silence and active listening. Show empathy and respect. Avoid giving advice, false reassurance, or personal opinions. Do not argue with or belittle a patient. Make eye contact. Use the patient's preferred name. Be sincere and honest. Be patient. Do not rush the resident."
+      },
+      {
+        "heading": "Effective Communication Techniques for Working with Residents",
+        "content": "Identify yourself when entering a resident's room. Speak clearly and directly to the person when face-to-face. Use words that are familiar to the listener — do not use slang, medical words, or baby talk. Give full attention while maintaining good eye contact and smiling or occasionally nodding. Listen to the resident while they are talking — do not interrupt. Be patient; do not rush the resident."
+      },
+      {
+        "heading": "Active Listening Components",
+        "content": "Encouraging: convey interest, use neutral words, use various voice intonations. Clarifying: confirm understanding, ask questions, restate wrong interpretation to force speaker to explain. Restating: restate basic ideas and facts to show you are listening. Reflecting: reflect the speaker's basic feelings. Summarizing: restate major ideas expressed including feelings. Validating: acknowledge the value of their issues and feelings; show appreciation for their efforts and actions. 5 Ways to Be a Better Listener: Stop talking; Avoid distractions; Concentrate on what the person is saying; Look for the 'real' meaning; Provide feedback to the sender."
+      },
+      {
+        "heading": "Communicating with Residents with Hearing Impairments",
+        "content": "Residents with limited hearing may experience isolation and feel 'cut off' from the world. Use a moderate tone of voice. Eliminate background noises. Speak to the resident at eye level — they may be able to read your lips. Provide good lighting. Speak clearly and slowly keeping sentences short. Never shout. Write out important information. Ensure hearing aids are working and reduce background noise."
+      },
+      {
+        "heading": "Communicating with Cognitively Impaired Residents",
+        "content": "Residents with cognitive impairments lose their ability to relate to the real world and to manage routine ADLs (eating, toileting, bathing). When residents experience a loss of words, they may respond nonverbally by scratching, biting, or hitting. Do not take the resident's behavior toward you personally. Use short phrases and words; make eye contact; use appropriate body language; touch appropriately; reword or rephrase if the resident does not appear to understand."
+      },
+      {
+        "heading": "Communicating with Residents with Aphasia",
+        "content": "The term aphasic means the resident is able to hear and, in most cases, understand you, but is unable to speak. The resident may try to answer but the words may not come. Face the resident and make eye contact. Say the resident's name before asking questions. Ask simple yes/no questions. Speak clearly using simple words and sentences. Allow the resident to use nonverbal communication — gestures, writing, pointing, chalkboard, word board, picture board."
+      },
+      {
+        "heading": "Communicating with Residents from Diverse Backgrounds",
+        "content": "Do not assume the resident speaks fluent English. Try to learn some words from the resident's language. Speak clearly and in short sentences. Avoid the tendency to speak louder when not understood (increased volume does not help comprehension). Avoid idioms (phrases usually only understood by native speakers, such as 'it's raining cats and dogs')."
+      },
+      {
+        "heading": "Reporting and Documentation",
+        "content": "Report objective information (what you observe), not subjective interpretation. Reports must be prompt, thorough, and accurate. Always tell the nurse the resident's name, room number, and the time your observations were made or the care was given. Report only things you observed or did yourself. Immediately report any changes from normal or changes in the resident's condition."
+      },
+      {
+        "heading": "General Documentation Guidelines",
+        "content": "All entries must be legible with correct spelling. Use non-erasable ink. Entries must be initialed; a space is provided for your full signature. Note date and time of any narrative written. Never use whiteout — cross out error and initial it noting 'entry was an error.' Complete documentation for each shift in a timely manner. Use exact measurements whenever possible. Use only accepted abbreviations for the facility. Document facts only — do not add opinions. Never document work that has not been completed; document only after work is done."
+      },
+      {
+        "heading": "Working with the Healthcare Team",
+        "content": "CNAs work under the supervision of licensed nurses (RN/LPN). Respect chain of command. Never perform tasks outside your scope of practice. Ask for help when unsure. Communicate changes and concerns promptly. Benefits of teamwork: reduced medical errors, improved quality of care, addresses workload issues, builds cohesion, reduces burnout, and generates more creative solutions."
+      }
+    ]
+  },
+  {
+    "id": "therapeutic-relationship",
+    "title": "Therapeutic Relationship & Resident Transition",
+    "icon": "handshake",
+    "color": "#2e7d32",
+    "summary": "Building caring relationships with residents and supporting their transition to long-term care.",
+    "sections": [
+      {
+        "heading": "Therapeutic Relationship",
+        "content": "A relationship between an individual who suffers from a disability or discomfort (resident) and a practitioner (caregiver) who possesses a specific technical skill or knowledge and who occupies a recognized role. Goals: to promote communication of distressing thoughts and feelings; to assist the resident with problem solving to help daily living; to promote self-care and independence."
+      },
+      {
+        "heading": "Steps to Establishing a Therapeutic Relationship",
+        "content": "Be concerned — people tend to trust those who show concern for them. Be competent — people flock to experts, winners, and star performers. Be correct — a track record of accuracy and reliability is critical. Be consistent — words must match policies, performance, principles, and plans over time. Be clear — explaining things that have become second nature to us can be difficult; strive to be clear."
+      },
+      {
+        "heading": "Resident Losses",
+        "content": "Individuals who enter a long-term care facility face many losses: loss of independence, loss of health, loss of familiar routines/activities, loss of privacy, loss of home and belongings, and in some cases, loss of a spouse. The majority of residents admitted to a long-term care facility are not discharged — the facility becomes their home."
+      },
+      {
+        "heading": "Assisting the Resident Transition",
+        "content": "Have patience — adjustment time varies for individuals. Allow the resident to voice their opinions, complaints, and questions. Provide support through positive feedback, praise, and reinforcement — recognize and acknowledge each accomplishment with enthusiasm. Provide encouragement to continue looking forward to something meaningful. LISTEN, LISTEN, LISTEN — give the resident every opportunity to voice opinions, questions, and concerns. Do not argue with their perceptions of their new environment."
+      },
+      {
+        "heading": "Promoting Independence and Choice",
+        "content": "We can improve the quality of life for residents by promoting choice. Residents should choose the direction their care takes, to the extent that they are able. Care that is directed by the resident is more interactive and affirms the resident's dignity and uniqueness. Actions: ensure appropriate adaptive equipment; encourage participation in bathing, dressing, grooming; allow enough time to participate in ADL tasks; offer choices regarding clothing, meals, beverages; encourage participation in activities of choice; encourage the resident to arrange personal items in their room."
+      }
+    ]
+  },
+  {
+    "id": "infection-control",
+    "title": "Infection Control",
+    "icon": "sanitizer",
+    "color": "#1976d2",
+    "summary": "Preventing the spread of disease in healthcare settings.",
+    "sections": [
+      {
+        "heading": "Microorganisms and Pathogens",
+        "content": "Microorganisms are tiny living organisms that can be seen only through a microscope. They are everywhere: in the air, on objects we touch, and in our bodies. Pathogens (germs) are microorganisms that can cause infection. Types: Bacteria (TB, Pneumonia, Strep throat), Viruses (Influenza, Common Cold, Herpes, HIV/AIDS), Fungi (Athlete's Foot, Ringworm, Yeast Infections). A pathogen that easily spreads from one person to another is contagious."
+      },
+      {
+        "heading": "Chain of Infection",
+        "content": "For an infection to occur, all 6 links must be present in this order: (1) Infectious Agent — the pathogenic microorganism (virus, bacteria, fungi); (2) Reservoir — any place pathogens can live, grow, and multiply (best conditions: warmth, moisture, darkness, food source, oxygen); (3) Portal of Exit — the opening a pathogen uses to leave the body (wound in skin, nose/mouth, bowel/bladder); (4) Mode of Transmission — how infection is carried (contact, droplet, airborne, common vehicle, vector); (5) Portal of Entry — where pathogen enters (respiratory/digestive tract, break in skin, eyes, mucous membranes, urinary/genital tract); (6) Susceptible Host — person whose defenses are weakened. Breaking any link stops the infection."
+      },
+      {
+        "heading": "Modes of Transmission",
+        "content": "Contact Transmission: through contact with body fluids (tears, saliva, respiratory secretions, perspiration, vomit, urine, feces). Droplet Transmission: coughing, sneezing, talking, singing, laughing, spitting transmit droplets a short distance. Airborne Transmission: germs stay alive in air over greater distances. Common Vehicle Transmission: germs transferred from infected individual to food, water, or equipment then to another person. Vector Transmission: transfer from human to animal (rat, fly, mosquito, roach) then to another human through a bite or non-intact skin."
+      },
+      {
+        "heading": "Standard Precautions",
+        "content": "Used at ALL times with ALL residents to protect you from exposure to: open skin areas that are not intact, mucous membranes, and blood and body fluids. You should always provide care with the awareness that each resident could be infected with a bloodborne pathogen — an individual could have a virus without showing any signs of illness. Potentially infectious body fluids: Blood, Urine, Feces, Vomit, Tears, Saliva, Sputum, Vaginal Secretions, Semen."
+      },
+      {
+        "heading": "Hand Hygiene",
+        "content": "Frequent handwashing is the single most important thing you can do to reduce the spread of infection. Wash hands: before and after giving care to each resident; before you start your shift and when you finish; before and after eating or drinking; after using the toilet; before and after breaks; after you cough, sneeze or blow your nose; after handling a resident's belongings; after handling used dressings, specimens, urine or feces; after handling soiled linens; before getting clean linen from a linen cart; before entering a 'clean' supply room. If soap and water are not available, use a hand sanitizer with at least 60% alcohol."
+      },
+      {
+        "heading": "Proper Handwashing Technique",
+        "content": "1. Assemble equipment: soap dispenser, paper towels, warm running water, waste container. 2. Stand so clothes do not touch the sink. 3. Turn on faucet; adjust to warm. 4. Wet hands and wrists under running water — keep fingertips lower than elbows so water does not run up your arms. 5. Apply soap; rub hands vigorously for at least 20 seconds, including between fingers and under fingernails. 6. If hands touch the sink at any time, rewash them. 7. Rinse all surfaces of wrists, hands, and fingers with water flowing from arms to fingertips. 8. Carefully remove paper towel from dispenser; thoroughly dry hands. 9. Drop used paper towel into waste container without touching the container. 10. Use a fresh paper towel to turn off faucet; discard the paper towel without touching the waste container."
+      },
+      {
+        "heading": "Transmission-Based Precautions",
+        "content": "Used in addition to standard precautions for known/suspected infections. Contact Precautions: gown and gloves — for direct contact (hand or skin-to-skin) or indirect contact (touching surfaces/care items); examples: MRSA, C. diff, gastrointestinal/respiratory/skin/wound infections. Droplet Precautions: surgical mask — for infections transmitted by droplets produced by coughing, sneezing, talking; examples: Meningitis, Influenza, Mumps, Rubella. Airborne Precautions: N95 respirator and negative pressure room — for infections transmitted by airborne droplets; examples: Measles, Chickenpox, Tuberculosis."
+      },
+      {
+        "heading": "PPE Donning and Doffing Order",
+        "content": "Donning (putting on): Gown → Mask/Respirator → Goggles/Face shield → Gloves. Doffing (removing): Gloves → Gown → Mask/Respirator. Perform hand hygiene after each step and after all PPE is removed. Replace worn, punctured, or contaminated gloves. Never wash or decontaminate disposable gloves for reuse. Gowns and masks are worn if there is a possibility of spilling, splashing, or splattering of body fluids, or when caring for a resident in isolation."
+      },
+      {
+        "heading": "Multi-Drug Resistant Organisms (MDROs)",
+        "content": "MRSA (Methicillin-Resistant Staphylococcus Aureus) and VRE (Vancomycin Resistant Enterococcus) are infections caused by bacteria resistant to many antibiotics. These infections do not respond to traditional antibiotic therapy. Require Contact Precautions — dispose of gown and gloves in the resident's room before going to care for another resident."
+      },
+      {
+        "heading": "Infection Control Program",
+        "content": "Infection control includes all methods used to prevent and limit the spread of infection. The program contains measures for: Surveillance (data collection, data analysis, data reporting, and decision making), Prevention and Containment (hand hygiene, universal precautions, isolation and barrier precautions), Employee Health (educating employees to protect their own health and prevent workplace infections), Immunizations, and Outbreak Control (every LTC facility should have a framework for managing outbreaks)."
+      },
+      {
+        "heading": "Common Infections in Nursing Homes",
+        "content": "Most common types: Urinary Tract Infections (bladder), Respiratory Tract Infections (lung), Gastrointestinal Tract Infections (diarrhea), Eye Infections, Skin Infections. Factors that reduce the body's ability to fight infection include: poor personal hygiene, poor nutrition, illnesses/disorders that disrupt normal function, breaks in skin or mucous membranes, and some drugs and medical treatments."
+      },
+      {
+        "heading": "Medical Asepsis / Clean vs. Dirty",
+        "content": "Medical asepsis (clean technique): practices used to remove or destroy pathogens and to prevent their spread from one person or place to another. Clean means free of pathogenic organisms. Dirty means contaminated or soiled. Cleaning is done first (with soap and water or alcohol) to remove large particles, followed by either disinfection or sterilization. Do not share personal grooming articles (combs, toothbrushes, razors). Cover your nose and mouth when sneezing, coughing, or blowing your nose."
+      },
+      {
+        "heading": "Disposal of Contaminated Equipment",
+        "content": "Sharps Containers: use for needles, broken glass, safety razors — fill only to 3/4 full, then lock and dispose as biohazard/medical waste. Linen and Trash: keep trash and linen hampers covered; wear PPE when changing soiled linen; never leave a soiled brief in the room — dispose immediately; keep clean and dirty linen from touching each other; do not drop dirty linen on the floor; handle contaminated linen as little as possible. Borrowing Equipment: never take equipment from one resident's room to use for another — even if unused, it is considered 'dirty.'"
+      },
+      {
+        "heading": "Bloodborne Pathogens and Exposure Control",
+        "content": "OSHA mandates employers have a written Exposure Plan. Staff at risk must receive training upon employment, yearly, and for new/changed tasks. Preventive measures include: Hepatitis B Vaccination (3 injections — available free to employees) and Standard/Universal Precautions. Work Practice Controls: all tasks involving blood done to limit splattering/spraying; do not eat, drink, smoke, apply cosmetics, or handle contact lenses in areas of occupational exposure; never recap, bend, or remove needles by hand; wash hands after removing gloves. Following an exposure incident: employer makes available a confidential medical evaluation and follow-up including required laboratory testing and post-exposure prophylaxis."
+      },
+      {
+        "heading": "COVID-19 Infection Control",
+        "content": "COVID-19 is capable of contact, droplet, and airborne transmission in healthcare settings. Employers must follow appropriate precautions for all three transmission pathways. Hand Hygiene: wash with soap and water for at least 20 seconds; use hand sanitizer with at least 60% alcohol when soap/water unavailable. Respiratory Etiquette: cover mouth and nose with tissue when coughing/sneezing; throw used tissues in trash; cough into elbow if no tissue; wash hands immediately after. Facemasks: employers must provide and ensure employees wear facemasks indoors and in vehicles for work purposes; changed at least once per day or when soiled/damaged. Physical Distancing: employees should be separated by at least 6 feet when indoors. Health Screening: employees must be screened before each work day and each shift for COVID-19 symptoms including a temperature check."
+      }
+    ]
+  },
+  {
+    "id": "vital-signs",
+    "title": "Vital Signs",
+    "icon": "monitor_heart",
+    "color": "#d32f2f",
+    "summary": "Measuring and recording the key indicators of body function.",
+    "sections": [
+      {
+        "heading": "Temperature",
+        "content": "Normal oral: 98.6°F / 37°C. Routes: Oral (most common), Rectal (most accurate, 1° higher), Axillary (armpit, 1° lower), Tympanic (ear — measures using the ear), Temporal (forehead). Wait 10-20 minutes after a resident has had a cold or hot drink before taking oral temperature. Report temperature above 100.4°F (fever) or below 96°F (hypothermia)."
+      },
+      {
+        "heading": "Pulse",
+        "content": "Normal adult pulse: 60-100 beats per minute (bpm). Sites: Radial (wrist — most common), Apical (chest), Carotid (neck — used in CPR), Brachial (used for blood pressure). Count for 1 full minute if irregular; 30 seconds × 2 if regular. Note rate, rhythm, and strength."
+      },
+      {
+        "heading": "Respiration",
+        "content": "Normal adult: 12-20 breaths/minute. One respiration = one inhalation + one exhalation. Count after taking pulse (patient should not know you are counting — counting respirations is done without the resident's awareness). Note rate, rhythm, and depth. Dyspnea = difficulty breathing. Apnea = absence of breathing."
+      },
+      {
+        "heading": "Blood Pressure",
+        "content": "Normal: less than 120/80 mmHg. Systolic (top number): pressure during heart contraction. Diastolic (bottom number): pressure during relaxation. Hypertension: 130/80 or higher. Hypotension: below 90/60. Use correct cuff size. Place cuff 1 inch above the antecubital space."
+      },
+      {
+        "heading": "Pulse Oximetry",
+        "content": "Measures oxygen saturation (SpO2) in the blood. Normal: 95-100%. Below 90% is a medical emergency — report immediately. Common probe placement: fingertip. Remove nail polish if needed. Poor circulation can affect readings."
+      },
+      {
+        "heading": "Pain",
+        "content": "Often called the 5th vital sign. Use a 0-10 numeric scale or the Wong-Baker FACES scale. Always report and document pain. Do not medicate — that is outside CNA scope of practice; report to nurse. Pain while using splints should be reported to the charge nurse promptly."
+      },
+      {
+        "heading": "Weight",
+        "content": "To obtain the most accurate resident weight, the nursing assistant should weigh the resident at the same time every day. Weight change and swollen legs or feet are warning signs to report (part of STOP and WATCH)."
+      }
+    ]
+  },
+  {
+    "id": "patient-rights",
+    "title": "Patient Rights & Legal Issues",
+    "icon": "gavel",
+    "color": "#7b1fa2",
+    "summary": "Understanding the legal and ethical responsibilities of a CNA.",
+    "sections": [
+      {
+        "heading": "Residents' Rights (Long-Term Care)",
+        "content": "All residents have the right to: dignity and respect, privacy and confidentiality, make their own decisions (autonomy), refuse treatment, be free from abuse and neglect, participate in care planning, voice grievances without retaliation, have visitors, not have their mail opened by staff, make use of personal belongings only with their permission, and receive care without discrimination."
+      },
+      {
+        "heading": "HIPAA",
+        "content": "Health Insurance Portability and Accountability Act. Ensures that privacy of personal medical information shared with doctors, hospitals, and others who provide and pay for healthcare is protected. Personal health information must remain confidential and cannot be shared without the individual's authorization. Applies to medical records on paper, in computers, and information communicated orally. Never discuss patients in public areas (hallways, elevators, cafeteria, nurse's station). Do not ever release information to media or newspapers."
+      },
+      {
+        "heading": "Confidentiality",
+        "content": "Preserving the privacy of residents in your care. All information is considered confidential when it pertains to medical care and resident records — including information gained verbally or from resident records. Confidential information includes: age, sex, race, religion, marital status, occupation, health information, social security number, insurance information, lab tests/X-rays, blood work, MRI/CT scans, any diagnostic procedures, personal care, toileting, and dressing. Breach of confidentiality: sharing information with someone not on the care team or without a release of information form. Consequences of breach: resident embarrassment and emotional distress; irreversible damage to the care relationship; the resident may file charges and sue."
+      },
+      {
+        "heading": "Responsibilities with Confidential Information",
+        "content": "Discuss resident information ONLY in a place away from other residents, families, and visitors. Report should not be given at the nurses' station. Never discuss residents in an elevator, hallway, cafeteria, or any other public place. Do not ever release information to media or newspapers. Do not keep copies of resident information. Destroy all end-of-shift report sheets after use. Any item with a resident's name or identifying medical information should NEVER be placed in general trash — they should be shredded. Protect privacy when using technology: fax machines, e-mail and computer networks, electronic records, telephones and voice mail, intercom systems."
+      },
+      {
+        "heading": "Abuse and Neglect",
+        "content": "Types of abuse: Physical, Emotional/Psychological, Sexual, Financial/Material exploitation. Neglect: failure to provide needed care (leaving a resident alone during showering, not providing needed care). False imprisonment: illegally restraining a resident or restricting their freedom (e.g., isolating a resident in a closet). CNAs are mandated reporters — you MUST report any suspected abuse or neglect to a supervisor immediately. Never ignore signs of abuse. An unexplained bruise may indicate abuse — report to the nurse immediately."
+      },
+      {
+        "heading": "Informed Consent",
+        "content": "Informed consent is when a resident acknowledges and allows the release of information to other parties. This permission is given by filling out a legal consent form, which becomes part of the resident's permanent record. Patients have the right to receive information about their treatment and to consent or refuse. CNAs do not obtain informed consent — that is the nurse's or physician's responsibility. However, always explain what you are going to do before performing any procedure."
+      },
+      {
+        "heading": "Advance Directives",
+        "content": "Legal documents stating a patient's wishes about medical care if they become unable to make decisions. Includes: Living Will (specific treatment wishes), Durable Power of Attorney for Healthcare (designates a decision-maker), DNR (Do Not Resuscitate). Know your patient's code status before an emergency."
+      }
+    ]
+  },
+  {
+    "id": "safety",
+    "title": "Safety & Emergency Procedures",
+    "icon": "health_and_safety",
+    "color": "#f57c00",
+    "summary": "Keeping patients safe and responding to emergencies.",
+    "sections": [
+      {
+        "heading": "Fall Prevention",
+        "content": "Lock bed wheels and wheelchair wheels before transfers. Keep bed in lowest position. Use call light within reach. Ensure adequate lighting. Non-slip footwear. Clear pathways. Use gait belt for at-risk patients. Know each patient's fall risk level. If a resident begins to fall during ambulation: help lower the resident to the floor by spreading your feet and bending your knees. Do NOT hang onto the gait belt to try to prevent the fall, as this can cause injury."
+      },
+      {
+        "heading": "Body Mechanics",
+        "content": "Keep back straight and bend at the knees. Keep load close to your body. Avoid twisting — pivot your feet instead. Keep feet shoulder-width apart for a wide base of support. Push/pull rather than lift when possible. Use mechanical lifts for heavy transfers."
+      },
+      {
+        "heading": "Fire Safety (RACE & PASS)",
+        "content": "RACE: Rescue anyone in danger → Alarm (pull fire alarm — your FIRST priority as a nursing assistant) → Confine the fire (close doors) → Extinguish/Evacuate. PASS (fire extinguisher): Pull the pin → Aim at base of fire → Squeeze the handle → Sweep side to side. If a small, contained fire breaks out and no one is in immediate danger — after pulling the alarm, you may extinguish the fire if you can do so safely and without harm."
+      },
+      {
+        "heading": "Choking & Heimlich Maneuver",
+        "content": "Signs of choking: inability to speak, cough, or breathe; clutching throat. Indicated when a resident has a blocked airway. For conscious adult: stand behind patient, place fist above navel, grasp with other hand, give firm upward thrusts. For unconscious: begin CPR and look for the object each time you open the airway."
+      },
+      {
+        "heading": "Restraints",
+        "content": "Always try least restrictive alternatives first (bed alarms, sitter, padding). Require a physician order and must be regularly monitored. Check every 30 minutes; release and reposition at least every 2 hours. Document use, reason, and patient response. Never tie to side rails."
+      },
+      {
+        "heading": "Emergency Response",
+        "content": "When a resident becomes short of breath suddenly: call for help and raise the level of the head of the bed immediately. During a code, the best way for a CNA to assist is to retrieve emergency equipment (code cart, intubation box) and carry out other assigned tasks within scope of practice. When an alarm goes off during resident care: place the resident in a safe position and check what caused the alarm immediately."
+      }
+    ]
+  },
+  {
+    "id": "personal-care",
+    "title": "Personal Care & Hygiene",
+    "icon": "bathtub",
+    "color": "#0288d1",
+    "summary": "Assisting patients with bathing, grooming, oral care, and dressing.",
+    "sections": [
+      {
+        "heading": "Oral Care",
+        "content": "Provide at least twice daily and after meals. For unconscious/comatose patients: be sure the resident's head is turned to its side; use proper equipment to swab the resident's mouth and mucous membranes; suction should be available; never use excess water. Denture care: clean over a sink lined with a towel using cool or tepid water (not hot); carry dentures in gloved hand to the sink; store in labeled container with water when not in use. When providing denture care, line the sink with a paper towel — NOT a washcloth — to reduce the risk of breaking the dentures."
+      },
+      {
+        "heading": "Bathing",
+        "content": "Water temperature: 105-110°F (41-43°C). Always test water before patient contact. Provide privacy at all times. Work from clean to dirty areas. Wash from distal to proximal on extremities. Perineal care: front to back for females (from urethra to anus) — this prevents fecal bacteria from entering the urethra and causing UTI; rinse the genital area with a fresh washcloth. Respect patient dignity and preferences. Leaving a resident alone during showering without supervision could be considered negligent."
+      },
+      {
+        "heading": "Skin Care & Pressure Ulcer Prevention",
+        "content": "Inspect skin during every bath. Reposition at least every 2 hours. Keep skin clean and dry. Use moisture barriers for incontinent patients. Do NOT massage reddened areas — this can cause damage. Use pressure-relieving devices (special mattresses, heel protectors). Report any skin changes immediately. Ways to prevent pressure sores: change soiled sheets quickly, change positions regularly, avoid wrinkles in sheets. Providing extra blankets does NOT prevent pressure sores."
+      },
+      {
+        "heading": "Dressing & Grooming",
+        "content": "Dress affected (weak) side first; undress affected side last (strong side out, weak side in). Allow patient choices to promote independence and dignity. Check for proper footwear. Assist with shaving, hair care, and nail care as directed. Offer two choices of outfit each day."
+      },
+      {
+        "heading": "Elimination Care",
+        "content": "Provide privacy. Bedpan, urinal, commode, or toilet — use based on patient ability. Measure output if on I&O. Observe and report color, clarity, odor, and amount. Provide perineal care after each elimination episode. Report signs of UTI: burning, frequency, dark or cloudy urine, strong odor."
+      },
+      {
+        "heading": "Care for Residents with Dementia",
+        "content": "Keep the resident's room uncluttered. Avoid disagreements with the resident. Reassure suspicious residents. Do NOT vary the resident's routines — consistency is key. If a resident refuses bed bath: leave the resident and come back again after some time."
+      }
+    ]
+  },
+  {
+    "id": "nutrition",
+    "title": "Nutrition & Hydration",
+    "icon": "restaurant",
+    "color": "#388e3c",
+    "summary": "Assisting patients with meals and monitoring nutritional intake.",
+    "sections": [
+      {
+        "heading": "Assisting with Meals",
+        "content": "Wash hands and assist patient with handwashing. Provide oral care before meals if needed. Position patient upright (High Fowler's) for eating. Check tray for correct diet, patient name, and allergies. Allow patient choices. Sit at eye level. Allow adequate time. Do not rush. A resident who requests something to eat late at night: check the records of the resident for her ordered diet and get her something to eat."
+      },
+      {
+        "heading": "Aspiration Prevention",
+        "content": "Keep head of bed elevated at least 30-45 degrees during and 30-60 minutes after eating. Thickened liquids for patients with swallowing difficulties (dysphagia). Cut food into small pieces. Encourage slow eating. Report coughing, choking, or wet/gurgly voice after eating."
+      },
+      {
+        "heading": "Special Diets",
+        "content": "Regular: no restrictions. Soft: easy-to-chew foods. Pureed: blended to smooth consistency. Mechanical soft: chopped/minced foods. Low sodium: less than 2,000mg/day. Diabetic/ADA: consistent carbohydrate intake. NPO: nothing by mouth. Always verify the diet order before serving."
+      },
+      {
+        "heading": "Fluid Intake",
+        "content": "Normal daily intake: 2,000-3,000 mL. Offer fluids frequently throughout the day. Encourage fluids unless on restriction. Record intake in mL if patient is on I&O monitoring. 8 oz = approximately 240 mL. Signs of dehydration: dry mouth, dark urine, dizziness, confusion. Drinking less is a warning sign to report (part of STOP and WATCH)."
+      }
+    ]
+  }
+]

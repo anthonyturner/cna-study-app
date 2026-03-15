@@ -1,0 +1,207 @@
+[
+  {
+    "id": 1,
+    "question": "What is the MOST important thing a CNA can do to prevent the spread of infection?",
+    "options": ["Wear gloves at all times", "Perform hand hygiene", "Wear a mask", "Use isolation precautions"],
+    "answer": 1,
+    "explanation": "Hand hygiene is the single most important method of preventing the spread of infection in healthcare settings.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 2,
+    "question": "What is the normal oral body temperature for an adult?",
+    "options": ["97.6°F", "98.6°F", "99.6°F", "100.4°F"],
+    "answer": 1,
+    "explanation": "Normal oral body temperature for an adult is 98.6°F (37°C). A temperature above 100.4°F is considered a fever.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 3,
+    "question": "When assisting a patient with dressing, you should dress which side FIRST?",
+    "options": ["The stronger (unaffected) side", "The weaker (affected) side", "Either side — it does not matter", "The right side always"],
+    "answer": 1,
+    "explanation": "Always dress the weak/affected side first and undress the weak/affected side last. This minimizes discomfort and strain on the affected limb.",
+    "category": "Personal Care"
+  },
+  {
+    "id": 4,
+    "question": "What does NPO mean?",
+    "options": ["Normal patient output", "Nothing by mouth", "New patient order", "Non-prescriptive options"],
+    "answer": 1,
+    "explanation": "NPO stands for 'nil per os' (Latin), meaning nothing by mouth. Patients on NPO are restricted from eating or drinking.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 5,
+    "question": "A patient's blood pressure reading is 145/92 mmHg. This BEST describes:",
+    "options": ["Hypotension", "Normal blood pressure", "Hypertension", "Orthostatic hypotension"],
+    "answer": 2,
+    "explanation": "Hypertension is defined as a blood pressure of 130/80 mmHg or higher. A reading of 145/92 mmHg indicates hypertension.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 6,
+    "question": "How often should you reposition a bedridden patient to prevent pressure ulcers?",
+    "options": ["Every 4 hours", "Every 3 hours", "Every 2 hours", "Once per shift"],
+    "answer": 2,
+    "explanation": "Bedridden patients should be repositioned at least every 2 hours to relieve pressure on bony prominences and prevent pressure ulcer formation.",
+    "category": "Skin Care"
+  },
+  {
+    "id": 7,
+    "question": "When using the RACE acronym during a fire emergency, what does the 'A' stand for?",
+    "options": ["Assess the danger", "Alarm", "Assist patients to exit", "Alert the physician"],
+    "answer": 1,
+    "explanation": "RACE stands for: Rescue, Alarm (pull the fire alarm), Confine the fire (close doors), and Extinguish/Evacuate.",
+    "category": "Safety"
+  },
+  {
+    "id": 8,
+    "question": "Which position is BEST for a patient who is having difficulty breathing?",
+    "options": ["Prone position", "Supine position", "Lateral position", "Fowler's position"],
+    "answer": 3,
+    "explanation": "Fowler's position (head of bed elevated 45–60°) uses gravity to help expand the lungs and ease breathing in patients with respiratory difficulty.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 9,
+    "question": "What is the normal range for adult respirations per minute?",
+    "options": ["8–12", "12–20", "20–30", "30–40"],
+    "answer": 1,
+    "explanation": "Normal adult respiratory rate is 12–20 breaths per minute. Each respiration consists of one inhalation and one exhalation.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 10,
+    "question": "What does the acronym PASS stand for when using a fire extinguisher?",
+    "options": [
+      "Pull, Aim, Squeeze, Sweep",
+      "Point, Activate, Spray, Smother",
+      "Pull, Activate, Spray, Stop",
+      "Press, Aim, Spray, Secure"
+    ],
+    "answer": 0,
+    "explanation": "PASS: Pull the pin, Aim at the base of the fire, Squeeze the handle, Sweep side to side.",
+    "category": "Safety"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is a resident's right in a long-term care facility?",
+    "options": [
+      "To be restrained for safety without a doctor's order",
+      "To have their mail opened by staff for safety",
+      "To refuse treatment",
+      "To be moved to a different room without notice"
+    ],
+    "answer": 2,
+    "explanation": "Residents have the right to refuse treatment. This is part of the principle of patient autonomy. Staff must inform the nurse if a patient refuses care.",
+    "category": "Patient Rights"
+  },
+  {
+    "id": 12,
+    "question": "A CNA observes a bruise on a patient that was not previously documented. What should the CNA do FIRST?",
+    "options": [
+      "Wait to see if more bruises appear",
+      "Ask other CNAs if they noticed it",
+      "Report it to the nurse immediately",
+      "Document it and continue with the shift"
+    ],
+    "answer": 2,
+    "explanation": "Unexplained bruises may indicate abuse or injury. CNAs are mandated reporters and must report signs of abuse or injury to the supervising nurse immediately.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 13,
+    "question": "What is the normal pulse oximetry (SpO2) range for a healthy adult?",
+    "options": ["85–90%", "90–94%", "95–100%", "80–85%"],
+    "answer": 2,
+    "explanation": "Normal SpO2 is 95–100%. A reading below 90% is a medical emergency and must be reported to the nurse immediately.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 14,
+    "question": "When performing perineal care on a female patient, you should wipe:",
+    "options": [
+      "Back to front",
+      "Front to back",
+      "In a circular motion",
+      "It does not matter"
+    ],
+    "answer": 1,
+    "explanation": "Always wipe front to back (from urethra to anus) on female patients to prevent fecal bacteria from entering the urethra and causing a UTI.",
+    "category": "Personal Care"
+  },
+  {
+    "id": 15,
+    "question": "Which type of isolation precaution requires an N95 respirator and a negative pressure room?",
+    "options": [
+      "Contact precautions",
+      "Droplet precautions",
+      "Airborne precautions",
+      "Standard precautions"
+    ],
+    "answer": 2,
+    "explanation": "Airborne precautions are used for diseases spread by tiny particles that remain in the air (e.g., TB, measles, varicella). They require an N95 and a negative pressure room.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 16,
+    "question": "What is the correct order for DONNING (putting on) PPE?",
+    "options": [
+      "Gloves → Gown → Mask → Goggles",
+      "Mask → Gloves → Gown → Goggles",
+      "Gown → Mask → Goggles → Gloves",
+      "Goggles → Gloves → Gown → Mask"
+    ],
+    "answer": 2,
+    "explanation": "Correct donning order: Gown → Mask/Respirator → Goggles/Face shield → Gloves. Gloves are always last because they touch the most contaminated surfaces.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 17,
+    "question": "How many milliliters (mL) are in 8 ounces?",
+    "options": ["120 mL", "180 mL", "240 mL", "300 mL"],
+    "answer": 2,
+    "explanation": "8 ounces = approximately 240 mL. This conversion is important for accurately recording fluid intake on I&O sheets.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 18,
+    "question": "A decubitus ulcer is caused by:",
+    "options": [
+      "Poor nutrition",
+      "Prolonged pressure on the skin",
+      "A bacterial infection",
+      "Frequent bathing"
+    ],
+    "answer": 1,
+    "explanation": "Decubitus ulcers (pressure ulcers/bedsores) are caused by prolonged pressure on the skin, especially over bony prominences, which cuts off blood flow.",
+    "category": "Skin Care"
+  },
+  {
+    "id": 19,
+    "question": "What is the best position for a patient during and after meal times to prevent aspiration?",
+    "options": [
+      "Supine (flat on back)",
+      "Lateral (side-lying)",
+      "High Fowler's (sitting up at 90°)",
+      "Trendelenburg (head lower than feet)"
+    ],
+    "answer": 2,
+    "explanation": "High Fowler's position (90°) or at minimum 30–45 degrees during and for 30–60 minutes after meals reduces the risk of aspiration.",
+    "category": "Nutrition"
+  },
+  {
+    "id": 20,
+    "question": "What should a CNA do when a patient refuses care?",
+    "options": [
+      "Perform the care anyway for the patient's safety",
+      "Document the refusal and inform the nurse",
+      "Ask the family to convince the patient",
+      "Ignore it and try again later without reporting"
+    ],
+    "answer": 1,
+    "explanation": "Patients have the right to refuse care. The CNA should respect the refusal, document it accurately, and report it to the nurse immediately.",
+    "category": "Patient Rights"
+  }
+]

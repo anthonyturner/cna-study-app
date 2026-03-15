@@ -1,0 +1,500 @@
+[
+  {
+    "id": 1,
+    "term": "Activities of Daily Living (ADLs)",
+    "definition": "Personal needs that support lifestyle, including eating, mobility, dressing, toileting, and personal hygiene. Self-dependence is fostered by ensuring the environment provides supplies and assistance to support self-performance.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 2,
+    "term": "Abduction",
+    "definition": "Movement of a limb away from the midline of the body.",
+    "category": "Anatomy & Movement"
+  },
+  {
+    "id": 3,
+    "term": "Adduction",
+    "definition": "Movement of a limb toward the midline of the body.",
+    "category": "Anatomy & Movement"
+  },
+  {
+    "id": 4,
+    "term": "Ambulation",
+    "definition": "The act of walking or moving from place to place. CNAs provide verbal prompts to guide ambulation toward desired locations and use gait/transfer belts to assist safely.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 5,
+    "term": "Apical Pulse",
+    "definition": "The heartbeat heard at the apex of the heart using a stethoscope, located at the 5th intercostal space at the midclavicular line.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 6,
+    "term": "Asepsis",
+    "definition": "The absence of disease-causing microorganisms. Medical asepsis (clean technique) reduces the number of pathogens and prevents their spread from one person or place to another. Surgical asepsis eliminates all microorganisms. 'Clean' means free of pathogenic organisms; 'dirty' means contaminated or soiled.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 7,
+    "term": "Aspiration",
+    "definition": "The inhalation of food, fluid, or foreign material into the airway, which can cause choking or pneumonia. Prevented by keeping the head of bed elevated at least 30-45 degrees during and after meals.",
+    "category": "Safety"
+  },
+  {
+    "id": 8,
+    "term": "Blood Pressure",
+    "definition": "The force exerted by blood against the walls of the arteries. Recorded as systolic (contraction) over diastolic (relaxation) pressure. Normal adult range: less than 120/80 mmHg. Hypertension: 130/80 or higher. Hypotension: below 90/60. Use correct cuff size; place cuff 1 inch above the antecubital space.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 9,
+    "term": "Body Mechanics",
+    "definition": "The use of correct posture, balance, and movement to prevent injury when lifting, moving, or repositioning patients. Keep back straight, bend at knees, keep load close, avoid twisting, feet shoulder-width apart for wide base of support. Push/pull rather than lift when possible.",
+    "category": "Safety"
+  },
+  {
+    "id": 10,
+    "term": "Catheter",
+    "definition": "A flexible tube inserted into the body to drain fluids; a urinary (Foley) catheter drains urine from the bladder. Catheterized patients are at increased risk for urinary tract infections.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 11,
+    "term": "Contracture",
+    "definition": "Permanent shortening and tightening of muscles or tendons causing deformity and limited range of motion, often resulting from prolonged immobility.",
+    "category": "Anatomy & Movement"
+  },
+  {
+    "id": 12,
+    "term": "Decubitus Ulcer",
+    "definition": "Also known as a pressure ulcer or bedsore; a wound caused by prolonged pressure on skin over bony prominences. Prevented by repositioning at least every 2 hours, keeping skin clean and dry, and not massaging reddened areas.",
+    "category": "Skin Care"
+  },
+  {
+    "id": 13,
+    "term": "Dyspnea",
+    "definition": "Difficulty breathing or shortness of breath. Report immediately; position patient in Fowler's position to ease breathing.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 14,
+    "term": "Edema",
+    "definition": "Swelling caused by excess fluid accumulation in body tissues. Weight change with swollen legs or feet is a warning sign to report (STOP and WATCH).",
+    "category": "Anatomy & Movement"
+  },
+  {
+    "id": 15,
+    "term": "Empathy",
+    "definition": "The ability to understand and share the feelings of another person; different from sympathy in that it involves perspective-taking. A key characteristic of an effective CNA.",
+    "category": "Communication"
+  },
+  {
+    "id": 16,
+    "term": "Extension",
+    "definition": "Straightening of a joint, increasing the angle between bones.",
+    "category": "Anatomy & Movement"
+  },
+  {
+    "id": 17,
+    "term": "Flexion",
+    "definition": "Bending of a joint, decreasing the angle between bones.",
+    "category": "Anatomy & Movement"
+  },
+  {
+    "id": 18,
+    "term": "Fowler's Position",
+    "definition": "A semi-sitting position where the head of the bed is raised 45-60 degrees. Semi-Fowler's is 30-45 degrees. High Fowler's is 90 degrees. Used to aid breathing and feeding. The best position during and after meals to prevent aspiration.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 19,
+    "term": "Gait Belt",
+    "definition": "Also called a transfer belt; a belt worn by the resident so the nursing assistant can hold and support them during ambulation or transfers. Provides a secure grip around the patient's waist for safe movement.",
+    "category": "Safety"
+  },
+  {
+    "id": 20,
+    "term": "Hand Hygiene",
+    "definition": "The single most important method of preventing the spread of infection. Wash with soap and water for at least 20 seconds. Use alcohol-based sanitizer (at least 60% alcohol) when hands are not visibly soiled. Wash before/after patient contact, after removing gloves, before eating, after restroom use, before and after breaks, and before entering a clean supply room.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 21,
+    "term": "Heimlich Maneuver",
+    "definition": "An emergency technique used to dislodge an object from the airway of a choking person using abdominal thrusts. Indicated when a resident has a blocked airway.",
+    "category": "Safety"
+  },
+  {
+    "id": 22,
+    "term": "Hypertension",
+    "definition": "High blood pressure; defined as 130/80 mmHg or higher.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 23,
+    "term": "Hypotension",
+    "definition": "Low blood pressure; systolic reading below 90/60 mmHg. Orthostatic hypotension occurs when blood pressure drops upon standing.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 24,
+    "term": "Incontinence",
+    "definition": "The inability to control bladder (urinary) or bowel (fecal) function. Requires perineal care after each episode and use of moisture barriers to protect skin.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 25,
+    "term": "Intake and Output (I&O)",
+    "definition": "Measurement and recording of all fluids taken in (oral, IV) and all fluids expelled (urine, drainage) to monitor fluid balance. 8 oz = approximately 240 mL.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 26,
+    "term": "Isolation Precautions",
+    "definition": "Practices used to prevent the spread of infection. Transmission-Based Precautions include: Airborne (N95 respirator, negative pressure room — TB, measles, chickenpox), Droplet (surgical mask — influenza, meningitis, mumps), and Contact (gown and gloves — MRSA, C. diff, gastrointestinal/skin/wound infections).",
+    "category": "Infection Control"
+  },
+  {
+    "id": 27,
+    "term": "Lateral Position",
+    "definition": "Side-lying position; used to relieve pressure on the back and sacrum.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 28,
+    "term": "Logrolling",
+    "definition": "A technique used to turn a patient as a unit, maintaining spinal alignment; used for patients with spinal injuries.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 29,
+    "term": "Negligence",
+    "definition": "Failure to provide the standard of care that a reasonably prudent person would provide, resulting in harm to a patient.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 30,
+    "term": "Nonverbal Communication",
+    "definition": "Communication without words. How you feel about a person, assignment or task may be communicated nonverbally through: facial expressions, body language, posture, touch, and tone of voice.",
+    "category": "Communication"
+  },
+  {
+    "id": 31,
+    "term": "NPO",
+    "definition": "Latin for 'nothing by mouth' (nil per os); a patient restriction from eating or drinking, often before surgery or procedures.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 32,
+    "term": "Ostomy",
+    "definition": "A surgically created opening (stoma) in the body to divert waste. A colostomy diverts stool; a urostomy diverts urine.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 33,
+    "term": "Pathogen",
+    "definition": "A microorganism (germ) that causes disease, including bacteria (TB, pneumonia, strep throat), viruses (influenza, common cold, herpes, HIV/AIDS), and fungi (athlete's foot, ringworm, yeast infections). A pathogen that spreads easily from person to person is contagious.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 34,
+    "term": "Personal Protective Equipment (PPE)",
+    "definition": "Equipment worn to minimize exposure to hazards, including gloves, goggles, face shields, masks, laboratory coats, gowns, shoe covers, and surgical caps. Donning order: Gown → Mask → Goggles/Face shield → Gloves. Removing order: Gloves → Gown → Mask.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 35,
+    "term": "Prone Position",
+    "definition": "Lying face down on the abdomen.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 36,
+    "term": "Pulse Oximetry",
+    "definition": "A non-invasive measurement of oxygen saturation in the blood (SpO2). Normal range: 95-100%. Below 90% is a medical emergency — report immediately. Poor circulation and nail polish can affect readings.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 37,
+    "term": "Range of Motion (ROM)",
+    "definition": "The full movement potential of a joint. Active ROM is performed by the patient; Passive ROM (PROM) is performed by the CNA. PROM stands for Passive Range of Motion.",
+    "category": "Anatomy & Movement"
+  },
+  {
+    "id": 38,
+    "term": "Respiration",
+    "definition": "The process of breathing; one respiration = one inhalation + one exhalation. Normal adult rate: 12-20 breaths/minute. Apnea = absence of breathing. Count respirations after taking pulse so patient is unaware.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 39,
+    "term": "Restraints",
+    "definition": "Devices used to limit patient movement; require a physician order, patient/family consent, and regular monitoring. The least restrictive method must always be tried first. Check every 30 minutes; release and reposition at least every 2 hours. Never tie to side rails.",
+    "category": "Safety"
+  },
+  {
+    "id": 40,
+    "term": "Scope of Practice",
+    "definition": "The procedures, actions, and processes a healthcare worker is permitted to perform based on their training, experience, and licensure. CNAs work under supervision of licensed nurses (RN/LPN) and must never perform tasks outside their scope of practice.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 41,
+    "term": "Supine Position",
+    "definition": "Lying flat on the back (face up).",
+    "category": "Patient Care"
+  },
+  {
+    "id": 42,
+    "term": "Temperature",
+    "definition": "A vital sign measuring body heat. Normal oral temperature: 98.6°F (37°C). Routes: Oral (most common), Rectal (most accurate, 1° higher), Axillary (armpit, 1° lower), Tympanic (ear), Temporal (forehead). Wait 10-20 minutes after the resident has had a cold or hot drink before taking oral temperature. Report above 100.4°F (fever).",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 43,
+    "term": "Transfer Belt",
+    "definition": "See Gait Belt; worn by the resident so the nursing assistant can hold and support them. Used when assisting patients with walking or transferring.",
+    "category": "Safety"
+  },
+  {
+    "id": 44,
+    "term": "Trendelenburg Position",
+    "definition": "Position where the body is laid flat on the back with the feet elevated higher than the head; used in some emergency situations.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 45,
+    "term": "Urinary Tract Infection (UTI)",
+    "definition": "An infection in any part of the urinary system. One of the most common healthcare-associated infections. Common in catheterized patients; symptoms include burning, frequency, and cloudy or dark urine. Prevented by proper perineal care (front to back for females) and good hand hygiene.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 46,
+    "term": "BASICS Model",
+    "definition": "A biopsychosocial model that assists staff in planning care for residents. Supports remaining abilities and caring relationships. Each letter represents a level in the hierarchy of needs: Biological, Activities of Daily Living, Societal, Inter-personal, Creative, Symbolic.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 47,
+    "term": "Biological Needs",
+    "definition": "Basic needs for: food, water, oxygen, safety, rest, and human stimulation. When met, fosters self-preservation — the resident is physically cared for and safe.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 48,
+    "term": "Societal Needs",
+    "definition": "The need for unique personal identity, privacy, and the resident's place in society. When met, fosters self-identity through privacy, affiliation with groups, culture, family customs, education, and resident selection of associations.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 49,
+    "term": "Inter-personal Needs",
+    "definition": "The need for connection with others: love and belonging. When met, fosters self-esteem through social role expression, supports interpersonal and social abilities, promotes social confidence, and creates an atmosphere of caring.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 50,
+    "term": "Creative Needs",
+    "definition": "The need for personal expression, problem solving opportunities, and meaningful activity that brings joy to the resident's life. When met, fosters self-expression through independent activity, humor, creativity, and use of talents and skills.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 51,
+    "term": "Symbolic Needs",
+    "definition": "The need for expression of beliefs, hopes, dreams, values, and autonomy (ability to control important aspects of life). Includes sense of peace according to the resident's belief in the meaning of life. When met, fosters self-actualization through hopefulness and spiritual support.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 52,
+    "term": "Individuality",
+    "definition": "The particular character, or aggregate of qualities, that distinguishes one person or thing from others; sole and personal nature. Proper care requires establishing a relationship based upon mutual respect and understanding of each resident as an individual human being with personal needs and expectations.",
+    "category": "Communication"
+  },
+  {
+    "id": 53,
+    "term": "Cultural Desire",
+    "definition": "A genuine passion to be open and flexible with others; to accept differences and build on similarities; to be willing to learn from others as cultural informants. The CNA's commitment to care for all residents regardless of their cultural values, beliefs, customs, or practices.",
+    "category": "Communication"
+  },
+  {
+    "id": 54,
+    "term": "Active Listening",
+    "definition": "An active process of listening not only to words but also to how they are expressed. Requires effort, skills, and practice. Components include: Encouraging, Clarifying, Restating, Reflecting, Summarizing, and Validating. Use your ears and eyes; people provide information about their feelings and emotions as well as conveying a message.",
+    "category": "Communication"
+  },
+  {
+    "id": 55,
+    "term": "Verbal Communication",
+    "definition": "The oral or written exchange of information. Has 4 parts: the speaker or sender, the message being sent, the listener or receiver of the message, and feedback. Choose words that are positive, non-threatening, and understood by the resident.",
+    "category": "Communication"
+  },
+  {
+    "id": 56,
+    "term": "Aphasia",
+    "definition": "A condition in which the resident is able to hear and, in most cases, understand you, but is unable to speak. The resident may try to answer but the words may not come, or they may use a word that does not fit. Allow nonverbal communication such as gestures, writing, pointing, or picture boards.",
+    "category": "Communication"
+  },
+  {
+    "id": 57,
+    "term": "Therapeutic Relationship",
+    "definition": "A relationship between an individual who suffers from a disability or discomfort (resident) and a practitioner (caregiver) who possesses a specific technical skill or knowledge and who occupies a recognized role. Goals: to promote communication of distressing thoughts/feelings, assist with problem solving for daily living, and promote self-care and independence.",
+    "category": "Communication"
+  },
+  {
+    "id": 58,
+    "term": "Certified Nursing Assistant (CNA)",
+    "definition": "A healthcare worker who serves as the eyes, ears, and hands of the licensed nurses. Responsible for basic day-to-day care of residents including: bathing, dressing, hair care, mouth care, nail care, shaving, toileting, vital signs and weight, food service, feeding, bed making, moving the resident, environmental cleanliness, and reporting observations.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 59,
+    "term": "Medical Record (Chart)",
+    "definition": "A written account of a person's illness and response to treatment and care. It provides a way for the health team to communicate information about the person. The record is a permanent, legal document. Documentation types include: MDS, ADL Documentation, Care Plan, Meal Consumption Record, Toileting Schedule, Bowel Record, Turning and Repositioning Record.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 60,
+    "term": "Minimum Data Set (MDS)",
+    "definition": "A complex form completed upon admission and at various times during a resident's stay at the nursing home. Includes information about the care the resident requires and receives. The MDS is the universal assessment tool used in long-term care settings.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 61,
+    "term": "Care Plan",
+    "definition": "A written guide about the care a resident should receive. A communication tool used by staff to ensure the health team is giving the same care. Components include: Nursing Diagnosis, Goal, Measures or actions to achieve the goal, and Evaluation.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 62,
+    "term": "INTERACT",
+    "definition": "Interventions to Reduce Acute Care Transfers. A quality improvement program focusing on the management of acute change in resident condition. Includes clinical and educational tools and strategies for everyday practice in long-term care facilities. The Stop and Watch Early Warning Tool is used by CNAs to identify and communicate changes in residents.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 63,
+    "term": "Stop and Watch (INTERACT Tool)",
+    "definition": "An early warning tool used to identify changes in a resident's condition. STOP and WATCH acronym: Seems different than usual; Talks or communicates less; Overall needs more help; Pain - new or worsening/Participated less in activities; Ate less; No bowel movement in 3 days or diarrhea; Drank less; Weight change/swollen legs or feet; Agitated or nervous more than usual; Tired/weak/confused/drowsy; Change in skin color or condition; Help with walking/transferring/toileting more than usual.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 64,
+    "term": "Confidentiality",
+    "definition": "Preserving the privacy of the residents in your care. All information related to residents is kept in strict confidence for use only by the care team. Breach of confidentiality is sharing information verbally or in written form with someone not on the care team or who does not have a release of information form. Confidential information includes: age, sex, race, religion, marital status, occupation, health information, SSN, insurance, lab results, MRI/CT scans, and any personal care.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 65,
+    "term": "HIPAA",
+    "definition": "Health Insurance Portability and Accountability Act. Ensures the privacy of personal medical information shared with doctors, hospitals, and others who provide and pay for healthcare. Personal health information must remain confidential and cannot be shared without the individual's authorization. Applies to medical records on paper, in computers, and information communicated orally.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 66,
+    "term": "Microorganism",
+    "definition": "A tiny living organism that can be seen only through a microscope. Microorganisms are everywhere: in the air, on the objects we touch, and in our bodies. Pathogens are microorganisms that cause disease. Most pathogens grow best where there is warmth, moisture, darkness, a food source, and oxygen.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 67,
+    "term": "Chain of Infection",
+    "definition": "For an infection to occur, all 6 links must be present: (1) Infectious Agent — the pathogenic microorganism; (2) Reservoir — any place pathogens can live and multiply; (3) Portal of Exit — the opening a pathogen uses to leave the body; (4) Mode of Transmission — how infection is carried (contact, droplet, airborne, common vehicle, vector); (5) Portal of Entry — the point a pathogen enters the body; (6) Susceptible Host — a person whose defenses against infection are weakened. Breaking any link stops the infection.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 68,
+    "term": "Multi-Drug Resistant Organisms (MDROs)",
+    "definition": "Infections caused by bacteria resistant to many antibiotics. Examples include MRSA (Methicillin-Resistant Staphylococcus Aureus) and VRE (Vancomycin Resistant Enterococcus). These infections do not respond to traditional antibiotic therapy. Require Contact Precautions (gown and gloves).",
+    "category": "Infection Control"
+  },
+  {
+    "id": 69,
+    "term": "Bloodborne Pathogens",
+    "definition": "Disease-causing microorganisms present in blood or body fluids. Examples: Hepatitis B (HBV), Hepatitis C (HCV), and Human Immunodeficiency Virus (HIV). Transmitted through sexual contact, sharing needles, needle stick injuries, and contact with infected blood on non-intact skin or mucous membranes. NOT spread by kissing, hugging, sneezing, coughing, food/water, or casual contact.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 70,
+    "term": "Hepatitis B Virus (HBV)",
+    "definition": "A serious disease caused by a virus that attacks the liver. Can cause lifelong infection, cirrhosis (scarring), liver cancer, liver failure, and death. About 30% of persons have no symptoms. When symptoms occur: jaundice, fatigue, abdominal pain, loss of appetite, nausea, vomiting, joint pain. Preventable by vaccination (3 injections: 2nd given 1 month after first, 3rd given 6 months after second). Vaccine available free to employees.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 71,
+    "term": "Hepatitis C Virus (HCV)",
+    "definition": "A serious disease caused by a virus that attacks the liver. Can lead to liver cancer, liver failure, or cirrhosis — irreversible and potentially fatal scarring of the liver. 80% of people have no symptoms; symptoms may not appear for 10-20 years. Symptoms: nausea/vomiting, diarrhea, loss of appetite, fatigue, pain over the liver, jaundice, dark-colored urine, pale stools.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 72,
+    "term": "HIV/AIDS",
+    "definition": "Human Immunodeficiency Virus causes AIDS by infecting and damaging lymphocytes — white blood cells that fight infection. People may show no symptoms at time of infection; may take up to 10 years for symptoms to show. Symptoms: rapid weight loss, intense fatigue, swollen lymph nodes, persistent diarrhea, night sweats, pneumonia. Transmitted sexually, through needles, infected blood/organs, mother to infant.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 73,
+    "term": "Disinfection",
+    "definition": "The process of killing disease-causing microorganisms. Bleach is one commonly used disinfectant. Disinfection kills many, but not all, microorganisms. Cleaning (with soap/water or alcohol) is done first to remove large particles, followed by disinfection or sterilization.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 74,
+    "term": "Sterilization",
+    "definition": "The process of killing ALL microorganisms (both pathogens and non-pathogens) using very high temperatures with heat or steam under pressure. The machine used is called an autoclave.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 75,
+    "term": "Sharps Container",
+    "definition": "A rigid container for needles, broken glass, safety razors, or other sharps used until filled to the line (about 3/4 full). The box is then locked, secured, and disposed of with biohazard/medical waste. Puncture resistant, labeled with the Biohazard symbol, color-coded in red, and leak-proof on sides and bottom.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 76,
+    "term": "Biohazard Waste",
+    "definition": "Items contaminated with a resident's blood, body fluids, secretions, or excretions. Must be bagged in leak-proof plastic bags to remove from a resident's room. Regulated waste includes: liquid or semi-liquid blood, items contaminated with blood, items caked with blood, and contaminated sharps.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 77,
+    "term": "Prosthesis",
+    "definition": "A device used to replace a missing part of the body.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 78,
+    "term": "OSHA",
+    "definition": "The Occupational Safety and Health Administration is a federal government agency that makes rules to protect employees from hazards on the job. Mandates that employers have a written Exposure Plan to identify employees at risk and actions to take when an exposure incident occurs.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 79,
+    "term": "Healthcare Associated Infection (HAI)",
+    "definition": "An infection acquired while in a healthcare setting. Most common types are urinary tract infections, surgical-site infections, pneumonia, or bloodstream infections. The single most important prevention measure is proper hand washing.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 80,
+    "term": "COVID-19",
+    "definition": "The respiratory disease caused by the virus SARS-CoV-2. Spreads primarily through person-to-person contact via respiratory particles (droplets and aerosols). Also capable of contact, droplet, and airborne transmission in healthcare settings. Symptoms include: fever or chills, new loss of taste/smell, cough, sore throat, shortness of breath, congestion, fatigue, nausea/vomiting, muscle aches, diarrhea, headache.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 81,
+    "term": "Susceptible Host",
+    "definition": "A person whose natural defenses against infection are weakened. A person's ability to resist infection relates to: age, nutritional status, stress, fatigue, medications, and presence of disease or injury. The elderly and those with diabetes, COPD, or renal disease are at higher risk.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 82,
+    "term": "Observation",
+    "definition": "Using the senses of sight, hearing, touch, and smell to collect information about a resident. Basic observations to report include: ability to respond, movement, pain or discomfort, skin condition, eyes/ears/nose/mouth, respirations, bowels and bladder, appetite, and ADLs.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 83,
+    "term": "Healthcare Team Roles",
+    "definition": "Activities/Recreation Director: assesses and implements recreational needs. Administrator: planning/organizing/directing/supervising the facility. Dietician: assesses nutritional needs. LPN: provides direct care including medications under RN direction. Occupational Therapist: assists with ADL skills and adaptive equipment. Pharmacist: fills medication orders and monitors drug interactions. Physical Therapist: assists with musculoskeletal problems. Physician: diagnoses and treats diseases. RN: assesses, makes nursing diagnoses, plans and evaluates care. Social Worker: helps with social/emotional/environmental issues. Speech Therapist: treats speech, voice, communication, and swallowing disorders.",
+    "category": "Legal & Ethics"
+  }
+]
