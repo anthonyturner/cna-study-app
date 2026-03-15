@@ -41,3 +41,15 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Claude Code
+.claude/
+
+# Study material images (large binaries — keep locally, not in source control)
+src/assets/images/
