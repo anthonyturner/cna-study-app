@@ -1,0 +1,28 @@
+// ─────────────────────────────────────────────
+// Breakpoints  (matches Angular CDK defaults)
+// ─────────────────────────────────────────────
+//
+//  mobile   ≤ 599px    phones
+//  tablet   ≤ 959px    tablets / small laptops
+//  desktop  ≤ 1279px   standard desktops
+//  wide     ≥ 1280px   large / widescreen
+//
+// Usage in any component or global SCSS:
+//
+//   @use 'breakpoints' as bp;
+//
+//   .foo {
+//     font-size: 1rem;
+//     @include bp.mobile  { font-size: 0.85rem; }
+//     @include bp.tablet  { font-size: 0.9rem;  }
+//   }
+// ─────────────────────────────────────────────
+
+$mobile:  599px;
+$tablet:  959px;
+$desktop: 1279px;
+
+@mixin mobile  { @media (max-width: #{$mobile})  { @content; } }
+@mixin tablet  { @media (max-width: #{$tablet})  { @content; } }
+@mixin desktop { @media (max-width: #{$desktop}) { @content; } }
+@mixin wide    { @media (min-width: #{$desktop + 1}) { @content; } }

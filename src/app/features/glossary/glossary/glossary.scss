@@ -1,3 +1,5 @@
+@use 'breakpoints' as bp;
+
 // ── Page wrapper ───────────────────────────────────────────────
 .glossary-page {
   margin: -32px -20px 0;    // bleed past main-content padding
@@ -232,7 +234,7 @@ h1 {
 }
 
 // ── Responsive ──────────────────────────────────────────────────
-@media (max-width: 600px) {
+@include bp.mobile {
   .glossary-header { padding: 28px 16px 24px; }
   .term-count-badge { display: none; }
   .controls-section { padding: 20px 16px 0; }

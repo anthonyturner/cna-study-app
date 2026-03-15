@@ -1,24 +1,50 @@
-<mat-toolbar color="primary" class="nav-toolbar">
-  <span class="nav-title">
-    <mat-icon>local_hospital</mat-icon>
+<header class="nav-toolbar">
+  <a class="nav-title" routerLink="/">
+    <span class="material-icons">local_hospital</span>
     CNA Study App
-  </span>
+  </a>
   <span class="spacer"></span>
-  <nav class="nav-links">
-    <a mat-button routerLink="/" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact: true}">
-      <mat-icon>home</mat-icon> Home
+
+  <!-- Desktop links -->
+  <nav class="nav-links desktop-nav">
+    <a routerLink="/" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact: true}">
+      <span class="material-icons">home</span> Home
     </a>
-    <a mat-button routerLink="/topics" routerLinkActive="active-link">
-      <mat-icon>menu_book</mat-icon> Topics
+    <a routerLink="/topics" routerLinkActive="active-link">
+      <span class="material-icons">menu_book</span> Topics
     </a>
-    <a mat-button routerLink="/glossary" routerLinkActive="active-link">
-      <mat-icon>search</mat-icon> Glossary
+    <a routerLink="/glossary" routerLinkActive="active-link">
+      <span class="material-icons">search</span> Glossary
     </a>
-    <a mat-button routerLink="/flashcards" routerLinkActive="active-link">
-      <mat-icon>style</mat-icon> Flashcards
+    <a routerLink="/flashcards" routerLinkActive="active-link">
+      <span class="material-icons">style</span> Flashcards
     </a>
-    <a mat-button routerLink="/quiz" routerLinkActive="active-link">
-      <mat-icon>quiz</mat-icon> Quiz
+    <a routerLink="/quiz" routerLinkActive="active-link">
+      <span class="material-icons">quiz</span> Quiz
     </a>
   </nav>
-</mat-toolbar>
+
+  <!-- Hamburger button (mobile only) -->
+  <button class="hamburger-btn" (click)="toggleMenu()" aria-label="Open navigation menu">
+    <span class="material-icons">{{ menuOpen ? 'close' : 'menu' }}</span>
+  </button>
+
+  <!-- Mobile dropdown -->
+  <div class="mobile-menu" [class.open]="menuOpen">
+    <a routerLink="/" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact: true}" (click)="closeMenu()">
+      <span class="material-icons">home</span> Home
+    </a>
+    <a routerLink="/topics" routerLinkActive="active-link" (click)="closeMenu()">
+      <span class="material-icons">menu_book</span> Topics
+    </a>
+    <a routerLink="/glossary" routerLinkActive="active-link" (click)="closeMenu()">
+      <span class="material-icons">search</span> Glossary
+    </a>
+    <a routerLink="/flashcards" routerLinkActive="active-link" (click)="closeMenu()">
+      <span class="material-icons">style</span> Flashcards
+    </a>
+    <a routerLink="/quiz" routerLinkActive="active-link" (click)="closeMenu()">
+      <span class="material-icons">quiz</span> Quiz
+    </a>
+  </div>
+</header>

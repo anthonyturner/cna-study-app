@@ -1,11 +1,9 @@
+@use 'breakpoints' as bp;
+
 .main-content {
   max-width: 1140px;
   margin: 0 auto;
   padding: 32px 20px;
-}
 
-@media (max-width: 600px) {
-  .main-content {
-    padding: 20px 12px;
-  }
+  @include bp.mobile { padding: 20px 12px; }
 }

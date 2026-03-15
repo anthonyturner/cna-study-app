@@ -1,10 +1,15 @@
+@use 'breakpoints' as bp;
+
 .nav-toolbar {
   position: sticky;
   top: 0;
   z-index: 100;
-  background: linear-gradient(135deg, #0B1F3A 0%, #1565C0 100%) !important;
-  box-shadow: 0 2px 20px rgba(11, 31, 58, 0.35) !important;
-  height: 64px !important;
+  display: flex;
+  align-items: center;
+  height: 64px;
+  padding: 0 16px;
+  background: linear-gradient(135deg, #0B1F3A 0%, #1565C0 100%);
+  box-shadow: 0 2px 20px rgba(11, 31, 58, 0.35);
 }
 
 .nav-title {
@@ -13,17 +18,15 @@
   gap: 10px;
   font-size: 1.1rem;
   font-weight: 700;
-  cursor: pointer;
-  letter-spacing: 0.01em;
   color: white;
   text-decoration: none;
+  letter-spacing: 0.01em;
+  white-space: nowrap;
 
-  mat-icon {
+  .material-icons {
     color: #00E5FF;
     filter: drop-shadow(0 0 8px rgba(0, 229, 255, 0.5));
     font-size: 26px;
-    height: 26px;
-    width: 26px;
   }
 }
 
@@ -37,34 +40,92 @@
     display: flex;
     align-items: center;
     gap: 5px;
-    color: rgba(255, 255, 255, 0.78) !important;
+    color: rgba(255, 255, 255, 0.78);
     font-size: 0.85rem;
     font-weight: 500;
     letter-spacing: 0.02em;
-    padding: 6px 12px !important;
-    border-radius: 8px !important;
-    transition: background 0.2s, color 0.2s;
+    padding: 6px 12px;
+    border-radius: 8px;
     text-decoration: none;
+    transition: background 0.2s, color 0.2s;
 
-    mat-icon {
-      font-size: 17px;
-      height: 17px;
-      width: 17px;
-    }
+    .material-icons { font-size: 17px; }
 
     &:hover {
-      background: rgba(255, 255, 255, 0.13) !important;
-      color: white !important;
+      background: rgba(255, 255, 255, 0.13);
+      color: white;
     }
 
     &.active-link {
-      background: rgba(255, 255, 255, 0.2) !important;
-      color: white !important;
+      background: rgba(255, 255, 255, 0.2);
+      color: white;
       font-weight: 600;
     }
   }
 }
 
-@media (max-width: 700px) {
-  .nav-links a span { display: none; }
+/* Hamburger — hidden on desktop */
+.hamburger-btn {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 8px;
+  color: white;
+  transition: background 0.2s;
+
+  &:hover { background: rgba(255, 255, 255, 0.13); }
+
+  .material-icons { font-size: 24px; }
+}
+
+/* Mobile dropdown */
+.mobile-menu {
+  display: none;
+  position: absolute;
+  top: 64px;
+  right: 12px;
+  background: #0B1F3A;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  min-width: 220px;
+  padding: 6px;
+  flex-direction: column;
+
+  &.open { display: flex; }
+
+  a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: rgba(255, 255, 255, 0.78);
+    font-size: 0.95rem;
+    font-weight: 500;
+    padding: 10px 14px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background 0.2s, color 0.2s;
+
+    .material-icons { font-size: 20px; color: #00E5FF; }
+
+    &:hover {
+      background: rgba(255, 255, 255, 0.13);
+      color: white;
+    }
+
+    &.active-link {
+      background: rgba(255, 255, 255, 0.2);
+      color: white;
+      font-weight: 600;
+    }
+  }
+}
+
+@include bp.tablet {
+  .desktop-nav   { display: none; }
+  .hamburger-btn { display: flex; }
 }
