@@ -38,7 +38,8 @@
         "heading": "Behaviors Due to Unmet Needs",
         "content": "When needs are not met, residents may exhibit: Anxiety, Fear, Anger, Aggressiveness, Depression, Withdrawal. The CNA must identify which need is unmet and take action to meet it."
       }
-    ]
+    ],
+    "day": 1
   },
   {
     "id": "individuality-diversity",
@@ -67,7 +68,8 @@
         "heading": "Cultural Dimensions that Impact Care",
         "content": "Naming: Naming ties individuals to a particular group, place, and tradition. Ask how the resident wishes to be addressed (in Asian cultures it is customary to write the last name first). Closeness: In Hispanic and Middle Eastern cultures, it is customary to move closer to the person speaking. Touch: In China, a slight bow or nod is given at introductions; in Mexico, touch is frequently used when complimenting. Facial Expressions: In some cultures, expressions convey the opposite of what an individual is feeling. Eye Contact: In America/Russia/Poland, direct eye contact is considered honest and attentive; in Native American and Asian cultures it may be considered rude. Use of Silence: To Asians, silence is a sign of respect; in Arabic and English cultures, silence is used for privacy."
       }
-    ]
+    ],
+    "day": 1
   },
   {
     "id": "communication",
@@ -140,7 +142,8 @@
         "heading": "Working with the Healthcare Team",
         "content": "CNAs work under the supervision of licensed nurses (RN/LPN). Respect chain of command. Never perform tasks outside your scope of practice. Ask for help when unsure. Communicate changes and concerns promptly. Benefits of teamwork: reduced medical errors, improved quality of care, addresses workload issues, builds cohesion, reduces burnout, and generates more creative solutions."
       }
-    ]
+    ],
+    "day": 1
   },
   {
     "id": "therapeutic-relationship",
@@ -169,7 +172,8 @@
         "heading": "Promoting Independence and Choice",
         "content": "We can improve the quality of life for residents by promoting choice. Residents should choose the direction their care takes, to the extent that they are able. Care that is directed by the resident is more interactive and affirms the resident's dignity and uniqueness. Actions: ensure appropriate adaptive equipment; encourage participation in bathing, dressing, grooming; allow enough time to participate in ADL tasks; offer choices regarding clothing, meals, beverages; encourage participation in activities of choice; encourage the resident to arrange personal items in their room."
       }
-    ]
+    ],
+    "day": 1
   },
   {
     "id": "infection-control",
@@ -238,7 +242,8 @@
         "heading": "COVID-19 Infection Control",
         "content": "COVID-19 is capable of contact, droplet, and airborne transmission in healthcare settings. Employers must follow appropriate precautions for all three transmission pathways. Hand Hygiene: wash with soap and water for at least 20 seconds; use hand sanitizer with at least 60% alcohol when soap/water unavailable. Respiratory Etiquette: cover mouth and nose with tissue when coughing/sneezing; throw used tissues in trash; cough into elbow if no tissue; wash hands immediately after. Facemasks: employers must provide and ensure employees wear facemasks indoors and in vehicles for work purposes; changed at least once per day or when soiled/damaged. Physical Distancing: employees should be separated by at least 6 feet when indoors. Health Screening: employees must be screened before each work day and each shift for COVID-19 symptoms including a temperature check."
       }
-    ]
+    ],
+    "day": 2
   },
   {
     "id": "vital-signs",
@@ -275,7 +280,8 @@
         "heading": "Weight",
         "content": "To obtain the most accurate resident weight, the nursing assistant should weigh the resident at the same time every day. Weight change and swollen legs or feet are warning signs to report (part of STOP and WATCH)."
       }
-    ]
+    ],
+    "day": 2
   },
   {
     "id": "patient-rights",
@@ -312,7 +318,8 @@
         "heading": "Advance Directives",
         "content": "Legal documents stating a patient's wishes about medical care if they become unable to make decisions. Includes: Living Will (specific treatment wishes), Durable Power of Attorney for Healthcare (designates a decision-maker), DNR (Do Not Resuscitate). Know your patient's code status before an emergency."
       }
-    ]
+    ],
+    "day": 1
   },
   {
     "id": "safety",
@@ -345,7 +352,8 @@
         "heading": "Emergency Response",
         "content": "When a resident becomes short of breath suddenly: call for help and raise the level of the head of the bed immediately. During a code, the best way for a CNA to assist is to retrieve emergency equipment (code cart, intubation box) and carry out other assigned tasks within scope of practice. When an alarm goes off during resident care: place the resident in a safe position and check what caused the alarm immediately."
       }
-    ]
+    ],
+    "day": 2
   },
   {
     "id": "personal-care",
@@ -378,7 +386,8 @@
         "heading": "Care for Residents with Dementia",
         "content": "Keep the resident's room uncluttered. Avoid disagreements with the resident. Reassure suspicious residents. Do NOT vary the resident's routines — consistency is key. If a resident refuses bed bath: leave the resident and come back again after some time."
       }
-    ]
+    ],
+    "day": 2
   },
   {
     "id": "nutrition",
@@ -403,7 +412,8 @@
         "heading": "Fluid Intake",
         "content": "Normal daily intake: 2,000-3,000 mL. Offer fluids frequently throughout the day. Encourage fluids unless on restriction. Record intake in mL if patient is on I&O monitoring. 8 oz = approximately 240 mL. Signs of dehydration: dry mouth, dark urine, dizziness, confusion. Drinking less is a warning sign to report (part of STOP and WATCH)."
       }
-    ]
+    ],
+    "day": 2
   },
   {
     "id": "promoting-independence",
@@ -444,7 +454,8 @@
         "heading": "Whole Person Approach to Care",
         "content": "The focus is on the well-being of the whole resident, not just the disease process. Care is designed to meet needs in all realms: Physical, Psychological, Social, and Spiritual. Care techniques to fulfill basic human needs: listen with interest to what the resident is saying; assist with bathing and personal hygiene preferences without interfering with independence; assist with dressing in appropriate clothing and the resident's choice; promote resident independence and dignity with dining; close door and use privacy screens when providing care."
       }
-    ]
+    ],
+    "day": 3
   },
   {
     "id": "abuse-neglect",
@@ -505,7 +516,8 @@
         "heading": "Abuse-Free Resident Care",
         "content": "Providing abuse-free care involves every aspect of the care you provide to residents. This includes: keeping the environment safe and furniture in residents' rooms placed to aid their independence; providing adequate food and fluids, given safely and with assistance appropriate for feeding an adult; providing personal care (bathing, dressing, grooming, etc.) gently, thoroughly, and appropriately for an adult; helping the resident to regain function and be as independent as health condition permits; meeting communication, socialization and emotional needs in a kind, gentle manner; treating residents with dignity, respect and kindness, and honoring residents' rights and preferences; meeting and being sensitive to social service and mental health needs of residents, even those with memory and behavior problems or individuals with different cultural backgrounds. Staff Who May React Abusively Toward Residents: are sick and tired; have worked too many hours; are under stress in their personal lives; are drug or alcohol abusers; have poor supervision; have low self-esteem; are repeatedly working 'short-staffed'; do not get along well with co-workers; take things personally; tend to be impatient or rough, or to rush residents who are cognitively impaired; tend not to use a calm, friendly, non-verbal approach; may appear 'threatening' to residents."
       }
-    ]
+    ],
+    "day": 3
   },
   {
     "id": "circulatory-respiratory",
@@ -586,6 +598,293 @@
         "heading": "Measuring Height and Weight",
         "content": "A resident's height is measured on admission to the facility and yearly. Height can be obtained using a standing scale or when lying in bed using a tape measure. Weight is vital in the care of the resident. Weight is measured weekly for 4 weeks when a resident is admitted or re-admitted to the facility and then at least monthly. Be sure to report any significant loss or gain — a general guideline is a weight gain or loss of 2 to 3 pounds. It is important every time to measure a resident's weight at the same time of day, using the same scale, with the resident wearing the same type and amount of clothing. Types of scales: standing scale and chair scale (for residents who cannot stand). For standing scale: start with the scale balanced at zero; make sure resident is wearing nonskid shoes fastened before walking; help resident to stand on the center of the scale, be sure they are not holding, touching, or leaning against anything; determine the resident's weight by balancing the scale bar level. For chair/wheelchair scale: start with the scale balanced at zero; help the resident transfer into the chair scale, or roll the wheelchair onto the scale; determine the resident's weight — subtract the weight of the wheelchair from the total and record the answer as the resident's weight."
       }
+    ],
+    "day": 3,
+    "unit": "Unit II Basic Nursing Skills"
+  },
+  {
+    "id": "resident-environment",
+    "title": "The Resident's Environment",
+    "icon": "bed",
+    "color": "#1565C0",
+    "summary": "Room equipment, elements of comfort, resident rights in their environment, and infection control for linens.",
+    "day": 4,
+    "sections": [
+      {
+        "heading": "Room Overview",
+        "content": "Resident rooms must be comfortable, safe, and allow enough space for activities of daily living. Rooms are designed to provide comfort, safety, and privacy. The facility is now the person's home — you must help the resident feel safe, secure, and comfortable. A home-like setting is important to promote quality of life."
+      },
+      {
+        "heading": "Room Equipment",
+        "content": "The Bed: Has electric and manual controls. Raised horizontally to give care. Head raised to varying degrees. Bed legs have wheels/casters that must be locked when giving care, transferring, or when the resident is lying in bed. The Overbed Table: Positioned by sliding the base under the bed. Height adjustable. Used for meal trays, writing, and other activities. Must be cleaned before and after use. Never place bedpans, urinals, or soiled linen on it. The Bedside Stand: Storage area for personal items and personal care equipment. Usually has a drawer and two shelves. Top drawer for eyeglasses, books, and personal items. First shelf for wash basin, soap, lotion, deodorant. Lower shelf holds the bedpan, urinal cover, and toilet paper."
+      },
+      {
+        "heading": "Other Room Components",
+        "content": "Chairs: The resident's room usually has one or two chairs. Privacy Curtains: Pulled around the bed while care is given. They do NOT block sound or prevent conversations from being heard. The Call System: Allows the resident to signal when help is needed. Must always be attached to the bed or chair and within the resident's reach. The Bathroom: Toilet, sink, call system, and mirror are standard equipment. Hand rails are installed for safety. Closet and Drawer Space: Must have shelves and a clothes rack. The resident must have free access to the closet and its contents."
+      },
+      {
+        "heading": "Elements of Comfort",
+        "content": "Four key elements affect resident comfort: Temperature and Ventilation (room should be comfortably warm, free of drafts), Odors (rooms should be odor-free; report any unusual odors to the supervisor), Noise (reduce unnecessary noise; it causes stress and sleep disruption), and Lighting (adequate lighting for safety and activities; avoid glare)."
+      },
+      {
+        "heading": "Resident Rights & OBRA Requirements",
+        "content": "OBRA requires that resident rooms be as homelike as possible. Residents are allowed to have and use personal items including furniture, family photos, religious items, and books. Some may have plants to care for. Residents are allowed personal choice in arranging personal items as long as choices are safe. According to OBRA, residents have the right to full visual privacy — a resident must have means to be completely free from public view while occupying his or her bed. The privacy curtain provides this. Residents also have the right to locked storage space."
+      },
+      {
+        "heading": "Infection Control for Linens",
+        "content": "Key linen safety rules: Dispose of dirty gloves in the room. Never leave a soiled brief in the room — dispose of them immediately. If a clean piece of linen drops on the floor, it becomes dirty and must be put in the isolation linen hamper labeled with the BIOHAZARD symbol. Keep clean and dirty linen from touching each other. Do not drop dirty linen on the floor. Handle contaminated linen as little as possible and avoid shaking (which transfers germs to the air). Contaminated items are bagged to remove them from a resident's room — use leak-proof plastic bags."
+      }
     ]
+  },
+  {
+    "id": "admission-transfer-discharge",
+    "title": "Admission, Transfer & Discharge",
+    "icon": "transfer_within_a_station",
+    "color": "#2E7D32",
+    "summary": "Supporting residents through the challenging transitions of admission, room transfers, and discharge.",
+    "day": 4,
+    "sections": [
+      {
+        "heading": "Adjusting to Long-Term Care",
+        "content": "Moving always requires adjustment, and as a person ages it can be even harder. This is especially true if illness, disability, and mobility problems are present. CNAs play an important role in helping residents make a successful transition. By giving emotional support such as listening and being kind, compassionate, and helpful, CNAs can make residents feel better about their new homes."
+      },
+      {
+        "heading": "Admission",
+        "content": "Admission is the first time a CNA meets a new resident. This is the time of first impressions — the CNA should help the resident have a good impression of him and the facility. Staff must communicate with new residents. CNAs can explain what to expect during the process and answer any questions within their scope of practice. It is a good idea to ask new residents about their personal preferences and routines. If residents are not able to respond, ask the family."
+      },
+      {
+        "heading": "Admission Guidelines",
+        "content": "Prepare the room before the resident arrives: make sure the bed is made and the room is tidy, restock supplies, and make sure an admission kit is available. When the new resident arrives, note the time and condition — are they using a wheelchair, stretcher, or walking? Who is with them? Observe for level of consciousness and confusion. Look for signs of nervousness. Note any tubes such as IVs or catheters. Introduce yourself, state your position, smile, and be friendly. Always call the person by their formal name until they tell you what they want to be called. Never rush the process — make sure the new resident feels welcome and wanted."
+      },
+      {
+        "heading": "Settling the New Resident In",
+        "content": "Explain day-to-day life in the facility. Offer to take the resident and family on a tour. Show them important areas including where the dining room is and review dining schedules. During the tour, introduce the resident to other residents and staff members. Introduce the roommate if there is one. Handle personal items with care and respect — residents have a legal right to have personal items treated carefully. Place personal items where the resident wants them. Let residents adapt to their new homes at their own pace. Report signs of confusion or depression to the nurse."
+      },
+      {
+        "heading": "Transferring a Resident",
+        "content": "Residents may be transferred to a different area of the facility, or in cases of acute illness, to a hospital. Change is difficult — especially when a person has an illness or condition that worsens. Staff should make the transfer as smooth as possible. A resident should be informed of the transfer as soon as possible. The nurse or social worker will tell the resident about the transfer and explain how, where, when, and why. All questions should be answered. CNAs help residents pack personal items before transferring. Involve residents in the packing process — let them see the empty closet, drawer, etc."
+      },
+      {
+        "heading": "Discharging a Resident",
+        "content": "To discharge a resident from the facility, a doctor must give the discharge order. The nurse then completes instructions for the resident to follow after discharge and will review these instructions with the resident and family. The day of discharge is often a happy day for residents going home. However, some residents may feel uncertainty or fear about leaving the facility and may be concerned that their health will suffer. CNAs help by collecting the resident's belongings and packing them carefully. Find out the resident's condition at the time of discharge and if the resident will be using a wheelchair. Be positive and remind residents that their doctors believe they are ready to leave."
+      }
+    ]
+  },
+  {
+    "id": "isolation-precautions-ppe",
+    "title": "Isolation Precautions & PPE",
+    "icon": "health_and_safety",
+    "color": "#C62828",
+    "summary": "Isolation techniques, types of isolation, donning and doffing personal protective equipment (PPE).",
+    "day": 4,
+    "sections": [
+      {
+        "heading": "Isolation Precautions Overview",
+        "content": "Isolation techniques include the use of protective barriers (an isolation room or unit), personal protective equipment (PPE) for caregivers and others entering the room, and limiting contact with the resident's personal items to keep germs from traveling into or out of the isolated area. Two reasons for ordering isolation: (1) To prevent the spread of disease, and (2) To protect residents with weakened immune systems from germs in the environment — called protective isolation or reverse isolation."
+      },
+      {
+        "heading": "Infections and Isolation Types",
+        "content": "Contact Precautions (gown and gloves): MRSA/VRE, C-difficile, Shingles. Droplet Precautions (surgical mask): Influenza, Mumps, Rubella. Airborne Precautions (N95 respirator, negative pressure room): Tuberculosis. Standard Precautions apply to ALL residents at ALL times. Always use the correct precaution type for the specific infection."
+      },
+      {
+        "heading": "Emotional Impact of Isolation",
+        "content": "Residents in isolation may need special attention because they are separated from everyone else. Feelings can include loneliness, confusion, and feeling 'dirty' because caregivers come into the room wearing protective attire. Be sure to give care with kindness and respect, check on them frequently, and answer call lights promptly. When possible, encourage the resident to talk about their concerns and offer diversions like television, radio, and reading material."
+      },
+      {
+        "heading": "Isolation Guidelines for Linen and Trash",
+        "content": "Keep isolation trash containers covered. Keep isolation linen hamper covered. Wear gloves and other needed PPE when changing soiled linen. Do not set down dirty gloves in the room — dispose of them immediately. Never leave a soiled brief in the room. If a clean piece of linen drops on the floor, it becomes dirty and must be put in the isolation linen hamper labeled with the BIOHAZARD symbol. Keep clean and dirty linen from touching each other. DO NOT DROP DIRTY LINEN ON THE FLOOR. Handle contaminated linen as little as possible and avoid shaking. Post a sign at the door — use 'Please see nurse before entering room' rather than the word 'Isolation' to protect resident privacy."
+      },
+      {
+        "heading": "Putting On and Removing Gloves",
+        "content": "Putting On Gloves: Wash and dry hands. Get a new pair for every resident. Slide one glove on, then use the gloved hand to slide the other glove in. Make sure gloves cover the wrists (or cover gown cuffs). Check for any damage. Removing Gloves: Grasp the outside of one glove below the cuff. Pull glove down so it turns inside out. Hold it with the still-gloved hand. Reach inside the other glove with two fingers. Pull it down over your hand and the first glove. Discard in appropriate container. Wash hands."
+      },
+      {
+        "heading": "Putting On and Removing a Gown",
+        "content": "Putting On a Gown: Wash hands. Get a disposable gown. Let it unfold without touching any surface. Slide hands and arms through the sleeves. Tie the neck ties. Overlap the back to completely cover your uniform. Tie strings in a bow. Removing a Gown: Untie the waist ties. Pull apart neck ties or strips without touching hair. Loosen gown at the shoulders while holding the ties. Touch only the ties and the 'clean' inside surface. Pull the gown down from the shoulders and roll it inside out down your arms. Roll the gown into a ball (contaminated side inward) and dispose into the proper waste container. Wash hands."
+      },
+      {
+        "heading": "Putting On and Removing a Mask",
+        "content": "Putting On a Mask: Wash hands. Pick up the mask by the elastic straps or top strings — do not touch the portion that covers your face. Place the mask over your nose and mouth (and under glasses). Tie the upper strings at the back with a bow, or place ear loops over ears. Be sure the lower edge covers your chin. Form the top edge of the mask to your nose. Removing a Mask: Wash hands. Untie the lower strings first, then untie the upper strings. Bring the upper strings together as you remove the mask. Replace the mask if it becomes soiled or moist. Wash hands after discarding."
+      },
+      {
+        "heading": "PPE Order: Donning and Doffing",
+        "content": "Order for Putting ON PPE: Gown → Mask → Gloves. Order for Removing (DOFFING) PPE: Gloves → Gown → Mask. This order prevents contamination. Always wash hands after removing all PPE."
+      }
+    ]
+  },
+  {
+    "id": "bedmaking",
+    "title": "Bedmaking",
+    "icon": "king_bed",
+    "color": "#4527A0",
+    "summary": "Rules for bedmaking, proper linen handling, making unoccupied and occupied beds.",
+    "day": 4,
+    "sections": [
+      {
+        "heading": "Why Bedmaking Matters",
+        "content": "Beds are made every day. Clean, dry, and wrinkle-free beds promote comfort, prevent skin breakdown, and prevent pressure injuries. Beds are usually made in the morning or after baths — or while the resident is in the shower, up in the chair, or out of the room. In long-term care, linens are not changed every day. A complete linen change is usually done on the resident's bath or shower day — usually 1 or 2 times a week. Linens are always changed if wet, damp, soiled, or very wrinkled."
+      },
+      {
+        "heading": "Rules for Bedmaking",
+        "content": "Use good body mechanics at all times. Follow the rules of medical asepsis. Follow Standard Precautions and the Bloodborne Pathogen Standard. Practice hand hygiene before handling clean linens. Bring only the linens you will need — you cannot use extra linens for another resident. Place clean linens on a clean surface — use the bedside chair, overbed table, or bedside stand. Place a barrier between the clean surface and the linens. Do not use extra linens in the resident's room for another resident — extra linens are considered contaminated."
+      },
+      {
+        "heading": "Linen Handling",
+        "content": "When handling linens and making beds, practice medical asepsis. Your uniform is considered dirty — always hold linens away from your body and uniform. Never shake linens — shaking spreads microbes. Place clean linens on a clean surface — never put clean or used linens on the floor. Do not use torn or frayed linens. Never put used linens on the floor or on clean linens. Bag used linen in the room where they are used. Do not carry used linens un-bagged outside the resident's room. Follow Standard Precautions and the Bloodborne Pathogen Standard — contact with blood, body fluids, secretions, and excretions is likely."
+      },
+      {
+        "heading": "Making an Unoccupied Bed",
+        "content": "Key steps: Gather all needed linens before starting. Raise the bed for proper body mechanics. Put on gloves. Remove used linens by rolling each piece away from you. Place each piece in a laundry bag. Move the mattress to the head of the bed. Place and tuck bottom sheet (center crease in middle, fan-fold to other side). Place the drawsheet and tuck. Go to the other side and pull all linens tight so there are no wrinkles. Place the top sheet, blanket, and bedspread. Tuck top linens together at the foot using mitered corners. Put on pillowcase. Place pillow with open end away from the door. Attach the call light. Lower the bed to a safe level. Complete a safety check. Wash hands."
+      },
+      {
+        "heading": "Making an Occupied Bed",
+        "content": "The occupied bed is made while the resident is in the bed (due to a medical condition, the resident may not be permitted to get out of bed per doctor's order). Key steps: Knock, identify resident, introduce yourself, explain the procedure. Wash hands, provide for privacy. Raise bed to waist height and lock wheels. Loosen all top linen. Cover the resident with a bath blanket. Help the resident turn onto their side. Loosen bottom soiled linen on the working side. Roll soiled linen toward the resident. Place and tuck clean bottom linen. Have the resident roll over the bump to the completed side. Move to the other side. Remove soiled linen (never shake it, never put on floor). Pull clean linen through and tuck. Replace top sheet and blanket. Loosen linens over the resident's feet. Lower the head of the bed. Place the call light within reach. Wash hands."
+      }
+    ]
+  },
+  {
+    "id": "aging-body-systems",
+    "title": "Aging Process & Body Systems",
+    "icon": "elderly",
+    "color": "#00695C",
+    "summary": "Physical changes during aging and common disorders of the integumentary, musculoskeletal, cardiovascular, respiratory, gastrointestinal, urinary, nervous, endocrine, and reproductive systems.",
+    "day": 4,
+    "sections": [
+      {
+        "heading": "Integumentary System Changes",
+        "content": "As the body ages, the skin: becomes less elastic and loses strength, develops folds, lines, and wrinkles, shows brown spots (age spots or liver spots) on the wrists and hands, has fewer nerve endings and fewer blood vessels, thins and sags, becomes fragile and easily injured, becomes more dry and itchy, becomes more sensitive to cold and less sensitive to pain. Nails become thick and tough. Hair changes include whitening or graying, facial hair in some women, loss or thinning of hair, and drier hair."
+      },
+      {
+        "heading": "Musculoskeletal System Changes",
+        "content": "Age-related changes: Muscles atrophy (shrink). Muscle strength, tone, and contractility decrease. Bone mass decreases, bones become weaker and more brittle. Vertebrae shorten. Joints become stiff and painful. Hip and knee joints become flexed. Gradual loss of height; trunk becomes shorter. Decreased mobility. Common disorders: Osteoarthritis — degeneration of the cartilage between bones; causes pain and aching at the joint, weakness, muscle wasting, and grating sounds with motion. Commonly occurs in fingers, knees, hips, and spine. Caused by age, joint injury, or obesity. Osteoporosis — loss of bone mass causing bones to become porous and brittle; signs include loss of height, hunchback, fatigue, pain, and bone fractures. Fractures — a broken bone; types include simple (bone broken in one place), open/compound (bone comes through skin), and closed (bone broken but skin intact)."
+      },
+      {
+        "heading": "Cardiovascular System Changes",
+        "content": "Age-related changes: Heart pumps with less force. Heart valves thicken and become stiff. Heart rate may slow. Abnormal heart rhythms may occur. Heart may enlarge slightly. Heart walls thicken. Arteries narrow and become stiffer. Less blood flows through narrowed arteries. Weakened heart works harder to pump blood. Number of red blood cells decreases. Common disorders: Myocardial Infarction (MI/heart attack) — caused by an inadequate blood supply to the heart, usually due to a blood clot; signs include severe chest pain radiating to the left jaw and arm, shortness of breath, sweating, blue lips, and vomiting. Hypertension (high blood pressure) — narrowing and hardening of blood vessels due to fatty plaque buildup; signs include blurred vision, headache, nosebleed, chest pain, flushed face, and weak pulse. Congestive Heart Failure (CHF) — heart cannot effectively pump blood, causing fluid backup; signs include shortness of breath, restlessness, edema, chest pain, and weight gain."
+      },
+      {
+        "heading": "Respiratory System Changes",
+        "content": "Age-related changes: Respiratory muscles weaken. Some lung tissue is lost. Lung tissue becomes less elastic. Chest is less able to stretch and breathe. Difficulty breathing (dyspnea). Decreased strength for coughing and clearing the airway. Common disorders: Pneumonia — acute disease caused by bacteria, viruses, aspiration, or immobility; airways fill with fluid; signs include difficulty breathing, cough with sputum, rapid respiration, mental status changes, dehydration, and chest pain. Asthma — obstructive disorder causing bronchial inflammation; signs include rapid respirations, difficulty breathing, wheezing, rapid heart rate, and coughing. Emphysema — disease of the alveoli; air sacs permanently enlarged; signs include anxiety, weight loss, barrel chest, leaning forward to breathe, chronic cough, and wheezing."
+      },
+      {
+        "heading": "Gastrointestinal & Urinary Changes",
+        "content": "Gastrointestinal changes: Decreased saliva production, difficulty swallowing (dysphagia), decreased appetite, decreased digestive juices, difficulty digesting fried and fatty foods, indigestion, loss of teeth, decreased peristalsis causing flatulence and constipation. Common disorders: Constipation — infrequent, hard, dry stools; caused by slow fecal movement. Fecal Impaction — prolonged buildup of feces in the rectum; liquid feces seep around the hardened mass. Diarrhea — frequent liquid stools; feces move rapidly reducing fluid absorption. GERD — chronic condition where stomach contents back up into the esophagus; signs include heartburn, sour taste, difficulty swallowing, and hoarseness. Urinary changes: Kidney function decreases, bladder muscles weaken, urinary frequency and urgency. UTI — caused by microorganisms entering the system; signs include frequency, urgency, dysuria, hematuria, and cloudy urine. Renal Failure — acute or chronic kidney failure; waste products not removed from blood; can be life-threatening."
+      },
+      {
+        "heading": "Nervous System Changes",
+        "content": "Age-related changes: Brain and spinal cord lose nerve cells. Messages sent at a slower rate. Reflexes slow. Reduced blood flow to the brain. Shorter memory, forgetfulness, slower response, confusion, dizziness, sleep pattern changes, reduced sensitivity to pain and touch, decreased smell and taste, less tear secretion, decreased vision, hearing loss. Common nervous system disorders: Parkinson's Disease — progressive disorder affecting movement in persons over 50; signs include pill-rolling tremors, rigid stiff muscles, stooped posture, mask-like facial expression, and slow monotone speech. Multiple Sclerosis (MS) — central nervous system disease where the myelin covering nerve fibers is destroyed; affects women and Caucasians more; signs include blurred vision, muscle weakness, paralysis, tingling, balance problems, and depression. Seizures — violent, sudden contractions or tremors caused by abnormal electrical activity; types include partial (one part of brain), generalized tonic-clonic/grand mal, and generalized absence/petit mal. CVA/Stroke — caused by a burst or blocked blood vessel in the brain; if on the right side it affects the left side of the body, and vice versa; signs include sudden face drooping, arm weakness, speech difficulty — use FAST to identify."
+      },
+      {
+        "heading": "Endocrine & Reproductive Changes",
+        "content": "Endocrine changes: Glands produce and secrete lower levels of hormones. Decreased function on the organs these hormones control. Common disorder — Diabetes Mellitus (DM): The pancreas fails to secrete enough insulin to handle sugar. Glucose remains in the bloodstream instead of getting into the cells. Signs include extreme thirst, excessive hunger, frequent urination, sugar in urine, irritability, blurred vision, slow wound healing, and fatigue. Hypoglycemia (low blood sugar) — caused by too little food, too much insulin, or heavy exercise; signs include hunger, perspiration, trembling, headache, paleness, rapid heartbeat, and sudden behavioral changes. Hyperglycemia (high blood sugar) — caused by undiagnosed diabetes, too much food, too little insulin, illness, or stress; signs include extreme thirst, rapid deep breathing, fruity breath, flushed cheeks, and confusion. Reproductive changes: Male — sperm production decreases, prostate gland enlarges (BPH). Female — menopause, decreased estrogen leads to possible osteoporosis, vaginal walls become drier."
+      },
+      {
+        "heading": "Observation and Reporting",
+        "content": "The CNA is the first member of the interdisciplinary care team to make observations of the resident. Observations include but are not limited to: behaviors, skin condition, vital signs, level of pain, appetite, social interaction, and any change from normal. The CNA reports resident care and observations to the nurse. Always tell the resident's name and room number, the time observations were made or care was given, report only what you observed or did yourself, and give reports as often as the resident's condition requires or as often as requested by the nurse."
+      }
+    ]
+  },
+  {
+    "id": "pain-management",
+    "title": "Pain Management",
+    "icon": "healing",
+    "color": "#E65100",
+    "summary": "Understanding pain, types of pain, signs and symptoms, reporting pain to the nurse, and measures to relieve pain.",
+    "day": 4,
+    "sections": [
+      {
+        "heading": "Understanding Pain",
+        "content": "To have pain means to ache, hurt, or be sore. Pain is subjective — you cannot see, hear, touch, or smell a resident's pain. You must rely on what the resident tells you. Pain is personal — what hurts one resident may only ache to another. If a resident complains of pain, the resident has pain. Older persons may have decreased pain sensations or may ignore/deny new pain because they think it relates to an existing condition. Confused residents may not be able to verbally communicate pain — changes in usual behavior may indicate pain."
+      },
+      {
+        "heading": "Types of Pain",
+        "content": "Acute Pain: Felt suddenly from injury, disease, trauma, or surgery. There is tissue damage. Lasts a short time (usually less than 6 months). Decreases with healing. Chronic Pain: Lasts longer than 6 months. Pain is constant or occurs off and on. There is no longer tissue damage. Remains long after healing. Arthritis and cancer are common causes. Radiating Pain: Felt at the site of tissue damage and in nearby areas. Pain from a heart attack is felt in the left side of the chest, jaw, and left arm. Phantom Pain: Felt in a body part that is no longer there — a resident with an amputated leg may still sense leg pain."
+      },
+      {
+        "heading": "Signs and Symptoms of Pain",
+        "content": "Body responses include: increased pulse, respirations, and blood pressure, sweating (diaphoresis), nausea, vomiting, and pale skin (pallor). Behavioral signs include: changes in speech (slow or rapid, loud or quiet), crying, gasping, grimacing, groaning, grunting, holding the affected body part (splinting), irritability, maintaining one position and refusing to move, moaning, restlessness, rubbing, screaming, and quietness."
+      },
+      {
+        "heading": "Reporting Pain to the Nurse",
+        "content": "When reporting pain, include: Location — where is the pain? Ask the resident to point to the area. Remember, pain can radiate — ask if pain is anywhere else. Onset and Duration — when did the pain start? How long has it lasted? Intensity — is it mild, moderate, or severe? Ask the resident to rate pain on a scale of 0-10, with 10 being the most severe. Description — ask the resident to describe the pain using their exact words (aching, burning, cramping, crushing, dull, gnawing, knifelike, piercing, pressure, sharp, sore, squeezing, stabbing, throbbing). Factors Causing Pain (precipitating factors) — what was the resident doing before the pain started? Other signs — dizziness, nausea, vomiting, weakness, numbness, or tingling."
+      },
+      {
+        "heading": "Effects of Pain",
+        "content": "Unrelieved pain has serious effects on a resident's well-being: Increased anxiety, Lack of sleep, Decreased activity, Decreased appetite, Depression, Impaired mobility, and Isolation. Pain management is a resident right. The nurse can give pain-relief drugs to prevent or control pain. Preventing and controlling pain are easier than relieving pain — report signs and symptoms of pain at once."
+      },
+      {
+        "heading": "Measures to Relieve Pain",
+        "content": "CNAs can help relieve pain by: Positioning the resident in good body alignment and using pillows for support. Using correct lifting, moving, and turning procedures. Waiting one-half hour after pain medication was given to perform care and procedures. Giving a back massage. Providing soft music to distract the resident. Avoiding sudden or jarring movements of the bed. Handling the resident gently. Applying heat or cold compresses as directed by the nurse. Providing a calm, quiet, darkened environment. Cultural diversity: Various cultures respond differently to pain. Some residents are stoic and show no reaction. Pain relief measures may have to be offered more than once."
+      }
+    ]
+  },
+  {
+    "id": "end-of-life-care",
+    "title": "End-of-Life Care",
+    "icon": "favorite_border",
+    "color": "#4A148C",
+    "summary": "Terminal illness, palliative and hospice care, the stages of dying, comfort needs, signs of death, and post-mortem care.",
+    "day": 4,
+    "sections": [
+      {
+        "heading": "End-of-Life Care Overview",
+        "content": "End-of-life care describes the support and care given during the time surrounding death. Sometimes death is sudden; often it is expected. Some people gradually fail. End-of-life care may involve days, weeks, or months. One of the most difficult situations a CNA will face is the death of a resident. It is important that as a CNA you do not lose sight of the fact that you are still caring for the living. Hearing is the last sense to leave the body — even if a person is in a coma, always speak to them as if they may still be able to hear you. Until the resident takes their last breath, and even after, the resident needs to be treated with dignity and respect."
+      },
+      {
+        "heading": "Terminal Illness & Types of Care",
+        "content": "A terminal illness is one from which the person will not likely recover — the disease or injury ends in death. Doctors cannot predict the exact time of death. Terminally ill residents can choose palliative care or hospice care. Palliative Care: Means to soothe or relieve. Involves relieving or reducing the intensity of uncomfortable symptoms without producing a cure. The focus is on relieving symptoms and treating the illness; the intent is to improve quality of life and provide family support. For anyone with a long-term illness that will cause death. Hospice Care: The focus is on the physical, emotional, social, and spiritual needs of dying persons and their families. Often the resident has less than 6 months to live. Cure or life-saving measures are not concerns. Pain relief and comfort are stressed. The goal is to improve quality of life."
+      },
+      {
+        "heading": "The Stages of Dying (Kubler-Ross)",
+        "content": "Dr. Elizabeth Kubler-Ross described 5 stages of dying, also called the stages of grief. Grief is the person's response to loss. Stage 1: Denial — 'No, not me!' The person refuses to believe they are dying. Information about the illness is not heard. Stage 2: Anger — 'Why me?' There is anger and rage. Dying persons envy and resent those with life and health. Do not take the person's anger personally. Stage 3: Bargaining — 'Yes, me but...' Anger has passed. The person bargains with God or a higher power for more time. Stage 4: Depression — 'Yes, me.' The person is very sad and mourns lost things and the future loss of life. Stage 5: Acceptance — The person is calm, at peace, and accepts death. Unfinished business is complete. Note: Dying persons do not always pass through each stage, may never get beyond a certain stage, may move back and forth between stages, or may stay in one stage."
+      },
+      {
+        "heading": "Comfort Needs of the Dying Resident",
+        "content": "Comfort is part of end-of-life care. It involves physical, mental, emotional, and spiritual needs. Goals are to prevent or relieve suffering and to respect end-of-life wishes. Physical needs: Dying takes a few minutes, hours, days, or weeks. Body processes slow. Every effort is made to promote physical and psychological comfort. Skin care, personal and oral hygiene, back massages, and good alignment promote comfort. Turn the person slowly and gently. Follow the care plan to prevent and control pain. Breathing problems (dyspnea) are common — Semi-Fowler's position and oxygen are helpful. An open window for fresh air may help. Noisy breathing called the 'death rattle' is common as death nears. Mental and emotional needs are very personal — some residents are calm; others are anxious or depressed. Simple measures such as touch, holding hands, back massage, soft lighting, and music at a low volume may be soothing. Spiritual needs: Provide privacy during prayer. Be courteous to the spiritual leader. Handle religious objects with care and respect."
+      },
+      {
+        "heading": "Signs of Death & Signs That Death Is Near",
+        "content": "Signs that death is near include: restlessness and agitation, shortness of breath with pauses in breathing, depression, anxiety, drowsiness, confusion, constipation or incontinence, nausea and loss of appetite, healing problems, and swelling in hands, feet, or body areas. As death nears: Movement, muscle tone, and sensation are lost — starting in the feet and legs. Mouth muscles relax, the jaw drops, and the mouth may stay open. The face often looks peaceful. Body temperature rises, then the skin feels cool or cold, looks pale, and perspires heavily. The respiratory system fails — slow or rapid and shallow respirations are observed. Mucus collects in the airway — noisy, gurgling 'death rattle' breathing. Circulation fails — pulse is fast or slow, weak, and irregular; blood pressure starts to fall. The signs of death include: no pulse, no respirations, and no blood pressure. Pupils are fixed and dilated. The nurse calls the doctor to report the signs of death."
+      },
+      {
+        "heading": "Post-Mortem Care & Caregiver Grief",
+        "content": "Post-mortem care is the care of the body after death. Care can begin after the resident has been pronounced dead by a physician or licensed medical professional (RN). Within 2 to 4 hours after death, rigor mortis occurs — muscles become rigid, joints stiffen, and blood ceases to circulate. For this reason it is important to align the body properly before rigor mortis occurs. Key post-mortem steps: Position the body supine with arms and legs straight. Close the eyes. Insert dentures if applicable. Close the mouth. Remove all jewelry except wedding rings. The nurse removes catheters and tubes. Bathe soiled areas. Place a clean gown on the body. Gather the person's belongings. Let the family view the body, then cover the body with a sheet. Report the time the body was taken by the funeral director, what was done with jewelry and personal items, and what was done with dentures. Tips for caregivers dealing with grief: Permit yourself to grieve over the loss of a resident you were fond of. Discuss your feelings about death with colleagues or a member of the clergy. Ask for help from staff and offer support to others who are grieving."
+      }
+    ]
+  },
+  {
+    "id": "personal-care-skills",
+    "title": "Personal Care Skills & Bathing",
+    "icon": "shower",
+    "color": "#00838F",
+    "summary": "Beginning and ending steps for every procedure, organizing and prioritizing care, and overview of bathing including complete bed bath.",
+    "day": 4,
+    "sections": [
+      {
+        "heading": "Therapeutic Relationship in Personal Care",
+        "content": "A therapeutic relationship is a relationship between an individual who suffers from a disability or discomfort (resident) and a practitioner (caregiver) who possesses specific technical skill or knowledge and occupies a recognized role. Goals: To promote communication of distressing thoughts and feelings, to assist the resident with problem solving to help daily living, and to promote self-care and independence. Steps to establishing this relationship: Be concerned, be competent, be correct, be consistent, and be clear."
+      },
+      {
+        "heading": "Beginning Steps for Every Procedure",
+        "content": "Follow these beginning steps before any personal care procedure: (1) Knock and announce yourself before entering the resident's room — residents have a right to privacy. (2) Introduce yourself by name and identify the resident by name. (3) Explain the procedure to the resident clearly, slowly, and directly. (4) Wash your hands — handwashing provides for infection prevention. It may need to be done more than once during a procedure. (5) Provide for the resident's privacy with a curtain, screen, or door — this is a legal right, not just a courtesy. (6) Adjust the bed to a safe level (usually waist high) and lock the bed wheels."
+      },
+      {
+        "heading": "Ending Steps for Every Procedure",
+        "content": "Follow these ending steps after every personal care procedure: (1) Return bed to the lowest position and remove privacy measures. (2) Place the call light within the resident's reach — always respond to call lights promptly. (3) Wash your hands. (4) Report any changes in the resident to the nurse — you often spend the most time with a resident and are in the best position to note any changes. (5) Document the procedure using facility guidelines — after you have finished giving care, document using facility guidelines. Do not record care before it is given. If you do not document the care you gave, legally it did not happen. (6) In addition to these steps, remember to follow infection prevention guidelines and wear gloves or other PPE when appropriate."
+      },
+      {
+        "heading": "Organizing, Prioritizing, and Flexibility",
+        "content": "Organizing: To arrange in working order. Prioritizing: To put things in order of importance — identify the most important things to get done and do these first. Flexibility: The ability to adapt to different circumstances. When caring for residents, you must manage your time well. The nurse creates work assignments based on the needs of the resident and availability of staff. Your responsibilities include: helping others when needed, never ignoring a resident who needs help, answering all call lights even when not assigned to a particular resident, and notifying the nurse if you cannot complete an assignment. Tools for managing time: Prioritize, make a schedule, combine activities (visit with residents while providing care), and get help when needed. Planning your work: Discuss priorities with the nurse, know the shift routine, list care or procedures on a schedule, estimate time needed for each task, plan care around mealtimes and activities, and identify when you will need co-worker assistance."
+      },
+      {
+        "heading": "Overview of Bathing",
+        "content": "3 main purposes for a bath: (1) To remove dirt and odor, (2) To stimulate circulation and provide exercise, (3) To relax the resident — if the experience causes anxiety or agitation, the nurse needs to be informed. As we age, skin becomes drier, thinner, and loses its elasticity. Bathing is important for healthy skin, observation of pressure areas, and good hygiene. Bathing Schedule: Most nursing homes schedule routine showers or tub baths. Schedules are on Resident Care Cards and Assignment Sheets. Privacy: Escort the resident fully clothed to the bathing area, screen with privacy curtains, and close doors to bathing areas. Water Temperature: Regulate water temperature to ensure the resident does not get scalded/burned and does not suffer from hypothermia. Skin observations during bathing — report to the nurse: dry or cracked skin, rashes, bruises, pale or reddened areas over bony parts, open skin areas, drainage or bleeding, and complaints of pain."
+      },
+      {
+        "heading": "Complete Bed Bath",
+        "content": "A complete bed bath involves washing the resident's entire body in bed. Given to residents who are unconscious, paralyzed, in a cast or traction, or weak from illness or surgery. Key principles: Work from cleanest to dirtiest areas (cleanse face and eyes before the genital area). Uncover only one part of the body at a time. Wash, rinse, and dry one part of the body at a time. The resident participates as much as possible. Order: Eyes and face (no soap on face), ears and neck, arms and axillae, hands, chest and abdomen, legs and feet, back, then perineal care. Apply lotion to elbows and hands. After bath: Provide deodorant. Brush or comb hair. Help resident put on clean clothing. Return bed to lowest position. Place call light within reach. Complete safety check. Wash hands. Document the procedure. Report any changes to the nurse."
+      }
+    ],
+    "unit": "Unit III Personal Care Skills"
   }
 ]

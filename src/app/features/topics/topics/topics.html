@@ -8,6 +8,7 @@
     <div class="topic-header" [style.border-left-color]="selected.color">
       <mat-icon [style.color]="selected.color">{{ selected.icon }}</mat-icon>
       <div>
+        <span *ngIf="selected.unit" class="unit-label">{{ selected.unit }}</span>
         <h1>{{ selected.title }}</h1>
         <p>{{ selected.summary }}</p>
       </div>
@@ -18,7 +19,7 @@
         <mat-expansion-panel-header>
           <mat-panel-title>{{ section.heading }}</mat-panel-title>
         </mat-expansion-panel-header>
-        <p class="section-content">{{ section.content }}</p>
+        <div class="section-content" [innerHTML]="formatContent(section.content)"></div>
       </mat-expansion-panel>
     </mat-accordion>
   </div>
@@ -37,6 +38,7 @@
         <mat-card-content>
           <mat-icon class="topic-icon" [style.color]="topic.color">{{ topic.icon }}</mat-icon>
           <h2>{{ topic.title }}</h2>
+          <span *ngIf="topic.unit" class="unit-label">{{ topic.unit }}</span>
           <p>{{ topic.summary }}</p>
           <mat-chip class="section-count">{{ topic.sections.length }} sections</mat-chip>
         </mat-card-content>

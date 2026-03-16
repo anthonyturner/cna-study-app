@@ -5,41 +5,101 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { MatExpansionModule } from '@angular/material/expansion';
 import { MatChipsModule } from '@angular/material/chips';
+import { MatBadgeModule } from '@angular/material/badge';
 import { CnaDataService, Topic } from '../../../shared/services/cna-data';
 
+export interface StudyDay {
+  day: number;
+  title: string;
+  subtitle: string;
+  icon: string;
+  color: string;
+  comingSoon?: boolean;
+}
+
 @Component({
-  selector: 'app-topics',
-  templateUrl: './topics.html',
-  styleUrl: './topics.scss',
-  imports: [CommonModule, MatCardModule, MatButtonModule, MatIconModule, MatExpansionModule, MatChipsModule]
+  selector: 'app-study-days',
+  templateUrl: './study-days.html',
+  styleUrl: './study-days.scss',
+  imports: [CommonModule, MatCardModule, MatButtonModule, MatIconModule, MatExpansionModule, MatChipsModule, MatBadgeModule]
 })
-export class Topics implements OnInit {
-  topics: Topic[] = [];
+export class StudyDays implements OnInit {
+  topicsByDay: Map<number, Topic[]> = new Map();
   selected: Topic | null = null;
+  expandedDay: number | null = 1;
+
+  studyDays: StudyDay[] = [
+    {
+      day: 1,
+      title: 'BASICS',
+      subtitle: 'What is it? Understanding the foundation of CNA care.',
+      icon: 'school',
+      color: '#6a1b9a'
+    },
+    {
+      day: 2,
+      title: 'OSHA & Safety',
+      subtitle: 'Infection control, vital signs, safety procedures, and personal care.',
+      icon: 'health_and_safety',
+      color: '#1565C0'
+    },
+    {
+      day: 3,
+      title: "Promoting Resident's Independence",
+      subtitle: 'Independence, abuse prevention, and circulatory & respiratory systems.',
+      icon: 'self_improvement',
+      color: '#00695C'
+    },
+    {
+      day: 4,
+      title: "Components & Care of the Resident's Environment",
+      subtitle: 'Environment, admission/discharge, isolation, bedmaking, aging, pain, end-of-life care, and personal care skills & bathing.',
+      icon: 'bed',
+      color: '#E65100'
+    }
+  ];
 
   constructor(private dataService: CnaDataService) {}
 
   ngOnInit(): void {
     this.dataService.getTopics().subscribe(topics => {
-      this.topics = topics;
+      const map = new Map<number, Topic[]>();
+      topics.forEach(t => {
+        if (t.day) {
+          if (!map.has(t.day)) map.set(t.day, []);
+          map.get(t.day)!.push(t);
+        }
+      });
+      this.topicsByDay = map;
     });
   }
 
+  toggleDay(day: number): void {
+    this.expandedDay = this.expandedDay === day ? null : day;
+    this.selected = null;
+  }
+
   select(topic: Topic): void {
-    this.selected = this.selected?.id === topic.id ? null : topic;
+    this.selected = topic;
   }
 
   back(): void {
     this.selected = null;
   }
 
+  topicsForDay(day: number): Topic[] {
+    return this.topicsByDay.get(day) ?? [];
+  }
+
   formatContent(content: string): string {
     const text = content.trim();
 
+    // Numbered list: (1) item (2) item ...
     if (/\(1\)/.test(text)) {
       return this.renderNumberedList(text);
     }
 
+    // Sub-headings: "Label: content" (capital start, no commas/parens before colon)
     const subParts = text.split(/([A-Z][a-zA-Z\s-]{1,50}):\s/);
     if (subParts.length > 1) {
       let html = '';

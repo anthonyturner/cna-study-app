@@ -1168,5 +1168,265 @@
     "answer": 2,
     "explanation": "Wheezing with difficulty breathing indicates an asthma episode that may be life-threatening. Report immediately and stay with the resident. An asthma attack can rapidly progress to respiratory failure if not treated promptly.",
     "category": "Medical Conditions"
+  },
+  {
+    "id": 91,
+    "question": "Which statement about privacy curtains is TRUE?",
+    "options": [
+      "Privacy curtains block sound and prevent conversations from being overheard",
+      "Privacy curtains are optional — only required if the resident requests one",
+      "Privacy curtains provide visual privacy but do NOT block sound or prevent conversations from being heard",
+      "Privacy curtains replace the need to knock before entering"
+    ],
+    "answer": 2,
+    "explanation": "Privacy curtains provide visual privacy, which is a legal right of all residents. However, they do NOT block sound or prevent conversations from being heard. CNAs must still knock and announce themselves before entering, and should be mindful that conversations can be heard through curtains.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 92,
+    "question": "What is the CORRECT order for PUTTING ON (donning) PPE?",
+    "options": [
+      "Gloves → Gown → Mask",
+      "Mask → Gloves → Gown",
+      "Gown → Mask → Gloves",
+      "Gown → Gloves → Mask"
+    ],
+    "answer": 2,
+    "explanation": "The correct order for donning (putting on) PPE is: Gown → Mask → Gloves. The correct order for doffing (removing) PPE is the reverse: Gloves → Gown → Mask. This order prevents contamination of the face and hands during removal.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 93,
+    "question": "A new resident arrives and seems frightened. What is the BEST action for the CNA?",
+    "options": [
+      "Leave the resident alone to adjust at their own pace without any interaction",
+      "Complete the admission paperwork quickly and leave to care for other residents",
+      "Introduce yourself, offer to show the resident around, and listen with kindness and compassion",
+      "Tell the resident that many people feel this way and they will get used to it"
+    ],
+    "answer": 2,
+    "explanation": "Admission is the time of first impressions. CNAs play a key role in helping residents make a successful transition. Introducing yourself, offering a tour, and providing emotional support — being kind, compassionate, and helpful — helps new residents feel welcome and less fearful.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 94,
+    "question": "When removing soiled gloves, which technique is CORRECT?",
+    "options": [
+      "Pull both gloves off by the fingertips at the same time",
+      "Grasp the outside of one glove at the cuff and pull it off inside out, then reach inside the second glove with two ungloved fingers and pull it off inside out",
+      "Pull each glove off from the wrist and discard separately",
+      "Ask a colleague to remove your gloves to avoid touching them"
+    ],
+    "answer": 1,
+    "explanation": "The correct glove removal technique prevents contamination. Grasp the outside of one glove below the cuff and pull it off inside out. Hold it in the gloved hand. Reach inside the second glove with two fingers of the ungloved hand and pull it off inside out over the first glove. Discard in appropriate container and wash hands.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 95,
+    "question": "A resident is being discharged and expresses anxiety about going home. What should the CNA do?",
+    "options": [
+      "Tell the resident their feelings are unfounded and they should be happy to leave",
+      "Notify the nurse of the resident's concerns, and be positive and supportive",
+      "Document the concerns but do not mention them to the nurse",
+      "Suggest the resident stay longer by telling them the care here is better"
+    ],
+    "answer": 1,
+    "explanation": "Some residents feel uncertainty or fear about leaving the facility. The CNA should be positive and reassuring — reminding residents that their doctors believe they are ready to leave — while immediately reporting the resident's emotional concerns to the nurse.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 96,
+    "question": "Which of the following is a sign that death is near?",
+    "options": [
+      "Increased activity and appetite",
+      "Slow, steady, deep respirations",
+      "Mottled (blotchy), cool, pale skin and irregular breathing",
+      "Decreased blood pressure and increased urine output"
+    ],
+    "answer": 2,
+    "explanation": "As death nears: body temperature rises but the skin feels cool, pale, and mottled (blotchy). Breathing becomes slow and shallow with pauses. Circulation fails — pulse is weak and irregular, blood pressure falls. Mucus collects in the airway causing noisy, gurgling 'death rattle' breathing.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 97,
+    "question": "According to Kubler-Ross, a resident in which stage would say 'Yes, me but... if I could just live until my grandson graduates'?",
+    "options": [
+      "Stage 1: Denial",
+      "Stage 2: Anger",
+      "Stage 3: Bargaining",
+      "Stage 4: Depression"
+    ],
+    "answer": 2,
+    "explanation": "Stage 3 (Bargaining) is characterized by the resident making promises or bargains in exchange for more time. The person bargains with God or a higher power. The statement 'Yes, me but...' with a request for more time is the hallmark of the bargaining stage.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 98,
+    "question": "What is the DIFFERENCE between palliative care and hospice care?",
+    "options": [
+      "They are the same thing — different terms for the same care",
+      "Palliative care focuses on curing disease; hospice care focuses on comfort only",
+      "Palliative care can be provided at any stage of a serious illness to relieve symptoms; hospice care is for those with less than 6 months to live when cure is no longer the goal",
+      "Hospice care is only provided in hospitals; palliative care is only provided at home"
+    ],
+    "answer": 2,
+    "explanation": "Palliative care relieves or reduces uncomfortable symptoms and can be provided alongside curative treatment at any stage of a serious illness. Hospice care is for residents with less than 6 months to live where cure or life-saving measures are no longer the concern — pain relief, comfort, and quality of life are the goals.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 99,
+    "question": "A resident tells you their pain is a 9 out of 10. What should you do FIRST?",
+    "options": [
+      "Apply a cold compress and recheck in 30 minutes",
+      "Tell the resident that their medication is not due for another hour",
+      "Report the pain to the nurse immediately, including location, intensity, onset, duration, and description",
+      "Document the pain rating in the chart and continue with other care tasks"
+    ],
+    "answer": 2,
+    "explanation": "Pain must be reported to the nurse immediately. The report should include: location, onset and duration, intensity (0-10 rating), description (the resident's exact words), factors causing pain, and any other associated signs. Preventing and controlling pain are easier than relieving it — never delay reporting pain.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 100,
+    "question": "Which action is CORRECT when making a resident's bed?",
+    "options": [
+      "Shake the linens out before placing them to remove wrinkles",
+      "Place clean linens on the floor temporarily while repositioning the mattress",
+      "Hold linens away from your body and uniform; never shake them",
+      "Use leftover clean linens from the previous resident's room to save time"
+    ],
+    "answer": 2,
+    "explanation": "Linens must always be held away from the body and uniform and must never be shaken — shaking spreads microbes. Clean linens must be placed on a clean surface, never on the floor. Extra linens from a previous resident's room are considered contaminated and cannot be reused.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 101,
+    "question": "Which body system change is NORMAL with aging?",
+    "options": [
+      "Increased muscle strength and bone mass",
+      "Decreased skin elasticity, thinner skin, and more fragile blood vessels",
+      "Faster nerve conduction and improved reflexes",
+      "Increased secretion of oil and sweat glands"
+    ],
+    "answer": 1,
+    "explanation": "Normal aging changes to the integumentary system include: decreased skin elasticity and strength, folds/wrinkles, fragile blood vessels, dry itchy skin, decreased sensitivity to pain, and fragile skin that injures easily. These changes increase the risk of pressure injuries and skin breakdown.",
+    "category": "Anatomy & Physiology"
+  },
+  {
+    "id": 102,
+    "question": "A resident with Parkinson's disease would MOST likely show which combination of signs?",
+    "options": [
+      "Rapid speech, hyperactivity, and weight gain",
+      "Tremors in the hands, rigid muscles, stooped posture, and mask-like facial expression",
+      "Sudden severe headache, facial drooping on one side, and arm weakness",
+      "Barrel chest, chronic cough, and weight loss"
+    ],
+    "answer": 1,
+    "explanation": "Classic Parkinson's signs include pill-rolling tremors (usually starting in the hands), rigid and stiff muscles, stooped posture with impaired balance, and a mask-like facial expression (the person cannot blink or smile normally). A fixed stare is common. These signs worsen progressively over time.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 103,
+    "question": "Use the acronym FAST to identify a stroke. What does FAST stand for?",
+    "options": [
+      "Fever, Altered consciousness, Sweating, Tachycardia",
+      "Face drooping, Arm weakness, Speech difficulty, Time to call 911",
+      "Faintness, Abnormal breathing, Seizure, Trauma",
+      "Fluid loss, Arrhythmia, Skin changes, Temperature changes"
+    ],
+    "answer": 1,
+    "explanation": "FAST is the acronym to identify stroke: Face drooping (ask the person to smile — does one side droop?), Arm weakness (ask them to raise both arms — does one drift down?), Speech difficulty (is speech slurred or strange?), Time to call 911 immediately. A stroke is a medical emergency.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 104,
+    "question": "Which of the following is a sign of HYPOGLYCEMIA (low blood sugar) that a CNA should report immediately?",
+    "options": [
+      "Extreme thirst, frequent urination, and fruity breath",
+      "Sudden trembling, sweating, pallor, confusion, and rapid heartbeat",
+      "Gradual weight loss and increased appetite over several weeks",
+      "Elevated blood pressure and flushed face"
+    ],
+    "answer": 1,
+    "explanation": "Hypoglycemia signs include: hunger, perspiration, trembling, anxiety, headache, pallor, cold and clammy skin, rapid heartbeat, sudden behavioral changes, blurred vision, faintness, weakness, mental confusion, and loss of consciousness. This is a medical emergency — report immediately. Extreme thirst and fruity breath are signs of hyperglycemia (high blood sugar).",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 105,
+    "question": "What is rigor mortis?",
+    "options": [
+      "The process of documenting cause of death",
+      "The stiffening of the body's muscles occurring 2-4 hours after death",
+      "The legal pronouncement of death by a physician",
+      "The emotional response of the caregiver following a resident's death"
+    ],
+    "answer": 1,
+    "explanation": "Rigor mortis is the stiffening of the body's muscles that occurs 2 to 4 hours after death. At this time, muscles become rigid, joints stiffen, the blood ceases to circulate, and body temperature drops. It is important to align the body properly before rigor mortis occurs.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 106,
+    "question": "When a resident in isolation has soiled linen that falls on the floor, the CNA should:",
+    "options": [
+      "Pick it up and place it in the regular linen hamper in the hallway",
+      "Leave it on the floor and notify the charge nurse",
+      "Place it in the isolation linen hamper labeled with the BIOHAZARD symbol",
+      "Shake it out to remove debris, then bag it"
+    ],
+    "answer": 2,
+    "explanation": "Any clean linen that touches the floor becomes contaminated. In an isolation room, contaminated linen must be placed in the isolation linen hamper labeled with the BIOHAZARD symbol. Never carry un-bagged soiled linen outside the resident's room. Never shake linen — it spreads microbes into the air.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 107,
+    "question": "Which statement about the 'beginning steps' for every procedure is TRUE?",
+    "options": [
+      "You only need to knock before entering if the resident is awake",
+      "Wash hands once before the procedure — no need to wash again during the procedure",
+      "Providing privacy with a curtain, screen, or door is a legal right, not just a courtesy",
+      "Explaining the procedure to the resident is optional if they have cognitive impairment"
+    ],
+    "answer": 2,
+    "explanation": "Providing for the resident's privacy during any procedure is a legal right of all residents — not simply a courtesy. CNAs must always knock and announce themselves before entering, identify and greet the resident, explain the procedure, wash hands, provide privacy, and adjust the bed to a safe working height.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 108,
+    "question": "A resident with GERD should be positioned how after meals to reduce symptoms?",
+    "options": [
+      "Flat (supine) to promote rest and digestion",
+      "Trendelenburg position (head lower than feet)",
+      "Upright or with the head of the bed elevated to prevent stomach contents from refluxing",
+      "Side-lying position regardless of other factors"
+    ],
+    "answer": 2,
+    "explanation": "GERD is caused by stomach contents backing up into the esophagus. Keeping the resident upright or with the head of the bed elevated after meals uses gravity to help keep stomach contents down. Lying flat greatly increases the risk of reflux and aspiration — especially dangerous in elderly residents.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 109,
+    "question": "Which of the following BEST describes the purpose of documenting care?",
+    "options": [
+      "Documentation is optional if the nurse was present during care",
+      "Document care before you give it to save time at the end of the shift",
+      "If you do not document the care you gave, legally it did not happen",
+      "Only document care that involved a complication or unusual event"
+    ],
+    "answer": 2,
+    "explanation": "Documentation is a legal record of the care provided. If care is not documented, legally it did not happen. Always document care after it is given — never before. Document using facility guidelines and report any changes to the nurse. Never use whiteout and never skip lines.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 110,
+    "question": "A resident is in Stage 4 Depression (Kubler-Ross). Which response by the CNA is MOST appropriate?",
+    "options": [
+      "Tell the resident to cheer up and think positively",
+      "Avoid the resident because grief is too personal to address",
+      "Sit quietly with the resident, listen, and use touch to show care and concern",
+      "Tell the resident you understand exactly what they are going through"
+    ],
+    "answer": 2,
+    "explanation": "In the depression stage the resident mourns losses and the future loss of life. The most therapeutic response is to sit with the resident, listen, and use touch to show care. Avoid saying 'I understand what you are going through' (a communication barrier) unless you have experienced something similar. Being present is what counts most.",
+    "category": "Patient Care"
   }
 ]

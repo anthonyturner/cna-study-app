@@ -48,6 +48,20 @@
       font-size: 1.12rem;
       font-weight: 700;
       color: #0B1F3A;
+      margin-bottom: 6px;
+    }
+
+    .unit-label {
+      display: inline-block;
+      font-size: 0.68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #1565C0;
+      background: #E3F2FD;
+      border: 1px solid #BBDEFB;
+      border-radius: 20px;
+      padding: 2px 8px;
       margin-bottom: 8px;
     }
 
@@ -89,6 +103,20 @@
     margin-top: 4px;
   }
 
+  .unit-label {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #1565C0;
+    background: #E3F2FD;
+    border: 1px solid #BBDEFB;
+    border-radius: 20px;
+    padding: 2px 8px;
+    margin-bottom: 8px;
+  }
+
   h1 {
     font-size: 1.75rem;
     margin-bottom: 6px;
@@ -103,7 +131,35 @@
 }
 
 .section-content {
-  line-height: 1.8;
   color: #374151;
   font-size: 0.94rem;
+
+  p {
+    line-height: 1.8;
+    margin: 0 0 8px;
+  }
+
+  .content-subheading {
+    display: block;
+    font-size: 0.72rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: #6B7A99;
+    margin: 18px 0 6px;
+
+    &:first-child { margin-top: 0; }
+  }
+
+  ul, ol {
+    margin: 0 0 10px;
+    padding-left: 22px;
+
+    li {
+      line-height: 1.65;
+      margin-bottom: 5px;
+
+      strong { color: #0B1F3A; }
+    }
+  }
 }

@@ -1,0 +1,91 @@
+<div class="days-container">
+
+  <!-- Topic detail view -->
+  <div *ngIf="selected; else dayList">
+    <button mat-button (click)="back()" class="back-btn">
+      <mat-icon>arrow_back</mat-icon> Back to Study Days
+    </button>
+
+    <div class="topic-header" [style.border-left-color]="selected.color">
+      <mat-icon [style.color]="selected.color">{{ selected.icon }}</mat-icon>
+      <div>
+        <span *ngIf="selected.unit" class="unit-label">{{ selected.unit }}</span>
+        <h1>{{ selected.title }}</h1>
+        <p>{{ selected.summary }}</p>
+      </div>
+    </div>
+
+    <mat-accordion>
+      <mat-expansion-panel
+        *ngFor="let section of selected.sections; let i = index"
+        [expanded]="i === 0">
+        <mat-expansion-panel-header>
+          <mat-panel-title>{{ section.heading }}</mat-panel-title>
+        </mat-expansion-panel-header>
+        <div class="section-content" [innerHTML]="formatContent(section.content)"></div>
+      </mat-expansion-panel>
+    </mat-accordion>
+  </div>
+
+  <!-- Day list view -->
+  <ng-template #dayList>
+    <h1>Study by Day</h1>
+    <p class="subtitle">Topics organized by your class schedule</p>
+
+    <div class="days-list">
+      <div
+        *ngFor="let sd of studyDays"
+        class="day-section"
+        [class.coming-soon]="sd.comingSoon"
+        [class.expanded]="expandedDay === sd.day">
+
+        <!-- Day header -->
+        <div
+          class="day-header"
+          [style.--day-color]="sd.color"
+          (click)="!sd.comingSoon && toggleDay(sd.day)"
+          [class.clickable]="!sd.comingSoon">
+
+          <div class="day-badge" [style.background]="sd.color">
+            Day {{ sd.day }}
+          </div>
+
+          <div class="day-info">
+            <div class="day-title-row">
+              <mat-icon [style.color]="sd.color">{{ sd.icon }}</mat-icon>
+              <h2>{{ sd.title }}</h2>
+              <span *ngIf="sd.comingSoon" class="coming-soon-badge">Coming Soon</span>
+            </div>
+            <p>{{ sd.subtitle }}</p>
+          </div>
+
+          <div class="day-meta" *ngIf="!sd.comingSoon">
+            <span class="topic-count">{{ topicsForDay(sd.day).length }} topics</span>
+            <mat-icon class="chevron">
+              {{ expandedDay === sd.day ? 'expand_less' : 'expand_more' }}
+            </mat-icon>
+          </div>
+        </div>
+
+        <!-- Topic grid (expanded) -->
+        <div class="topic-grid" *ngIf="expandedDay === sd.day && !sd.comingSoon">
+          <mat-card
+            *ngFor="let topic of topicsForDay(sd.day)"
+            class="topic-card"
+            (click)="select(topic)"
+            [style.border-top-color]="topic.color">
+            <mat-card-content>
+              <mat-icon class="topic-icon" [style.color]="topic.color">{{ topic.icon }}</mat-icon>
+              <h3>{{ topic.title }}</h3>
+              <span *ngIf="topic.unit" class="unit-label">{{ topic.unit }}</span>
+              <p>{{ topic.summary }}</p>
+              <mat-chip class="section-count">{{ topic.sections.length }} sections</mat-chip>
+            </mat-card-content>
+          </mat-card>
+        </div>
+
+      </div>
+    </div>
+  </ng-template>
+
+</div>

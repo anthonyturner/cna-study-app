@@ -21,6 +21,8 @@ export interface Topic {
   color: string;
   summary: string;
   sections: TopicSection[];
+  day?: number;
+  unit?: string;
 }
 
 export interface QuizQuestion {

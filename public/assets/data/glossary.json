@@ -676,5 +676,167 @@
     "term": "Pulse Rhythm",
     "definition": "The pattern or regularity of heartbeats. A regular rhythm has equal intervals between beats. An irregular (arrhythmic) rhythm has uneven intervals and must be reported to the nurse. When an irregular pulse is detected, the apical pulse should be taken for a full 60 seconds.",
     "category": "Vital Signs"
+  },
+  {
+    "id": 114,
+    "term": "Overbed Table",
+    "definition": "A table that slides over the bed by sliding its base underneath. Used by residents for meal trays, writing, reading, and other activities. Must be cleaned before and after use. Never place bedpans, urinals, or soiled linen on an overbed table.",
+    "category": "Medical Equipment"
+  },
+  {
+    "id": 115,
+    "term": "Bedside Stand",
+    "definition": "A storage unit next to the resident's bed with a drawer and two shelves. Top drawer holds eyeglasses, books, and personal items. First shelf holds the wash basin and personal care items (soap, lotion, deodorant). The lower shelf holds the bedpan, urinal cover, and toilet paper.",
+    "category": "Medical Equipment"
+  },
+  {
+    "id": 116,
+    "term": "Privacy Curtain",
+    "definition": "A curtain pulled around the resident's bed while care is given to prevent others from seeing the resident. Privacy curtains provide visual privacy but do NOT block sound or prevent conversations from being heard. Providing visual privacy is a legal right of all residents.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 117,
+    "term": "OBRA (Omnibus Budget Reconciliation Act)",
+    "definition": "Federal law enacted in 1987 that sets the minimum standards for nursing facility care. OBRA requires that resident rooms be as homelike as possible, that residents have the right to full visual privacy, the right to locked storage space, and the right to have and use personal items. OBRA also established the Resident Bill of Rights and requirements for CNA training and certification.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 118,
+    "term": "Protective Isolation (Reverse Isolation)",
+    "definition": "A type of isolation used to protect residents with weakened immune systems from germs in the environment, rather than to prevent the spread of infection from the resident. Used for residents who are immunocompromised, such as those receiving chemotherapy.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 119,
+    "term": "Donning and Doffing",
+    "definition": "Donning means putting on personal protective equipment (PPE). Doffing means safely removing PPE. The correct order for donning PPE is: Gown → Mask → Gloves. The correct order for doffing PPE is: Gloves → Gown → Mask. This order prevents contamination of the face and hands. Wash hands after removing all PPE.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 120,
+    "term": "Rigor Mortis",
+    "definition": "The stiffening of the body's muscles that occurs 2 to 4 hours after death. At this time the muscles become rigid, the joints stiffen, the blood ceases to circulate, and body temperature drops. It is important to align the body properly before rigor mortis occurs.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 121,
+    "term": "Post-Mortem Care",
+    "definition": "Care of the body after death. Can begin after the resident has been pronounced dead by a physician or licensed medical professional. Involves positioning the body supine, closing the eyes and mouth, removing jewelry, bathing soiled areas, placing a clean gown on the body, and gathering belongings. Must be performed with great care, empathy, and respect.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 122,
+    "term": "Palliative Care",
+    "definition": "Care that focuses on relieving or reducing the intensity of uncomfortable symptoms without producing a cure. The intent is to improve quality of life and provide family support. Palliative care is for anyone with a long-term illness that will cause death, and can transition to hospice care.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 123,
+    "term": "Hospice Care",
+    "definition": "Care that focuses on the physical, emotional, social, and spiritual needs of dying persons and their families. Usually for residents with less than 6 months to live. Cure or life-saving measures are not the concern — pain relief and comfort are stressed. Services include pain relief, comfort measures, spiritual needs, and bereavement care for the family.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 124,
+    "term": "Terminal Illness",
+    "definition": "An illness or injury from which the person will not likely recover — the disease or injury ends in death. Recovery is not expected. Doctors cannot predict the exact time of death — a person may have days, months, weeks, or years to live.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 125,
+    "term": "Stages of Dying (Kubler-Ross)",
+    "definition": "Five stages of dying described by Dr. Elizabeth Kubler-Ross, also called the stages of grief: Stage 1: Denial ('No, not me!'), Stage 2: Anger ('Why me?'), Stage 3: Bargaining ('Yes, me but...'), Stage 4: Depression ('Yes, me'), Stage 5: Acceptance (calm and at peace). Dying persons do not always pass through each stage and may move between stages.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 126,
+    "term": "Acute Pain",
+    "definition": "Pain that is felt suddenly from injury, disease, trauma, or surgery. There is tissue damage. Acute pain lasts a short time (usually less than 6 months) and decreases with healing.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 127,
+    "term": "Chronic Pain",
+    "definition": "Pain that lasts longer than 6 months. Pain is constant or occurs off and on. There is no longer tissue damage and pain remains long after healing. Arthritis and cancer are common causes of chronic pain.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 128,
+    "term": "Osteoarthritis",
+    "definition": "The degeneration, or wearing down, of the cartilage between two bones. Commonly occurs in the fingers, knees, hips, and spine. Causes include age, joint injury, and obesity. Signs and symptoms include pain and aching at the joint, weakness, muscle wasting, and a grating or cracking sound with motion of the joint.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 129,
+    "term": "Osteoporosis",
+    "definition": "The loss of bone mass, causing bones to become porous and brittle. Causes include calcium depletion due to immobility, dietary deficiencies of vitamin D and calcium, and estrogen deficiencies due to menopause. Signs include loss of height, hunchback, scoliosis (S-shaped curvature of the spine), fatigue, pain, and bone fractures.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 130,
+    "term": "Diabetes Mellitus",
+    "definition": "A condition in which the pancreas fails to secrete enough insulin to handle the sugar created by the breakdown of foods. Glucose remains in the bloodstream instead of getting into the cells. Signs include extreme thirst, excessive hunger, frequent urination, sugar in the urine, irritability, blurred vision, slow healing of sores, and fatigue. Complications include hypoglycemia (low blood sugar) and hyperglycemia (high blood sugar).",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 131,
+    "term": "Hypoglycemia",
+    "definition": "Low blood sugar. Can result from too little food, too much insulin in the blood, diabetes medication, or heavy exercise. Signs and symptoms include hunger, perspiration, trembling, anxiety, headache, paleness, cold and clammy feeling, rapid heartbeat, sudden change in behavior or irritability, blurred or double vision, faintness, weakness, fatigue, mental confusion, and loss of consciousness.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 132,
+    "term": "Hyperglycemia",
+    "definition": "High blood sugar. Can result from undiagnosed diabetes, too much food, too little insulin, not enough exercise, illness, or stress. Signs and symptoms include extreme thirst and frequent urination, labored and rapid breathing, breath that smells sweet or fruity, blurred vision, flushed cheeks, low blood pressure, mental confusion, nausea, vomiting, and abdominal pain.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 133,
+    "term": "CVA (Cerebrovascular Accident) / Stroke",
+    "definition": "Occurs when blood flow to the brain is interrupted, either by a blood clot blocking a vessel or a burst blood vessel (hemorrhage). Brain cells in the affected area are deprived of oxygen and nutrients causing damage. If a stroke occurs on the right side of the brain, it affects the left side of the body, and vice versa. Use FAST to identify: Face drooping, Arm weakness, Speech difficulty, Time to call 911.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 134,
+    "term": "Parkinson's Disease",
+    "definition": "A progressive disorder of the nervous system affecting movement. Persons over the age of 50 are at risk. The myelin covering nerve impulses in the brain deteriorates. Signs include pill-rolling tremors in the hands, rigid and stiff muscles in the arms, legs, neck, and trunk, stooped posture with impaired balance, mask-like facial expression (cannot blink or smile), and slow monotone speech. Late signs include swallowing problems, constipation, depression, and memory loss.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 135,
+    "term": "Multiple Sclerosis (MS)",
+    "definition": "A central nervous system disease in which the myelin covering nerve fibers in the brain and spinal cord is destroyed (hardening or scarring). Nerve impulses are not sent to and from the brain normally. Symptoms usually start between ages 20 and 40 and include blurred or double vision, muscle weakness, tingling or numb sensations, partial or complete paralysis, balance problems, tremors, depression, bladder problems, and fatigue.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 136,
+    "term": "Seizure (Convulsion)",
+    "definition": "Violent and sudden contractions or tremors of muscle groups caused by abnormal electrical activity in the brain. Movements are uncontrolled and the person may lose consciousness. Types include partial seizures (only one part of the brain involved), generalized tonic-clonic (grand mal — two phases: tonic with rigid muscles, then clonic with jerking and twitching), and generalized absence (petit mal — lasts a few seconds with brief loss of consciousness).",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 137,
+    "term": "Fecal Impaction",
+    "definition": "The prolonged retention and buildup of feces in the rectum. Feces are hard or putty-like. Results if constipation is not relieved. The person cannot have a bowel movement. Liquid feces pass around the hardened fecal mass in the rectum and seep from the anus — this can look like diarrhea. Signs include abdominal discomfort, distention, nausea, cramping, and rectal pain.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 138,
+    "term": "GERD (Gastroesophageal Reflux Disease)",
+    "definition": "A chronic condition in which the liquid contents of the stomach back up into the esophagus. The liquid can inflame and damage the lining of the esophagus, causing bleeding or ulcers. Signs include heartburn at least twice per week, sour taste in the mouth, difficulty swallowing (dysphagia), feeling a lump in the throat, hoarseness, sore throat, dry cough, and regurgitating food or stomach acid.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 139,
+    "term": "Benign Prostatic Hypertrophy (BPH)",
+    "definition": "A disorder that occurs in men as they age where the prostate becomes enlarged. This causes pressure on the urethra, leading to frequent urination, dribbling, difficulty starting the flow of urine, and urinary retention. Can cause urinary tract infections and kidney damage if untreated. BPH can be treated with medication or surgery.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 140,
+    "term": "Mitered Corner",
+    "definition": "A neat, secure method of tucking bed linens at the corners of the mattress to keep them tight and smooth. Used when making both occupied and unoccupied beds. A properly mitered corner prevents loose linens that can cause skin irritation or injury.",
+    "category": "Patient Care"
   }
 ]
