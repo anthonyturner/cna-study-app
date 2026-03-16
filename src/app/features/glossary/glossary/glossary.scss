@@ -233,6 +233,37 @@ h1 {
   }
 }
 
+// ── Back to top ─────────────────────────────────────────────────
+.back-to-top {
+  position: fixed;
+  bottom: 32px;
+  right: 32px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: #1565C0;
+  color: white;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 16px rgba(21, 101, 192, 0.4);
+  transition: background 0.2s ease, transform 0.2s ease;
+  z-index: 100;
+
+  &:hover {
+    background: #0D47A1;
+    transform: translateY(-2px);
+  }
+
+  mat-icon {
+    font-size: 28px;
+    height: 28px;
+    width: 28px;
+  }
+}
+
 // ── Responsive ──────────────────────────────────────────────────
 @include bp.mobile {
   .glossary-header { padding: 28px 16px 24px; }

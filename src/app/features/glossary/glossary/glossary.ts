@@ -52,4 +52,8 @@ export class Glossary implements OnInit {
     this.searchQuery = '';
     this.filter();
   }
+
+  scrollToTop(): void {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
 }
