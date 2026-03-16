@@ -2,7 +2,12 @@
   {
     "id": 1,
     "question": "What is the MOST important thing a CNA can do to prevent the spread of infection?",
-    "options": ["Wear gloves at all times", "Perform hand hygiene", "Wear a mask", "Use isolation precautions"],
+    "options": [
+      "Wear gloves at all times",
+      "Perform hand hygiene",
+      "Wear a mask",
+      "Use isolation precautions"
+    ],
     "answer": 1,
     "explanation": "Hand hygiene is the single most important method of preventing the spread of infection in healthcare settings. Frequent handwashing is the single most important thing you can do to reduce the spread of infection.",
     "category": "Infection Control"
@@ -10,7 +15,12 @@
   {
     "id": 2,
     "question": "What is the normal oral body temperature for an adult?",
-    "options": ["97.6°F", "98.6°F", "99.6°F", "100.4°F"],
+    "options": [
+      "97.6°F",
+      "98.6°F",
+      "99.6°F",
+      "100.4°F"
+    ],
     "answer": 1,
     "explanation": "Normal oral body temperature for an adult is 98.6°F (37°C). A temperature above 100.4°F is considered a fever.",
     "category": "Vital Signs"
@@ -18,7 +28,12 @@
   {
     "id": 3,
     "question": "When assisting a patient with dressing, you should dress which side FIRST?",
-    "options": ["The stronger (unaffected) side", "The weaker (affected) side", "Either side — it does not matter", "The right side always"],
+    "options": [
+      "The stronger (unaffected) side",
+      "The weaker (affected) side",
+      "Either side — it does not matter",
+      "The right side always"
+    ],
     "answer": 1,
     "explanation": "Always dress the weak/affected side first and undress the weak/affected side last. This minimizes discomfort and strain on the affected limb.",
     "category": "Personal Care"
@@ -26,7 +41,12 @@
   {
     "id": 4,
     "question": "What does NPO mean?",
-    "options": ["Normal patient output", "Nothing by mouth", "New patient order", "Non-prescriptive options"],
+    "options": [
+      "Normal patient output",
+      "Nothing by mouth",
+      "New patient order",
+      "Non-prescriptive options"
+    ],
     "answer": 1,
     "explanation": "NPO stands for 'nil per os' (Latin), meaning nothing by mouth. Patients on NPO are restricted from eating or drinking.",
     "category": "Patient Care"
@@ -34,7 +54,12 @@
   {
     "id": 5,
     "question": "A patient's blood pressure reading is 145/92 mmHg. This BEST describes:",
-    "options": ["Hypotension", "Normal blood pressure", "Hypertension", "Orthostatic hypotension"],
+    "options": [
+      "Hypotension",
+      "Normal blood pressure",
+      "Hypertension",
+      "Orthostatic hypotension"
+    ],
     "answer": 2,
     "explanation": "Hypertension is defined as a blood pressure of 130/80 mmHg or higher. A reading of 145/92 mmHg indicates hypertension.",
     "category": "Vital Signs"
@@ -42,7 +67,12 @@
   {
     "id": 6,
     "question": "How often should you reposition a bedridden patient to prevent pressure ulcers?",
-    "options": ["Every 4 hours", "Every 3 hours", "Every 2 hours", "Once per shift"],
+    "options": [
+      "Every 4 hours",
+      "Every 3 hours",
+      "Every 2 hours",
+      "Once per shift"
+    ],
     "answer": 2,
     "explanation": "Bedridden patients should be repositioned at least every 2 hours to relieve pressure on bony prominences and prevent pressure ulcer formation.",
     "category": "Skin Care"
@@ -50,7 +80,12 @@
   {
     "id": 7,
     "question": "When using the RACE acronym during a fire emergency, what does the 'A' stand for?",
-    "options": ["Assess the danger", "Alarm", "Assist patients to exit", "Alert the physician"],
+    "options": [
+      "Assess the danger",
+      "Alarm",
+      "Assist patients to exit",
+      "Alert the physician"
+    ],
     "answer": 1,
     "explanation": "RACE stands for: Rescue, Alarm (pull the fire alarm), Confine the fire (close doors), and Extinguish/Evacuate. Activating the facility's fire alarm is the nursing assistant's first priority.",
     "category": "Safety"
@@ -58,7 +93,12 @@
   {
     "id": 8,
     "question": "Which position is BEST for a patient who is having difficulty breathing?",
-    "options": ["Prone position", "Supine position", "Lateral position", "Fowler's position"],
+    "options": [
+      "Prone position",
+      "Supine position",
+      "Lateral position",
+      "Fowler's position"
+    ],
     "answer": 3,
     "explanation": "Fowler's position (head of bed elevated 45–60°) uses gravity to help expand the lungs and ease breathing in patients with respiratory difficulty.",
     "category": "Patient Care"
@@ -66,7 +106,12 @@
   {
     "id": 9,
     "question": "What is the normal range for adult respirations per minute?",
-    "options": ["8–12", "12–20", "20–30", "30–40"],
+    "options": [
+      "8–12",
+      "12–20",
+      "20–30",
+      "30–40"
+    ],
     "answer": 1,
     "explanation": "Normal adult respiratory rate is 12–20 breaths per minute. Each respiration consists of one inhalation and one exhalation.",
     "category": "Vital Signs"
@@ -113,7 +158,12 @@
   {
     "id": 13,
     "question": "What is the normal range for adult pulse oximetry (SpO2)?",
-    "options": ["85–90%", "90–94%", "95–100%", "80–85%"],
+    "options": [
+      "85–90%",
+      "90–94%",
+      "95–100%",
+      "80–85%"
+    ],
     "answer": 2,
     "explanation": "Normal SpO2 is 95–100%. A reading below 90% is a medical emergency and must be reported to the nurse immediately.",
     "category": "Vital Signs"
@@ -160,7 +210,12 @@
   {
     "id": 17,
     "question": "How many milliliters (mL) are in 8 ounces?",
-    "options": ["120 mL", "180 mL", "240 mL", "300 mL"],
+    "options": [
+      "120 mL",
+      "180 mL",
+      "240 mL",
+      "300 mL"
+    ],
     "answer": 2,
     "explanation": "8 ounces = approximately 240 mL. This conversion is important for accurately recording fluid intake on I&O sheets.",
     "category": "Patient Care"
@@ -233,7 +288,12 @@
   {
     "id": 23,
     "question": "Where on the resident's body would you take a radial pulse?",
-    "options": ["Neck", "Behind the ear", "Apex", "Wrist"],
+    "options": [
+      "Neck",
+      "Behind the ear",
+      "Apex",
+      "Wrist"
+    ],
     "answer": 3,
     "explanation": "The radial pulse is taken at the wrist. Other pulse sites include the carotid (neck), brachial (arm), and apical (chest with stethoscope).",
     "category": "Vital Signs"
@@ -319,7 +379,12 @@
   {
     "id": 30,
     "question": "Which is the MOST effective safeguard used to manage infections in residents and the workforce?",
-    "options": ["Immunizations", "TB screenings", "Isolation", "Hand washing"],
+    "options": [
+      "Immunizations",
+      "TB screenings",
+      "Isolation",
+      "Hand washing"
+    ],
     "answer": 3,
     "explanation": "Hand washing is the single most important and most effective safeguard used to manage and prevent the spread of infections in healthcare settings.",
     "category": "Infection Control"
@@ -366,7 +431,12 @@
   {
     "id": 34,
     "question": "A resident would not be quiet during dinner, so the nurse isolated her in the closet for two hours. This action BEST identifies:",
-    "options": ["False imprisonment", "Invasion of privacy", "Involuntary seclusion", "Neglect"],
+    "options": [
+      "False imprisonment",
+      "Invasion of privacy",
+      "Involuntary seclusion",
+      "Neglect"
+    ],
     "answer": 0,
     "explanation": "Isolating a resident in a closet against their will is false imprisonment — the illegal restraining of a resident or restricting their freedom of movement.",
     "category": "Legal & Ethics"
@@ -517,7 +587,12 @@
   {
     "id": 46,
     "question": "The Heimlich maneuver (abdominal thrust) is used when a resident has which condition?",
-    "options": ["Weak eyesight", "A broken leg", "A blocked airway", "Fallen out of the bed"],
+    "options": [
+      "Weak eyesight",
+      "A broken leg",
+      "A blocked airway",
+      "Fallen out of the bed"
+    ],
     "answer": 2,
     "explanation": "The Heimlich maneuver is used to dislodge an object from a blocked airway (choking). It involves firm upward abdominal thrusts to expel the obstruction.",
     "category": "Safety"
@@ -525,7 +600,12 @@
   {
     "id": 47,
     "question": "How long should a nursing assistant wait before taking the oral temperature of a resident who just had a cold drink?",
-    "options": ["20 to 30 minutes", "10 to 20 minutes", "50 to 60 minutes", "40 to 50 minutes"],
+    "options": [
+      "20 to 30 minutes",
+      "10 to 20 minutes",
+      "50 to 60 minutes",
+      "40 to 50 minutes"
+    ],
     "answer": 1,
     "explanation": "A nursing assistant should wait 10 to 20 minutes after a resident has had a cold or hot drink before taking an oral temperature to ensure an accurate reading.",
     "category": "Vital Signs"
@@ -572,7 +652,12 @@
   {
     "id": 51,
     "question": "All of the following are examples of contamination through droplet transmission EXCEPT:",
-    "options": ["Common cold", "Arteriosclerosis", "Influenza", "Tuberculosis"],
+    "options": [
+      "Common cold",
+      "Arteriosclerosis",
+      "Influenza",
+      "Tuberculosis"
+    ],
     "answer": 1,
     "explanation": "Arteriosclerosis is a cardiovascular condition (hardening of the arteries), not an infectious disease transmitted by droplets. Common cold and influenza are droplet-transmitted; tuberculosis requires airborne precautions.",
     "category": "Infection Control"
@@ -758,5 +843,330 @@
     "answer": 2,
     "explanation": "To correct a documentation error: cross out the error and initial it, noting that the entry was an error. Then proceed with the correct entry. Never use whiteout, never document care before it is provided, and never skip lines.",
     "category": "Legal & Ethics"
+  },
+  {
+    "id": 66,
+    "question": "A resident with dementia refuses to get dressed in the morning. What is the BEST approach?",
+    "options": [
+      "Force the resident to dress immediately for their own safety",
+      "Skip dressing and document the refusal without further action",
+      "Offer choices and come back later if the resident is still refusing",
+      "Restrain the resident until they cooperate"
+    ],
+    "answer": 2,
+    "explanation": "Promoting independence and resident choice is fundamental. Offer limited choices (e.g., 'Would you like to wear the blue or red shirt?'), respect refusal, and return later. Forcing or restraining a resident is abuse.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 67,
+    "question": "Which of the following BEST describes 'quality of life' in a nursing home setting?",
+    "options": [
+      "The absence of medical complications",
+      "Meeting all physical needs of the resident",
+      "The resident's overall sense of well-being including physical, emotional, social, and spiritual needs",
+      "Completing all ADLs independently"
+    ],
+    "answer": 2,
+    "explanation": "Quality of life encompasses ALL dimensions of a person's well-being — physical, emotional, social, and spiritual. CNAs promote quality of life by honoring choices, maintaining dignity, and supporting meaningful relationships and activities.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 68,
+    "question": "A resident tells you that another CNA hit them last week. What should you do FIRST?",
+    "options": [
+      "Ask the accused CNA about the incident before doing anything",
+      "Tell the resident you will look into it later",
+      "Report the information immediately to your supervisor",
+      "Document the allegation and wait for the supervisor to notice"
+    ],
+    "answer": 2,
+    "explanation": "All CNAs are mandatory reporters. Suspected or alleged abuse must be reported immediately to the supervisor, regardless of who is accused. Failure to report is a crime. Do not investigate yourself or confront the accused.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 69,
+    "question": "Which of the following is an example of MENTAL/VERBAL abuse?",
+    "options": [
+      "Forgetting to bring a resident's meal tray",
+      "Telling a resident 'Stop calling for help or I'll put you in your room all day'",
+      "Accidentally scratching a resident's arm during a transfer",
+      "Not answering a call light within 5 minutes"
+    ],
+    "answer": 1,
+    "explanation": "Threatening a resident with punishment (seclusion) is mental/verbal abuse. Mental abuse includes any verbal threats, humiliation, or intimidation that causes mental anguish — regardless of whether physical harm occurs.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 70,
+    "question": "Involuntary seclusion is defined as:",
+    "options": [
+      "Leaving a resident alone in their room at their own request",
+      "Isolating a resident with an infectious disease per medical orders",
+      "Separating a resident from others against their will as punishment or for convenience",
+      "Placing a resident in a private room for safety during a fall risk assessment"
+    ],
+    "answer": 2,
+    "explanation": "Involuntary seclusion is separating a resident from others or confining them to their room against their will, through coercion, or as punishment. This is a form of abuse and is prohibited in nursing homes.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 71,
+    "question": "Which of the following is an example of NEGLECT?",
+    "options": [
+      "Reporting a resident's complaints to the charge nurse",
+      "Turning a resident every 2 hours as ordered",
+      "Failing to provide ordered hygiene care, resulting in skin breakdown",
+      "Restraining a resident with a physician's order"
+    ],
+    "answer": 2,
+    "explanation": "Neglect is failure to provide care necessary to avoid physical harm or mental anguish. Failing to provide hygiene care that results in skin breakdown is neglect, even if unintentional. Both intentional and unintentional neglect must be reported.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 72,
+    "question": "A resident's family member asks you to witness their loved one's new will. You should:",
+    "options": [
+      "Agree to witness the will if the resident seems mentally competent",
+      "Decline and inform the charge nurse — CNAs must not be involved in a resident's legal or financial matters",
+      "Contact the social worker to approve the request first",
+      "Witness the will only if no money is involved"
+    ],
+    "answer": 1,
+    "explanation": "CNAs must never be involved in a resident's legal or financial matters, including witnessing wills, accepting gifts, or managing money. This protects both the resident and the CNA from exploitation and legal liability.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 73,
+    "question": "Under the Nursing Home Bill of Rights, residents have the right to:",
+    "options": [
+      "Refuse any and all medications and treatments",
+      "Demand a private room at no additional cost",
+      "Choose their own physician, manage their own finances, and voice grievances without retaliation",
+      "Refuse to follow facility rules"
+    ],
+    "answer": 2,
+    "explanation": "The Nursing Home Bill of Rights guarantees residents the right to choose their physician, manage their personal finances, and voice grievances without fear of retaliation, among many other rights.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 74,
+    "question": "A resident says, 'I want to pick out my own clothes every morning.' The CNA should:",
+    "options": [
+      "Select appropriate clothes to save time since the resident has dementia",
+      "Allow the resident to choose from a limited selection to promote independence",
+      "Inform the resident this is not possible due to time constraints",
+      "Ask the family what clothes the resident should wear"
+    ],
+    "answer": 1,
+    "explanation": "Residents have the right to make choices about their daily life, including what to wear. Offering a limited selection promotes independence, respects autonomy, and supports quality of life — even for residents with cognitive impairment.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 75,
+    "question": "What is the PRIMARY goal of resident-centered care?",
+    "options": [
+      "Completing all care tasks within the assigned shift",
+      "Ensuring the facility meets all regulatory standards",
+      "Organizing care around the resident's individual preferences, needs, and values",
+      "Standardizing care routines for efficiency"
+    ],
+    "answer": 2,
+    "explanation": "Resident-centered care focuses on what matters most to each individual resident — their preferences, values, and needs — rather than what is most convenient for the facility or staff.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 76,
+    "question": "A resident is showing symptoms of a heart attack. Which symptom is MOST characteristic of a myocardial infarction?",
+    "options": [
+      "Sudden onset of diarrhea and vomiting",
+      "Crushing chest pain radiating to the left arm or jaw",
+      "Gradual onset of leg cramps and swelling",
+      "High fever and productive cough"
+    ],
+    "answer": 1,
+    "explanation": "Classic MI symptoms include crushing chest pain that may radiate to the left arm, jaw, or back, along with shortness of breath, sweating, and nausea. This is a medical emergency — call 911 immediately.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 77,
+    "question": "A resident with congestive heart failure (CHF) is most likely to show which sign?",
+    "options": [
+      "Decreased urine output only",
+      "Swelling (edema) in the legs and ankles, and shortness of breath",
+      "High fever and productive cough",
+      "Sudden weight loss and poor appetite"
+    ],
+    "answer": 1,
+    "explanation": "CHF causes fluid to back up in the body. Classic signs include peripheral edema (especially ankles/legs), shortness of breath, rapid weight gain, and fatigue. Report these signs to the nurse immediately.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 78,
+    "question": "What is the difference between angina and a myocardial infarction (MI)?",
+    "options": [
+      "Angina causes permanent heart damage; MI does not",
+      "MI is caused by stress; angina is caused by a blockage",
+      "Angina is temporary chest pain that resolves with rest; MI involves permanent heart muscle damage",
+      "They are the same condition with different names"
+    ],
+    "answer": 2,
+    "explanation": "Angina is temporary chest pain from reduced blood flow that resolves with rest or nitroglycerin and causes no permanent damage. A myocardial infarction (heart attack) involves actual death of heart muscle tissue from a blocked artery.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 79,
+    "question": "A resident on oxygen therapy via nasal cannula has removed the cannula. The CNA should:",
+    "options": [
+      "Ignore it since the resident has the right to refuse treatment",
+      "Reapply the cannula and notify the nurse",
+      "Increase the oxygen flow rate to compensate",
+      "Document the incident and wait for the next assessment"
+    ],
+    "answer": 1,
+    "explanation": "Reapply the cannula and notify the nurse promptly. While residents have the right to refuse treatment, safety must be ensured and the nurse must be informed of any changes in oxygen delivery.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 80,
+    "question": "Which safety precaution is MOST important when caring for a resident receiving oxygen therapy?",
+    "options": [
+      "Keep the oxygen flow rate as high as possible for better effect",
+      "Post 'No Smoking/No Open Flames' signs and enforce no smoking near oxygen",
+      "Store extra oxygen tanks in the resident's closet",
+      "Remove the nasal cannula during meals to improve eating"
+    ],
+    "answer": 1,
+    "explanation": "Oxygen greatly increases the risk of fire. 'No Smoking/No Open Flames' signs must be posted, and smoking must be strictly prohibited near any oxygen source. CNAs must also never adjust oxygen flow rates without a nurse's order.",
+    "category": "Safety"
+  },
+  {
+    "id": 81,
+    "question": "Which respiratory condition is caused primarily by smoking and involves destruction of the alveoli?",
+    "options": [
+      "Pneumonia",
+      "Asthma",
+      "Emphysema",
+      "Tuberculosis"
+    ],
+    "answer": 2,
+    "explanation": "Emphysema is a COPD caused primarily by smoking. The alveoli (air sacs) are permanently damaged and enlarged, reducing the ability to exchange oxygen and carbon dioxide. Residents often have a characteristic barrel-shaped chest.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 82,
+    "question": "Tuberculosis (TB) requires which type of isolation precautions?",
+    "options": [
+      "Contact precautions — gown and gloves",
+      "Droplet precautions — surgical mask",
+      "Airborne precautions — negative pressure room and N95 respirator",
+      "Standard precautions only"
+    ],
+    "answer": 2,
+    "explanation": "TB is spread via airborne droplet nuclei that can remain suspended in the air for hours. It requires airborne precautions: a negative pressure isolation room and an N95 (or higher) respirator for all staff entering the room.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 83,
+    "question": "When measuring a radial pulse, you should count beats for:",
+    "options": [
+      "15 seconds and multiply by 4",
+      "30 seconds and multiply by 2 (if regular); 60 seconds if irregular",
+      "60 seconds only, regardless of rhythm",
+      "10 seconds and multiply by 6"
+    ],
+    "answer": 1,
+    "explanation": "For a regular pulse, count for 30 seconds and multiply by 2. If the pulse is irregular, count for a full 60 seconds. Always use your index and middle fingers — never your thumb, which has its own pulse.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 84,
+    "question": "A resident's pulse is irregular. What should the CNA do next?",
+    "options": [
+      "Retake the pulse in 1 hour",
+      "Document it as normal variation and continue with care",
+      "Count the pulse for a full 60 seconds and report the irregular rhythm to the nurse",
+      "Take the blood pressure instead"
+    ],
+    "answer": 2,
+    "explanation": "An irregular pulse must be counted for a full 60 seconds and reported to the nurse immediately. The nurse may then take an apical pulse. Irregular rhythms can indicate serious cardiac conditions.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 85,
+    "question": "Normal adult resting pulse rate is:",
+    "options": [
+      "40-60 beats per minute",
+      "60-100 beats per minute",
+      "100-120 beats per minute",
+      "50-90 beats per minute"
+    ],
+    "answer": 1,
+    "explanation": "Normal adult resting pulse rate is 60-100 beats per minute. Rates below 60 (bradycardia) or above 100 (tachycardia) must be reported to the nurse.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 86,
+    "question": "A resident has peripheral vascular disease (PVD). Which observation is MOST important to report?",
+    "options": [
+      "A preference for wearing loose-fitting shoes",
+      "A non-healing wound or darkened/black area on the foot or leg",
+      "Mild swelling after a long walk",
+      "Dry skin on the legs"
+    ],
+    "answer": 1,
+    "explanation": "Non-healing wounds or tissue that appears dark or black in a resident with PVD may indicate tissue death (gangrene) and is a serious emergency requiring immediate reporting. PVD reduces blood flow to extremities, severely impairing wound healing.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 87,
+    "question": "Which of the following BEST describes the 'whole person approach' to resident care?",
+    "options": [
+      "Focusing exclusively on a resident's medical diagnosis and treatment",
+      "Addressing only physical and safety needs during each shift",
+      "Considering a resident's physical, emotional, social, and spiritual needs in all care decisions",
+      "Following the care plan without asking for the resident's input"
+    ],
+    "answer": 2,
+    "explanation": "The whole person approach recognizes that residents are more than their diagnoses. It addresses all dimensions — physical, psychological, social, and spiritual — and involves the resident as an active partner in their own care.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 88,
+    "question": "A resident's family member reports that another staff member has been taking money from the resident's wallet. This is an example of:",
+    "options": [
+      "Negligence",
+      "Physical abuse",
+      "Misappropriation of property",
+      "Involuntary seclusion"
+    ],
+    "answer": 2,
+    "explanation": "Misappropriation of property (financial exploitation) is the deliberate misuse of a resident's money or belongings. This must be reported immediately. CNAs must never handle a resident's money and must report any suspected financial exploitation.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 89,
+    "question": "Influenza (flu) is BEST prevented in nursing home residents by:",
+    "options": [
+      "Requiring residents to wear surgical masks at all times",
+      "Annual influenza vaccination for residents and staff",
+      "Isolating all residents during flu season",
+      "Administering antibiotics preventively"
+    ],
+    "answer": 1,
+    "explanation": "Annual influenza vaccination is the most effective prevention for influenza. Both residents and healthcare staff should receive annual flu vaccines. Influenza is caused by a virus, so antibiotics are not effective for prevention.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 90,
+    "question": "When caring for a resident with asthma, which observation should be reported to the nurse IMMEDIATELY?",
+    "options": [
+      "The resident is watching television and breathing comfortably",
+      "The resident has a mild cough after drinking water",
+      "The resident is wheezing loudly and having difficulty breathing",
+      "The resident requests an extra blanket"
+    ],
+    "answer": 2,
+    "explanation": "Wheezing with difficulty breathing indicates an asthma episode that may be life-threatening. Report immediately and stay with the resident. An asthma attack can rapidly progress to respiratory failure if not treated promptly.",
+    "category": "Medical Conditions"
   }
 ]

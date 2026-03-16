@@ -404,5 +404,188 @@
         "content": "Normal daily intake: 2,000-3,000 mL. Offer fluids frequently throughout the day. Encourage fluids unless on restriction. Record intake in mL if patient is on I&O monitoring. 8 oz = approximately 240 mL. Signs of dehydration: dry mouth, dark urine, dizziness, confusion. Drinking less is a warning sign to report (part of STOP and WATCH)."
       }
     ]
+  },
+  {
+    "id": "promoting-independence",
+    "title": "Promoting Resident's Independence",
+    "icon": "self_improvement",
+    "color": "#0277bd",
+    "summary": "Strategies to support resident choice, independence, and quality of life in long-term care.",
+    "sections": [
+      {
+        "heading": "Why Independence Matters",
+        "content": "The majority of residents admitted to a long-term care facility are not discharged — the facility becomes their home. Being independent promotes healthy self-esteem. There is a common expression: 'If you don't use it, you lose it.' This is particularly true of self-help skills. We are not doing residents any favors by performing skills that they are able to complete themselves."
+      },
+      {
+        "heading": "Promoting Choice",
+        "content": "We can improve quality of life by promoting choice for residents. Making decisions increases the sense of independence and aids in enhancing self-esteem. We should provide our residents with opportunities to make choices throughout the day. Care that is directed by the resident is more interactive and affirms each individual's dignity and uniqueness. Resident-centered care means that care is delivered to meet the individual needs of each resident's schedule, rather than the schedule that the staff determines."
+      },
+      {
+        "heading": "How to Promote Resident Choice",
+        "content": "Get to know the resident — speak with your residents about what their life has been like, their likes and dislikes, and what routines they have followed. You will be able to help them keep these routines. Encourage the resident to tell you how best to care for them — often the resident knows the best and easiest way to be cared for. For example: he may know the best way to be bathed so he is not in pain; she may know that it is easier if her left arm is put into the sleeve first. This will make the task easier and take less time to care for the resident. Getting to know residents well will help you. Some residents, angry at being unable to live at home, may take it out on you. The more you speak to the residents, the more they will see you as a person — they will be less likely to take their dissatisfactions out on you."
+      },
+      {
+        "heading": "Encouraging Daily Routine and Self-Choice",
+        "content": "Encourage residents to choose their daily routine. If a resident does not want to get up early and needs help to dress, give her time by taking care of other residents first who do not mind getting up early. If a resident wants to take a bath in the evening, help work out such a schedule by trying to switch other jobs from evening to daytime — work with other caregivers to make this happen. Encourage residents to choose things for themselves — go to the closet and ask the resident to choose what they want to wear. Encourage the resident to decide what types of activities they want to be involved in and help them get to them. Some residents complain or get angry because they are frustrated — they are frustrated because they cannot do what they want to do. By making this possible for them, you may find that they will act differently."
+      },
+      {
+        "heading": "What Might Stand in the Way of Resident Independence",
+        "content": "Encouraging residents to be as independent as possible may be limited by: a desire not to make things too difficult for yourself (it may be easier to brush a resident's teeth than to take the time to help the resident do it themselves, or it may be easier to give someone a bath than to arrange things so the resident can wash with assistance); family members who may not want their relative to be independent because they are so concerned for their relative's safety; some residents may be afraid of doing things they believe they could do safely; residents who do not speak English may find it hard to communicate and understand. Giving residents time to do things themselves may take time in the beginning, but in the end, they will be doing things that you would have had to do."
+      },
+      {
+        "heading": "Ways to Encourage Resident Independence",
+        "content": "Encourage the resident to do it themselves. Make sure the resident has what they need to be as independent as possible — keep walkers, canes and wheelchairs ready to be used (if these are not available, the resident will have to call for help). Make sure that any devices the resident needs to eat are at their side — if these are not available, the resident will be unable to feed themselves and will need you by their side. Support the resident who is afraid — if you know that a resident can safely walk by themselves for a short distance or safely wash themselves once in the shower, but is afraid, reassure them that you will be with them if they need help; encourage them to try for themselves. Encourage families to support the resident's independence — help families understand that if residents do not do things for themselves wherever they can, they will quickly become more dependent; make the family feel comfortable by asking a supervisor to explain that it is safe for their relative to be independent."
+      },
+      {
+        "heading": "Quality of Life and Quality of Care",
+        "content": "Quality of Care is a measure of the degree to which delivered health care services meet established professional standards and judgments of value by the consumer. Quality of Life is related to a person's sense of well-being, level of satisfaction with life, and feeling of self-worth and self-esteem. For nursing home residents this includes a basic sense of satisfaction with oneself, the environment, the care received, the accomplishment of desired goals, and control over one's life. Many aspects of nursing home life that affect a resident's perceptions of quality of life — and therefore sense of well-being — are intimately intertwined with quality of care."
+      },
+      {
+        "heading": "Whole Person Approach to Care",
+        "content": "The focus is on the well-being of the whole resident, not just the disease process. Care is designed to meet needs in all realms: Physical, Psychological, Social, and Spiritual. Care techniques to fulfill basic human needs: listen with interest to what the resident is saying; assist with bathing and personal hygiene preferences without interfering with independence; assist with dressing in appropriate clothing and the resident's choice; promote resident independence and dignity with dining; close door and use privacy screens when providing care."
+      }
+    ]
+  },
+  {
+    "id": "abuse-neglect",
+    "title": "Abuse, Neglect & Exploitation",
+    "icon": "report_problem",
+    "color": "#b71c1c",
+    "summary": "Recognizing, responding to, and reporting abuse, neglect, and exploitation of nursing home residents.",
+    "sections": [
+      {
+        "heading": "Residents' Rights Regarding Abuse",
+        "content": "The resident has the right to be free from abuse, neglect, misappropriation of resident property, and exploitation. This includes, but is not limited to, freedom from corporal punishment, involuntary seclusion and any physical or chemical restraint not required to treat the resident's symptoms. Residents must not be subjected to abuse by anyone including: facility staff, other residents, consultants, volunteers, staff of other agencies, family members or legal guardians, friends, or any other individuals."
+      },
+      {
+        "heading": "Abuse Defined",
+        "content": "Abuse is the willful infliction of injury, unreasonable confinement, intimidation, or punishment with resulting physical harm, pain or mental anguish. Abuse also includes the deprivation by an individual, including a caretaker, of goods or services that are necessary to attain or maintain physical, mental, and psychosocial wellbeing. It includes verbal abuse, sexual abuse, physical abuse, and mental abuse including abuse facilitated or enabled through the use of technology. Staff to Resident Abuse: it is the facility's responsibility to ensure that all staff are trained and knowledgeable in how to react and respond appropriately to resident behavior. All staff are expected to be in control of their own behavior and to behave professionally. It is not acceptable for an employee to claim their action was 'reflexive' or a 'knee-jerk reaction.' Retaliation by staff is abuse, regardless of whether harm was intended."
+      },
+      {
+        "heading": "Physical Abuse",
+        "content": "Physical abuse includes, but is not limited to, hitting, slapping, punching, biting, and kicking. Corporal punishment — physical punishment used as a means to correct or control behavior — is also physical abuse. Examples: Hitting, Pinching, Slapping, Punching, Shoving, Grabbing, Kicking, Biting, Pulling Hair, Shaking, Rough Handling, Restraints. Possible indicators of physical abuse: an injury that is suspicious because the source is not observed, the extent or location of the injury is unusual, or because of the number of injuries; bruises in unusual locations such as the head, neck, lateral arms, posterior torso or trunk, or bruises in shapes such as finger imprints; facial injuries including broken or missing teeth, facial fractures, black eye(s), bruising, bleeding or swelling of the mouth or cheeks; fractures, sprains, or dislocations; burns, blisters, or scalds on the hands or torso; bite marks, scratches, skin tears and lacerations."
+      },
+      {
+        "heading": "Mental and Verbal Abuse",
+        "content": "Mental abuse is the use of verbal or nonverbal conduct which causes or has the potential to cause the resident to experience humiliation, intimidation, fear, shame, agitation, or degradation. Verbal abuse includes the use of oral, written, or gestured communication, or sounds, to residents within hearing distance, regardless of age, ability to comprehend, or disability. Examples: harassing a resident; mocking, insulting, ridiculing; yelling or hovering over a resident with intent to intimidate; threatening residents including threatening to withhold care or withholding a resident from contact with family and friends; isolating a resident from social interaction or activities; keeping and/or distributing demeaning or humiliating photographs and recordings through social media or multimedia messaging. If a photograph or recording of a resident demeans or humiliates the resident, it would be considered abuse regardless of whether the resident provided consent and regardless of the resident's cognitive status."
+      },
+      {
+        "heading": "Sexual Abuse",
+        "content": "Sexual abuse is non-consensual sexual contact of any type with a resident. Sexual contact is nonconsensual if the resident either appears to want the contact but lacks the cognitive ability to consent, or does not want the contact to occur. Examples include: unwanted intimate touching of any kind especially of breasts or perineal area; all types of sexual assault or battery such as rape, sodomy, and coerced nudity; forced observation of masturbation and/or pornography; taking sexually explicit photographs and/or audio/video recordings of a resident and maintaining and/or distributing them. Indicators of potential sexual abuse: bruises around the breasts, genital area, or inner thighs; unexplained sexually transmitted disease or genital infections; unexplained vaginal or anal bleeding; torn, stained, or bloody underclothing. Psychosocial outcomes of sexual abuse: depression, anxiety, and post-traumatic stress disorder. Sudden or unexplained changes such as fear or avoidance of a person or place, or feelings of guilt or shame may also indicate abuse."
+      },
+      {
+        "heading": "Neglect",
+        "content": "Neglect means the failure of the facility, its employees, or service providers to provide goods and services to a resident that are necessary to avoid physical harm, pain, mental anguish or emotional distress. Staff has the knowledge and ability to provide care and services, but choose not to do it, or acknowledge the request for assistance from a resident(s), which result in care deficits. Neglect of goods or services may occur when staff are aware, or should be aware, of residents' care needs based on assessment and care planning, but are unable to meet the identified needs. Examples of neglect: purposely withholding assistance, food, fluids; ignoring calls or call lights; making the resident 'wait' for your convenience; not feeding a resident who needs assistance with meals. Circumstances that may lead to neglect: lack of training to perform an intervention; lack of sufficient staffing; lack of supplies; or staff lack of knowledge of the needs of the resident."
+      },
+      {
+        "heading": "Misappropriation of Property and Exploitation",
+        "content": "Misappropriation of resident property means the deliberate misplacement, exploitation, or wrongful, temporary, or permanent use of a resident's belongings or money without the resident's consent. Exploitation means taking advantage of a resident for personal gain, through the use of manipulation, intimidation, threats, or coercion. Examples of resident property: jewelry, clothing, furniture, money, electronic devices, credit cards, bank accounts, driver's licenses, and social security cards. Examples of misappropriation: identity theft; theft of money from bank accounts; unauthorized or coerced purchases on a resident's credit card; a resident who provides a gift to staff in order to receive ongoing care based on staff's persuasion; the diversion of a resident's medication(s), including controlled substances for staff use or personal gain. Residents are permitted to keep personal clothing and possessions for their use while in the facility, as long as it does not infringe upon the rights of other residents."
+      },
+      {
+        "heading": "Involuntary Seclusion",
+        "content": "Involuntary seclusion is defined as separation of a resident from other residents or from their room (with or without roommates) against the resident's will or the will of the resident representative. Involuntary seclusion may take many forms, including but not limited to the confinement, restriction or isolation of a resident. It may be a result of staff convenience, a display of power from the caregiver, or used to discipline a resident for wandering, yelling, repeatedly requesting care or services, using the call light, or disrupting a program or activity. Examples: a resident displays disruptive behaviors and staff seclude the resident in an office area or their room; staff place furniture, carts, or chairs in front of doorways to prevent egress; a resident is physically placed in an area without access to call lights, creating an environment of seclusion and isolation for the resident."
+      },
+      {
+        "heading": "Injuries of Unknown Source and Identification",
+        "content": "An injury should be classified as an 'injury of unknown source' when both of the following conditions are met: the source of the injury was not observed by any person or the source of the injury could not be explained by the resident; and the injury is suspicious because of the extent or location of the injury, or because of the number of injuries observed at one particular point in time or the incidence of injuries over time. Recognition of unreported abuse: an injury that is suspicious because the source of the injury is not observed or the extent/location is unusual; sudden or unexplained changes in behaviors and/or activities such as fear of a person or place, or feelings of guilt or shame."
+      },
+      {
+        "heading": "What to Do If Abuse Is Occurring",
+        "content": "If an incident of abuse is discovered to be actively occurring, the resident should be immediately protected and removed from the situation. Three actions: (1) STOP the abuse; (2) PROTECT the resident from additional abuse; (3) REPORT to a Supervisor. The person observing an incident of resident abuse or suspected resident abuse must immediately report such incident to the supervisor. The supervisor must notify the Director of Nursing and Administrator immediately. The following information should be reported: the name of the resident(s) involved; the date and time the incident occurred; where the incident took place; the name(s) of the person(s) committing the incident if known; the name(s) of any witnesses; the type of abuse committed (verbal, physical, sexual, neglect, etc.); other information that may be requested by the charge nurse."
+      },
+      {
+        "heading": "Investigation and Protection",
+        "content": "The facility must thoroughly investigate an alleged violation of abuse, neglect, exploitation, or mistreatment. The investigation must begin immediately regardless of the time of day. The Administrator and/or Director of Nursing will complete the investigation. The facility must prevent further abuse while the investigation is in progress and take appropriate corrective action. As the facility conducts its investigation, it must not tamper with evidence — tampering would impede completion of a thorough investigation. The facility must ensure all residents are protected from physical and psychosocial harm during and after the investigation, including: responding immediately to protect the alleged victim; examining the alleged victim for any sign of injury; increased supervision of the alleged victim and residents; room or staffing changes if necessary; providing emotional support and counseling to the resident."
+      },
+      {
+        "heading": "Reporting Requirements and Consequences",
+        "content": "All alleged violations involving abuse, neglect, exploitation, or mistreatment are reported immediately, but not later than 2 hours after the allegation is made if events involve serious bodily injury, or not later than 24 hours if the events do not involve abuse and do not result in serious bodily injury, to the Administrator and NYS DOH. Report results of all investigations to the Administrator and the State Survey Agency within 5 working days of the incident. In addition, the facility must notify local law enforcement of any reasonable suspicion of a crime. Consequences for the abuser: immediate dismissal, civil penalties, name entered into the nurse aide registry. Consequences for failure to report abuse: suspension and/or dismissal, civil penalties, legal ramifications. Under New York State Public Health Law Section 2803-d, a nurse aide found guilty of neglect, abuse, misappropriation of property, or exploitation by a court of law must have their name entered into the State Nurse Aide Registry."
+      },
+      {
+        "heading": "Abuse-Free Resident Care",
+        "content": "Providing abuse-free care involves every aspect of the care you provide to residents. This includes: keeping the environment safe and furniture in residents' rooms placed to aid their independence; providing adequate food and fluids, given safely and with assistance appropriate for feeding an adult; providing personal care (bathing, dressing, grooming, etc.) gently, thoroughly, and appropriately for an adult; helping the resident to regain function and be as independent as health condition permits; meeting communication, socialization and emotional needs in a kind, gentle manner; treating residents with dignity, respect and kindness, and honoring residents' rights and preferences; meeting and being sensitive to social service and mental health needs of residents, even those with memory and behavior problems or individuals with different cultural backgrounds. Staff Who May React Abusively Toward Residents: are sick and tired; have worked too many hours; are under stress in their personal lives; are drug or alcohol abusers; have poor supervision; have low self-esteem; are repeatedly working 'short-staffed'; do not get along well with co-workers; take things personally; tend to be impatient or rough, or to rush residents who are cognitively impaired; tend not to use a calm, friendly, non-verbal approach; may appear 'threatening' to residents."
+      }
+    ]
+  },
+  {
+    "id": "circulatory-respiratory",
+    "title": "Circulatory & Respiratory Systems",
+    "icon": "favorite",
+    "color": "#c62828",
+    "summary": "Understanding the heart, blood vessels, and lungs — common diseases, aging changes, and the CNA's role.",
+    "sections": [
+      {
+        "heading": "The Cardiovascular (Circulatory) System",
+        "content": "The circulatory system (aka the cardiovascular system) consists of: the heart, the blood, and blood vessels (arteries and veins; capillaries and lymph vessels). The main function is circulating blood through the body. The heart pumps the blood and moves oxygen, food, and other life-sustaining nutrients through the body. Common physical changes during aging — Cardiovascular: heart pumps with less force; heart valves thicken and become stiff; heart rate may slow; abnormal heart rhythms may occur; heart may enlarge slightly; heart walls thicken; arteries narrow and become stiffer; less blood flows through narrowed arteries; weakened heart works harder to pump blood through narrowed vessels; number of red blood cells decreases."
+      },
+      {
+        "heading": "Myocardial Infarction (Heart Attack)",
+        "content": "Myocardial Infarction (MI) is the medical term for a heart attack. A heart attack is caused by an inadequate supply of blood to the heart, usually due to a blood clot. An MI is actual tissue death within the heart muscle. Signs and Symptoms of MI: severe chest pain in the center of the chest that may radiate to the left jaw and left arm — pain may also be felt in the center of the back or in the shoulders; shortness of breath; sweating; blue color to lips from decreased oxygen; vomiting or complaints of indigestion; low blood pressure. Treatment includes medicine and oxygen — the resident will require immediate emergency attention and transfer to a hospital."
+      },
+      {
+        "heading": "Hypertension (High Blood Pressure)",
+        "content": "Hypertension is high blood pressure. Causes include lifestyle behaviors, heredity, and other contributing factors. Narrowing and hardening of the blood vessels due to a build-up of fatty plaques on the inside vessel walls is the most common cause. Signs and Symptoms of HTN: blurred vision, headache, nosebleed, chest pain, flushed face, weak and thready pulse, clammy skin. Treatment may include a low-fat, low-sodium diet and medications. Lifestyle changes such as increasing exercise, quitting smoking (nicotine narrows the blood vessels), and stress management are other measures that help control blood pressure."
+      },
+      {
+        "heading": "Congestive Heart Failure (CHF)",
+        "content": "Congestive Heart Failure (CHF) results when the heart cannot effectively pump blood. This causes the fluids of the system to back up into the lungs and extremities. Signs and Symptoms of CHF: shortness of breath; restlessness and anxiety; edema (swelling) of the legs, hands, feet, and face; chest pain; congestion in the lungs, non-productive cough; weight gain from fluid retention."
+      },
+      {
+        "heading": "Angina",
+        "content": "Angina is pain or discomfort due to lack of oxygen to the heart muscle. It may manifest as pain or discomfort, heaviness, tightness, pressure or burning, numbness, aching, tingling in the chest, back, neck, throat, jaw, or arms. Treatment options include rest, medications, angioplasty, or coronary artery bypass graft surgery (CABG)."
+      },
+      {
+        "heading": "Peripheral Vascular Disease (PVD)",
+        "content": "Peripheral Vascular Disease (PVD) is a narrowing of vessels that carry blood to the legs, arms, stomach, or kidneys. Treatment includes medications, possible surgery to dilate blood vessels, or lifestyle changes: stop smoking, control diabetes, control blood pressure, exercise, a low-fat, low-cholesterol diet."
+      },
+      {
+        "heading": "The Respiratory System",
+        "content": "The respiratory system consists of: the nose, oral cavity, pharynx (throat), larynx (voice box), trachea (windpipe), right and left bronchi, bronchioles, alveoli, right and left lung, and diaphragm. The respiratory system brings oxygen into the lungs through inhalation (breathing in) and removes carbon dioxide from the body through exhalation (breathing out). Oxygen is carried through the body by the bloodstream. Common physical changes during aging — Respiratory: respiratory muscles weaken; some lung tissue is lost; lung tissue becomes less elastic; chest is less able to stretch and breathe; difficulty breathing (dyspnea); decreased strength for coughing and clearing the airway."
+      },
+      {
+        "heading": "Pneumonia",
+        "content": "Pneumonia is an acute disease that can be caused by bacteria, viruses, aspiration, and immobility. Pneumonia causes the airways to fill with fluid and obstructs the respiratory system with inflammation of the lung tissue, impairing breathing. Signs and Symptoms: difficulty breathing; shortness of breath; cough, sometimes with increased sputum; rapid respiration and pulse rate; change in mental status caused by decreasing levels of oxygen in the blood (hypoxic); dehydration; chest pain or tightness especially when inhaling. Treatment can include antibiotics, pain relievers, steroids, and medications to decrease fever; oxygen therapy may be used; hospitalization may be required."
+      },
+      {
+        "heading": "Asthma",
+        "content": "Asthma is an obstructive disorder that causes blockage of the bronchi through inflammation. The overall effect is limiting the breathing process. Asthma can result from smoking, allergic reactions, or emotional stress. Signs and Symptoms: rapid respirations; difficulty breathing; wheezing; rapid heart rate; perspiration; coughing. Treatment can include bronchodilators (medications to open the bronchi); in some cases steroids or antibiotics."
+      },
+      {
+        "heading": "Emphysema",
+        "content": "Emphysema is a disease of the alveoli, the smallest part of the bronchial tree. The alveoli become permanently enlarged, trapping air in the sacs and preventing air exchange from taking place. Signs and Symptoms: anxiety caused by limited breathing capacity; weight loss; barrel chest due to loss of elasticity of the lung; leaning forward to breathe; chronic cough; wheezing. Treatment includes medications to dilate the airway, nebulizer treatments to increase breathing capacity, and oxygen."
+      },
+      {
+        "heading": "Influenza (Flu)",
+        "content": "Influenza, commonly known as the flu, is an infectious disease caused by a virus. Common symptoms are fever, sore throat, muscle pains, severe headache, coughing, weakness, and general discomfort. In more serious cases, influenza causes pneumonia. Treatment includes plenty of rest, drinking a lot of liquids, and if necessary, taking medications such as acetaminophen to relieve fever and muscle aches."
+      },
+      {
+        "heading": "Tuberculosis (TB)",
+        "content": "Tuberculosis (TB) is an infectious disease caused by a bacteria. When the inhaled tuberculosis bacteria enter the lungs, they can multiply and cause a local lung infection (pneumonia). The local lymph nodes associated with the lungs may also become involved and usually become enlarged. TB is spread usually from person to person by breathing infected air during close contact. Active TB is treated with a combination of medications. Treatment usually lasts for many months and sometimes for years."
+      },
+      {
+        "heading": "Oxygen Therapy",
+        "content": "Oxygen is treated as a medication. The doctor must order the amount of oxygen to give and the device to use. The order also states if oxygen is given continuously or intermittently. Oxygen Sources: wall outlets (oxygen piped into each resident's room connected to a centrally located supply); oxygen tanks (portable — the gauge tells how much oxygen is left); oxygen concentrators (remove oxygen from the air — a power source is needed); liquid oxygen systems (portable unit filled from a stationary unit). Devices used to administer oxygen: Nasal Cannula — two prongs project from tubing and are inserted a short distance into the nostrils; the resident can eat and talk; nasal irritation and pressure on the ears is possible. Simple Face Mask — covers the nose and mouth; the mask has small holes in the side; carbon dioxide escapes during exhalation; room air enters during inhalation. Non-Rebreathing Face Mask — prevents air from entering the reservoir bag; exhaled air leaves through holes in the mask; oxygen from the reservoir bag is inhaled; the bag must not totally collapse during exhalation. Observations to Report When on Oxygen Therapy: frequent headaches; anxiety; cyanotic (blue) lips or fingernails; drowsiness; confusion; restlessness; slow, shallow, difficult, or irregular breathing (hypoxic — lack of oxygen)."
+      },
+      {
+        "heading": "Measuring and Recording Vital Signs",
+        "content": "Temperature, pulse, and respirations (abbreviated TPR) are important indicators of a person's internal condition. Normal vital signs: Temperature — Oral 98.6°F (normal range 97.6°F–99.6°F), Rectal 99.6°F (normal range 98.6°F–100.6°F), Axillary (armpit) 97.6°F (normal range 96.6°F–98.6°F), Tympanic (ear) 98.6°F, Temporal Artery (temple) 99.6°F. Pulse: 60–100 beats/min. Respirations: 12–20/min. Blood Pressure: Systolic 100–120, Diastolic 70–80. Factors affecting vital signs: activity, age, anger, anxiety, drugs, eating, exercise, fear, gender, illness, noise, pain, sleep, smoking, stress, weather, weight. Unless otherwise ordered, take vital signs with the person at rest — lying or sitting. Vital signs show even minor changes in the person's condition. Accuracy is essential when you measure, record, and report vital signs."
+      },
+      {
+        "heading": "Radial Pulse and Respirations",
+        "content": "The most common site for checking the pulse is on the inside of the wrist where the radial artery runs just below the skin — this is called the radial pulse. Place the first 2 or 3 fingertips of one hand against the radial artery (on the thumb side of the wrist). Press fingers firmly enough to feel the pulse easily. Note if the pulse is strong or weak, regular or irregular. Count beats for 60 seconds. Pulse Rhythm: the pulse rhythm should be regular — the same interval occurs between beats; an irregular pulse occurs when the beats are not evenly spaced or beats are skipped. Pulse Force: a forceful pulse is described as strong, full, or bounding; hard-to-feel pulses are described as weak, thready, or feeble. Respirations: count respirations right after taking a pulse — keep your fingers over the pulse site; to count respirations, watch the chest rise and fall; count for 1 minute. Do not tell the resident you are counting respirations, as people tend to change their breathing patterns when they know they are being counted."
+      },
+      {
+        "heading": "Taking and Recording Temperatures",
+        "content": "Body temperature is the amount of heat in the body. It is a balance between the amount of heat produced and the amount of heat lost by the body. Body temperature is lower in the morning and higher in the afternoon and evening. Older persons have lower body temperatures — an oral temperature of 98.6°F may signal fever in an older person. Fever means an elevated body temperature (Febrile = with a fever; Afebrile = without a fever). Temperatures are NOT taken orally if the resident: is unconscious; has had surgery or an injury to the face, neck, nose or mouth; is using oxygen via facemask; is confused or disoriented; has a history of seizure disorders. Temperature Sites: mouth, rectum, axilla (underarm), tympanic membrane (ear), temporal artery (forehead). Types of thermometers: Glass (mercury-free), Electronic Thermometer (standard, tympanic, temporal artery), Disposable. Oral and rectal thermometers can be identified by shape and color markings — oral thermometers have slender bulbs and may be blue or green; rectal thermometers have round or stubby bulbs and may be red. Tympanic thermometers take fast, accurate temperature readings — the tip only goes in ¼ to ½ inch into the ear canal. Always report temperatures above or below the normal range for a resident."
+      },
+      {
+        "heading": "Measuring Blood Pressure",
+        "content": "Blood pressure is the force of the blood that pushes against the walls of the blood vessels. When taking the resident's blood pressure, you are measuring the force of the blood flowing through the arteries. Equipment: stethoscope and blood pressure cuff (sphygmomanometer). The stethoscope is an instrument used to listen to sounds produced by the body — it makes body sounds easier to hear. Parts of the blood pressure cuff: Dial (shows numbers from 20 to 300, each line represents 2 millimeters of mercury), Cuff (contains a cloth-covered rubber bag), Valve (thumbscrew opens and closes the valve controlling air in and out of cuff), Bulb (allows air to enter the rubber bag when squeezed). Do not take blood pressure in the resident's arm that: is injured or paralyzed; has a cast; has an intravenous infusion or site; is on the same side as a mastectomy. Reminders: have the resident sit and rest for 15 minutes before taking blood pressure; ask resident not to talk; remove clothing from the arm; wrap the cuff snugly around the arm; if unsure of the reading, deflate the cuff and wait 5 minutes before taking it again. Normal Adult Blood Pressure Range: Systolic 100–120, Diastolic 70–80."
+      },
+      {
+        "heading": "Measuring Height and Weight",
+        "content": "A resident's height is measured on admission to the facility and yearly. Height can be obtained using a standing scale or when lying in bed using a tape measure. Weight is vital in the care of the resident. Weight is measured weekly for 4 weeks when a resident is admitted or re-admitted to the facility and then at least monthly. Be sure to report any significant loss or gain — a general guideline is a weight gain or loss of 2 to 3 pounds. It is important every time to measure a resident's weight at the same time of day, using the same scale, with the resident wearing the same type and amount of clothing. Types of scales: standing scale and chair scale (for residents who cannot stand). For standing scale: start with the scale balanced at zero; make sure resident is wearing nonskid shoes fastened before walking; help resident to stand on the center of the scale, be sure they are not holding, touching, or leaning against anything; determine the resident's weight by balancing the scale bar level. For chair/wheelchair scale: start with the scale balanced at zero; help the resident transfer into the chair scale, or roll the wheelchair onto the scale; determine the resident's weight — subtract the weight of the wheelchair from the total and record the answer as the resident's weight."
+      }
+    ]
   }
 ]

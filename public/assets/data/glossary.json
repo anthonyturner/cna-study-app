@@ -496,5 +496,185 @@
     "term": "Healthcare Team Roles",
     "definition": "Activities/Recreation Director: assesses and implements recreational needs. Administrator: planning/organizing/directing/supervising the facility. Dietician: assesses nutritional needs. LPN: provides direct care including medications under RN direction. Occupational Therapist: assists with ADL skills and adaptive equipment. Pharmacist: fills medication orders and monitors drug interactions. Physical Therapist: assists with musculoskeletal problems. Physician: diagnoses and treats diseases. RN: assesses, makes nursing diagnoses, plans and evaluates care. Social Worker: helps with social/emotional/environmental issues. Speech Therapist: treats speech, voice, communication, and swallowing disorders.",
     "category": "Legal & Ethics"
+  },
+  {
+    "id": 84,
+    "term": "Quality of Life",
+    "definition": "The overall well-being and life satisfaction of a resident in a care facility. Includes physical, mental, social, and spiritual dimensions. CNAs promote quality of life by honoring resident choices, maintaining dignity, supporting relationships, and providing person-centered care.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 85,
+    "term": "Quality of Care",
+    "definition": "The degree to which healthcare services increase the likelihood of desired health outcomes and are consistent with professional standards. In nursing facilities, it encompasses clinical care, safety, dignity, and resident rights.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 86,
+    "term": "Resident-Centered Care",
+    "definition": "Care that respects and responds to individual resident preferences, needs, and values, ensuring they guide clinical decisions. Focuses on what matters most to the resident, not just clinical outcomes.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 87,
+    "term": "Whole Person Approach",
+    "definition": "A care philosophy that addresses all dimensions of a person — physical, psychological, social, and spiritual. Recognizes that residents are more than their medical conditions. CNAs support the whole person by encouraging independence, honoring preferences, and supporting meaningful activities.",
+    "category": "Patient Care"
+  },
+  {
+    "id": 88,
+    "term": "Nursing Home Bill of Rights",
+    "definition": "Federal and state mandated rights of nursing home residents, including: the right to dignity and respect, to be free from abuse and restraints, to privacy and confidentiality, to make choices about daily life, to participate in care planning, to voice grievances, to manage personal finances, and to have visitors.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 89,
+    "term": "Abuse",
+    "definition": "Willful infliction of injury, unreasonable confinement, intimidation, or punishment that results in physical harm, pain, or mental anguish to a resident. Includes physical, mental/verbal, sexual, and financial abuse. ALL abuse must be reported immediately.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 90,
+    "term": "Physical Abuse",
+    "definition": "Any act that causes physical harm or injury to a resident. Examples include hitting, slapping, pinching, kicking, force-feeding, or improper use of physical or chemical restraints. CNAs must never participate in or witness physical abuse without reporting it.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 91,
+    "term": "Mental/Verbal Abuse",
+    "definition": "Oral, written, or gestured language that includes threats, humiliation, harassment, or ridicule and causes a resident mental anguish or distress. Examples include yelling, swearing, threatening, or belittling a resident.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 92,
+    "term": "Sexual Abuse",
+    "definition": "Non-consensual sexual contact of any kind with a resident, including touching, fondling, sexual coercion, or exposure. Also includes taking sexual photos of residents. Residents with dementia cannot legally consent to sexual activity.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 93,
+    "term": "Neglect",
+    "definition": "Failure to provide goods and services necessary to avoid physical harm, mental anguish, or mental illness to a resident. Includes failure to provide adequate food, clothing, hygiene, medication, safety, or supervision. Both intentional and unintentional neglect must be reported.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 94,
+    "term": "Misappropriation of Property",
+    "definition": "The deliberate misplacement, exploitation, or wrongful use of a resident's personal belongings or money. Examples include stealing money, taking personal items, or using a resident's funds for personal gain.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 95,
+    "term": "Exploitation",
+    "definition": "Taking advantage of a resident for personal gain, including financial exploitation such as forging checks, coercing changes to a will, or misusing a power of attorney. CNAs must never accept money, gifts, or be named in a resident's will.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 96,
+    "term": "Involuntary Seclusion",
+    "definition": "Separation of a resident from others or from their room against their will, or through coercion, as a means of punishment or convenience. This is a form of abuse and is prohibited.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 97,
+    "term": "Injury of Unknown Source",
+    "definition": "An injury whose cause is not observed or is not consistent with the explanation provided. CNAs must document and report all such injuries immediately. The nursing home must investigate all injuries of unknown source.",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 98,
+    "term": "Mandatory Reporter",
+    "definition": "A person required by law to report known or suspected abuse, neglect, or exploitation of vulnerable adults. All CNAs are mandatory reporters. Failure to report is a crime. Reports should be made to the supervisor and/or Adult Protective Services (APS).",
+    "category": "Legal & Ethics"
+  },
+  {
+    "id": 99,
+    "term": "Cardiovascular System",
+    "definition": "Body system consisting of the heart and blood vessels that circulates blood throughout the body. The heart pumps oxygenated blood through arteries and receives deoxygenated blood through veins. Common disorders include hypertension, myocardial infarction, congestive heart failure, and angina.",
+    "category": "Anatomy & Physiology"
+  },
+  {
+    "id": 100,
+    "term": "Myocardial Infarction (MI)",
+    "definition": "A heart attack caused by blockage of a coronary artery, resulting in death of heart muscle tissue. Symptoms include crushing chest pain, shortness of breath, sweating, nausea, and pain radiating to the left arm or jaw. A medical emergency — call 911 immediately.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 101,
+    "term": "Congestive Heart Failure (CHF)",
+    "definition": "A condition in which the heart is unable to pump enough blood to meet the body's needs, causing fluid to back up in the lungs and body tissues. Symptoms include shortness of breath, edema (especially in the legs/ankles), fatigue, and rapid weight gain.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 102,
+    "term": "Angina",
+    "definition": "Chest pain or pressure caused by reduced blood flow to the heart muscle, typically triggered by physical activity or stress. Unlike a heart attack, angina is temporary and does not cause permanent heart damage. Managed with rest and nitroglycerin.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 103,
+    "term": "Peripheral Vascular Disease (PVD)",
+    "definition": "A condition in which narrowed blood vessels reduce blood flow to the extremities. Symptoms include pain, cramping, or weakness in the legs with activity (claudication), cold or discolored skin, and slow-healing wounds. Serious risk of amputation if untreated.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 104,
+    "term": "Respiratory System",
+    "definition": "Body system that brings oxygen into the body and removes carbon dioxide. Consists of the nose, pharynx, larynx, trachea, bronchi, bronchioles, and alveoli (air sacs in the lungs). Common disorders include pneumonia, asthma, emphysema, influenza, and tuberculosis.",
+    "category": "Anatomy & Physiology"
+  },
+  {
+    "id": 105,
+    "term": "Pneumonia",
+    "definition": "An infection of one or both lungs caused by bacteria, viruses, or fungi, resulting in inflammation and fluid accumulation in the alveoli. Symptoms include fever, cough with colored mucus, shortness of breath, and chest pain. Common in elderly and immunocompromised residents.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 106,
+    "term": "Asthma",
+    "definition": "A chronic respiratory condition characterized by episodes of airway inflammation, swelling, and bronchospasm that narrow the airways and make breathing difficult. Symptoms include wheezing, coughing, chest tightness, and shortness of breath. Triggered by allergens, exercise, or irritants.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 107,
+    "term": "Emphysema",
+    "definition": "A chronic obstructive pulmonary disease (COPD) in which the air sacs (alveoli) are damaged and enlarged, reducing the lungs' ability to exchange oxygen and carbon dioxide. Primarily caused by smoking. Symptoms include chronic shortness of breath and barrel-shaped chest.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 108,
+    "term": "Influenza",
+    "definition": "A highly contagious viral respiratory illness (the flu) spread through respiratory droplets. Symptoms include sudden onset of fever, chills, headache, muscle aches, fatigue, and respiratory symptoms. Prevented by annual vaccination. Can be life-threatening in elderly residents.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 109,
+    "term": "Tuberculosis (TB)",
+    "definition": "A contagious bacterial infection caused by Mycobacterium tuberculosis, primarily affecting the lungs. Spread through airborne droplets. Symptoms include persistent cough (sometimes with blood), night sweats, weight loss, and fatigue. Requires airborne precautions (negative pressure room, N95 respirator).",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 110,
+    "term": "Oxygen Therapy",
+    "definition": "Administration of supplemental oxygen to residents with hypoxia or respiratory distress. Delivered via nasal cannula (1-6 L/min), simple face mask, or non-rebreather mask. CNAs must never adjust oxygen flow rates without a nurse's order. Oxygen is flammable — no smoking or open flames near oxygen.",
+    "category": "Medical Conditions"
+  },
+  {
+    "id": 111,
+    "term": "Nasal Cannula",
+    "definition": "A device used to deliver supplemental oxygen through two small prongs inserted into the nostrils. The most common oxygen delivery device, providing low-flow oxygen at 1-6 liters per minute. CNAs check that prongs are correctly positioned and that tubing is not kinked.",
+    "category": "Medical Equipment"
+  },
+  {
+    "id": 112,
+    "term": "Radial Pulse",
+    "definition": "The pulse measured at the radial artery on the inner wrist (thumb side). Counted for 60 seconds (or 30 seconds x2 if regular). Normal adult pulse: 60-100 beats per minute. Report a rate below 60 or above 100, or an irregular rhythm, to the nurse immediately.",
+    "category": "Vital Signs"
+  },
+  {
+    "id": 113,
+    "term": "Pulse Rhythm",
+    "definition": "The pattern or regularity of heartbeats. A regular rhythm has equal intervals between beats. An irregular (arrhythmic) rhythm has uneven intervals and must be reported to the nurse. When an irregular pulse is detected, the apical pulse should be taken for a full 60 seconds.",
+    "category": "Vital Signs"
   }
 ]

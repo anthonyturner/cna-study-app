@@ -3,7 +3,13 @@
     "allow": [
       "Bash(npm install:*)",
       "Bash(node -e \":*)",
-      "Bash(node -e \"const p = require\\(''./node_modules/@angular/build/package.json''\\); console.log\\(p.version\\)\")"
+      "Bash(node -e \"const p = require\\(''./node_modules/@angular/build/package.json''\\); console.log\\(p.version\\)\")",
+      "Bash(node -e \"const d = require\\(''./public/assets/data/glossary.json''\\); console.log\\(''count:'', d.length, ''last id:'', d[d.length-1].id\\)\")",
+      "Bash(node -e \"const d = require\\(''./public/assets/data/quiz.json''\\); console.log\\(''count:'', d.length, ''last id:'', d[d.length-1].id\\)\")",
+      "Bash(node -e \"const d = require\\(''./public/assets/data/glossary.json''\\); console.log\\(JSON.stringify\\(d.slice\\(-3\\), null, 2\\)\\)\")",
+      "Bash(node -e \"const d = require\\(''./public/assets/data/quiz.json''\\); console.log\\(JSON.stringify\\(d.slice\\(-3\\), null, 2\\)\\)\")",
+      "Bash(node add-glossary.js)",
+      "Bash(node add-quiz.js)"
     ]
   }
 }
