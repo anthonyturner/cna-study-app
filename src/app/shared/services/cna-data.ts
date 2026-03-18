@@ -12,6 +12,8 @@ export interface GlossaryTerm {
 export interface TopicSection {
   heading: string;
   content: string;
+  videoTitle?: string;
+  videoUrl?: string;
 }
 
 export interface Topic {

@@ -1428,5 +1428,185 @@
     "answer": 2,
     "explanation": "In the depression stage the resident mourns losses and the future loss of life. The most therapeutic response is to sit with the resident, listen, and use touch to show care. Avoid saying 'I understand what you are going through' (a communication barrier) unless you have experienced something similar. Being present is what counts most.",
     "category": "Patient Care"
+  },
+  {
+    "id": 111,
+    "question": "AM care is typically given to prepare residents for which activity?",
+    "options": [
+      "Bedtime",
+      "Breakfast",
+      "Physical therapy",
+      "Afternoon nap"
+    ],
+    "answer": "Breakfast",
+    "explanation": "AM care is routine care given before breakfast to get residents ready for the day — including oral hygiene, washing, hair care, and positioning."
+  },
+  {
+    "id": 112,
+    "question": "PM care is also called HS care. What does HS stand for?",
+    "options": [
+      "Health and Safety",
+      "Hour of Sleep",
+      "Hygiene Schedule",
+      "Hand Sanitization"
+    ],
+    "answer": "Hour of Sleep",
+    "explanation": "HS stands for \"hour of sleep.\" PM/HS care is given at bedtime to promote comfort and relaxation before sleep."
+  },
+  {
+    "id": 113,
+    "question": "Which of the following is a correct safety measure when giving a shower?",
+    "options": [
+      "Adjust water temperature after the resident enters",
+      "Leave confused residents alone in the shower",
+      "Adjust water temperature and pressure before the resident gets in",
+      "Use bath oils to prevent dry skin"
+    ],
+    "answer": "Adjust water temperature and pressure before the resident gets in",
+    "explanation": "Water temperature and pressure must be adjusted before the resident enters to prevent chilling or burning. Bath oils make surfaces slippery and should be avoided."
+  },
+  {
+    "id": 114,
+    "question": "Before the resident gets out of a tub bath, the CNA should:",
+    "options": [
+      "Help the resident stand while the tub is still full",
+      "Drain the tub and keep the resident covered",
+      "Remove the grab bars to give the resident more room",
+      "Leave the resident to drain the tub independently"
+    ],
+    "answer": "Drain the tub and keep the resident covered",
+    "explanation": "The tub must be drained before the resident gets out. Keep the resident covered to protect from exposure and chilling."
+  },
+  {
+    "id": 115,
+    "question": "What does alopecia mean?",
+    "options": [
+      "Dandruff",
+      "Hair loss",
+      "Lice infestation",
+      "Scalp inflammation"
+    ],
+    "answer": "Hair loss",
+    "explanation": "Alopecia means hair loss, which may be complete or partial. Causes include heredity, cancer treatments, stress, poor nutrition, and hormone changes."
+  },
+  {
+    "id": 116,
+    "question": "Pediculosis refers to an infestation of:",
+    "options": [
+      "Fungal spores",
+      "Dandruff flakes",
+      "Lice",
+      "Mites"
+    ],
+    "answer": "Lice",
+    "explanation": "Pediculosis is an infestation with lice — wingless insects that attach eggs (nits) to hair shafts. They spread through shared items and are treated with medicated shampoo."
+  },
+  {
+    "id": 117,
+    "question": "A CNA should NEVER do which of the following regarding a resident's hair?",
+    "options": [
+      "Braid long hair",
+      "Use a wide-tooth comb for curly hair",
+      "Cut the resident's hair",
+      "Apply conditioner as directed in the care plan"
+    ],
+    "answer": "Cut the resident's hair",
+    "explanation": "A CNA must NEVER cut a resident's hair. Braiding (with consent), using appropriate combs, and applying care plan products are all acceptable."
+  },
+  {
+    "id": 118,
+    "question": "Which oral hygiene condition should be reported to the nurse?",
+    "options": [
+      "Resident brushes teeth after meals",
+      "Resident's breath smells fruity",
+      "Resident wears dentures",
+      "Resident prefers mint toothpaste"
+    ],
+    "answer": "Resident's breath smells fruity",
+    "explanation": "Fruity-smelling breath can indicate a serious condition such as diabetic ketoacidosis and must be reported. Normal hygiene preferences do not require reporting."
+  },
+  {
+    "id": 119,
+    "question": "To prevent aspiration when providing oral care to an unconscious resident, you should:",
+    "options": [
+      "Position the resident flat on their back",
+      "Use large amounts of fluid to rinse the mouth",
+      "Position the resident on one side with head turned to the side",
+      "Insert dentures to keep the mouth open"
+    ],
+    "answer": "Position the resident on one side with head turned to the side",
+    "explanation": "Positioning on one side with the head turned allows excess fluid to run out of the mouth, preventing aspiration into the lungs."
+  },
+  {
+    "id": 120,
+    "question": "How should you store dentures when they are not being worn?",
+    "options": [
+      "Wrapped in a dry tissue or napkin",
+      "In a container with cool or warm water or denture solution",
+      "In hot water to sterilize them",
+      "On the bedside table uncovered"
+    ],
+    "answer": "In a container with cool or warm water or denture solution",
+    "explanation": "Dentures must be stored in cool or warm water or a denture soaking solution — hot water causes warping, and dry storage can also cause them to warp."
+  },
+  {
+    "id": 121,
+    "question": "When should a blade razor NOT be used to shave a resident?",
+    "options": [
+      "When the resident has a beard",
+      "When the resident is receiving anticoagulant therapy",
+      "When the resident is male",
+      "When the resident is in bed"
+    ],
+    "answer": "When the resident is receiving anticoagulant therapy",
+    "explanation": "Blade shavers are not used on residents receiving anticoagulant (blood-thinning) therapy because nicks or cuts could cause serious bleeding."
+  },
+  {
+    "id": 122,
+    "question": "Disposable razors and razor blades must be discarded in:",
+    "options": [
+      "Regular trash",
+      "Linen hamper",
+      "A sharps container",
+      "The toilet"
+    ],
+    "answer": "A sharps container",
+    "explanation": "Razor blades and disposable razors are sharps and must be discarded in a sharps container to prevent injury and infection."
+  },
+  {
+    "id": 123,
+    "question": "Why should nursing assistants NOT cut or trim a resident's toenails?",
+    "options": [
+      "It is not in the job description",
+      "Trimming toenails can easily result in injury, especially in residents with poor circulation",
+      "Toenails grow too slowly to need trimming",
+      "Residents always refuse toenail care"
+    ],
+    "answer": "Trimming toenails can easily result in injury, especially in residents with poor circulation",
+    "explanation": "Toenail trimming carries high risk of injury. For residents with diabetes or circulatory disorders, even minor wounds can lead to serious complications including gangrene. Toenails are trimmed by a podiatrist."
+  },
+  {
+    "id": 124,
+    "question": "What is the role of a podiatrist?",
+    "options": [
+      "Dental care specialist",
+      "Foot doctor",
+      "Skin care specialist",
+      "Physical therapist"
+    ],
+    "answer": "Foot doctor",
+    "explanation": "A podiatrist is a foot doctor. Toenail trimming in long-term care residents is the podiatrist's responsibility, not the CNA's."
+  },
+  {
+    "id": 125,
+    "question": "Which condition is a serious complication of foot injuries in residents with circulatory disorders?",
+    "options": [
+      "Dandruff",
+      "Alopecia",
+      "Gangrene",
+      "Pediculosis"
+    ],
+    "answer": "Gangrene",
+    "explanation": "Gangrene (death of body tissue) is a serious complication of foot injuries in elderly residents with circulatory disorders, diabetes, or vascular disease. Healing is prolonged when blood flow to the feet is poor."
   }
 ]

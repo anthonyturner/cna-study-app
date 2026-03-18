@@ -6,6 +6,7 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatExpansionModule } from '@angular/material/expansion';
 import { MatChipsModule } from '@angular/material/chips';
 import { MatBadgeModule } from '@angular/material/badge';
+import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
 import { CnaDataService, Topic } from '../../../shared/services/cna-data';
 
 export interface StudyDay {
@@ -56,10 +57,26 @@ export class StudyDays implements OnInit {
       subtitle: 'Environment, admission/discharge, isolation, bedmaking, aging, pain, end-of-life care, and personal care skills & bathing.',
       icon: 'bed',
       color: '#E65100'
+    },
+    {
+      day: 5,
+      title: 'Grooming & Personal Hygiene',
+      subtitle: 'AM & PM care, bathing, hair care, oral hygiene, denture care, shaving, and nail & foot care.',
+      icon: 'spa',
+      color: '#00695C'
     }
   ];
 
-  constructor(private dataService: CnaDataService) {}
+  constructor(private dataService: CnaDataService, private sanitizer: DomSanitizer) {}
+
+  safeUrl(url: string): SafeResourceUrl {
+    // Convert watch URL or short URL to embed URL
+    let embedUrl = url
+      .replace(/youtube\.com\/watch\?v=([^&]+).*/, 'youtube.com/embed/$1')
+      .replace(/youtu\.be\/([^?]+).*/, 'youtube.com/embed/$1');
+    if (!embedUrl.startsWith('http')) embedUrl = 'https://' + embedUrl;
+    return this.sanitizer.bypassSecurityTrustResourceUrl(embedUrl);
+  }
 
   ngOnInit(): void {
     this.dataService.getTopics().subscribe(topics => {

@@ -20,6 +20,17 @@
           <mat-panel-title>{{ section.heading }}</mat-panel-title>
         </mat-expansion-panel-header>
         <div class="section-content" [innerHTML]="formatContent(section.content)"></div>
+        <div class="video-block" *ngIf="section.videoTitle !== undefined">
+          <iframe *ngIf="section.videoUrl; else videoPlaceholder"
+            [src]="safeUrl(section.videoUrl)"
+            frameborder="0" allowfullscreen class="video-embed"></iframe>
+          <ng-template #videoPlaceholder>
+            <div class="video-placeholder">
+              <mat-icon>play_circle</mat-icon>
+              <span>{{ section.videoTitle }}</span>
+            </div>
+          </ng-template>
+        </div>
       </mat-expansion-panel>
     </mat-accordion>
   </div>

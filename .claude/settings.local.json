@@ -10,7 +10,9 @@
       "Bash(node -e \"const d = require\\(''./public/assets/data/quiz.json''\\); console.log\\(JSON.stringify\\(d.slice\\(-3\\), null, 2\\)\\)\")",
       "Bash(node add-glossary.js)",
       "Bash(node add-quiz.js)",
-      "Bash(node add-day4.js)"
+      "Bash(node add-day4.js)",
+      "Bash(rm add-day5.js)",
+      "Bash(npx ng:*)"
     ]
   }
 }

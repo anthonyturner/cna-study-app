@@ -838,5 +838,95 @@
     "term": "Mitered Corner",
     "definition": "A neat, secure method of tucking bed linens at the corners of the mattress to keep them tight and smooth. Used when making both occupied and unoccupied beds. A properly mitered corner prevents loose linens that can cause skin irritation or injury.",
     "category": "Patient Care"
+  },
+  {
+    "id": 141,
+    "term": "AM Care",
+    "definition": "Routine personal care given before breakfast to prepare the resident for the day; includes oral hygiene, washing, hair care, and positioning.",
+    "category": "Personal Care"
+  },
+  {
+    "id": 142,
+    "term": "PM Care (HS Care)",
+    "definition": "Care given at bedtime (hour of sleep) to promote comfort and relaxation before sleep; includes hygiene, linen change, and back massage.",
+    "category": "Personal Care"
+  },
+  {
+    "id": 143,
+    "term": "Alopecia",
+    "definition": "Hair loss that may be complete or partial; caused by heredity, cancer treatments, stress, poor nutrition, certain drugs, or hormone changes.",
+    "category": "Personal Care"
+  },
+  {
+    "id": 144,
+    "term": "Pediculosis",
+    "definition": "Infestation with lice — wingless insects that attach eggs (nits) to hair shafts; spread through shared items and treated with medicated shampoo.",
+    "category": "Personal Care"
+  },
+  {
+    "id": 145,
+    "term": "Dandruff",
+    "definition": "Excessive shedding of dry, white flakes from the scalp, often with itching; corrected with medicated shampoos.",
+    "category": "Personal Care"
+  },
+  {
+    "id": 146,
+    "term": "Oral Hygiene",
+    "definition": "Mouth care that keeps the mouth and teeth clean, prevents odors and infection, and reduces risk of cavities and periodontal disease.",
+    "category": "Personal Care"
+  },
+  {
+    "id": 147,
+    "term": "Periodontal Disease",
+    "definition": "Gum disease caused by plaque and tartar buildup; leads to red, swollen, bleeding gums, bone destruction, and tooth loss.",
+    "category": "Medical Terms"
+  },
+  {
+    "id": 148,
+    "term": "Plaque",
+    "definition": "A thin film of saliva, microbes, and other substances that sticks to teeth and causes tooth decay (cavities).",
+    "category": "Medical Terms"
+  },
+  {
+    "id": 149,
+    "term": "Tartar",
+    "definition": "Hardened plaque that builds up at the gum line; causes periodontal disease and gum inflammation.",
+    "category": "Medical Terms"
+  },
+  {
+    "id": 150,
+    "term": "Aspiration",
+    "definition": "Breathing fluid, food, vomitus, or an object into the lungs; can cause pneumonia and death; a key risk for unconscious residents.",
+    "category": "Medical Terms"
+  },
+  {
+    "id": 151,
+    "term": "Denture",
+    "definition": "An artificial tooth or set of artificial teeth (false teeth) that replace missing teeth due to gum disease, decay, or injury.",
+    "category": "Personal Care"
+  },
+  {
+    "id": 152,
+    "term": "Partial Denture",
+    "definition": "A removable dental appliance that replaces missing teeth when some natural teeth remain.",
+    "category": "Personal Care"
+  },
+  {
+    "id": 153,
+    "term": "Podiatrist",
+    "definition": "A foot doctor who specializes in foot care; nursing assistants must not cut or trim toenails — this is the podiatrist's role.",
+    "category": "Medical Terms"
+  },
+  {
+    "id": 154,
+    "term": "Ingrown Nail",
+    "definition": "A nail that grows into the surrounding skin, causing pain and potential infection; a portal of entry for microbes.",
+    "category": "Personal Care"
+  },
+  {
+    "id": 155,
+    "term": "Gangrene",
+    "definition": "Death of body tissue, usually due to poor blood supply or infection; a serious complication of foot injuries in residents with circulatory disorders or diabetes.",
+    "category": "Medical Terms"
   }
 ]

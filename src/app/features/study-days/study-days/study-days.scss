@@ -237,6 +237,42 @@
   margin-bottom: 8px;
 }
 
+// ── Video block ───────────────────────────────────────────────
+.video-block {
+  margin-top: 20px;
+}
+
+.video-embed {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: 10px;
+  border: none;
+}
+
+.video-placeholder {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #F0F4FA;
+  border: 2px dashed #BDC8DC;
+  border-radius: 10px;
+  padding: 16px 20px;
+  color: #6B7A99;
+
+  mat-icon {
+    font-size: 32px;
+    height: 32px;
+    width: 32px;
+    color: #1565C0;
+    opacity: 0.6;
+  }
+
+  span {
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+}
+
 // ── Topic detail (reused from topics page style) ─────────
 .back-btn {
   display: flex;

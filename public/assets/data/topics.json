@@ -886,5 +886,145 @@
       }
     ],
     "unit": "Unit III Personal Care Skills"
+  },
+  {
+    "id": "am-pm-care",
+    "title": "AM & PM Care",
+    "icon": "wb_twilight",
+    "color": "#0277BD",
+    "summary": "Morning and evening care routines that prepare residents for the day and promote comfort before sleep.",
+    "day": 5,
+    "sections": [
+      {
+        "heading": "AM Care Overview",
+        "content": "AM care is routine care given before breakfast to get residents ready for the day. It may be given by the night shift or day shift. AM care measures include: assisting residents to the bathroom or offering commodes, bedpans, or urinals. Cleaning incontinent residents and changing any wet or soiled linen. Helping residents wash their faces and hands. Assisting with oral hygiene. Positioning residents in bed or in a chair for breakfast. Brushing and combing hair. Straightening bed linens. Straightening the resident's room."
+      },
+      {
+        "heading": "PM Care Overview",
+        "content": "PM care (also called HS care — hour of sleep) is care given at bedtime to promote comfort and relaxation before sleep. PM care measures include: assisting residents to the bathroom or offering commodes, bedpans, or urinals. Cleaning incontinent residents and changing any wet or soiled linen. Helping residents wash their faces and hands. Assisting with oral hygiene. Changing damp or soiled linens and straightening all other linens. Assisting the resident to undress and put on a gown or pajamas. Giving a back massage. Straightening the resident's room."
+      },
+      {
+        "heading": "Incontinent Care During Routine",
+        "content": "Incontinent residents require extra attention during both AM and PM care. Wet or soiled linen must be changed immediately to prevent skin breakdown and infection. Clean the resident thoroughly and apply barrier cream as indicated in the care plan. Always maintain the resident's dignity and privacy during incontinent care. Report any skin redness, irritation, or breakdown to the nurse."
+      }
+    ]
+  },
+  {
+    "id": "shower-tub-bath",
+    "title": "Shower, Tub & Partial Bath",
+    "icon": "shower",
+    "color": "#00838F",
+    "summary": "Safety measures and procedures for giving showers, tub/whirlpool baths, and partial bed baths.",
+    "day": 5,
+    "sections": [
+      {
+        "heading": "Shower Safety Measures",
+        "content": "Key safety rules for showers: Make sure the shower is clean before and after use. Make sure the floor of the shower room is dry. Place a bath mat on the floor unless there are non-skid strips or a nonskid floor. Cover the resident for warmth and privacy, including during transport to and from the shower room. Place needed items within reach of the resident, including the call light. Adjust water temperature and pressure before the resident gets into the shower to avoid chilling or burning the resident. If the resident uses a shower chair, position the chair before adjusting the water. Use the hand-held nozzle to direct water away from the resident. Avoid using bath oils — they make shower surfaces slippery. Do not leave weak, unsteady, or confused residents alone. Stay within hearing distance if the resident can be left alone.",
+        "videoTitle": "Tub and Shower",
+        "videoUrl": ""
+      },
+      {
+        "heading": "Tub and Whirlpool Safety Measures",
+        "content": "Key safety rules for tub and whirlpool baths: Make sure the tub is clean before and after use. Make sure the floor of the bathroom is dry. Place a bath mat on the floor unless there are non-skid strips or a nonskid floor. Cover the resident for warmth and privacy, including during transport. Place needed items within reach of the resident, including the call light. Check that grab bars, hydraulic lifts, and other safety aids are in working order. Drain the tub before the resident gets out — keep the resident covered to protect from exposure and chilling. Have the resident use safety bars when getting into and out of the tub. Avoid using bath oils — they make tub surfaces slippery. Do not leave weak, unsteady, or confused residents alone. Stay within hearing distance if the resident can be left alone.",
+        "videoTitle": "Tub and Shower",
+        "videoUrl": ""
+      },
+      {
+        "heading": "Partial Bed Bath",
+        "content": "A partial bed bath involves bathing only certain areas of the body. Areas bathed include: Face. Hands. Arms and armpits (axillae). Chest. Abdomen. Back. Perineal area. Buttocks. A partial bed bath may be given to refresh the resident, remove odor, and prevent skin breakdown. It is used when a full bath is not possible or necessary. Follow beginning and ending steps for all procedures. Maintain privacy and dignity throughout.",
+        "videoTitle": "Provide Partial Bed Bath and Backrub",
+        "videoUrl": "https://www.youtube.com/watch?v=wSQ_HycGge4&t=9s"
+      }
+    ]
+  },
+  {
+    "id": "hair-care-grooming",
+    "title": "Hair Care & Grooming",
+    "icon": "face",
+    "color": "#6A1B9A",
+    "summary": "Grooming overview, hair and scalp conditions, brushing, combing, and shampooing techniques.",
+    "day": 5,
+    "sections": [
+      {
+        "heading": "Overview of Grooming",
+        "content": "Hair care, shaving, nail and foot care, and clean garments prevent infection and promote comfort. Such measures affect love, belonging, and self-esteem needs. People differ in their grooming measures — some only want clean hair while others want a certain hairstyle; some want only clean hands while others want polished nails. Men may shave and groom their beards. Women may shave their legs and underarms. Some women use hair removal methods for facial hair. Allow the resident to perform grooming measures to the extent possible — this promotes independence and quality of life. The nursing process reflects the person's culture, personal choice, skin and scalp conditions, health history, and self-care ability."
+      },
+      {
+        "heading": "Hair and Scalp Conditions",
+        "content": "Common hair and scalp conditions: Alopecia — hair loss that may be complete or partial; causes include heredity (male pattern baldness), cancer treatments, skin disease, stress, poor nutrition, pregnancy, some drugs, and hormone changes. Dandruff — excessive dry white flakes from the scalp; itching is common; sometimes eyebrows and ear canals are involved; medicated shampoos correct the problem. Pediculosis (Lice) — infestation with wingless insects; lice attach their eggs (nits) to hair shafts; nits are oval and yellow to white in color, hatching in about 1 week; adult lice are tan to grayish-white and about the size of a sesame seed; lice spread through clothing, head coverings, furniture, towels, bed linens, and sexual contact; treated with medicated shampoo, lotions, and creams; thorough bathing and washing clothing and linens in hot water are required. Report open areas, crusts, dandruff, or unusual hair loss to the nurse."
+      },
+      {
+        "heading": "Brushing and Combing Hair",
+        "content": "Brushing and combing hair are part of morning care; some people also do so at bedtime. Provide hair care when needed and before visitors arrive. Encourage residents to do their own hair care — the resident chooses how to brush, comb, and style; assist as needed. Brushing increases blood flow to the scalp and brings scalp oils along the hair shaft to keep hair soft and shiny. Daily brushing and combing prevent tangled and matted hair. Start at the hair ends, then work toward the scalp. For curly, coarse, and dry hair use a wide-tooth comb; start at the neckline, working upward, lift and fluff hair outward. Wet hair or apply conditioner, petroleum jelly, or other hair care product as per the care plan. Braiding prevents long hair from matting and tangling — you need the resident's consent. NEVER cut the resident's hair. Report matted or tangled hair to the nurse.",
+        "videoTitle": "Hair Care and Shampooing",
+        "videoUrl": ""
+      },
+      {
+        "heading": "Shampooing",
+        "content": "Shampoo frequency varies — 1, 2, or 3 times a week or daily depending on hair and scalp condition, hairstyle, and personal choice. The nurse tells you what shampoo method to use based on the resident's condition, safety factors, and personal choice. Shampoo methods include: During shower or tub bath — use a hand-held nozzle directed at the hair. At the sink — resident sits or lies facing away from the sink; a folded towel protects the neck; use a water pitcher or hand-held nozzle to wet and rinse. In bed — resident's head and shoulders are at the edge of the bed; a shampoo tray is under the head to protect linens; tray drains into a basin on a chair; use a water pitcher; used for residents needing complete bed rest. Commercial shampoo caps — contain a cleaning agent that does not need rinsing; warm the cap per manufacturer's instructions; check temperature; apply to head; massage gently for 1 to 3 minutes; remove cap; dry and comb hair. If a hairdresser does the shampooing, do not shampoo the hair — the resident wears a shower cap during the shower.",
+        "videoTitle": "Hair Care and Shampooing",
+        "videoUrl": ""
+      }
+    ]
+  },
+  {
+    "id": "oral-hygiene-dental",
+    "title": "Oral Hygiene & Denture Care",
+    "icon": "health_and_safety",
+    "color": "#2E7D32",
+    "summary": "Mouth care, periodontal disease prevention, care for unconscious residents, and denture cleaning and storage.",
+    "day": 5,
+    "sections": [
+      {
+        "heading": "Oral Hygiene Benefits and Risks",
+        "content": "Oral hygiene (mouth care) keeps the mouth and teeth clean, prevents mouth odors and infections, increases comfort, makes food taste better, and reduces the risk for cavities and periodontal disease. Periodontal disease (gum disease) is an inflammation of tissues around the teeth caused by plaque and tartar buildup. Plaque is a thin film containing saliva, microbes, and other substances that causes tooth decay (cavities). Hardened plaque is called tartar — it builds up at the gum line, causes red and swollen gums that bleed easily, destroys bone, and leads to tooth loss. Illness, disease, and some drugs cause a bad taste in the mouth, whitish coating on the tongue, redness and swelling in the mouth, and dry mouth. Dry mouth is also common from oxygen, smoking, decreased fluid intake, and anxiety. Follow Standard Precautions — you may have contact with mucous membranes and gums may bleed during mouth care."
+      },
+      {
+        "heading": "When and How Often to Provide Mouth Care",
+        "content": "Assist with oral hygiene after sleep, after meals, and at bedtime. Many people practice oral hygiene before meals. Some residents need mouth care every 2 hours or more often. Conditions requiring more frequent mouth care include: unconscious residents, dying residents, and residents with tube feedings. Report these conditions to the nurse: irritation, raised areas, coated or swollen tongue, ulcers (canker sores — small, painful, white sores), flaky white spots, dry or cracked or bleeding or chapped lips, loose or chipped or broken or decayed teeth, swollen or irritated or bleeding or whitish gums, breath that smells bad or fruity, and resident reports of mouth pain.",
+        "videoTitle": "Performing Mouth Care with Teeth",
+        "videoUrl": "https://www.youtube.com/watch?v=5ngjjs4Pumc"
+      },
+      {
+        "heading": "Oral Care for the Unconscious Resident",
+        "content": "Unconscious residents cannot eat or drink. Some breathe with their mouths open and many receive oxygen — these factors cause mouth dryness and crusting on the tongue and mucous membranes. Oral hygiene keeps the mouth clean and moist and helps prevent infection. Use sponge swabs to apply the cleaning agent. Apply a lubricant to the lips after cleaning to prevent cracking. To prevent aspiration (breathing fluid, food, vomitus, or an object into the lungs): position the resident on one side with the head turned well to the side so excess fluid runs out of the mouth; use only a small amount of fluid to clean the mouth; do not insert dentures — they are not worn when the resident is unconscious. Always assume that unconscious residents can hear — explain what you are doing step-by-step, and tell the resident when you are done, leaving, and when you will return."
+  
+      },
+      {
+        "heading": "Denture Care",
+        "content": "A denture is an artificial tooth or set of artificial teeth (false teeth) that replace missing teeth due to gum disease, tooth decay, or injury. Full dentures replace all upper or lower teeth; partial dentures replace missing teeth when some natural teeth remain. Mouth care is given and dentures cleaned as often as natural teeth. Dentures are slippery when wet and easily break or chip if dropped. Hold them firmly when removing or inserting them. During cleaning, hold them firmly over a basin of water lined with a towel. Hot water causes dentures to warp — store in cool or warm water or denture soaking solution when not worn. Dentures are usually removed at bedtime; rinse before reinserting. Remind residents not to wrap dentures in tissues or napkins — they are easily discarded. Privacy is important — allow privacy when the resident cleans dentures and return them as quickly as possible.",
+        "videoTitle": "Perform Denture Care",
+        "videoUrl": "https://www.youtube.com/watch?v=5ngjjs4Pumc"
+      }
+    ]
+  },
+  {
+    "id": "shaving-nail-foot-care",
+    "title": "Shaving, Nail & Foot Care",
+    "icon": "content_cut",
+    "color": "#E65100",
+    "summary": "Safe shaving techniques, hand and nail care, and foot care including when to involve a podiatrist.",
+    "day": 5,
+    "unit": "Unit III Personal Care Skills",
+    "sections": [
+      {
+        "heading": "Shaving a Resident",
+        "content": "Many men want a clean-shaven face for comfort and mental well-being. Female residents may wish to have their legs and underarms shaved periodically. Some women need facial hair removed — this is a dignity issue; do not shave a woman's facial hair unless she requests it. Some residents use electric shavers, which are cleaned between uses. Other residents prefer blade shavers — razor blades can cause nicks or cuts; follow Universal Precautions. Razor blades and disposable razors are discarded into a sharps container. Blade shavers are NOT used on residents receiving anticoagulant therapy. Razors should never be shared between residents. Report these observations to the nurse: nicks or cuts that do not stop bleeding, open areas or sores, rashes, skin irritation or redness.",
+        "videoTitle": "Shaving a Male Patient",
+        "videoUrl": ""
+      },
+      {
+        "heading": "Hand and Nail Care",
+        "content": "Hangnails, ingrown nails, and nails torn away from the skin cause skin breaks that are portals of entry for microbes. Long or broken nails can scratch skin or snag clothing. Cleaning and trimming fingernails are easier after soaking. Use nail clippers to cut fingernails — never use scissors. Be careful not to damage surrounding tissue when clipping. The same nail equipment should not be used on more than one resident. Report these observations: reddened, irritated, or calloused areas; breaks in the skin; changes in color of the skin or nails; hot or cold hands.",
+        "videoTitle": "Hand and Nail Care",
+        "videoUrl": "https://www.youtube.com/watch?v=-pNN6EjJqnA&t=1s"
+      },
+      {
+        "heading": "Foot Care",
+        "content": "Healthy feet are important for mobility and comfort. Hangnails, ingrown nails, and nails torn away from the skin cause skin breaks that are portals of entry for microbes. Dirty feet, socks, or stockings harbor microbes and cause odors. Shoes and socks provide a warm, moist environment for the growth of microbes. Injuries to the feet occur from stubbing toes, stepping on sharp objects, being stepped on, and poorly fitting shoes that cause blisters. Healing is prolonged in residents with poor circulation due to diabetes or vascular disease. Infections or foot injuries are particularly serious for elderly residents with circulatory disorders — gangrene and amputation are serious complications. Trimming and clipping toenails can easily result in injury — nursing assistants should NOT cut or trim toenails; toenails are trimmed by a Podiatrist (foot doctor). Report: reddened, irritated, or calloused areas; breaks in the skin; changes in color of the skin or nails; hot or cold feet.",
+        "videoTitle": "Provide Foot Care",
+        "videoUrl": "https://www.youtube.com/watch?v=KY5LBMSAcIc&t=3s"
+      }
+    ]
   }
 ]
