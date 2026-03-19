@@ -23,6 +23,24 @@
           <mat-panel-title>{{ section.heading }}</mat-panel-title>
         </mat-expansion-panel-header>
         <div class="section-content" [innerHTML]="formatContent(section.content)"></div>
+        <div class="section-table-block" *ngIf="section.table">
+          <p *ngIf="section.table.caption" class="table-caption">{{ section.table.caption }}</p>
+          <table class="section-table">
+            <thead>
+              <tr>
+                <th *ngFor="let h of section.table.headers">{{ h }}</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let row of section.table.rows">
+                <td *ngFor="let cell of row">{{ cell }}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="section-image-block" *ngIf="section.imageUrl">
+          <img [src]="section.imageUrl" [alt]="section.heading" class="section-image" loading="lazy" />
+        </div>
         <div class="video-block" *ngIf="section.videoTitle !== undefined">
           <iframe *ngIf="section.videoUrl; else videoPlaceholder"
             [src]="safeUrl(section.videoUrl)"

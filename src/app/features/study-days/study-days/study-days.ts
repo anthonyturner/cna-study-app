@@ -64,6 +64,13 @@ export class StudyDays implements OnInit {
       subtitle: 'AM & PM care, bathing, hair care, oral hygiene, denture care, shaving, and nail & foot care.',
       icon: 'spa',
       color: '#00695C'
+    },
+    {
+      day: 6,
+      title: 'Body Systems, Elimination & Specimen Collection',
+      subtitle: 'Dressing, urinary system, reproductive system, perineal care, catheter care, digestive disorders, and specimen collection.',
+      icon: 'biotech',
+      color: '#0277BD'
     }
   ];
 

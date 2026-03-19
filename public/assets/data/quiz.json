@@ -1608,5 +1608,185 @@
     ],
     "answer": "Gangrene",
     "explanation": "Gangrene (death of body tissue) is a serious complication of foot injuries in elderly residents with circulatory disorders, diabetes, or vascular disease. Healing is prolonged when blood flow to the feet is poor."
+  },
+  {
+    "id": 126,
+    "question": "When dressing a resident with a weak (affected) arm, which arm goes through the sleeve first?",
+    "options": [
+      "The stronger arm",
+      "The affected (weaker) arm",
+      "Either arm — it does not matter",
+      "The arm closest to you"
+    ],
+    "answer": 1,
+    "explanation": "The weaker (affected) arm goes through the sleeve first when dressing, making it easier. When undressing, start with the stronger (unaffected) side."
+  },
+  {
+    "id": 127,
+    "question": "Which of the following is NOT a part of the urinary system?",
+    "options": [
+      "Kidneys",
+      "Ureters",
+      "Gallbladder",
+      "Urethra"
+    ],
+    "answer": 2,
+    "explanation": "The gallbladder is part of the digestive system. The urinary system consists of 2 kidneys, 2 ureters, the bladder, and the urethra."
+  },
+  {
+    "id": 128,
+    "question": "A resident complains of painful, burning urination and has cloudy, foul-smelling urine. What should the CNA suspect and report?",
+    "options": [
+      "Fecal impaction",
+      "Urinary tract infection (UTI)",
+      "Renal failure",
+      "BPH"
+    ],
+    "answer": 1,
+    "explanation": "Painful urination (dysuria), cloudy urine, and foul odor are classic signs of a UTI. The CNA should report these observations to the nurse promptly."
+  },
+  {
+    "id": 129,
+    "question": "What is the proper position for a urinary catheter drainage bag?",
+    "options": [
+      "At the same level as the bladder",
+      "Above the level of the bladder",
+      "Below the level of the bladder, not touching the floor",
+      "On the floor to allow gravity drainage"
+    ],
+    "answer": 2,
+    "explanation": "The drainage bag must always be lower than the bladder to allow urine to drain by gravity, and must never touch the floor to prevent contamination."
+  },
+  {
+    "id": 130,
+    "question": "What is a Foley catheter?",
+    "options": [
+      "A catheter inserted to drain the bladder and then removed immediately",
+      "An external catheter worn over the penis",
+      "An indwelling catheter held in place by an inflated balloon",
+      "A catheter used only for specimen collection"
+    ],
+    "answer": 2,
+    "explanation": "A Foley catheter (indwelling/retention catheter) is left in the bladder and held in place by a balloon inflated near the tip so urine drains continuously."
+  },
+  {
+    "id": 131,
+    "question": "Perineal care should be performed:",
+    "options": [
+      "Only when ordered by the nurse",
+      "Once a week during the bath",
+      "At least daily during the bath and whenever the area is soiled",
+      "Only when the resident reports discomfort"
+    ],
+    "answer": 2,
+    "explanation": "Perineal care is performed at least daily during bathing and whenever the area is soiled with urine or feces to prevent infection and promote comfort."
+  },
+  {
+    "id": 132,
+    "question": "What is menopause?",
+    "options": [
+      "A urinary condition in older women",
+      "When a female permanently stops having menstrual periods",
+      "A type of vaginitis",
+      "Decreased kidney function in women"
+    ],
+    "answer": 1,
+    "explanation": "Menopause is when a female permanently stops having menstrual periods. It is associated with decreased estrogen, which can lead to bone loss and osteoporosis."
+  },
+  {
+    "id": 133,
+    "question": "A fecal impaction is best described as:",
+    "options": [
+      "Frequent passage of liquid stools",
+      "Prolonged retention and buildup of hardened feces in the rectum",
+      "Involuntary loss of stool",
+      "Surgical creation of an artificial opening in the colon"
+    ],
+    "answer": 1,
+    "explanation": "A fecal impaction is the prolonged retention and buildup of feces in the rectum. The person cannot have a bowel movement, and liquid stool may seep around the hardened mass."
+  },
+  {
+    "id": 134,
+    "question": "GERD stands for:",
+    "options": [
+      "Gastric Esophageal Reflux Disorder",
+      "Gastroesophageal Reflux Disease",
+      "Gastric Enzyme Reduction Disorder",
+      "Gastrointestinal Elimination Reflux Disease"
+    ],
+    "answer": 1,
+    "explanation": "GERD stands for Gastroesophageal Reflux Disease — a chronic condition where stomach contents back up into the esophagus, causing heartburn and potential damage."
+  },
+  {
+    "id": 135,
+    "question": "When caring for a resident's hearing aid, the CNA should:",
+    "options": [
+      "Leave it on at all times including during sleep",
+      "Turn it off and remove the battery at night",
+      "Clean it with alcohol daily",
+      "Store it in water overnight"
+    ],
+    "answer": 1,
+    "explanation": "Hearing aids should be turned off and the battery removed at night. Clean the ear mold with soap and water daily and dry thoroughly."
+  },
+  {
+    "id": 136,
+    "question": "A colostomy stoma is:",
+    "options": [
+      "A type of catheter",
+      "An artificial opening created between the colon and abdominal wall",
+      "A surgical procedure to remove the bladder",
+      "A type of enema"
+    ],
+    "answer": 1,
+    "explanation": "A colostomy stoma is the artificial opening (surgically created) between the colon and abdominal wall through which feces exit the body."
+  },
+  {
+    "id": 137,
+    "question": "Which type of urine specimen requires cleaning the perineal area before collection?",
+    "options": [
+      "Random urine specimen",
+      "Clean catch urine specimen",
+      "Routine urinalysis",
+      "Catheter specimen"
+    ],
+    "answer": 1,
+    "explanation": "A clean catch urine specimen requires cleaning the perineal area first to reduce the number of microbes in the specimen, making results more accurate."
+  },
+  {
+    "id": 138,
+    "question": "Benign Prostatic Hypertrophy (BPH) primarily affects:",
+    "options": [
+      "Kidney function",
+      "Urination due to prostate enlargement pressing on the urethra",
+      "Female reproductive organs",
+      "The bladder's ability to store urine"
+    ],
+    "answer": 1,
+    "explanation": "BPH is the enlargement of the prostate gland that presses on the urethra, causing frequent urination, dribbling, difficulty starting urine flow, and risk of urinary retention."
+  },
+  {
+    "id": 139,
+    "question": "When checking an artificial limb (prosthesis) upon removal, the CNA should look for:",
+    "options": [
+      "Proper labeling and color",
+      "Reddened areas on the stump; notify the nurse of sores or drainage",
+      "Whether the prosthesis is the correct size",
+      "Signs that the resident has been walking on it"
+    ],
+    "answer": 1,
+    "explanation": "When removing a prosthesis, check the stump for reddened areas, sores, or drainage and notify the nurse. Do not allow the resident to walk with the prosthesis if the stump is hitting the bottom."
+  },
+  {
+    "id": 140,
+    "question": "Sputum is best described as:",
+    "options": [
+      "Urine produced by the kidneys",
+      "Mucus from the respiratory tract expelled through the mouth",
+      "Stool specimens collected for testing",
+      "Fluid drained from a catheter bag"
+    ],
+    "answer": 1,
+    "explanation": "Sputum is mucus produced by the respiratory system (lungs, bronchi, trachea) and expelled through the mouth. Sputum specimens are analyzed for blood, microbes, and abnormal cells."
   }
 ]

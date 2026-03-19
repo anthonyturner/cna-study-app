@@ -988,7 +988,6 @@
       {
         "heading": "Oral Care for the Unconscious Resident",
         "content": "Unconscious residents cannot eat or drink. Some breathe with their mouths open and many receive oxygen — these factors cause mouth dryness and crusting on the tongue and mucous membranes. Oral hygiene keeps the mouth clean and moist and helps prevent infection. Use sponge swabs to apply the cleaning agent. Apply a lubricant to the lips after cleaning to prevent cracking. To prevent aspiration (breathing fluid, food, vomitus, or an object into the lungs): position the resident on one side with the head turned well to the side so excess fluid runs out of the mouth; use only a small amount of fluid to clean the mouth; do not insert dentures — they are not worn when the resident is unconscious. Always assume that unconscious residents can hear — explain what you are doing step-by-step, and tell the resident when you are done, leaving, and when you will return."
-  
       },
       {
         "heading": "Denture Care",
@@ -1024,6 +1023,226 @@
         "content": "Healthy feet are important for mobility and comfort. Hangnails, ingrown nails, and nails torn away from the skin cause skin breaks that are portals of entry for microbes. Dirty feet, socks, or stockings harbor microbes and cause odors. Shoes and socks provide a warm, moist environment for the growth of microbes. Injuries to the feet occur from stubbing toes, stepping on sharp objects, being stepped on, and poorly fitting shoes that cause blisters. Healing is prolonged in residents with poor circulation due to diabetes or vascular disease. Infections or foot injuries are particularly serious for elderly residents with circulatory disorders — gangrene and amputation are serious complications. Trimming and clipping toenails can easily result in injury — nursing assistants should NOT cut or trim toenails; toenails are trimmed by a Podiatrist (foot doctor). Report: reddened, irritated, or calloused areas; breaks in the skin; changes in color of the skin or nails; hot or cold feet.",
         "videoTitle": "Provide Foot Care",
         "videoUrl": "https://www.youtube.com/watch?v=KY5LBMSAcIc&t=3s"
+      }
+    ]
+  },
+  {
+    "id": "dressing-undressing",
+    "title": "Dressing & Undressing",
+    "summary": "Proper techniques for assisting residents with dressing and undressing, including adaptive equipment and prosthesis care.",
+    "icon": "checkroom",
+    "color": "#0277BD",
+    "unit": "Unit III Personal Care Skills",
+    "day": 6,
+    "sections": [
+      {
+        "heading": "Overview of Dressing",
+        "content": "Some residents may need help dressing, including those with physical impairments. Residents wear street clothing during the day and change into a gown or pajamas for bed. Incontinent residents may change more often. Your goal is to make the dressing experience a positive one. Allow and encourage the resident to be involved as much as possible. Respect the resident's right to choose their own clothing. For residents with impaired decision-making, offer a choice between two appropriate outfits.",
+        "videoTitle": "Dress a Resident with a Weak Arm",
+        "videoUrl": "https://www.youtube.com/watch?v=Ih4F8qRGrlw"
+      },
+      {
+        "heading": "Clothing and Affected Side Rule",
+        "content": "Daywear for women: bra, undergarment, slip or camisole, dress or pant outfit, stockings or socks, and non-skid shoes. Men: boxer shorts or briefs, undershirt, pants, shirt, socks, and non-skid shoes. Nightwear: gown or pajamas with non-skid socks. Residents may have a weaker side of the body due to stroke or injury — called the affected side. Never refer to it as the bad side. When dressing, place the weaker arm through a sleeve first, then help with the stronger arm. When undressing, start with the stronger (unaffected) side first. For weak legs, have the resident sit down to pull pants over both legs."
+      },
+      {
+        "heading": "Adaptive Equipment",
+        "content": "Dressing can be adapted to promote independence by utilizing adaptive clothing or devices when part of the resident's care plan. Devices may include: Shoe horn — assists with putting on shoes. Dressing Stick — helps pull clothing over limbs. Reacher — extends reach for items. Sock Aid — assists in donning socks without bending. Button Hook — aids in fastening buttons. Residents who need minimal assistance benefit from having clothing and devices laid out on the bed or easily available in closets."
+      },
+      {
+        "heading": "Glasses and Hearing Aids",
+        "content": "Glasses — when taking on and off, hold carefully at the temples with both hands. Never grab by the lenses. Keep in protective case when not worn. Rinse with warm water before cleaning, then use a soft cloth. Hearing Aids — amplify sound to help residents hear better, but also amplify background noise. Care: clean the ear mold with soap and water daily and dry thoroughly. Turn to the Off position when not in use. Remove the battery at night. Check that batteries are inserted correctly.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Hearing_aid_20080620.jpg"
+      },
+      {
+        "heading": "Artificial Limb (Prosthesis) Care",
+        "content": "A prosthesis should fit snugly with no room for movement up and down. When removing the prosthesis, look for reddened areas on the stump. Notify the nurse of any sores, drainage, or very red areas. The resident should have no sensation of the stump hitting the bottom of the prosthesis while standing or walking. Do not allow the resident to walk with the prosthesis if this occurs until the problem is resolved. If the prosthesis liner or sock becomes wet or soiled, do not allow the resident to use it until dry.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Artificial_left_leg_Wellcome_L0037215.jpg"
+      }
+    ]
+  },
+  {
+    "id": "urinary-system-care",
+    "title": "The Urinary System",
+    "summary": "Anatomy and function of the urinary system, age-related changes, common conditions including UTI, incontinence, and renal failure.",
+    "icon": "water_drop",
+    "color": "#0277BD",
+    "unit": "Unit III Personal Care Skills",
+    "day": 6,
+    "sections": [
+      {
+        "heading": "Urinary System Anatomy",
+        "content": "The Urinary System includes: 2 Kidneys — filter blood and fluids, remove waste products, form urine, regulate water excretion, maintain fluid balance. 2 Ureters — carry urine from the kidneys to the bladder. Bladder — collects and holds urine until it is released. Urethra — urine is eliminated from the body through the urethra.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Urinary_system.svg"
+      },
+      {
+        "heading": "Age-Related Changes",
+        "content": "Kidney function decreases with age. Reduced blood supply to kidneys. Kidneys atrophy. Bladder tissue becomes less able to stretch. Bladder muscles weaken. Bladder may not empty completely. Urinary frequency and urgency may occur. Urinary incontinence may occur. Night-time urination (nocturia) may increase.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/KidneyStructures_PioM.svg"
+      },
+      {
+        "heading": "Urinary Tract Infections (UTI)",
+        "content": "UTIs are caused by a microorganism entering and infecting the system. More common in women due to a shorter urethra. Causes: catheter placement, contamination of vaginal area with fecal matter, backflow of urine from indwelling catheter, poor perineal hygiene, immobility, poor fluid intake. Signs and symptoms: urinary frequency, oliguria (scant urine), urgency, dysuria (painful urination), hematuria (blood in urine), cloudy urine, urine odor, lower abdominal discomfort, pelvic pain in women, rectal pain in men, changes in mood or behavior."
+      },
+      {
+        "heading": "Renal Failure & Common Elimination Problems",
+        "content": "Renal Failure — kidneys do not function or are severely impaired. Waste products accumulate in the blood. Fluid is retained. Heart failure and hypertension can result. Acute renal failure is sudden (severe injury, bleeding, heart attack). Chronic Kidney Disease (CKD) — kidney function is gradually lost over years; caused by hypertension and diabetes. Signs of CKD: nausea, vomiting, fatigue, sleep problems, decreased urine output, muscle cramps. Common elimination problems: dysuria (painful urination), hematuria (blood in urine), nocturia (frequent night urination), urgency, frequency, incontinence (inability to control urine loss)."
+      }
+    ]
+  },
+  {
+    "id": "reproductive-system",
+    "title": "The Reproductive System",
+    "summary": "Female and male reproductive anatomy, age-related changes, and common disorders including vaginitis, BPH, and prostate cancer.",
+    "icon": "people",
+    "color": "#0277BD",
+    "unit": "Unit III Personal Care Skills",
+    "day": 6,
+    "sections": [
+      {
+        "heading": "Female Reproductive Anatomy",
+        "content": "Ovaries (2) — almond-shaped glands that produce the ovum (egg), secrete estrogen and progesterone, and release the ovum during ovulation. Fallopian Tubes (2) — guide the ovum into the uterus where it may be fertilized. Uterus — hollow, pear-shaped muscular organ in the pelvic cavity; provides for growth and nourishment of the fetus during pregnancy. Vagina — muscular tube extending from the vaginal opening to the cervix; receives the penis during fertilization and serves as the birth canal. External genitalia (vulva) — includes the labia and clitoris. Breasts (2) — mammary glands that produce milk after birth.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Scheme_female_reproductive_system-en.svg"
+      },
+      {
+        "heading": "Male Reproductive Anatomy",
+        "content": "Penis — cylinder-shaped organ made of erectile tissue that becomes enlarged with sexual arousal. Testicles (2, testes) — produce sperm cells and seminal fluid. Scrotum — sac that contains the testes. Seminal Vesicles (2) — store sperm and secrete fluid added to semen. Prostate Gland — adds a secretion that increases the movement of sperm cells.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Human_male_reproductive_system_en.svg"
+      },
+      {
+        "heading": "Age-Related Changes",
+        "content": "Male changes: sperm production decreases, prostate gland enlarges which can interfere with urination. Female changes: menstruation ends (menopause is when a female stops having menstrual periods), decreased estrogen may lead to loss of calcium causing brittle bones and osteoporosis, vaginal walls become drier and thinner."
+      },
+      {
+        "heading": "Common Disorders",
+        "content": "Vaginitis — infection of the vagina caused by bacteria, protozoa, or fungus (yeast). Signs: change in color, odor, and amount of vaginal discharge accompanied by itching and burning. Treatment: oral medications, vaginal creams, or vaginal suppositories. Benign Prostatic Hypertrophy (BPH) — prostate becomes enlarged in aging men, pressing on the urethra. Leads to: frequent urination, dribbling, difficulty starting urine flow, urinary retention, and risk of UTI. Treated with medication or surgery. Prostate Cancer — most common cancer in males and second leading cause of death among men; treatable in early stages with surgery, radiation, chemotherapy, and hormone therapy."
+      }
+    ]
+  },
+  {
+    "id": "perineal-care-elimination",
+    "title": "Perineal Care & Elimination",
+    "summary": "Perineal care procedures, bedpan and urinal assistance, commode use, incontinence management, and enemas.",
+    "icon": "clean_hands",
+    "color": "#0277BD",
+    "unit": "Unit III Personal Care Skills",
+    "day": 6,
+    "sections": [
+      {
+        "heading": "Perineal Care",
+        "content": "Perineal care involves cleaning the genital and anal areas. Performed to: prevent infections, prevent odors, and promote comfort. Perform at least daily during the bath, whenever the area is soiled with urine or feces, and before or after certain procedures. Provide perineal care only when the resident is unable to do it themselves. Ensure privacy at all times. Use different unsoiled areas of the washcloth for each stroke. Change water and rinse washcloths as needed. For uncircumcised males, replace the foreskin after retracting for cleaning. Provide care with total respect and dignity.",
+        "videoTitle": "Providing Perineal Care",
+        "videoUrl": "https://www.youtube.com/watch?v=yNCW38kT-nE"
+      },
+      {
+        "heading": "Bedpan and Urinal",
+        "content": "A bedpan is usually made of plastic and can be used by either male or female residents who cannot get out of bed. A urinal is made of plastic for male residents to urinate. A fracture pan with a thinner rim is available when the regular bedpan is too large. Elimination equipment is kept in the bathroom between uses and must be labeled for shared bathrooms. Equipment must never be placed on overbed tables or side tables. Urine and feces are infectious waste — always wear gloves and avoid spills or splashes.",
+        "videoTitle": "Assist a Resident with a Bedpan",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bedpan_Wellcome_L0008754.jpg"
+      },
+      {
+        "heading": "Bedside Commode",
+        "content": "A bedside commode has a toilet seat with a container and allows a normal position for elimination. Residents unable to walk to the bathroom often use commodes. Some commodes are wheeled into the bathroom and placed over the toilet — remove the container when used with the toilet. Make sure commode wheels are locked and it is positioned properly over the toilet."
+      },
+      {
+        "heading": "Incontinence and Enemas",
+        "content": "Urinary incontinence is the involuntary loss of urine. Types: urge, stress, overflow. Causes: medications, constipation, UTI, enlarged prostate, neurological disorders, aging changes. Problems: embarrassment, skin irritation, UTIs, pressure ulcers. Observe and report: red or irritated skin, open areas, rash, peeling skin, odor. Enemas are ordered by a doctor and introduced into the rectum to remove feces or relieve constipation. Types: cleansing enemas (tap water, soapsuds, saline) and commercial enemas (oil-retention, Fleet). Bowel incontinence causes: constipation, diarrhea, muscle or nerve damage, surgery, rectal cancer."
+      }
+    ]
+  },
+  {
+    "id": "urinary-catheter-care",
+    "title": "Urinary Catheter Care",
+    "summary": "Types of urinary catheters, closed drainage system components, infection control principles, drainage bag positioning, leg bags, and intake and output measurement.",
+    "icon": "medical_services",
+    "color": "#0277BD",
+    "unit": "Unit III Personal Care Skills",
+    "day": 6,
+    "sections": [
+      {
+        "heading": "Types of Urinary Catheters",
+        "content": "A urinary catheter is a rubber or plastic tube placed through the urethral opening into the bladder to drain urine. Catheter insertion is performed by a nurse or doctor. Types: Straight catheter — inserted to drain the bladder and then removed. Indwelling catheter (retention or Foley catheter) — inserted and left in the bladder so urine drains constantly into a drainage bag. External catheter (condom catheter) — a soft rubber sheath that slides over the penis; tubing connects it to a drainage bag.",
+        "videoTitle": "Care for a Patient with a Urinary Catheter",
+        "videoUrl": "https://www.youtube.com/watch?v=7V0mg_DATWU",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Foley_catheter_inflated_and_deflated_EN.svg"
+      },
+      {
+        "heading": "Closed Urinary System",
+        "content": "Parts of a closed urinary system: Catheter — rubber or plastic tube placed through the urethral opening into the bladder. Balloon — located near the tip of the catheter, inflated to keep the catheter in the bladder. Tubing — connects the catheter to the collection bag. Drainage bag — collects urine drained from the bladder. Portals of entry for germs: raising the catheter bag above the bladder, allowing the drainage bag to lie on the floor, disconnecting the tubing, using the same measuring container for multiple residents, not cleaning tubing when changing from drainage bag to leg bag.",
+        "videoTitle": "Empty Urinary Drainage Bag"
+      },
+      {
+        "heading": "Drainage Bag Positioning",
+        "content": "The drainage bag hangs from the bed frame, chair, or wheelchair. It must not touch the floor. The bag must always be lower than the level of the resident's bladder to prevent backflow. Leg bags are smaller bags strapped to the thigh and used when the resident is mobile or out of bed.",
+        "videoTitle": "Catheter Leg Bag Change"
+      },
+      {
+        "heading": "Intake and Output (I&O)",
+        "content": "Intake — the amount of fluid taken in. An adult needs 1500 ml of water daily to survive; approximately 2000–2500 ml per day is required to maintain a normal fluid balance. Output — the amount of fluid lost. An adult excretes approximately 1500 ml of fluid per day. Measure all intake: oral fluids, IV fluids, and tube feedings. Measure all output: urine, emesis (vomit), wound drainage, and liquid stool. Use a graduate (measuring cup) to measure urine. Record all measurements in milliliters (ml) on the I&O sheet. Report to the nurse if urine output falls below 30 ml per hour, or if there are sudden changes in amounts.",
+        "table": {
+          "caption": "Measurement Conversions — 1 oz = 30 ml",
+          "headers": ["Container", "Ounces (oz)", "Milliliters (ml)"],
+          "rows": [
+            ["Water glass", "8 oz", "240 ml"],
+            ["Juice glass", "4 oz", "120 ml"],
+            ["Coffee cup", "6 oz", "180 ml"],
+            ["Soup bowl", "6 oz", "180 ml"],
+            ["Ice cream cup", "4 oz", "120 ml (melted)"],
+            ["Water pitcher", "32 oz", "960 ml"]
+          ]
+        },
+        "videoTitle": "How to Apply a Condom Catheter"
+      }
+    ]
+  },
+  {
+    "id": "digestive-gi-care",
+    "title": "Digestive System & GI Disorders",
+    "summary": "Digestive system anatomy, aging changes, common disorders including constipation, fecal impaction, GERD, and colostomy care.",
+    "icon": "restaurant",
+    "color": "#0277BD",
+    "unit": "Unit III Personal Care Skills",
+    "day": 6,
+    "sections": [
+      {
+        "heading": "Digestive System Anatomy",
+        "content": "Mouth — receives food and prepares it for digestion. Tongue — aids in chewing and swallowing. Salivary glands — secrete saliva to moisten food and begin digestion. Pharynx (throat) — muscular tube that pushes food into the esophagus. Esophagus — muscular tube carrying food down into the stomach. Stomach — muscular, pouch-like sac that stirs and churns food into smaller particles. Small intestine — about 20 feet long; includes duodenum (digestive juices added, including bile from liver and pancreatic juices), jejunum, and ileum (where food is absorbed). Large intestine — absorbs water from digested food, leaving semi-solid feces. Anus — feces pass out of the body through the anus.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Digestive_system_diagram_en.svg"
+      },
+      {
+        "heading": "Age-Related Changes & Common Disorders",
+        "content": "Age-related GI changes: decreased saliva production, difficulty swallowing (dysphagia), decreased appetite, decreased digestive juices, difficulty digesting fried and fatty foods, indigestion, loss of teeth, decreased peristalsis causing flatulence and constipation. Constipation — passage of a hard, dry stool; resident strains to have a BM; caused by slow movement of feces through the bowel. Signs: infrequent BMs (less than every 2 days), pain during BM, hard ball-like stool, loss of appetite. Factors affecting bowel elimination: privacy, diet (fiber-rich foods help), fluids (6–8 glasses of water daily), activity (exercise stimulates peristalsis), age, and medications."
+      },
+      {
+        "heading": "Fecal Impaction and Diarrhea",
+        "content": "Fecal impaction — prolonged retention and buildup of feces in the rectum. Results when constipation is not relieved. The person cannot have a BM. Liquid feces pass around the hardened mass and seep from the anus. Signs: abdominal discomfort, abdominal distention (swelling), nausea, cramping, rectal pain. Diarrhea — frequent passage of liquid stools. Feces move rapidly through the intestines, reducing fluid absorption. Urgent need for BM. Signs: abdominal cramping, nausea, vomiting."
+      },
+      {
+        "heading": "GERD and Colostomy Care",
+        "content": "GERD (Gastroesophageal Reflux Disease) — chronic condition where stomach contents back up into the esophagus. Can inflame and damage the esophageal lining, cause bleeding, ulcers, and narrowing. Signs: heartburn or regurgitation, sour taste in mouth, dysphagia, lump in throat, hoarseness, sore throat, dry cough. Colostomy — surgical creation of an artificial opening (stoma) between the colon and abdominal wall. Ileostomy — between ileum and abdominal wall. Stool consistency depends on which section of colon is brought to the surface. Provide skin care around the stoma and report any signs of irritation. Be sensitive to psychosocial issues: embarrassment, body image, depression, social withdrawal.",
+        "videoTitle": "Pouching a Colostomy",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Diagram_showing_a_colostomy_with_a_bag_CRUK_061.svg"
+      }
+    ]
+  },
+  {
+    "id": "specimen-collection",
+    "title": "Specimen Collection",
+    "summary": "Collection methods and procedures for urine, stool, and sputum specimens.",
+    "icon": "science",
+    "color": "#0277BD",
+    "unit": "Unit III Personal Care Skills",
+    "day": 6,
+    "sections": [
+      {
+        "heading": "Urine Specimens",
+        "content": "Urine specimens are collected for urine tests to help doctors make a diagnosis or evaluate treatment. They are studied for blood, microbes, and abnormal cells. Random urine specimen — collected for urinalysis at any time; no special measures needed. Clean catch urine specimen — the perineal area is cleaned before collection to reduce microbes in the urine during specimen collection.",
+        "videoTitle": "Midstream Clean Catch Urine Sample Collection"
+      },
+      {
+        "heading": "Stool and Sputum Specimens",
+        "content": "Stool specimens are collected for various tests; studied for blood, microbes, fat, worms, or parasites. Doctors use results to make a diagnosis or evaluate treatment. Sputum specimens — respiratory disorders cause the lungs, bronchi, and trachea to produce mucus. Mucus expelled through the mouth is called sputum. Sputum specimens are studied for blood, microbes, and abnormal cells.",
+        "videoTitle": "Collecting a Stool Specimen"
       }
     ]
   }

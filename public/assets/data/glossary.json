@@ -928,5 +928,105 @@
     "term": "Gangrene",
     "definition": "Death of body tissue, usually due to poor blood supply or infection; a serious complication of foot injuries in residents with circulatory disorders or diabetes.",
     "category": "Medical Terms"
+  },
+  {
+    "id": 156,
+    "term": "Affected Side",
+    "definition": "The weaker side of the body due to stroke or injury. When dressing, place clothing on the affected side first; when undressing, remove from the stronger side first."
+  },
+  {
+    "id": 157,
+    "term": "Prosthesis",
+    "definition": "An artificial body part or self-help device used when a resident has difficulty performing an activity of daily living, such as an artificial limb, hearing aid, or glasses."
+  },
+  {
+    "id": 158,
+    "term": "Ureter",
+    "definition": "One of two tubes that carry urine from the kidneys to the bladder."
+  },
+  {
+    "id": 159,
+    "term": "Urethra",
+    "definition": "The tube through which urine passes out of the body from the bladder."
+  },
+  {
+    "id": 160,
+    "term": "Oliguria",
+    "definition": "Scant or abnormally small production of urine; from 'olig' (scant) + 'uria' (urine)."
+  },
+  {
+    "id": 161,
+    "term": "Dysuria",
+    "definition": "Difficult or painful urination; from 'dys' (difficult) + 'uria' (urine). A common symptom of urinary tract infections."
+  },
+  {
+    "id": 162,
+    "term": "Hematuria",
+    "definition": "The presence of blood in the urine; from 'hemat' (blood) + 'uria' (urine). May indicate UTI, trauma, or kidney disease."
+  },
+  {
+    "id": 163,
+    "term": "Nocturia",
+    "definition": "Frequent urination during the night; a common age-related change in the urinary system."
+  },
+  {
+    "id": 164,
+    "term": "CKD",
+    "definition": "Chronic Kidney Disease; gradual loss of kidney function over many years. Common causes include hypertension and diabetes."
+  },
+  {
+    "id": 165,
+    "term": "Menopause",
+    "definition": "The time when a female permanently stops having menstrual periods; associated with decreased estrogen levels which can lead to bone loss."
+  },
+  {
+    "id": 166,
+    "term": "Vaginitis",
+    "definition": "An infection of the vagina caused by bacteria, protozoa, or fungus (yeast). Signs include change in vaginal discharge, itching, and burning."
+  },
+  {
+    "id": 167,
+    "term": "Foley Catheter",
+    "definition": "An indwelling urinary catheter that is inserted and left in the bladder so urine drains constantly into a drainage bag; held in place by an inflated balloon."
+  },
+  {
+    "id": 168,
+    "term": "Stoma",
+    "definition": "An artificial opening created surgically; for example, the opening created for a colostomy on the abdominal wall."
+  },
+  {
+    "id": 169,
+    "term": "Colostomy",
+    "definition": "The surgical creation of an artificial opening (stoma) between the colon and the abdominal wall to allow feces to exit the body."
+  },
+  {
+    "id": 170,
+    "term": "Sputum",
+    "definition": "Mucus that is produced by the respiratory tract (lungs, bronchi, trachea) and expelled through the mouth; collected for specimen analysis."
+  },
+  {
+    "id": 171,
+    "term": "Clean Catch Specimen",
+    "definition": "A urine specimen collected after cleaning the perineal area to reduce the number of microbes in the sample; used for urinalysis to detect infections."
+  },
+  {
+    "id": 172,
+    "term": "Enema",
+    "definition": "The introduction of fluid into the rectum and lower colon, ordered by a doctor to remove feces or relieve constipation or fecal impaction."
+  },
+  {
+    "id": 173,
+    "term": "Perineal Care",
+    "definition": "Cleaning the genital and anal areas; performed at least daily during bathing, or whenever the area is soiled, to prevent infection and promote comfort."
+  },
+  {
+    "id": 174,
+    "term": "Bedside Commode",
+    "definition": "A portable toilet chair with a container used by residents who cannot walk to the bathroom; allows a normal position for elimination."
+  },
+  {
+    "id": 175,
+    "term": "Intake and Output (I&O)",
+    "definition": "The measurement of all fluids taken in (intake) and all fluids lost (output) by a resident; used to monitor fluid balance."
   }
 ]

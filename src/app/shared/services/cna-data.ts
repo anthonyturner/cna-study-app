@@ -9,9 +9,17 @@ export interface GlossaryTerm {
   category: string;
 }
 
+export interface SectionTable {
+  caption?: string;
+  headers: string[];
+  rows: string[][];
+}
+
 export interface TopicSection {
   heading: string;
   content: string;
+  imageUrl?: string;
+  table?: SectionTable;
   videoTitle?: string;
   videoUrl?: string;
 }
