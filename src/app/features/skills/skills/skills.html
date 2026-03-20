@@ -1,0 +1,93 @@
+<div class="skills-container">
+
+  <!-- Skill detail view -->
+  <div *ngIf="selected; else skillList">
+    <button mat-button (click)="back()" class="back-btn">
+      <mat-icon>arrow_back</mat-icon> Back to Skills
+    </button>
+
+    <div class="skill-header" [style.border-left-color]="selected.color">
+      <mat-icon [style.color]="selected.color">{{ selected.icon }}</mat-icon>
+      <div>
+        <span class="category-label">{{ selected.category }}</span>
+        <h1>{{ selected.title }}</h1>
+        <p>{{ selected.description }}</p>
+      </div>
+    </div>
+
+    <!-- Video embed -->
+    <div class="video-block" *ngIf="selected.videoUrl">
+      <div class="video-header">
+        <mat-icon>play_circle</mat-icon>
+        <h2>Skill Demonstration Video</h2>
+      </div>
+      <div class="video-wrapper">
+        <iframe
+          [src]="safeUrl(selected.videoUrl)"
+          frameborder="0"
+          allowfullscreen
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          class="video-embed">
+        </iframe>
+      </div>
+    </div>
+
+    <div class="steps-card">
+      <div class="steps-header">
+        <mat-icon [style.color]="selected.color">checklist</mat-icon>
+        <h2>Procedure Steps</h2>
+        <mat-chip class="step-count">{{ selected.steps.length }} steps</mat-chip>
+      </div>
+      <ol class="steps-list">
+        <li *ngFor="let step of selected.steps; let i = index" class="step-item">
+          <div class="step-number" [style.background]="selected.color">{{ i + 1 }}</div>
+          <div class="step-text">{{ step }}</div>
+        </li>
+      </ol>
+    </div>
+  </div>
+
+  <!-- Skill list view -->
+  <ng-template #skillList>
+    <div class="page-header">
+      <mat-icon class="page-icon">assignment</mat-icon>
+      <div>
+        <h1>CNA Skills Checklist</h1>
+        <p class="subtitle">Step-by-step procedures for CNA proctored skill testing</p>
+      </div>
+    </div>
+
+    <!-- Category filter -->
+    <div class="category-filter">
+      <button
+        *ngFor="let cat of categories"
+        class="filter-btn"
+        [class.active]="activeCategory === cat"
+        (click)="filterBy(cat)">
+        {{ cat }}
+      </button>
+    </div>
+
+    <div class="skills-grid">
+      <mat-card
+        *ngFor="let skill of filtered"
+        class="skill-card"
+        (click)="select(skill)"
+        [style.border-top-color]="skill.color">
+        <mat-card-content>
+          <mat-icon class="skill-icon" [style.color]="skill.color">{{ skill.icon }}</mat-icon>
+          <span class="category-label">{{ skill.category }}</span>
+          <h2>{{ skill.title }}</h2>
+          <p>{{ skill.description }}</p>
+          <div class="card-footer">
+            <mat-chip class="step-count">{{ skill.steps.length }} steps</mat-chip>
+            <span class="video-badge" *ngIf="skill.videoUrl">
+              <mat-icon>play_circle</mat-icon> Video
+            </span>
+          </div>
+        </mat-card-content>
+      </mat-card>
+    </div>
+  </ng-template>
+
+</div>

@@ -1,0 +1,315 @@
+.skills-container {
+  h1 {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #0B1F3A;
+    margin-bottom: 4px;
+    letter-spacing: -0.02em;
+  }
+
+  .subtitle {
+    color: #6B7A99;
+    margin-bottom: 0;
+    font-size: 0.95rem;
+  }
+}
+
+.page-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 24px;
+
+  .page-icon {
+    font-size: 48px;
+    height: 48px;
+    width: 48px;
+    color: #1565C0;
+    flex-shrink: 0;
+  }
+}
+
+// ── Category filter ────────────────────────────────────────
+.category-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.filter-btn {
+  padding: 6px 16px;
+  border-radius: 20px;
+  border: 1px solid #C7D6EA;
+  background: #fff;
+  color: #6B7A99;
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+
+  &:hover {
+    border-color: #1565C0;
+    color: #1565C0;
+  }
+
+  &.active {
+    background: #1565C0;
+    border-color: #1565C0;
+    color: #fff;
+  }
+}
+
+// ── Skills grid ────────────────────────────────────────────
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(275px, 1fr));
+  gap: 20px;
+}
+
+.skill-card {
+  cursor: pointer;
+  border-top: 4px solid transparent;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  overflow: hidden;
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 32px rgba(11, 31, 58, 0.15) !important;
+  }
+
+  mat-card-content {
+    text-align: center;
+    padding: 28px 20px 16px !important;
+
+    .skill-icon {
+      font-size: 48px;
+      height: 48px;
+      width: 48px;
+      margin-bottom: 10px;
+      display: block;
+      margin-inline: auto;
+    }
+
+    h2 {
+      font-size: 1rem;
+      font-weight: 700;
+      color: #0B1F3A;
+      margin-bottom: 6px;
+      line-height: 1.4;
+    }
+
+    p {
+      color: #6B7A99;
+      font-size: 0.85rem;
+      line-height: 1.55;
+      margin: 0 0 12px;
+    }
+  }
+
+  .step-count { font-size: 0.73rem; }
+}
+
+.category-label {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #1565C0;
+  background: #E3F2FD;
+  border: 1px solid #BBDEFB;
+  border-radius: 20px;
+  padding: 2px 8px;
+  margin-bottom: 8px;
+}
+
+// ── Skill detail header ────────────────────────────────────
+.back-btn {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-bottom: 24px;
+  color: #1565C0 !important;
+  font-weight: 500;
+}
+
+.skill-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  background: linear-gradient(135deg, #EEF3FA, #E3EEF9);
+  border-radius: 14px;
+  padding: 24px 28px;
+  margin-bottom: 28px;
+  border-left: 4px solid;
+
+  mat-icon {
+    font-size: 44px;
+    height: 44px;
+    width: 44px;
+    flex-shrink: 0;
+    margin-top: 4px;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+    margin-bottom: 6px;
+    line-height: 1.25;
+  }
+
+  p {
+    color: #6B7A99;
+    margin: 0;
+    line-height: 1.55;
+    font-size: 0.94rem;
+  }
+}
+
+// ── Card footer ───────────────────────────────────────────
+.card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.video-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: #D32F2F;
+  background: #FFEBEE;
+  border: 1px solid #FFCDD2;
+  border-radius: 20px;
+  padding: 2px 8px;
+
+  mat-icon {
+    font-size: 13px;
+    height: 13px;
+    width: 13px;
+  }
+}
+
+// ── Video block ───────────────────────────────────────────
+.video-block {
+  background: #fff;
+  border-radius: 14px;
+  border: 1px solid #E3E8F0;
+  box-shadow: 0 2px 8px rgba(11, 31, 58, 0.06);
+  padding: 24px 28px;
+  margin-bottom: 20px;
+}
+
+.video-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid #E3E8F0;
+
+  mat-icon {
+    font-size: 24px;
+    height: 24px;
+    width: 24px;
+    color: #D32F2F;
+  }
+
+  h2 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #0B1F3A;
+    margin: 0;
+  }
+}
+
+.video-wrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  border-radius: 10px;
+  background: #000;
+}
+
+.video-embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+// ── Steps card ────────────────────────────────────────────
+.steps-card {
+  background: #fff;
+  border-radius: 14px;
+  border: 1px solid #E3E8F0;
+  box-shadow: 0 2px 8px rgba(11, 31, 58, 0.06);
+  padding: 24px 28px;
+}
+
+.steps-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #E3E8F0;
+
+  mat-icon {
+    font-size: 24px;
+    height: 24px;
+    width: 24px;
+  }
+
+  h2 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #0B1F3A;
+    margin: 0;
+    flex: 1;
+  }
+}
+
+.steps-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.step-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+
+  .step-number {
+    flex-shrink: 0;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.75rem;
+    font-weight: 800;
+    color: #fff;
+    margin-top: 1px;
+  }
+
+  .step-text {
+    flex: 1;
+    color: #374151;
+    font-size: 0.93rem;
+    line-height: 1.65;
+    padding-top: 3px;
+  }
+}

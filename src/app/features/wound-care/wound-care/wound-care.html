@@ -1,0 +1,80 @@
+<div class="wound-care-container">
+  <!-- Topic detail view -->
+  <div *ngIf="selected; else topicList">
+    <button mat-button (click)="back()" class="back-btn">
+      <mat-icon>arrow_back</mat-icon> Back to Wound Care
+    </button>
+
+    <div class="topic-header" [style.border-left-color]="selected.color">
+      <mat-icon [style.color]="selected.color">{{ selected.icon }}</mat-icon>
+      <div>
+        <h1>{{ selected.title }}</h1>
+        <p>{{ selected.summary }}</p>
+      </div>
+    </div>
+
+    <mat-accordion>
+      <mat-expansion-panel *ngFor="let section of selected.sections; let i = index" [expanded]="i === 0">
+        <mat-expansion-panel-header>
+          <mat-panel-title>{{ section.heading }}</mat-panel-title>
+        </mat-expansion-panel-header>
+        <div class="section-content" [innerHTML]="formatContent(section.content)"></div>
+        <div class="section-table-block" *ngIf="section.table">
+          <p *ngIf="section.table.caption" class="table-caption">{{ section.table.caption }}</p>
+          <table class="section-table">
+            <thead>
+              <tr>
+                <th *ngFor="let h of section.table.headers">{{ h }}</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let row of section.table.rows">
+                <td *ngFor="let cell of row">{{ cell }}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="section-image-block" *ngIf="section.imageUrl">
+          <img [src]="section.imageUrl" [alt]="section.heading" class="section-image" loading="lazy" />
+        </div>
+        <div class="video-block" *ngIf="section.videoTitle !== undefined">
+          <iframe *ngIf="section.videoUrl; else videoPlaceholder"
+            [src]="safeUrl(section.videoUrl)"
+            frameborder="0" allowfullscreen class="video-embed"></iframe>
+          <ng-template #videoPlaceholder>
+            <div class="video-placeholder">
+              <mat-icon>play_circle</mat-icon>
+              <span>{{ section.videoTitle }}</span>
+            </div>
+          </ng-template>
+        </div>
+      </mat-expansion-panel>
+    </mat-accordion>
+  </div>
+
+  <!-- Topic grid -->
+  <ng-template #topicList>
+    <div class="page-header">
+      <mat-icon class="page-icon">healing</mat-icon>
+      <div>
+        <h1>Wound Care</h1>
+        <p class="subtitle">Select a topic to start studying</p>
+      </div>
+    </div>
+
+    <div class="topics-grid">
+      <mat-card
+        *ngFor="let topic of topics"
+        class="topic-card"
+        (click)="select(topic)"
+        [style.border-top-color]="topic.color">
+        <mat-card-content>
+          <mat-icon class="topic-icon" [style.color]="topic.color">{{ topic.icon }}</mat-icon>
+          <h2>{{ topic.title }}</h2>
+          <p>{{ topic.summary }}</p>
+          <mat-chip class="section-count">{{ topic.sections.length }} sections</mat-chip>
+        </mat-card-content>
+      </mat-card>
+    </div>
+  </ng-template>
+</div>

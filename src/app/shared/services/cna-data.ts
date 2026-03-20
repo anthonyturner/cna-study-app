@@ -33,6 +33,7 @@ export interface Topic {
   sections: TopicSection[];
   day?: number;
   unit?: string;
+  category?: string;
 }
 
 export interface QuizQuestion {
@@ -42,6 +43,17 @@ export interface QuizQuestion {
   answer: number;
   explanation: string;
   category: string;
+}
+
+export interface CnaSkill {
+  id: string;
+  title: string;
+  category: string;
+  icon: string;
+  color: string;
+  description: string;
+  steps: string[];
+  videoUrl?: string;
 }
 
 @Injectable({ providedIn: 'root' })
@@ -58,5 +70,9 @@ export class CnaDataService {
 
   getQuizQuestions(): Observable<QuizQuestion[]> {
     return this.http.get<QuizQuestion[]>('/assets/data/quiz.json');
+  }
+
+  getSkills(): Observable<CnaSkill[]> {
+    return this.http.get<CnaSkill[]>('/assets/data/skills.json');
   }
 }

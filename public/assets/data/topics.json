@@ -1245,5 +1245,74 @@
         "videoTitle": "Collecting a Stool Specimen"
       }
     ]
+  },
+  {
+    "id": "wound-types",
+    "title": "Types of Wounds",
+    "icon": "healing",
+    "color": "#C62828",
+    "summary": "Classification of wounds, wound characteristics, and key observations CNAs must recognize and report.",
+    "category": "wound-care",
+    "sections": [
+      {
+        "heading": "Wound Classification",
+        "content": "Wounds are classified by cause, depth, and whether the skin is intact. Open wound — break in the skin or mucous membrane; examples include cuts, lacerations, abrasions, punctures, and surgical incisions. Closed wound — skin is intact but underlying tissue is damaged; examples include contusions (bruises) and hematomas. Acute wound — heals in a predictable time frame; usually caused by surgery or trauma. Chronic wound — does not heal in the expected time; often associated with poor circulation, infection, or underlying disease.",
+        "imageUrl": "/assets/data/images/woundcare/IMG_0777.JPEG"
+      },
+      {
+        "heading": "Wound Depth & Tissue Involvement",
+        "content": "Superficial wound — involves only the epidermis (outermost skin layer); heals quickly with minimal intervention. Partial-thickness wound — involves the epidermis and part of the dermis; may have blistering or moist wound bed. Full-thickness wound — extends through the dermis into subcutaneous tissue, muscle, or bone; requires more complex care. Undermining — tissue destruction beneath intact skin at the wound edges. Tunneling — narrow channel of tissue destruction extending from the wound."
+      },
+      {
+        "heading": "Common Wound Types",
+        "content": "Abrasion — scraping of the skin surface. Laceration — jagged, irregular tear in the skin. Incision — clean cut made by a sharp instrument (such as a surgical scalpel). Puncture — deep wound caused by a sharp, pointed object. Avulsion — tearing away of skin or tissue. Pressure injury — localized damage to skin and underlying tissue over a bony prominence from pressure or shear. Venous ulcer — wound caused by poor venous circulation, usually on the lower leg. Diabetic foot ulcer — wound caused by neuropathy and poor circulation in people with diabetes.",
+        "imageUrl": "/assets/data/images/woundcare/IMG_0778.JPEG"
+      }
+    ]
+  },
+  {
+    "id": "pressure-injuries",
+    "title": "Pressure Injuries",
+    "icon": "personal_injury",
+    "color": "#C62828",
+    "summary": "Staging, risk factors, prevention measures, and nursing assistant responsibilities for pressure injuries.",
+    "category": "wound-care",
+    "sections": [
+      {
+        "heading": "What is a Pressure Injury?",
+        "content": "A pressure injury (formerly called a pressure ulcer or bedsore) is localized damage to the skin and underlying soft tissue. It usually occurs over a bony prominence or is related to a medical device or other object. Common bony prominences at risk: sacrum. Coccyx. Heels. Hips (greater trochanter). Ankles (lateral malleolus). Shoulder blades. Elbows. Back of the head. Ears."
+      },
+      {
+        "heading": "Pressure Injury Staging",
+        "content": "Stage 1 — intact skin with non-blanchable redness; the area may be painful, firm, soft, warmer, or cooler compared to adjacent tissue. Stage 2 — partial-thickness loss of skin with exposed dermis; wound bed is pink/red and moist; may appear as an intact or ruptured blister. Stage 3 — full-thickness skin loss; subcutaneous fat may be visible; no bone, tendon, or muscle is exposed; slough may be present. Stage 4 — full-thickness skin and tissue loss with exposed bone, tendon, or muscle; slough or eschar may be present. Unstageable — full-thickness skin and tissue loss where the base is covered by slough or eschar; true depth cannot be determined until removed. Deep Tissue Pressure Injury (DTPI) — persistent non-blanchable deep red, maroon, or purple discoloration; may be difficult to detect in darkly pigmented skin.",
+        "imageUrl": "/assets/data/images/woundcare/IMG_0779.JPEG"
+      },
+      {
+        "heading": "Risk Factors & Prevention",
+        "content": "Risk factors: immobility and inability to reposition. Incontinence (moisture damages skin). Poor nutrition and hydration. Decreased sensation. Altered mental status. Friction and shear forces during transfers. Prevention measures: reposition the resident at least every 2 hours (or per care plan). Keep skin clean and dry. Apply barrier cream to incontinent residents per care plan. Use pressure-relieving mattresses and seat cushions. Perform and document skin inspections with each repositioning. Report any redness, skin breakdown, or changes to the nurse immediately. Ensure adequate nutrition and fluid intake. Use proper transfer and lifting techniques to reduce shear."
+      }
+    ]
+  },
+  {
+    "id": "wound-care-procedures",
+    "title": "Wound Care & Dressings",
+    "icon": "medical_services",
+    "color": "#C62828",
+    "summary": "Wound observations, dressing change principles, infection signs, and what to report to the nurse.",
+    "category": "wound-care",
+    "sections": [
+      {
+        "heading": "Wound Observations to Report",
+        "content": "Always report the following to the nurse: location and size of the wound. Color of the wound bed (red, pink, yellow, black). Presence of slough (yellow, tan, gray soft dead tissue) or eschar (black, brown, tan hard dead tissue). Type and amount of drainage (exudate). Odor from the wound. Condition of the surrounding skin (periwound) — redness, warmth, swelling, maceration. Pain or increased tenderness at the wound site. Any new skin breakdown or changes in an existing wound. Status of the dressing — saturated, displaced, or missing."
+      },
+      {
+        "heading": "Wound Drainage (Exudate) Types",
+        "content": "Serous — clear, watery fluid; normal in the early stages of healing. Serosanguineous — pale pink, watery mixture of serum and blood; also normal during healing. Sanguineous — bright red bloody drainage; indicates active bleeding. Purulent — thick, opaque, yellow, green, or brown; indicates infection — report immediately. Amount descriptors: scant (minimal), small, moderate, large (copious)."
+      },
+      {
+        "heading": "Dressing Change Principles & Infection Signs",
+        "content": "CNA role in dressing changes: follow the nurse's instructions and care plan exactly. Perform hand hygiene before and after. Use standard precautions (gloves, mask if splashing is possible). Remove old dressing gently to avoid damaging fragile tissue. Dispose of soiled dressings in a biohazard bag. Never clean or pack a wound unless specifically trained and delegated. Signs of wound infection: increased redness, warmth, or swelling around wound. Purulent (pus-like) drainage. Foul odor. Increased pain or tenderness. Wound edges not coming together or wound enlarging. Fever or chills in the resident. Report any signs of infection to the nurse immediately."
+      }
+    ]
   }
 ]

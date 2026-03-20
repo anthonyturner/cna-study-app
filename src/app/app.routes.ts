@@ -23,5 +23,13 @@ export const routes: Routes = [
     path: 'days',
     loadComponent: () => import('./features/study-days/study-days/study-days').then(m => m.StudyDays)
   },
+  {
+    path: 'wound-care',
+    loadComponent: () => import('./features/wound-care/wound-care/wound-care').then(m => m.WoundCare)
+  },
+  {
+    path: 'skills',
+    loadComponent: () => import('./features/skills/skills/skills').then(m => m.Skills)
+  },
   { path: '**', redirectTo: '' }
 ];

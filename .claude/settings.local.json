@@ -16,7 +16,11 @@
       "Bash(rm add-day6.js)",
       "Bash(node add-images.js)",
       "Bash(rm add-images.js)",
-      "Bash(npx ng:*)"
+      "Bash(node add-day7.js)",
+      "Bash(rm add-day7.js)",
+      "Bash(npx ng:*)",
+      "Bash(file /e/repos/angular/cna-study-app/public/assets/data/images/woundcare/*.JPEG)",
+      "Bash(grep -r \"day7\\\\|woundcare\" /e/repos/angular/cna-study-app/public/assets/data/*.json)"
     ]
   }
 }
