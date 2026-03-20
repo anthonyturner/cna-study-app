@@ -1181,14 +1181,42 @@
         "content": "Intake — the amount of fluid taken in. An adult needs 1500 ml of water daily to survive; approximately 2000–2500 ml per day is required to maintain a normal fluid balance. Output — the amount of fluid lost. An adult excretes approximately 1500 ml of fluid per day. Measure all intake: oral fluids, IV fluids, and tube feedings. Measure all output: urine, emesis (vomit), wound drainage, and liquid stool. Use a graduate (measuring cup) to measure urine. Record all measurements in milliliters (ml) on the I&O sheet. Report to the nurse if urine output falls below 30 ml per hour, or if there are sudden changes in amounts.",
         "table": {
           "caption": "Measurement Conversions — 1 oz = 30 ml",
-          "headers": ["Container", "Ounces (oz)", "Milliliters (ml)"],
+          "headers": [
+            "Container",
+            "Ounces (oz)",
+            "Milliliters (ml)"
+          ],
           "rows": [
-            ["Water glass", "8 oz", "240 ml"],
-            ["Juice glass", "4 oz", "120 ml"],
-            ["Coffee cup", "6 oz", "180 ml"],
-            ["Soup bowl", "6 oz", "180 ml"],
-            ["Ice cream cup", "4 oz", "120 ml (melted)"],
-            ["Water pitcher", "32 oz", "960 ml"]
+            [
+              "Water glass",
+              "8 oz",
+              "240 ml"
+            ],
+            [
+              "Juice glass",
+              "4 oz",
+              "120 ml"
+            ],
+            [
+              "Coffee cup",
+              "6 oz",
+              "180 ml"
+            ],
+            [
+              "Soup bowl",
+              "6 oz",
+              "180 ml"
+            ],
+            [
+              "Ice cream cup",
+              "4 oz",
+              "120 ml (melted)"
+            ],
+            [
+              "Water pitcher",
+              "32 oz",
+              "960 ml"
+            ]
           ]
         },
         "videoTitle": "How to Apply a Condom Catheter"
@@ -1312,6 +1340,230 @@
       {
         "heading": "Dressing Change Principles & Infection Signs",
         "content": "CNA role in dressing changes: follow the nurse's instructions and care plan exactly. Perform hand hygiene before and after. Use standard precautions (gloves, mask if splashing is possible). Remove old dressing gently to avoid damaging fragile tissue. Dispose of soiled dressings in a biohazard bag. Never clean or pack a wound unless specifically trained and delegated. Signs of wound infection: increased redness, warmth, or swelling around wound. Purulent (pus-like) drainage. Foul odor. Increased pain or tenderness. Wound edges not coming together or wound enlarging. Fever or chills in the resident. Report any signs of infection to the nurse immediately."
+      }
+    ]
+  },
+  {
+    "id": "endocrine-diabetes",
+    "title": "Endocrine System & Diabetes",
+    "icon": "water_drop",
+    "color": "#6A1B9A",
+    "summary": "Structure and function of the endocrine system, diabetes types, signs of hypo/hyperglycemia, complications, and CNA care guidelines.",
+    "day": 7,
+    "sections": [
+      {
+        "heading": "The Endocrine System",
+        "content": "The endocrine system is made up of glands in different areas of the body. Glands are organs that produce and secrete chemicals called hormones. Hormones are chemical substances created by the body to control numerous body functions. Functions include: maintains homeostasis (internal stability). Influences growth and development. Regulates levels of sugar in the blood. Regulates level of calcium in the bones. Regulates the body's ability to reproduce. Determines how fast cells burn food for energy. Common aging change: endocrine glands produce and secrete lower levels of hormones, resulting in decreased function in the organs these hormones control.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Illu_endocrine_system.jpg"
+      },
+      {
+        "heading": "Hypothyroidism",
+        "content": "Hypothyroidism, or under-activity of the thyroid gland, may cause a variety of symptoms and may affect all body functions. The body's normal rate of functioning slows, causing mental and physical sluggishness. Symptoms may vary from mild to severe."
+      },
+      {
+        "heading": "Diabetes Mellitus — Types",
+        "content": "Type 1 Diabetes: usually diagnosed in children and young adults. The pancreas does not produce any insulin. The condition continues throughout the person's life. Managed with daily injections of insulin or an insulin pump and a special diet. Regular blood glucose testing must be done. Type 2 Diabetes: the most common form of diabetes. Either the body does not produce enough insulin or the body fails to properly use the insulin (insulin resistance). Usually develops slowly after age 35. Often occurs in obese people or those with a family history. Can usually be controlled with diet and/or oral medications. Gestational Diabetes: develops during pregnancy, usually disappears after birth. However, the woman remains at risk for type 2 diabetes.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Glucose-insulin-release.svg"
+      },
+      {
+        "heading": "Signs & Symptoms of Diabetes",
+        "content": "General signs and symptoms: extreme thirst. Excessive hunger. Frequent urination. Sugar in the urine. Blurred vision. Fatigue and drowsiness. Changes in behavior such as irritability. Hypoglycemia (low blood sugar) — occurs when there is too much insulin in the bloodstream: hunger. Perspiration. Trembling and anxiety. Headache. Paleness, cold and clammy feeling. Rapid heartbeat. Mental confusion. Sudden change in behavior or irritability. Blurred or double vision. Feeling of faintness, weakness, or fatigue. Loss of consciousness. Hyperglycemia (high blood sugar) — occurs with too much sugar in the blood: extreme thirst and frequent urination. Labored, rapid and deep breathing. Breath that smells sweet or fruity. Blurred vision. Flushed cheeks. Dry skin. Mental confusion. Nausea, vomiting and abdominal pain. Drowsiness or loss of consciousness.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Blood_Glucose_Testing.JPG"
+      },
+      {
+        "heading": "Complications from Diabetes",
+        "content": "Changes in the circulatory system can cause heart attack and stroke, reduced circulation, poor wound healing, and kidney and nerve damage. Damage to the eyes can cause vision loss and blindness. Poor circulation and impaired wound healing may cause leg and foot ulcers, infected wounds, and gangrene. Gangrene can lead to amputation."
+      },
+      {
+        "heading": "CNA Guidelines for Diabetes Care",
+        "content": "Follow diet instructions exactly. The intake of carbohydrates — including breads, potatoes, grains, pastas, and sugars — must be regulated. Meals must be eaten at the same time each day. The resident must eat all of what is served. If a resident refuses to eat or is not following the diet, notify the nurse. Encourage the resident to follow their exercise program. Regular exercise affects how quickly bodies use food and improves circulation. Observe the resident's management of insulin. Doses are calculated exactly and given at the same time each day. There must be a balance between insulin level and food intake. Proper foot care is vitally important. People with diabetes have poor circulation; even a small sore can become a large wound leading to amputation. Encourage comfortable, well-fitting leather shoes. Residents should never go barefoot. Cotton socks are best. Only a doctor or podiatrist should trim a diabetic's toenails."
+      }
+    ]
+  },
+  {
+    "id": "nutrition-diet",
+    "title": "Nutrition & Balanced Diet",
+    "icon": "restaurant",
+    "color": "#2E7D32",
+    "summary": "Essential nutrients, major food groups, fluid balance, dehydration vs. edema, and age-related changes that affect nutrition.",
+    "day": 7,
+    "sections": [
+      {
+        "heading": "Nutrition Basics",
+        "content": "Nutrients are any of the substances we need to take into our bodies for life and growth. Nutrition is the study of these nutrients and how the body uses food. Food functions: aids in the repair and growth of tissues. Provides the body with energy. Makes the various body systems function properly. A well-balanced diet includes adequate water and liquids as well as foods from all the major food groups: breads and grains. Bright colored vegetables. Deep colored fruits. Low-fat and non-fat dairy products. Dried beans, nuts, fish, poultry, lean meats, and eggs."
+      },
+      {
+        "heading": "Major Nutrients",
+        "content": "Fats: give the body energy. Examples include dairy, meats, and nuts. Proteins: build and repair tissues. Examples include dairy, meats, and vegetables. Carbohydrates: provide energy and fiber. Examples include grains, cereal, vegetables, and fruits. Vitamins and Minerals: enable proper functioning of eyes, nerves, skin, heart, bones, liver, kidneys, and teeth. Found in dark green and yellow vegetables, fruits, dry beans, and fish."
+      },
+      {
+        "heading": "Food Pyramid Levels",
+        "content": "Water/Liquids (base): essential every day. Older adults should drink at least eight 8-ounce glasses of liquids per day unless medically restricted. Breads, Cereal, and Rice: provides proteins, Vitamin B, iron, magnesium, carbohydrates, and fiber. Recommended 6 or more servings per day. Whole grains are important for energy. Fruits and Vegetables: provide Vitamins A and C, carbohydrates, fiber, and other nutrients. Recommended 3 or more servings of vegetables and 2 or more of fruits daily. Dairy and Dry Beans/Meats: provide proteins, fat, iron, and carbohydrates. Dairy also provides calcium and riboflavin. Recommended 2 or more servings from each group daily. Fats, Oils, Salts, and Sweets: eat sparingly. Use liquid vegetable oils and soft spreads low in saturated and trans fat.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/USDA_Food_Pyramid.gif"
+      },
+      {
+        "heading": "Age-Related Changes Affecting Nutrition",
+        "content": "As people age, they need fewer calories to maintain their weight. However, the need for nutrient-rich food remains the same or increases. Older adults may have fewer teeth or problems with dentures. They may exercise less, and their bodies may digest and absorb certain nutrients less efficiently. Older adults may also develop chewing problems, chronic illness, or lack of appetite. Encourage foods that provide the most nutrients per serving rather than foods high in starch, fats, and empty calories. Loss of appetite can occur due to illness, pain, medications, depression, anxiety, or unpleasant smells."
+      },
+      {
+        "heading": "Fluid Balance",
+        "content": "Water is essential to life, second only to oxygen. The standard amount of fluid recommended per person is 8 to 10 glasses (2,000 to 2,600 ml) every day. The amount of fluid taken in and the amount lost must be equal. If fluid intake exceeds fluid output, body tissues swell with water — this is called edema. Edema is common in people with heart and kidney disease. If fluid output exceeds fluid intake, there is a decrease in water in tissues — this is called dehydration. Dehydration is a serious medical condition that can cause confusion and is life-threatening. Signs of dehydration: dry skin, sunken eyes, constipation, confusion, fatigue, dark urine. Special fluid guidelines: Force fluids — encourage extra fluids. Restrict fluids — limit the amount of fluids. NPO — nothing by mouth. Fluid can be lost through urine, feces, skin, lungs, vomit, and wound drainage.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Water_drops_on_a_leaf.jpg"
+      }
+    ]
+  },
+  {
+    "id": "therapeutic-diets",
+    "title": "Therapeutic & Mechanical Diets",
+    "icon": "local_dining",
+    "color": "#E65100",
+    "summary": "Types of therapeutic diets ordered by physicians, mechanical and texture-modified diets, thickened liquids, and nutritional supplements.",
+    "day": 7,
+    "sections": [
+      {
+        "heading": "Therapeutic Diets",
+        "content": "CNAs need to be aware of any special or therapeutic diets ordered by the physician. Therapeutic diets may be ordered because of a nutritional deficiency or a disease, to eliminate or decrease certain substances in the diet, or for weight control. A resident's meal should always be checked prior to serving to ensure the proper diet is being served. Calorie Restricted Diet: calorie intake is reduced below the minimum daily requirements. Reason: weight reduction. Foods: low in fat and carbohydrates, lean meats; avoid butter, cream, gravies, cakes, pastries, candy. Sodium Restricted Diet: sodium or salt are removed or limited to prevent or decrease fluid retention. Fruits and vegetables and unsalted foods are allowed; salted and high-sodium foods are not. Low Fat Diet: decreases the amount of fat in the diet. Reason: heart disease, high cholesterol. Foods: skim milk, gelatin, sherbet, lean meat, poultry, fish, rice, pasta, bread, cereal, vegetables. Low Cholesterol Diet: limits or removes foods containing a large amount of cholesterol. Reason: heart disease, high cholesterol. Avoid eggs; skim milk, gelatin, sherbet, lean meats, poultry, fish, rice, pasta, bread, cereal, vegetables are allowed. High Protein Diet: aids and promotes tissue healing. Reason: burns, wounds, infections. Foods: meat, milk, eggs, cheese, fish, poultry, green leafy vegetables. Carbohydrate Controlled Diet (ADA): controls amounts of carbohydrates and calories. Reason: diabetes, obesity. The doctor determines the amount of carbohydrates, fat, and protein needed."
+      },
+      {
+        "heading": "Mechanical & Texture-Modified Diets",
+        "content": "Residents may have difficulty swallowing, including those who have had a stroke, neuromuscular diseases (such as Parkinson's disease, Huntington's chorea, or multiple sclerosis), cancer of the head, neck, or esophagus, radiation treatment, or dementia. A mechanical diet contains food/fluid with an alteration in consistency. The primary objectives are to make swallowing safe, avoid aspiration and pneumonia, and assure adequate nutrition and hydration. Clear Liquid: clear fluids that do not leave a residue, non-irritating and non-gas forming. Reason: acute illness, vomiting and diarrhea. Foods: water, tea, coffee without milk, gelatin, clear fruit juices, clear broth, popsicles. Full Liquid: foods that are liquid at room temperature or melt at body temperature. Reason: acute stomach irritation, vomiting, diarrhea. Foods: clear liquids plus custard, strained soups, milk, creamed cereals, plain ice cream, and sherbet. Mechanical Soft Diet: food is chopped into easily chewed and digested pieces. Ground Diet: food is ground for easier swallowing. Pureed Diet: food is pureed or mashed for easy swallowing."
+      },
+      {
+        "heading": "Thickened Liquids",
+        "content": "Thickened liquids are used for residents with swallowing difficulties. Nectar consistency: fruit nectar, tomato juice, maple syrup, Ensure, cream soup. Honey consistency: honey-thick liquids. Pudding consistency: spoon-thick, cannot be drunk from a cup. Always follow the prescribed consistency level to prevent aspiration."
+      },
+      {
+        "heading": "Nutritional Supplements",
+        "content": "A well-balanced diet is the optimal nutritional choice. However, nutritional supplements may be used for residents with limitations to food intake. Supplements should be given between meals so residents do not substitute them for regular meals. Reasons for use: weight loss, pressure sores or other wounds, poor appetite, unwillingness to eat, inability to eat. Types of nutritional supplements: Ensure, Boost, Carnation Instant Breakfast, crackers, milk, milkshakes, sandwiches, custard. Some supplements can be given by CNAs; others must be given by nurses. Serve nourishments at the designated time and provide needed eating utensils, straws, and napkins."
+      }
+    ]
+  },
+  {
+    "id": "dining-feeding",
+    "title": "Dining Experience & Feeding Assistance",
+    "icon": "food_bank",
+    "color": "#0277BD",
+    "summary": "Preparing residents for mealtime, serving trays, levels of feeding assistance, adaptive equipment, and dysphagia management.",
+    "day": 7,
+    "sections": [
+      {
+        "heading": "The Dining Experience",
+        "content": "It is important to remember that we are working in the resident's home, so we need to keep in mind the things people do around meal time — planning and preparing the meal, setting the table, and socializing. In their own homes, people were accustomed to eating at a dinner table where the meal was served from platters and dishes, and where they drank from glassware, not cartons. Meal time was also a social event with loved ones. Residents should be encouraged to be together and staff should encourage social interaction. Residents should not have to wait to be served — they should come to the dining area when the meal is ready. Residents with dementia brought to the dining area too soon will likely lose interest and wander off. Staff should serve as encouragers of a good appetite, pleasant conversation, and social interaction."
+      },
+      {
+        "heading": "Preparing the Resident for Mealtime",
+        "content": "Assist the resident with oral hygiene. Be sure dentures are in place. Provide for elimination needs. Assist the resident to the bathroom or bedpan. Change clothing and provide clean linens for incontinent residents. Make sure dentures, eyeglasses, and hearing aids are in place. Assist the resident in washing their hands. Position the resident for eating: for residents in bed — raise the head of the bed to a comfortable sitting position. For residents in chairs — assist the resident to transfer, then position the over-the-bed table in front of the resident. Assist the resident to the dining room."
+      },
+      {
+        "heading": "Serving Meal Trays",
+        "content": "Residents will be properly positioned in their chairs and at the tables. Reclining chairs should be in an upright position with feet on the floor or footrests and resident close to the table. Restraints are released during mealtimes. All trays must be checked for missing items prior to giving to the resident (silverware, special feeding devices, special food items per tray ticket). Residents requiring the least amount of assistance will be served first. Nursing staff must converse with residents during tray setup and ask their needs. If a resident refuses food served, a substitution in accordance with their diet should be provided. Meal consumption is documented (food and fluid) on the meal consumption record. Changes in appetite, refusing to eat, or poor intake must be reported to the nurse."
+      },
+      {
+        "heading": "Levels of Feeding Assistance",
+        "content": "All residents will be encouraged to feed themselves. If unable to do so, assistance will be provided as needed. Staff feed residents facing the resident and sitting at their level. Residents feed themselves slowly and food should not be forced. Residents will not be forced to eat at any time. Independent Eaters: assist with setup, positioning, and checking trays. For visually impaired residents, always tell them what foods and fluids are on the tray and where they are located — use clock numbers to identify locations (e.g., peas at 3 o'clock). Partial Assistance: may include cueing a resident to eat, assisting with the end of a meal, or feeding only certain food items. Total Assistance: provide a relaxed mood so the resident does not feel rushed. Engage in pleasant conversation, but give adequate time to chew and swallow. Sit so that you face the resident — sitting shows you have time to help."
+      },
+      {
+        "heading": "Adaptive Feeding Equipment",
+        "content": "Some residents may have difficulty cutting foods, using utensils, scooping foods, or using a regular cup. Adaptive equipment includes devices designed to assist residents in eating independently. CNAs must make sure the needed equipment is used. Adaptive feeding equipment is usually provided by the Occupational Therapist. Non-slip placemats: prevent plates and cups from sliding. Nosey Cup: has a cut-out for the nose to allow drinking without bending the neck; ideal for residents with limited range of motion or arthritis. Weighted cups/mugs: for residents with hand tremors. Weighted utensils: ideal for residents with limited hand control or Parkinson's disease. Curved utensils: designed for residents with arthritis or limited grasping ability. Utensil Holder: hand strap with utensil pouch assists residents with limited or no grip. Rocking knives: for cutting food using a one-handed rocking technique. Plate Guards: fits around any plate so food may be scooped along the side for one-handed feeding."
+      },
+      {
+        "heading": "Dysphagia",
+        "content": "Dysphagia refers to any difficulty in swallowing. It occurs when there is a problem with any part of the swallowing process — from the mouth, through the esophagus, and into the stomach. Swallowing stages: Oral Preparatory Stage — preparing food in the mouth, moving food side to side, and chewing. Oral Stage — moving food from the front to the back of the mouth; requires adequate lip, tongue, and cheek movement. Pharyngeal Stage — movement of food through the throat into the esophagus; airway protection is needed to prevent aspiration. Esophageal Stage — movement of food through the esophagus into the stomach. Causes: stroke or head injury, infection or irritation narrowing the esophagus, conditions weakening swallowing muscles such as Parkinson's disease, cancer of the head/neck/esophagus, head and neck injuries. Symptoms: pain while swallowing, inability to swallow, choking or coughing while eating, pocketing food in the mouth, sensation of food getting stuck, pressure or pain in the chest, frequent heartburn, gurgling sound after swallowing, unexpected weight loss.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Illu_pharynx.jpg"
+      }
+    ]
+  },
+  {
+    "id": "enteral-iv-therapy",
+    "title": "Enteral Feedings & IV Therapy",
+    "icon": "vaccines",
+    "color": "#C62828",
+    "summary": "Types of feeding tubes (PEG, G-tube, NG), CNA responsibilities in enteral feeding, IV therapy basics, and hyperalimentation.",
+    "day": 7,
+    "sections": [
+      {
+        "heading": "Enteral Nutrition",
+        "content": "Residents who cannot chew or swallow often require enteral nutrition. Enteral nutrition is giving nutrients through the gastrointestinal tract via a feeding tube. Types of feeding tubes: Percutaneous Endoscopic Gastrostomy (PEG tube) — surgically placed into the stomach by an endoscopic procedure in the hospital. Gastrostomy Tube (G-tube) — feeds the resident through an opening in the abdomen directly into the stomach. Nasogastric Tube (NG) — inserted through the nose into the stomach. Due to increased aspiration risk, the NG tube is not usually used for feeding in the nursing home setting. Enteral nutrition may be given at regular intervals by a pump (the flow rate is established by the doctor), or given all at once on a schedule — this is called a bolus feeding.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Tube_Feeding.svg"
+      },
+      {
+        "heading": "Role of the CNA in Enteral Feedings",
+        "content": "Prevent aspiration: head elevation must be at least 45 degrees. Ensure formula is not backing up into the esophagus. Report any coughing episodes. Report any elevation in the resident's temperature. Report constipation and/or diarrhea. Observe the stoma site for redness, drainage, odor, or complaints of pain while cleaning around the site. Observe the length of the tube and report any changes in length to the nurse — the tube may shift and appear longer or shorter. Observe for kinks in the tube. Report any pump alarms to the nurse. Tube feedings should be shut off during the bathing process, as the resident will be in multiple positions and may experience aspiration if the feeding is not turned off. Observe for abdominal distention. Report complaints of indigestion or heartburn."
+      },
+      {
+        "heading": "IV Therapy",
+        "content": "Intravenous Therapy (IV) is the administration of fluids into a vein. A needle or catheter is inserted into a vein. The insertion and care of the IV is the responsibility of the licensed nurse. Reasons for IV therapy: provide fluids when the resident cannot take them by mouth. Replace fluids lost because of illness. Administer medications. Hyperalimentation is the IV administration of a solution highly concentrated with proteins, carbohydrates, vitamins, and minerals. Fat can also be added. The solution is far more nutritious than a regular IV solution.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/202007_A_patient_receiving_an_intravenous_drip_Illustration.svg"
+      },
+      {
+        "heading": "Role of the CNA in IV Therapy",
+        "content": "Report any redness, swelling, or pain at the injection site. Report a low fluid supply in the bag. Report any pump alarms to the nurse. The licensed nurse is responsible for all IV insertions and clinical management — the CNA's role is observation and reporting."
+      }
+    ]
+  },
+  {
+    "id": "integumentary-skin",
+    "title": "Integumentary System & Skin Care",
+    "icon": "face",
+    "color": "#00695C",
+    "summary": "Structure and functions of the skin, healthy skin characteristics, age-related changes, factors affecting skin integrity, and promoting healthy skin.",
+    "day": 7,
+    "sections": [
+      {
+        "heading": "The Integumentary System",
+        "content": "The integumentary system, or skin, is the largest system of the body. Integument means covering. The skin is the body's natural covering. The integumentary system contains: epithelial tissue, connective tissue, nerve tissue, oil glands, and sweat glands. The skin has three layers: Epidermis — the outer layer of the skin that contains the pigment giving the skin its color. Dermis — the inner layer containing connective tissue, blood vessels, nerve fibers, sweat glands, and oil glands. Subcutaneous Tissue — also known as the fatty layer, which helps the skin look smooth.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Skin_layers.svg"
+      },
+      {
+        "heading": "Functions of the Skin",
+        "content": "Protects the body from injury and microorganisms. Regulates body temperature. Eliminates waste through sweat glands (perspiration). Acts as a sensor for pain and temperature. Stores fat and vitamins."
+      },
+      {
+        "heading": "Healthy Skin & Age-Related Changes",
+        "content": "Characteristics of healthy skin: even, soft, smooth, and plump texture. Reasonably firm to the touch. Good elasticity. No red or dark patches with fairly even skin color. Pores small to medium in size. Blemishes uncommon. Skin neither too oily nor too dry. Common physical changes during the aging process: skin becomes less elastic and loses strength. Brown or age spots appear on wrists and hands. Fewer nerve endings and fewer blood vessels. Skin thins and sags. Skin is fragile and easily injured. Folds, lines, and wrinkles appear. Blood vessels become more fragile. Decreased secretion of oil and sweat glands. Dry, itchy skin. More sensitive to cold. Decreased sensitivity to pain. Nails become thick and tough. Whitening or graying hair. Loss of or thinning of hair."
+      },
+      {
+        "heading": "Promoting Healthy Skin",
+        "content": "Massage lotion into the skin after cleansing to promote circulation and prevent drying. Moisture barriers should be applied to the incontinent resident's skin. Keep skin dry, removing moisture caused by perspiration and incontinence. Pat skin dry — never rub. Factors that affect healthy skin: age-related changes, poor nutrition and hydration, immobility, decreased sensation, poor circulation. Observations to report: pale, white, reddened, or purple areas. Blisters or bruises. Complaints of tingling, warmth, or burning. Dry or flaking skin. Rashes or any skin discoloration. Swelling. Cuts, boils, sores, wounds, or abrasions. Fluid or blood draining from the skin."
+      },
+      {
+        "heading": "Back Rub",
+        "content": "A back rub relaxes muscles and stimulates circulation. A back rub is normally given after the bath and with HS (hour of sleep) care. It should last 3 to 5 minutes. Lotion reduces friction during the back rub; warm it by rubbing between your hands before applying. Observe the skin before starting the procedure — look for breaks in the skin, bruises, reddened areas, and other signs of skin breakdown. Notify the nurse before starting if any abnormalities are observed."
+      }
+    ]
+  },
+  {
+    "id": "pressure-injuries-day7",
+    "title": "Pressure Injuries & Prevention",
+    "icon": "warning",
+    "color": "#BF360C",
+    "summary": "Pressure injury stages, bony prominences, causes, prevention strategies, protective devices, and specialty beds for skin integrity.",
+    "day": 7,
+    "sections": [
+      {
+        "heading": "Pressure Injuries Overview",
+        "content": "A pressure injury is a localized injury to the skin and/or underlying tissue, usually over a bony prominence. Pressure, friction, and shear in combination with pressure can contribute to pressure injuries. Also called pressure ulcer, decubitus ulcer, bed sore, or pressure sore. Common bony prominences affected: back of the head, ears, shoulder blades, elbows, sacral/coccyx area, hips, knees, ankles, heels, and toes.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Pressure_ulcer_points.svg"
+      },
+      {
+        "heading": "Causes of Pressure Injuries",
+        "content": "Age-related skin changes. Breaks in the skin. Dry skin. Fragile and weak capillaries. General thinning of the skin. Loss of the fatty layer under the skin. Decreased sensation to touch, heat, and cold. Decreased mobility. Sitting in a chair or lying in bed most or all of the day. Changes in mental status such as confusion. Illnesses that decrease circulation. Poor circulation and poor nutrition. Poor hydration."
+      },
+      {
+        "heading": "Stages of Pressure Injuries",
+        "content": "Stage 1: epidermis is involved. Unrelieved pressure causes redness or other discoloration. Color does not return to normal when pressure is removed. Stage 2: dermis is involved. A blister develops and breaks open causing a sore to develop. The pressure injury looks like an abrasion, blister, or shallow crater. Stage 3: subcutaneous tissue is involved. The ulcer develops deeper into the fatty layer of the skin. Looks like a deep crater. Stage 4: ulcer involving all layers of skin. Underlying muscle and bone is often exposed or damaged. Unstageable: full-thickness tissue loss covered by slough or eschar; depth unknown as it cannot be seen. Deep Tissue Pressure Injury: purple intact skin or blood-filled blister due to underlying damage from shear or pressure; may be painful, mushy, firm, or warmer/cooler than surrounding skin. Medical Device Related: results from use of diagnostic or therapeutic devices; injury conforms to the pattern or shape of the device. Mucosal Membrane: found on mucosal membranes with a history of a medical device in use; these cannot be staged."
+      },
+      {
+        "heading": "Skin Alterations from Circulatory Problems",
+        "content": "Diabetic Foot: peripheral neuropathy can cause altered or complete loss of sensation in the foot and leg. Any cuts or trauma may go unnoticed for days or weeks. Prevention: clean and dry feet thoroughly. Report if the resident's toenails need to be cut — a podiatrist must cut a diabetic's toenails. Make sure the resident wears properly fitting shoes/slippers. Stasis Ulcer: a breakdown of the skin caused by fluid build-up from poor vein function (venous insufficiency). Fluid leaks from the veins into skin tissue when blood backs up rather than returning to the heart. Common location: the ankle. Prevention: encourage the resident to elevate their legs to reduce swelling. Compression hose to prevent recurrence."
+      },
+      {
+        "heading": "Prevention of Pressure Injuries",
+        "content": "Provide good skin care: use mild soap and gentle strokes with a soft washcloth when bathing. Pat dry with a soft towel. Use lotion to lubricate dry skin. Keep skin clean and dry: immediately remove all wet and dirty linens. Wash, rinse, and dry all wet and dirty skin. Turn and position patients at least every 2 hours: residents who stay in bed or chair must be repositioned at least every 2 hours. Observe and report skin condition: look for whiteness (blanching), redness, heat, tearing, or breaks. Encourage mobility: encourage residents to ambulate and move if able. Provide for toileting needs: anticipate elimination needs. Residents wet with urine or soiled with feces are at risk. Encourage nutrition and fluids: encourage good foods and lots of fluids. Report and record all food and fluid intake. Use pressure-reducing cushions, mattresses, beds, booties, elbow pads, etc. Do NOT elevate the head of the bed more than 30 degrees unless ordered. Do NOT allow a resident to remain on a bedpan for a long period of time. Use a lifting device like a Hoyer Lift or lifting sheet — do NOT drag a person's body along bed sheets."
+      },
+      {
+        "heading": "Protective Devices & Specialty Beds",
+        "content": "It is important to note that devices or beds do not replace good skin care and turning and repositioning. Bed Cradles: a metal frame placed at the foot of the bed; linens are draped over it to relieve pressure on the feet and toes. Elbow Protectors: a sleeve-like cushion placed over the bony prominence of the elbow to relieve pressure and protect fragile skin. Heel Protectors: a sleeve-like cushion placed over the heel to relieve pressure; also used to elevate the heel off the mattress surface. Flotation and Gel Pads: special wheelchair or chair pads that relieve pressure by providing a softer cushioning surface. Specialty Beds: the most frequently used is the air flotation bed — the mattress is filled with air at a constant pressure to eliminate pressure points over bony prominences. Specialty Mattresses: pressure-reducing mattresses with areas of softer and firmer material; labeled with head and foot ends. Sheepskin Protectors: can be placed on beds or chairs to reduce friction and shearing."
       }
     ]
   }

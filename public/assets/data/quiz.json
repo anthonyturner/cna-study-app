@@ -1788,5 +1788,135 @@
     ],
     "answer": 1,
     "explanation": "Sputum is mucus produced by the respiratory system (lungs, bronchi, trachea) and expelled through the mouth. Sputum specimens are analyzed for blood, microbes, and abnormal cells."
+  },
+  {
+    "id": 141,
+    "question": "Which sign is characteristic of hypoglycemia (low blood sugar)?",
+    "options": [
+      "Fruity-smelling breath",
+      "Extreme thirst and frequent urination",
+      "Cold, clammy skin and trembling",
+      "Flushed cheeks and labored breathing"
+    ],
+    "answer": 2,
+    "explanation": "Hypoglycemia symptoms include cold/clammy skin, trembling, hunger, and rapid heartbeat. Fruity breath and extreme thirst are signs of hyperglycemia.",
+    "category": "Endocrine System"
+  },
+  {
+    "id": 142,
+    "question": "Why is foot care especially critical for residents with diabetes?",
+    "options": [
+      "They have increased sensitivity to pain",
+      "Poor circulation means even small sores can become large wounds leading to amputation",
+      "Their feet are more prone to sweating",
+      "Their toenails grow faster than normal"
+    ],
+    "answer": 1,
+    "explanation": "Diabetes impairs circulation and sensation. Even a small foot sore can grow into a serious wound that does not heal, potentially requiring amputation.",
+    "category": "Endocrine System"
+  },
+  {
+    "id": 143,
+    "question": "What is the recommended daily fluid intake for a healthy older adult?",
+    "options": [
+      "4 glasses (1,000 ml)",
+      "6 glasses (1,500 ml)",
+      "8 to 10 glasses (2,000 to 2,600 ml)",
+      "12 glasses (3,000 ml)"
+    ],
+    "answer": 2,
+    "explanation": "Unless medically restricted, healthy older adults should drink at least 8 to 10 glasses (2,000 to 2,600 ml) of liquids per day.",
+    "category": "Nutrition & Fluids"
+  },
+  {
+    "id": 144,
+    "question": "Edema is caused by:",
+    "options": [
+      "Fluid output exceeding fluid intake",
+      "Fluid intake exceeding fluid output",
+      "Dehydration",
+      "Decreased sodium in the diet"
+    ],
+    "answer": 1,
+    "explanation": "Edema (swelling) occurs when fluid intake exceeds fluid output, causing excess fluid to accumulate in body tissues. It is common in heart and kidney disease.",
+    "category": "Nutrition & Fluids"
+  },
+  {
+    "id": 145,
+    "question": "A pureed diet is ordered for a resident. What does this mean?",
+    "options": [
+      "Food is cut into small, bite-sized pieces",
+      "Only clear liquids are allowed",
+      "Food is blended or mashed for easy swallowing",
+      "Food is ground but still has some texture"
+    ],
+    "answer": 2,
+    "explanation": "A pureed diet means food is completely blended or mashed to a smooth consistency, making it safe for residents who have difficulty swallowing solid or chunky food.",
+    "category": "Nutrition & Fluids"
+  },
+  {
+    "id": 146,
+    "question": "When feeding a resident who needs total assistance, you should:",
+    "options": [
+      "Stand next to the resident to save time",
+      "Sit facing the resident and allow adequate time to chew and swallow",
+      "Feed quickly to keep up with other duties",
+      "Give large bites to reduce the time needed"
+    ],
+    "answer": 1,
+    "explanation": "Sitting facing the resident shows that you have time to help, allows you to observe swallowing, and creates a relaxed, dignified dining experience.",
+    "category": "Nutrition & Fluids"
+  },
+  {
+    "id": 147,
+    "question": "What is the minimum head elevation required when a resident is receiving a tube feeding to prevent aspiration?",
+    "options": [
+      "15 degrees",
+      "30 degrees",
+      "45 degrees",
+      "90 degrees"
+    ],
+    "answer": 2,
+    "explanation": "The head of the bed must be elevated at least 45 degrees during tube feedings to prevent the formula from backing up and being aspirated into the lungs.",
+    "category": "Nutrition & Fluids"
+  },
+  {
+    "id": 148,
+    "question": "The three layers of the skin from outermost to innermost are:",
+    "options": [
+      "Dermis, epidermis, subcutaneous tissue",
+      "Epidermis, dermis, subcutaneous tissue",
+      "Subcutaneous tissue, dermis, epidermis",
+      "Dermis, subcutaneous tissue, epidermis"
+    ],
+    "answer": 1,
+    "explanation": "The skin layers from outer to inner are: Epidermis (outermost, contains pigment), Dermis (contains blood vessels and nerves), and Subcutaneous tissue (fatty layer).",
+    "category": "Integumentary System"
+  },
+  {
+    "id": 149,
+    "question": "A Stage 2 pressure injury is best described as:",
+    "options": [
+      "Non-blanchable redness of intact skin",
+      "A blister or shallow open sore involving the dermis",
+      "A deep crater extending into subcutaneous tissue",
+      "A wound with exposed muscle or bone"
+    ],
+    "answer": 1,
+    "explanation": "Stage 2 involves the dermis — a blister develops and breaks open, creating a sore that looks like an abrasion, blister, or shallow crater.",
+    "category": "Integumentary System"
+  },
+  {
+    "id": 150,
+    "question": "How often should a bedridden resident be repositioned to prevent pressure injuries?",
+    "options": [
+      "Every 30 minutes",
+      "Every hour",
+      "At least every 2 hours",
+      "Every 4 hours"
+    ],
+    "answer": 2,
+    "explanation": "Residents who stay in bed or a chair must be repositioned at least every 2 hours. Each repositioning decreases the risk of pressure injuries by relieving pressure on bony prominences.",
+    "category": "Integumentary System"
   }
 ]

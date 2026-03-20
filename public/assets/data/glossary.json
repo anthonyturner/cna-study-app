@@ -1028,5 +1028,125 @@
     "id": 175,
     "term": "Intake and Output (I&O)",
     "definition": "The measurement of all fluids taken in (intake) and all fluids lost (output) by a resident; used to monitor fluid balance."
+  },
+  {
+    "id": 176,
+    "term": "Hormone",
+    "definition": "A chemical substance produced by a gland and secreted into the bloodstream to control and regulate specific body functions.",
+    "category": "Endocrine System"
+  },
+  {
+    "id": 177,
+    "term": "Homeostasis",
+    "definition": "The body's ability to maintain stable internal conditions despite changes in the external environment.",
+    "category": "Endocrine System"
+  },
+  {
+    "id": 178,
+    "term": "Hypothyroidism",
+    "definition": "Underactivity of the thyroid gland, causing the body's normal rate of functioning to slow, resulting in mental and physical sluggishness.",
+    "category": "Endocrine System"
+  },
+  {
+    "id": 179,
+    "term": "Hypoglycemia",
+    "definition": "Low blood sugar; occurs when there is too much insulin in the bloodstream. Symptoms include hunger, trembling, cold and clammy skin, rapid heartbeat, and mental confusion.",
+    "category": "Endocrine System"
+  },
+  {
+    "id": 180,
+    "term": "Hyperglycemia",
+    "definition": "High blood sugar; occurs with too much sugar in the blood. Symptoms include extreme thirst, frequent urination, fruity breath, and mental confusion.",
+    "category": "Endocrine System"
+  },
+  {
+    "id": 181,
+    "term": "Insulin Resistance",
+    "definition": "A condition in which the body fails to properly use the insulin it produces; the hallmark of Type 2 diabetes.",
+    "category": "Endocrine System"
+  },
+  {
+    "id": 182,
+    "term": "Edema",
+    "definition": "Swelling caused by excess fluid in body tissues; occurs when fluid intake exceeds fluid output. Common in people with heart and kidney disease.",
+    "category": "Nutrition & Fluids"
+  },
+  {
+    "id": 183,
+    "term": "Dehydration",
+    "definition": "A dangerous decrease in body water content, caused when fluid output exceeds fluid intake. Signs include dry skin, sunken eyes, dark urine, confusion, and fatigue.",
+    "category": "Nutrition & Fluids"
+  },
+  {
+    "id": 184,
+    "term": "NPO",
+    "definition": "Nothing by mouth (nil per os); a dietary order that prohibits any oral intake of food, liquids, or medications.",
+    "category": "Nutrition & Fluids"
+  },
+  {
+    "id": 185,
+    "term": "Therapeutic Diet",
+    "definition": "A special diet ordered by a physician to treat a disease, nutritional deficiency, or other health condition, or to eliminate/reduce certain substances from the diet.",
+    "category": "Nutrition & Fluids"
+  },
+  {
+    "id": 186,
+    "term": "Dysphagia",
+    "definition": "Difficulty swallowing; refers to any problem in the swallowing process from mouth to stomach. Can lead to aspiration and pneumonia.",
+    "category": "Nutrition & Fluids"
+  },
+  {
+    "id": 187,
+    "term": "Aspiration",
+    "definition": "The accidental entry of food, liquid, or other foreign material into the lungs instead of the esophagus; a serious risk for residents with dysphagia.",
+    "category": "Nutrition & Fluids"
+  },
+  {
+    "id": 188,
+    "term": "Enteral Nutrition",
+    "definition": "A method of providing nutrients through the gastrointestinal tract via a feeding tube when a resident cannot chew or swallow.",
+    "category": "Nutrition & Fluids"
+  },
+  {
+    "id": 189,
+    "term": "PEG Tube",
+    "definition": "Percutaneous Endoscopic Gastrostomy tube; a feeding tube surgically placed directly into the stomach through the abdominal wall.",
+    "category": "Nutrition & Fluids"
+  },
+  {
+    "id": 190,
+    "term": "Epidermis",
+    "definition": "The outermost layer of the skin that contains the pigment giving skin its color; acts as the first line of defense against the environment.",
+    "category": "Integumentary System"
+  },
+  {
+    "id": 191,
+    "term": "Dermis",
+    "definition": "The inner layer of the skin containing connective tissue, blood vessels, nerve fibers, sweat glands, and oil glands.",
+    "category": "Integumentary System"
+  },
+  {
+    "id": 192,
+    "term": "Subcutaneous Tissue",
+    "definition": "The deepest layer of skin, also known as the fatty layer; helps the skin look smooth and acts as insulation.",
+    "category": "Integumentary System"
+  },
+  {
+    "id": 193,
+    "term": "Pressure Injury",
+    "definition": "A localized injury to the skin and/or underlying tissue, usually over a bony prominence, caused by unrelieved pressure, friction, or shear.",
+    "category": "Integumentary System"
+  },
+  {
+    "id": 194,
+    "term": "Stasis Ulcer",
+    "definition": "A breakdown of the skin caused by fluid buildup from poor vein function (venous insufficiency); commonly found on the ankle.",
+    "category": "Integumentary System"
+  },
+  {
+    "id": 195,
+    "term": "Hyperalimentation",
+    "definition": "The IV administration of a highly concentrated solution of proteins, carbohydrates, vitamins, minerals, and fat; more nutritious than a regular IV solution.",
+    "category": "Nutrition & Fluids"
   }
 ]

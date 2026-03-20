@@ -71,6 +71,13 @@ export class StudyDays implements OnInit {
       subtitle: 'Dressing, urinary system, reproductive system, perineal care, catheter care, digestive disorders, and specimen collection.',
       icon: 'biotech',
       color: '#0277BD'
+    },
+    {
+      day: 7,
+      title: 'Endocrine System, Nutrition & Skin Integrity',
+      subtitle: 'Diabetes, nutrition, therapeutic diets, dining assistance, enteral feedings, integumentary system, and pressure injury prevention.',
+      icon: 'restaurant',
+      color: '#2E7D32'
     }
   ];
 
