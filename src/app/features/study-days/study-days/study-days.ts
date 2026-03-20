@@ -131,7 +131,7 @@ export class StudyDays implements OnInit {
     }
 
     // Sub-headings: "Label: content" (capital start, no commas/parens before colon)
-    const subParts = text.split(/([A-Z][a-zA-Z\s-]{1,50}):\s/);
+    const subParts = text.split(/([A-Z][a-zA-Z0-9\s-]{1,50}):\s/);
     if (subParts.length > 1) {
       let html = '';
       if (subParts[0].trim()) html += this.renderSentences(subParts[0].trim());
