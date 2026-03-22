@@ -1566,5 +1566,371 @@
         "content": "It is important to note that devices or beds do not replace good skin care and turning and repositioning. Bed Cradles: a metal frame placed at the foot of the bed; linens are draped over it to relieve pressure on the feet and toes. Elbow Protectors: a sleeve-like cushion placed over the bony prominence of the elbow to relieve pressure and protect fragile skin. Heel Protectors: a sleeve-like cushion placed over the heel to relieve pressure; also used to elevate the heel off the mattress surface. Flotation and Gel Pads: special wheelchair or chair pads that relieve pressure by providing a softer cushioning surface. Specialty Beds: the most frequently used is the air flotation bed — the mattress is filled with air at a constant pressure to eliminate pressure points over bony prominences. Specialty Mattresses: pressure-reducing mattresses with areas of softer and firmer material; labeled with head and foot ends. Sheepskin Protectors: can be placed on beds or chairs to reduce friction and shearing."
       }
     ]
+  },
+  {
+    "id": "musculoskeletal-system",
+    "title": "The Musculoskeletal System",
+    "icon": "accessibility_new",
+    "color": "#5D4037",
+    "summary": "Structure and function of the musculoskeletal system including bones, joints, cartilage, tendons, and the three types of muscle tissue.",
+    "day": 8,
+    "sections": [
+      {
+        "heading": "Overview",
+        "content": "The musculoskeletal system is made up of muscles and bones together. There are 206 bones in the adult body and approximately 500 muscles in the adult body. The musculoskeletal system provides the framework for the body and allows the body to move.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0850.JPEG"
+      },
+      {
+        "heading": "The Skeletal System",
+        "content": "The skeletal system is composed of: bones, joints, cartilage, and tendons. Tendons connect our skeletal muscles to our bones. Functions of the skeletal system include: protection, structure and support, mineral storage, and production of blood cells."
+      },
+      {
+        "heading": "Types of Bones",
+        "content": "Long bones: bear the weight of the body. Examples are the leg bones. Short bones: allow skill and ease in movement. Examples are bones in the wrist, fingers, ankles, and toes. Flat bones protect the organs. Examples include the ribs, skull, pelvic bones and shoulder blades. Irregular bones allow various degrees of movement and flexibility. Examples are the vertebrae in the spinal column.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0851.JPEG"
+      },
+      {
+        "heading": "Joints",
+        "content": "A joint is the point at which two or more bones meet. Joints allow movement. There are three types of joints: Ball and socket joint: allows movement in all directions. Examples: hips and shoulders. Hinge joint: allows movement in one direction. Examples: elbow and knee. Pivot joint: allows turning from side to side. The skull is an example."
+      },
+      {
+        "heading": "Cartilage & Tendons",
+        "content": "Cartilage is a firm, rubbery tissue that cushions bones at joints. A more flexible kind of cartilage connects muscles with other parts of the body, such as the larynx and the outside parts of the ears. Tendons are the tissue by which a muscle attaches to bone. A tendon is somewhat flexible, but fibrous and tough."
+      },
+      {
+        "heading": "The Muscle System",
+        "content": "The muscle system contains three types of muscle tissue. Skeletal: functions include body movement, heat production, and protection. Smooth: found in the walls of organs including the stomach and intestine. Cardiac: makes up the heart."
+      }
+    ]
+  },
+  {
+    "id": "musculoskeletal-conditions",
+    "title": "Musculoskeletal Conditions & Care",
+    "icon": "healing",
+    "color": "#BF360C",
+    "summary": "Age-related musculoskeletal changes, osteoarthritis, osteoporosis, fractures, cast care, and traction guidelines.",
+    "day": 8,
+    "sections": [
+      {
+        "heading": "Age-Related Changes",
+        "content": "Muscles atrophy (shrink). Muscle strength, tone and contractility decrease. Bone mass decreases; bones become weaker and brittle. Vertebrae shorten. Joints become stiff and painful. Hip and knee joints become flexed. Gradual loss of height; trunk becomes shorter. Decreased mobility.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0852.JPEG"
+      },
+      {
+        "heading": "Osteoarthritis",
+        "content": "Osteoarthritis is the degeneration, or wearing down, of the cartilage between two bones. It commonly occurs in the fingers, knees, hips and spine. Causes: age, joint injury, and obesity. Signs and Symptoms: pain and aching at the joint, weakness and muscle wasting, a grating or cracking sound with motion of the joint."
+      },
+      {
+        "heading": "Osteoporosis",
+        "content": "Osteoporosis is the loss of bone mass, causing the bones to become porous and brittle. Causes: calcium depletion due to immobility, dietary deficiencies such as vitamin D, aging, and estrogen deficiencies due to menopause or removal of the ovaries. Signs and Symptoms: loss of height, hunchback, scoliosis (S-shaped curvature of the spine), fatigue and pain, bone fractures.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0853.JPEG"
+      },
+      {
+        "heading": "Fractures",
+        "content": "A fracture is a broken bone. Tissues around the fracture — muscles, blood vessels, nerves, and tendons — are also injured. Types: simple fracture — the bone is broken in 1 place; open (compound) fracture — the broken bone has come through the skin; closed fracture — the bone is broken but the skin is intact. Signs and Symptoms: pain, swelling, loss of function, deformity, bruising, and bleeding.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0854.JPEG"
+      },
+      {
+        "heading": "Role of CNA for Fractures",
+        "content": "Ensure proper alignment of the affected body part after instruction from the Charge Nurse or Physical Therapist. Assist with personal care. Perform range of motion exercises according to the care plan. Encourage adequate nutrition and hydration. Encourage socialization."
+      },
+      {
+        "heading": "Hip Fracture Care Guidelines",
+        "content": "Keep often-used items within easy reach. Dress the affected (weaker) side first. Never rush the resident. Have the resident sit to do tasks to conserve energy. Never perform ROM exercises on the operative leg unless directed. Place chair on unaffected side to facilitate transfers. The hip cannot be bent or flexed more than 90 degrees; it cannot be turned inward or outward. Weight-Bearing: Partial Weight-Bearing (PWB) — the resident can support some body weight; Non-Weight-Bearing (NWB) — the resident is unable to support any weight.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0855.JPEG"
+      },
+      {
+        "heading": "Hip Abduction Pillow",
+        "content": "An abduction pillow is normally used for 6–8 weeks after surgery while the resident is sleeping. The pillow immobilizes and positions the hips and knees. It is placed between the legs, with the legs secured to the sides using straps. With chair or toilet transfers, the operative leg should be straightened. The stronger leg should stand first (with a walker or crutches).",
+        "imageUrl": "/assets/data/images/day-8/IMG_0856.JPEG"
+      },
+      {
+        "heading": "Cast Care",
+        "content": "Casts are made of plaster of paris, plastic or fiberglass. Rules: do not cover a fresh cast with a blanket — as it dries it gives off heat and can burn skin. Turn as directed by the nurse. When wet, be careful not to make imprints. Observe cast for cracks, fraying or breaks. Monitor skin at the edges. Before the doctor removes the cast, do not allow the resident to insert objects into the cast for itching. Report: complaints of pain, swelling, odor, drainage, numbness or tingling.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0857.JPEG"
+      },
+      {
+        "heading": "Traction",
+        "content": "Traction is used to reduce and immobilize fractures. A steady pull from two directions keeps the fractured bone in place. Weights, ropes and pulleys are used. Rules: keep the resident in good body alignment; do not remove the traction or weights; keep weights off the floor — they must hang freely; provide skin care often. Report: complaints of pain, swelling, numbness, pale skin, chills, or change in temperature or color of the extremity."
+      }
+    ]
+  },
+  {
+    "id": "body-mechanics",
+    "title": "Body Mechanics",
+    "icon": "fitness_center",
+    "color": "#1565C0",
+    "summary": "Principles of proper body mechanics including alignment, base of support, and center of gravity to prevent injury during resident care.",
+    "day": 8,
+    "sections": [
+      {
+        "heading": "What Are Body Mechanics?",
+        "content": "Body mechanics describe how the parts of your body work together when you move. The types of duties a CNA performs every day put real physical demands on the body. Use good body mechanics to: maximize your strength, minimize muscle fatigue, avoid back strain and injury, and minimize the risk of injury to residents. Using proper body mechanics involves body alignment, base of support and gravity.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0858.JPEG"
+      },
+      {
+        "heading": "A — Alignment of Body",
+        "content": "Good body alignment is when your body parts are lined up naturally and are properly supported by your muscles. Using good posture and balance allows your largest and strongest muscles (hips and thighs, shoulders and upper arms) to lift and move heavy objects. Good example: bending at the knees or squatting to lift a heavy object (uses stronger leg muscles). Bad example: bending at the waist and lifting (strains smaller back muscles)."
+      },
+      {
+        "heading": "B — Base of Support",
+        "content": "Using a wide base of support increases your balance and stability. Your feet are your base of support. If you stand with your feet very close together, you can easily lose your balance. As you spread your feet (about shoulder width apart), your base of support increases.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0859.JPEG"
+      },
+      {
+        "heading": "C — Center of Gravity",
+        "content": "Your center of gravity (in your hip area) is where most of your body weight is concentrated. Keeping your center of gravity low reduces the possibility of losing your balance."
+      },
+      {
+        "heading": "Rules of Good Body Mechanics",
+        "content": "Make sure your body is in good alignment with a wide base of support. Use the stronger muscles of the hips, thighs, shoulders and upper arms. Keep objects as close to your body as possible when lifting, moving, or carrying. Use both hands and arms to support an object. Avoid unnecessary bending and reaching; use smooth, even movements. Turn your whole body when changing direction — pivot with your feet, never twist at the waist. When moving a resident, push, pull or roll rather than lift when possible. Keep your knees slightly bent and back straight when lifting. Get help from a co-worker whenever necessary.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0860.JPEG"
+      }
+    ]
+  },
+  {
+    "id": "resident-positioning",
+    "title": "Positioning the Resident",
+    "icon": "airline_seat_flat",
+    "color": "#00695C",
+    "summary": "Basic body positions (supine, prone, Sims', Fowler's, lateral), indications and contraindications, and positioning guidelines.",
+    "day": 8,
+    "sections": [
+      {
+        "heading": "Goals of Positioning",
+        "content": "Proper body alignment and regular position changes are essential, especially for residents confined to bed or a chair. Position changes are done at least every 2 hours. Goals: maintaining proper body alignment, promoting physical comfort, relieving strain on joints and muscles, stimulating circulation, relieving pressure to bony prominences, preventing skin breakdown, improving body function, preventing deformities and contractures.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0861.JPEG"
+      },
+      {
+        "heading": "Supine Position (Face Up)",
+        "content": "When to use: facilitates ease of turning and repositioning, administration of treatments, and incontinence care. When NOT to use: contraindicated with residents who have PEG tube feedings (aspiration risk). Also difficult for residents with heart and respiratory disorders — elevating the head makes breathing easier."
+      },
+      {
+        "heading": "Prone Position (Face Down)",
+        "content": "When to use: to facilitate wound drainage and relieve pressure areas on the back. When NOT to use: contraindicated for residents with respiratory disease and spinal disease. A resident should not be placed in the prone position without the direction of the nurse.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0862.JPEG"
+      },
+      {
+        "heading": "Sims' Position",
+        "content": "Sims' position is a semi-prone position; the resident is placed on either side with the upper leg more flexed so it is not touching the other leg. When to use: alternative to prone position that relieves pressure from the sacrum, heels and hip joints. Sims' position to the left is used for administration of enemas. When NOT to use: contraindicated for residents with severe spinal disease, pelvic and hip fractures."
+      },
+      {
+        "heading": "Fowler's Position",
+        "content": "Fowler's is the semi-sitting position noted in degrees of the head of the bed: Low Fowler's (15–45 degrees), Semi Fowler's (60 degrees), High Fowler's (90 degrees). When to use: position of choice for residents with difficulty breathing. High Fowler's assists with meals, fluids, television, and reading. When NOT to use: Low Fowler's is contraindicated for feeding. High Fowler's is not for long term use due to shearing injury risk.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0863.JPEG"
+      },
+      {
+        "heading": "Lateral Position",
+        "content": "The lateral position is a side-lying position. Similar to Sims' except the flexion of the upper leg is much less. When to use: good for sleeping, rotating, and relieving pressure from bony prominences. When NOT to use: contraindicated for residents with severe spinal disease, pelvic and hip fractures.",
+        "videoTitle": "CNA Test Prep Class 4: Side-Lying Position, Foot Care, Mouth Care, and Respirations",
+        "videoUrl": "https://www.youtube.com/watch?v=jv0r4ajDtzQ"
+      },
+      {
+        "heading": "Positioning Guidelines",
+        "content": "Hygiene is provided as needed. Pressure areas have been relieved. Proper body alignment is maintained. Use the draw sheet to aid in movement. Be sure not to cause friction or shearing of the skin. Use extra caution for residents with tubes. Positioning a resident often requires more than one team member. Positioning devices: pillows, towel rolls, soft blankets, flat pillows, wedge cushions, foot boards, and hand rolls.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0864.JPEG"
+      }
+    ]
+  },
+  {
+    "id": "transfers-gait-belt",
+    "title": "Transfers & Gait Belt",
+    "icon": "transfer_within_a_station",
+    "color": "#6A1B9A",
+    "summary": "Gait belt use, one-assist and two-assist transfer techniques for bed, chair, and toilet, using proper body mechanics.",
+    "day": 8,
+    "sections": [
+      {
+        "heading": "The Gait Belt",
+        "content": "To ensure the safe transfer and ambulation of the resident a gait belt must be used. The belt is placed around the resident's waist so that it is snug, not tight — you should be able to slide your fingers under the belt. To prevent injury to the skin, gait belts are only placed over clothing, never on bare skin. Once in place, the gait belt is grasped by the CNA to aid in the transfer.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0865.JPEG"
+      },
+      {
+        "heading": "Reasons to Use a Gait Belt",
+        "content": "The gait belt prevents dislocation of the resident's arms and shoulders during transfer. It ensures the CNA has a secure method of maintaining contact with the resident. During ambulation the gait belt ensures stability of the resident."
+      },
+      {
+        "heading": "Transfer Guidelines",
+        "content": "The rules of body mechanics apply for all transfers. The care plan tells you how much assistance a resident needs. Always make sure that you have enough room to safely transfer a resident — you may have to move furniture. Some residents need little help; others require extensive assistance.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0866.JPEG",
+        "videoTitle": "CNA Test Prep Class 6: Transfers, Feeding, Intake & Output, and Peri-Care",
+        "videoUrl": "https://www.youtube.com/watch?v=6ppSkHSpc1Y"
+      },
+      {
+        "heading": "One-Assist Transfers",
+        "content": "Transfers using one CNA: stand and pivot, bed to chair, chair to bed, and on/off toilet or commode. The CNA uses the gait belt to support and guide the resident. The care plan specifies the level of assistance required."
+      },
+      {
+        "heading": "Two-Assist Transfers",
+        "content": "Transfers using two CNAs: stand and pivot, bed to chair, chair to bed, and on/off toilet or commode. Both CNAs use the gait belt to provide support and guide ambulation. Two-assist is used when the resident requires more support than one CNA can safely provide."
+      }
+    ]
+  },
+  {
+    "id": "mechanical-lift",
+    "title": "Mechanical Lift",
+    "icon": "elevator",
+    "color": "#E65100",
+    "summary": "Operation of the mechanical lift, required staffing, sling types, and safety guidelines for non-weight-bearing residents.",
+    "day": 8,
+    "sections": [
+      {
+        "heading": "When to Use a Mechanical Lift",
+        "content": "A mechanical lift is used when a resident is unable to transfer by pivoting or other weight-bearing methods. The standard of care is that at least two CNAs must operate the mechanical lift. Each mechanical lift operates differently and has different weight limits. Know how to operate the specific lift you are using and know the weight limit and weight of the resident.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0867.JPEG"
+      },
+      {
+        "heading": "Mechanical Lift Guidelines",
+        "content": "Always have a second staff member to assist. Keep the destination chair or wheelchair close to the bed. Use the correct sling for the lift — if unsure, ask the nurse. Check the sling and strap for fraying or tears; do not use the lift if there are tears or holes. Open the legs of the stand to the widest position before helping the resident into the lift.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0868.JPEG"
+      },
+      {
+        "heading": "Types of Slings",
+        "content": "U-Slings (Universal Slings): used for standard transfers, allowing the resident to sit in the sling. Full-Body (Hammock) Slings: support the entire body and are used for residents who need full support. Always use the correct sling as directed by the nurse or care plan."
+      }
+    ]
+  },
+  {
+    "id": "nervous-system",
+    "title": "The Nervous System",
+    "icon": "psychology",
+    "color": "#1A237E",
+    "summary": "Structure of the central and peripheral nervous systems, the five senses, and age-related neurological changes.",
+    "day": 8,
+    "sections": [
+      {
+        "heading": "Overview",
+        "content": "The Nervous System controls, directs and coordinates body functions. Two divisions: Central Nervous System (CNS) — consists of the brain and spinal cord; Peripheral Nervous System — consists of 12 pairs of cranial nerves and 31 pairs of spinal nerves.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0869.JPEG"
+      },
+      {
+        "heading": "The Brain",
+        "content": "The brain is covered by the skull and has three main parts. Cerebrum: the largest part, center of thought and intelligence. Divided into two hemispheres — the right hemisphere controls the left side of the body; the left hemisphere controls the right side. Cerebellum: regulates and controls body movements. Brain Stem: controls heart rate, breathing, swallowing, coughing and vomiting.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0870.JPEG"
+      },
+      {
+        "heading": "Spinal Cord & Nerves",
+        "content": "Spinal Cord: lies within the spinal column, about 18 inches long. Contains pathways that conduct messages to and from the brain. Cranial Nerves: conduct impulses between the brain and the head, neck, chest and abdomen. They control sight, smell, taste, vision, hearing, pain, touch, temperature, pressure and muscle control. Spinal Nerves: carry impulses from the skin, extremities and internal body structures."
+      },
+      {
+        "heading": "The 5 Major Senses",
+        "content": "Sight — receptors are in the eyes. Hearing — receptors are in the ears. Taste — receptors are in the tongue (taste buds). Smell — receptors are in the nose. Touch — receptors are in the dermis, especially in the toes and fingertips."
+      },
+      {
+        "heading": "Age-Related Changes",
+        "content": "Brain and spinal cord lose nerve cells. Nerve cells send messages at a slower rate. Reflexes slow. Reduced blood flow to the brain. Brain tissue may atrophy. Shorter memory and forgetfulness. Slower ability to respond. Confusion and dizziness. Sleep pattern changes. Reduced sensitivity to pain and touch. Smell and taste decrease. Vision changes: less tear secretion, pupils less responsive to light, decreased night vision, problems seeing greens and blues. Hearing loss: eardrums atrophy, high-pitched sounds not heard.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0871.JPEG"
+      }
+    ]
+  },
+  {
+    "id": "nervous-system-diseases",
+    "title": "Nervous System Diseases",
+    "icon": "neurology",
+    "color": "#4A148C",
+    "summary": "Parkinson's disease, multiple sclerosis (MS), and seizure types, signs, symptoms, and CNA care responsibilities.",
+    "day": 8,
+    "sections": [
+      {
+        "heading": "Parkinson's Disease",
+        "content": "Parkinson's disease is a progressive disorder affecting movement. Persons over age 50 are at risk. Signs and Symptoms: tremors — often start in the hand, pill-rolling movements (rubbing thumb and index finger) may occur; rigid and stiff muscles in the arms, legs, neck, and trunk; stooped posture and impaired balance — falls are a risk; mask-like expression — the person cannot blink and smile, a fixed stare is common.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0872.JPEG"
+      },
+      {
+        "heading": "Parkinson's — Additional Symptoms",
+        "content": "Other signs and symptoms develop over time including swallowing and chewing problems, constipation, sleep problems, depression, and emotional changes (fear, anxiety). Memory loss and slow thinking can occur. The person may have slow, monotone, and soft speech."
+      },
+      {
+        "heading": "Multiple Sclerosis (MS)",
+        "content": "Multiple Sclerosis is a central nervous system disease. Multiple means many; sclerosis means hardening or scarring. The myelin (which covers nerve fibers) in the brain and spinal cord is destroyed. Nerve impulses are not sent to and from the brain in a normal way. Symptoms usually start between ages 20 and 40. Women and Caucasians are at greater risk. Signs and Symptoms: blurred or double vision, muscle weakness, balance and coordination problems, tingling or numbness, partial or complete paralysis, pain, speech problems, tremors, dizziness, cognitive problems, depression, bladder problems, fatigue."
+      },
+      {
+        "heading": "Seizures",
+        "content": "Seizures (convulsions) are violent and sudden contractions or tremors of muscle groups caused by abnormal electrical activity in the brain. Movements are uncontrolled and the person may lose consciousness. Types: Partial Seizure — only 1 part of the brain is involved; a body part may jerk or the person has a sensory problem; consciousness is not lost. Generalized tonic-clonic (grand mal) — tonic phase: body is rigid, all muscles contract, consciousness lost; clonic phase: muscle groups contract and relax causing jerking and twitching; deep sleep is common after. Generalized absence (petit mal) — usually lasts a few seconds; twitching of the eyelids and staring.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0873.JPEG",
+        "videoTitle": "CNA Practice Test Game Show – Specialized Care & Health Changes",
+        "videoUrl": "https://www.youtube.com/watch?v=5wTAO8uThQc"
+      },
+      {
+        "heading": "Role of CNA During a Seizure",
+        "content": "Take precautions to protect the head, arms and legs. Stay with the resident and signal for the Charge Nurse. Move any objects that may pose danger. If a resident is in a chair, ease them to the floor. Do NOT restrict the resident's movements or hold down. Never put anything into the mouth. If necessary, loosen tight necklace to aid breathing; turn head to side to allow saliva or vomit to drain. After seizure movements end, gently turn resident on their side. Report: how the resident acted before the seizure, description during the seizure (eye movement, biting of the tongue/lip, incontinence, loss of consciousness), and the approximate length of time.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0874.JPEG"
+      }
+    ]
+  },
+  {
+    "id": "cva-stroke",
+    "title": "CVA / Stroke",
+    "icon": "emergency",
+    "color": "#B71C1C",
+    "summary": "Causes, signs, and symptoms of stroke (CVA), FAST warning signs, care of stroke residents, and communication techniques for aphasia.",
+    "day": 8,
+    "sections": [
+      {
+        "heading": "What Is a Stroke?",
+        "content": "A stroke (brain attack or cerebrovascular accident — CVA) occurs when: a blood vessel in the brain bursts and bleeds into the brain (cerebral hemorrhage); or a blood clot blocks a blood vessel, stopping blood flow. Cells in the affected area do not get enough oxygen and nutrients — brain damage occurs and functions controlled by that part of the brain are lost. Risk factors: hypertension, hardening of the arteries, smoking and stress.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0875.JPEG"
+      },
+      {
+        "heading": "FAST — Warning Signs",
+        "content": "FAST: Face — facial drooping or uneven smile; Arms — arm weakness, one arm drifts down; Speech — slurred or strange speech; Time — call 911 immediately. A stroke on the right side of the brain affects the left side of the body; a stroke on the left side of the brain affects the right side of the body."
+      },
+      {
+        "heading": "Signs & Symptoms",
+        "content": "Stroke can occur suddenly. Signs include nausea, vomiting, memory loss, unconsciousness, noisy breathing, high blood pressure, slow pulse, redness of the face, and seizures. Hemiplegia (paralysis on one side of the body) may occur. The person may lose bowel and bladder control and the ability to speak. Treatment: medications and rehabilitation to return the resident to the highest level of independent function.",
+        "videoTitle": "CNA Practice Test Game Show – Specialized Care & Health Changes",
+        "videoUrl": "https://www.youtube.com/watch?v=5wTAO8uThQc"
+      },
+      {
+        "heading": "Care of the Stroke Resident",
+        "content": "Residents with paralysis or weakness will usually have physical or occupational therapy. Range of motion (ROM) exercises help strengthen muscles and keep joints flexible. Never refer to the weaker side as the \"bad side\" — use the terms \"weaker\" or \"involved.\" Be patient and understanding with confusion or memory loss. Keep a routine — this helps residents feel more secure. Encourage independence and self-esteem. Always check body alignment. If a resident has loss of touch or sensation, check for potentially harmful situations (heat and sharp objects). Check and change positioning often to prevent pressure injuries.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0876.JPEG"
+      },
+      {
+        "heading": "Assisting with Dressing — Stroke",
+        "content": "When helping with transfers or walking, use a gait belt. Stand on the stronger side; support the weaker side; lead with the stronger side. When assisting with dressing: dress the weaker side first — place the weaker arm or leg into clothing first to prevent overstretching. Undress the stronger side first, then remove the weaker arm or leg. Use adaptive equipment; encourage self-care.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0877.JPEG"
+      },
+      {
+        "heading": "Communication with Aphasia",
+        "content": "Keep questions and directions simple. Answer in signals such as shaking or nodding the head, or raising a hand or finger for \"yes\" or \"no.\" Give residents time to respond — listen attentively. Use a pencil and paper if the resident can write. Keep the call signal within reach. Use verbal and nonverbal communication — gestures and pointing can help. Use communication boards or special cards to aid communication."
+      }
+    ]
+  },
+  {
+    "id": "ambulation",
+    "title": "Ambulation",
+    "icon": "directions_walk",
+    "color": "#2E7D32",
+    "summary": "Safe ambulation techniques, assistive devices (cane, walker, crutches, brace), levels of assistance, and guiding a fall.",
+    "day": 8,
+    "sections": [
+      {
+        "heading": "Importance of Ambulation",
+        "content": "Ambulation is the ability to walk or move about on foot. CNAs should assist the resident with ambulation and mobility whenever possible. Never go beyond what the resident is able to do. Positive effects of ambulation: stimulates circulation, strengthens muscles, relieves pressure to bony prominences, exercises joints and provides range of motion, promotes independence, prevents complications of immobility, and increases self-esteem and well-being.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0878.JPEG"
+      },
+      {
+        "heading": "Safety Guidelines for Ambulation",
+        "content": "Check the resident's care plan prior to ambulating for an activity order. Allow the resident to dangle (sit on the side of the bed) prior to standing up. Be sure that non-skid footwear is on before ambulating. The CNA should give support to the resident on their weaker side. Encourage the resident to stand straight and keep their head up. Provide rest periods for the resident. Observe the resident for signs of fatigue. Ensure the area for ambulation is free from clutter, spills and objects blocking the path.",
+        "videoTitle": "CNA Test Prep Class 5: Lower Body ROM, Denture Care, Gait Belt Ambulation & Partial Bed Bath",
+        "videoUrl": "https://www.youtube.com/watch?v=WdaW3nk-qok"
+      },
+      {
+        "heading": "Ambulation Devices",
+        "content": "Crutches: assist ambulation for non-weight-bearing residents (fractures, sprains, amputations). Cane: provides stability for residents with weakness on one side. The cane is held in the hand opposite the weak side. Types: single tip, tripod cane, and quad cane. Walker: a 4-point aid providing more stability than a cane. Used for residents with weakness on both sides. Types include rolling (wheeled) walkers and pick-up walkers. Brace: provides stability for weakened lower extremity. Made of hard plastic — frequent skin checks are necessary. Gait Belt: used by CNAs to aid in transfers and ambulation.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0879.JPEG"
+      },
+      {
+        "heading": "Levels of Assistance",
+        "content": "Stand By Assist: stand slightly behind the resident and to the side; be prepared to assist if the resident becomes unsteady or weak. One Assist: stand slightly behind and to the side, using the gait belt to provide support and guide ambulation. Two Assist: a CNA stands on each side of the resident; use the gait belt to provide support and guide ambulation.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0880.JPEG"
+      },
+      {
+        "heading": "Guiding a Fall",
+        "content": "Once the momentum has started, it is almost impossible to stop a resident from falling. Help the falling resident to the floor with as little impact as possible. If near a wall, gently push the resident against it to slow the fall. If you can, move close enough to \"hug\" the resident. Focus on protecting the resident's head as you move down to the floor. Then call for help.",
+        "imageUrl": "/assets/data/images/day-8/IMG_0881.JPEG"
+      }
+    ]
   }
 ]

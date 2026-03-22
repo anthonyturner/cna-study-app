@@ -7,7 +7,7 @@ import { MatExpansionModule } from '@angular/material/expansion';
 import { MatChipsModule } from '@angular/material/chips';
 import { MatBadgeModule } from '@angular/material/badge';
 import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
-import { CnaDataService, Topic } from '../../../shared/services/cna-data';
+import { CnaDataService, Topic, phoneticize } from '../../../shared/services/cna-data';
 
 export interface StudyDay {
   day: number;
@@ -78,6 +78,13 @@ export class StudyDays implements OnInit {
       subtitle: 'Diabetes, nutrition, therapeutic diets, dining assistance, enteral feedings, integumentary system, and pressure injury prevention.',
       icon: 'restaurant',
       color: '#2E7D32'
+    },
+    {
+      day: 8,
+      title: 'Musculoskeletal System, Nervous System & Mobility',
+      subtitle: 'Bones, joints, fractures, body mechanics, positioning, transfers, gait belt, nervous system diseases, stroke, and ambulation.',
+      icon: 'accessibility_new',
+      color: '#5D4037'
     }
   ];
 
@@ -105,6 +112,10 @@ export class StudyDays implements OnInit {
     });
   }
 
+  hasVideo(topic: Topic): boolean {
+    return topic.sections.some(s => s.videoTitle !== undefined);
+  }
+
   toggleDay(day: number): void {
     this.expandedDay = this.expandedDay === day ? null : day;
     this.selected = null;
@@ -116,6 +127,38 @@ export class StudyDays implements OnInit {
 
   back(): void {
     this.selected = null;
+  }
+
+  lightboxSrc = '';
+  lightboxAlt = '';
+
+  openLightbox(src: string, alt: string): void {
+    this.lightboxSrc = src;
+    this.lightboxAlt = alt;
+  }
+
+  closeLightbox(): void {
+    this.lightboxSrc = '';
+    this.lightboxAlt = '';
+  }
+
+  speakingTerm = '';
+
+  speak(term: string, event: Event): void {
+    event.stopPropagation();
+    if (!('speechSynthesis' in window)) return;
+    if (this.speakingTerm === term) {
+      window.speechSynthesis.cancel();
+      this.speakingTerm = '';
+      return;
+    }
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(phoneticize(term));
+    utterance.rate = 0.85;
+    utterance.onend = () => { this.speakingTerm = ''; };
+    utterance.onerror = () => { this.speakingTerm = ''; };
+    this.speakingTerm = term;
+    window.speechSynthesis.speak(utterance);
   }
 
   topicsForDay(day: number): Topic[] {

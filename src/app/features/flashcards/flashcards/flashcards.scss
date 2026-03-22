@@ -111,6 +111,46 @@
   margin-top: 12px !important;
 }
 
+.speak-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: #F0F4FA;
+  border: 1px solid #C7D6EA;
+  border-radius: 20px;
+  padding: 5px 14px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #4B6280;
+  cursor: pointer;
+  margin: 4px 0 8px;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+
+  .material-icons {
+    font-size: 15px;
+    height: 15px;
+    width: 15px;
+  }
+
+  &:hover {
+    background: #E3EEF9;
+    border-color: #1565C0;
+    color: #1565C0;
+  }
+
+  &.speaking {
+    background: #FFEBEE;
+    border-color: #EF9A9A;
+    color: #D32F2F;
+    animation: pulse-speak 1s ease-in-out infinite;
+  }
+}
+
+@keyframes pulse-speak {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
 .nav-buttons {
   display: flex;
   gap: 16px;

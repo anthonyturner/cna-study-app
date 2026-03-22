@@ -2,6 +2,28 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
+const PHONETIC_MAP: Record<string, string> = {
+  'HIPAA': 'Hip-pay',
+  'NPO': 'N-P-O',
+  'PEG': 'peg',
+  'ADA': 'A-D-A',
+  'CNA': 'C-N-A',
+  'ADL': 'A-D-L',
+  'IV': 'I-V',
+  'NG': 'N-G',
+  'URI': 'U-R-I',
+  'UTI': 'U-T-I',
+  'DNR': 'D-N-R',
+  'CPR': 'C-P-R',
+  'PPE': 'P-P-E',
+  'ROM': 'R-O-M',
+  'OBRA': 'O-B-R-A',
+};
+
+export function phoneticize(text: string): string {
+  return text.replace(/\b([A-Z]{2,})\b/g, (match) => PHONETIC_MAP[match] ?? match.split('').join('-'));
+}
+
 export interface GlossaryTerm {
   id: number;
   term: string;

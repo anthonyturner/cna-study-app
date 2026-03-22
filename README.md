@@ -95,7 +95,7 @@ src/
 ## Building for Production
 
 ```bash
-ng build
+ng build            
 ```
 
 Output is placed in the `dist/` directory, optimized for performance.

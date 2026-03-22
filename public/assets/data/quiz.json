@@ -1918,5 +1918,145 @@
     "answer": 2,
     "explanation": "Residents who stay in bed or a chair must be repositioned at least every 2 hours. Each repositioning decreases the risk of pressure injuries by relieving pressure on bony prominences.",
     "category": "Integumentary System"
+  },
+  {
+    "id": 151,
+    "question": "How many bones are in the adult human body?",
+    "options": [
+      "156",
+      "206",
+      "213",
+      "250"
+    ],
+    "correctAnswer": 1,
+    "explanation": "There are 206 bones in the adult human body.",
+    "category": "Musculoskeletal System",
+    "day": 8
+  },
+  {
+    "id": 152,
+    "question": "Which type of fracture occurs when the broken bone has come through the skin?",
+    "options": [
+      "Simple fracture",
+      "Closed fracture",
+      "Open (compound) fracture",
+      "Stress fracture"
+    ],
+    "correctAnswer": 2,
+    "explanation": "An open (compound) fracture is when the broken bone has come through the skin.",
+    "category": "Musculoskeletal System",
+    "day": 8
+  },
+  {
+    "id": 153,
+    "question": "After hip surgery, the hip cannot be bent or flexed more than how many degrees?",
+    "options": [
+      "45 degrees",
+      "60 degrees",
+      "75 degrees",
+      "90 degrees"
+    ],
+    "correctAnswer": 3,
+    "explanation": "After hip surgery, the hip cannot be bent or flexed more than 90 degrees and cannot be turned inward or outward.",
+    "category": "Musculoskeletal System",
+    "day": 8
+  },
+  {
+    "id": 154,
+    "question": "Which of the following is a BAD example of body mechanics?",
+    "options": [
+      "Bending at the knees to lift",
+      "Keeping objects close to the body",
+      "Bending at the waist to lift",
+      "Pivoting with the feet when turning"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bending at the waist to lift strains the smaller back muscles. The correct technique is to bend at the knees, using the stronger leg muscles.",
+    "category": "Body Mechanics",
+    "day": 8
+  },
+  {
+    "id": 155,
+    "question": "In which position is the head of the bed raised to 90 degrees?",
+    "options": [
+      "Low Fowler's",
+      "Semi Fowler's",
+      "High Fowler's",
+      "Lateral"
+    ],
+    "correctAnswer": 2,
+    "explanation": "High Fowler's position has the head of the bed raised to 90 degrees. It is used to assist residents with meals, fluids, and for residents with breathing difficulties.",
+    "category": "Positioning",
+    "day": 8
+  },
+  {
+    "id": 156,
+    "question": "How often should a resident's position be changed to prevent skin breakdown?",
+    "options": [
+      "Every hour",
+      "Every 2 hours",
+      "Every 4 hours",
+      "Every 6 hours"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Position changes are done at least every 2 hours to relieve pressure, prevent skin breakdown, and stimulate circulation.",
+    "category": "Positioning",
+    "day": 8
+  },
+  {
+    "id": 157,
+    "question": "What is the minimum number of CNAs required to operate a mechanical lift?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "As many as available"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The standard of care requires at least two CNAs to operate a mechanical lift safely.",
+    "category": "Transfers",
+    "day": 8
+  },
+  {
+    "id": 158,
+    "question": "A stroke that occurs on the right side of the brain will affect which side of the body?",
+    "options": [
+      "Right side",
+      "Left side",
+      "Both sides equally",
+      "Only the face"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A stroke on the right side of the brain affects the left side of the body; a stroke on the left side of the brain affects the right side of the body.",
+    "category": "Neurological",
+    "day": 8
+  },
+  {
+    "id": 159,
+    "question": "What does the \"F\" in the FAST stroke warning signs stand for?",
+    "options": [
+      "Fever",
+      "Face drooping",
+      "Fatigue",
+      "Falling"
+    ],
+    "correctAnswer": 1,
+    "explanation": "FAST stands for Face (drooping), Arms (weakness), Speech (slurred or strange), Time (call 911 immediately).",
+    "category": "Neurological",
+    "day": 8
+  },
+  {
+    "id": 160,
+    "question": "When assisting a stroke resident with dressing, which side should be dressed first?",
+    "options": [
+      "The stronger side",
+      "The weaker side",
+      "Either side, it does not matter",
+      "The right side always"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Always dress the weaker side first — place the weaker arm or leg into clothing first to prevent overstretching or injury to the limb.",
+    "category": "Neurological",
+    "day": 8
   }
 ]

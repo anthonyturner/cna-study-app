@@ -45,7 +45,15 @@
       <div class="term-card-top">
         <span class="cat-badge">{{ term.category }}</span>
       </div>
-      <h3 class="term-name">{{ term.term }}</h3>
+      <div class="term-name-row">
+        <h3 class="term-name">{{ term.term }}</h3>
+        <button class="speak-btn"
+          [class.speaking]="speakingTerm === term.term"
+          (click)="speak(term.term, $event)"
+          title="Pronounce '{{ term.term }}'">
+          <span class="material-icons">{{ speakingTerm === term.term ? 'stop_circle' : 'volume_up' }}</span>
+        </button>
+      </div>
       <p class="term-def">{{ term.definition }}</p>
     </div>
   </div>

@@ -8,7 +8,7 @@ import { MatChipsModule } from '@angular/material/chips';
 import { MatSelectModule } from '@angular/material/select';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatProgressBarModule } from '@angular/material/progress-bar';
-import { CnaDataService, GlossaryTerm } from '../../../shared/services/cna-data';
+import { CnaDataService, GlossaryTerm, phoneticize } from '../../../shared/services/cna-data';
 
 @Component({
   selector: 'app-flashcards',
@@ -65,6 +65,7 @@ export class Flashcards implements OnInit {
     if (this.currentIndex < this.deck.length - 1) {
       this.currentIndex++;
       this.flipped = false;
+      this.stopSpeech();
     }
   }
 
@@ -72,10 +73,35 @@ export class Flashcards implements OnInit {
     if (this.currentIndex > 0) {
       this.currentIndex--;
       this.flipped = false;
+      this.stopSpeech();
     }
+  }
+
+  private stopSpeech(): void {
+    if ('speechSynthesis' in window) window.speechSynthesis.cancel();
+    this.speaking = false;
   }
 
   restart(): void {
     this.buildDeck();
+  }
+
+  speaking = false;
+
+  speak(term: string, event: Event): void {
+    event.stopPropagation();
+    if (!('speechSynthesis' in window)) return;
+    if (this.speaking) {
+      window.speechSynthesis.cancel();
+      this.speaking = false;
+      return;
+    }
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(phoneticize(term));
+    utterance.rate = 0.85;
+    utterance.onend = () => { this.speaking = false; };
+    utterance.onerror = () => { this.speaking = false; };
+    this.speaking = true;
+    window.speechSynthesis.speak(utterance);
   }
 }

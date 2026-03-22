@@ -1148,5 +1148,125 @@
     "term": "Hyperalimentation",
     "definition": "The IV administration of a highly concentrated solution of proteins, carbohydrates, vitamins, minerals, and fat; more nutritious than a regular IV solution.",
     "category": "Nutrition & Fluids"
+  },
+  {
+    "id": 196,
+    "term": "Atrophy",
+    "definition": "The wasting away or decrease in size of a body organ or tissue due to lack of use or disease.",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": 197,
+    "term": "Osteoarthritis",
+    "definition": "The degeneration or wearing down of the cartilage between two bones, commonly occurring in the fingers, knees, hips and spine.",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": 198,
+    "term": "Osteoporosis",
+    "definition": "The loss of bone mass, causing the bones to become porous and brittle, increasing the risk of fractures.",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": 199,
+    "term": "Fracture",
+    "definition": "A broken bone. Fractures may be simple (one place), open/compound (bone through skin), or closed (bone broken, skin intact).",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": 200,
+    "term": "Traction",
+    "definition": "A treatment that uses a steady pull from two directions (using weights, ropes and pulleys) to reduce and immobilize fractures.",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": 201,
+    "term": "Body Mechanics",
+    "definition": "The way in which the parts of the body work together when a person moves, designed to avoid muscle strain and prevent injury.",
+    "category": "Safety"
+  },
+  {
+    "id": 202,
+    "term": "Base of Support",
+    "definition": "The area beneath a person that includes all points of contact with the supporting surface. A wide base of support increases balance and stability.",
+    "category": "Safety"
+  },
+  {
+    "id": 203,
+    "term": "Contracture",
+    "definition": "The permanent shortening of a muscle or joint that results in a deformity, typically caused by prolonged immobility or lack of range of motion exercises.",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": 204,
+    "term": "Gait Belt",
+    "definition": "A belt placed around a resident's waist and used by the CNA to assist with transfers and ambulation safely, preventing arm and shoulder dislocation.",
+    "category": "Safety"
+  },
+  {
+    "id": 205,
+    "term": "Fowler's Position",
+    "definition": "A semi-sitting position where the head of the bed is raised. Low Fowler's: 15–45°; Semi Fowler's: 60°; High Fowler's: 90°.",
+    "category": "Positioning"
+  },
+  {
+    "id": 206,
+    "term": "Sims' Position",
+    "definition": "A semi-prone side-lying position with the upper leg more flexed. Used to relieve pressure from the sacrum and heels, and for enema administration.",
+    "category": "Positioning"
+  },
+  {
+    "id": 207,
+    "term": "Lateral Position",
+    "definition": "A side-lying position used for sleeping, rotating, and relieving pressure from bony prominences. Contraindicated for residents with severe spinal disease or hip fractures.",
+    "category": "Positioning"
+  },
+  {
+    "id": 208,
+    "term": "Hemiplegia",
+    "definition": "Paralysis on one side of the body, often caused by a stroke (CVA). The affected side is opposite to the side of the brain where the stroke occurred.",
+    "category": "Neurological"
+  },
+  {
+    "id": 209,
+    "term": "CVA",
+    "definition": "Cerebrovascular Accident — commonly called a stroke. Occurs when blood supply to part of the brain is interrupted, causing brain cell death and loss of function.",
+    "category": "Neurological"
+  },
+  {
+    "id": 210,
+    "term": "Aphasia",
+    "definition": "A loss or impairment of the ability to communicate through speech, writing, or signs, often caused by stroke or brain injury.",
+    "category": "Neurological"
+  },
+  {
+    "id": 211,
+    "term": "Seizure",
+    "definition": "Violent and sudden contractions or tremors of muscle groups caused by abnormal electrical activity in the brain. Types include partial, grand mal, and petit mal.",
+    "category": "Neurological"
+  },
+  {
+    "id": 212,
+    "term": "Multiple Sclerosis",
+    "definition": "A central nervous system disease in which the myelin covering of nerve fibers in the brain and spinal cord is destroyed, impairing nerve impulse transmission.",
+    "category": "Neurological"
+  },
+  {
+    "id": 213,
+    "term": "Parkinson's Disease",
+    "definition": "A progressive neurological disorder affecting movement, characterized by tremors, rigid muscles, stooped posture, and mask-like facial expression.",
+    "category": "Neurological"
+  },
+  {
+    "id": 214,
+    "term": "Ambulation",
+    "definition": "The ability to walk or move about on foot. CNAs assist residents with ambulation to prevent complications of immobility and promote independence.",
+    "category": "Rehabilitation"
+  },
+  {
+    "id": 215,
+    "term": "Abduction Pillow",
+    "definition": "A triangular pillow placed between the legs after hip surgery to immobilize and position the hips and knees, preventing the hip from being turned inward or outward.",
+    "category": "Musculoskeletal"
   }
 ]

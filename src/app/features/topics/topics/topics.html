@@ -17,7 +17,10 @@
     <mat-accordion>
       <mat-expansion-panel *ngFor="let section of selected.sections; let i = index" [expanded]="i === 0">
         <mat-expansion-panel-header>
-          <mat-panel-title>{{ section.heading }}</mat-panel-title>
+          <mat-panel-title>
+            {{ section.heading }}
+            <span class="material-icons section-video-icon" *ngIf="section.videoTitle !== undefined" title="Contains video">play_circle</span>
+          </mat-panel-title>
         </mat-expansion-panel-header>
         <div class="section-content" [innerHTML]="formatContent(section.content)"></div>
         <div class="section-table-block" *ngIf="section.table">
@@ -36,7 +39,8 @@
           </table>
         </div>
         <div class="section-image-block" *ngIf="section.imageUrl">
-          <img [src]="section.imageUrl" [alt]="section.heading" class="section-image" loading="lazy" />
+          <img [src]="section.imageUrl" [alt]="section.heading" class="section-image" loading="lazy"
+            (click)="openLightbox(section.imageUrl, section.heading)" title="Click to enlarge" />
         </div>
         <div class="video-block" *ngIf="section.videoTitle !== undefined">
           <iframe *ngIf="section.videoUrl; else videoPlaceholder"
@@ -69,9 +73,25 @@
           <h2>{{ topic.title }}</h2>
           <span *ngIf="topic.unit" class="unit-label">{{ topic.unit }}</span>
           <p>{{ topic.summary }}</p>
-          <mat-chip class="section-count">{{ topic.sections.length }} sections</mat-chip>
+          <div class="card-chips">
+            <mat-chip class="section-count">{{ topic.sections.length }} sections</mat-chip>
+            <mat-chip class="video-chip" *ngIf="hasVideo(topic)">
+              <span class="material-icons chip-icon">play_circle</span> Video
+            </mat-chip>
+          </div>
         </mat-card-content>
       </mat-card>
     </div>
   </ng-template>
+</div>
+
+<!-- Lightbox overlay -->
+<div class="lightbox-overlay" *ngIf="lightboxSrc" (click)="closeLightbox()">
+  <div class="lightbox-box" (click)="$event.stopPropagation()">
+    <button class="lightbox-close" (click)="closeLightbox()" aria-label="Close">
+      <span class="material-icons">close</span>
+    </button>
+    <img [src]="lightboxSrc" [alt]="lightboxAlt" class="lightbox-img" />
+    <p class="lightbox-caption">{{ lightboxAlt }}</p>
+  </div>
 </div>

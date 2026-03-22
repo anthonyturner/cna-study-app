@@ -5,7 +5,7 @@ import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
-import { CnaDataService, GlossaryTerm } from '../../../shared/services/cna-data';
+import { CnaDataService, GlossaryTerm, phoneticize } from '../../../shared/services/cna-data';
 
 @Component({
   selector: 'app-glossary',
@@ -51,6 +51,25 @@ export class Glossary implements OnInit {
   clearSearch(): void {
     this.searchQuery = '';
     this.filter();
+  }
+
+  speakingTerm = '';
+
+  speak(term: string, event: Event): void {
+    event.stopPropagation();
+    if (!('speechSynthesis' in window)) return;
+    if (this.speakingTerm === term) {
+      window.speechSynthesis.cancel();
+      this.speakingTerm = '';
+      return;
+    }
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(phoneticize(term));
+    utterance.rate = 0.85;
+    utterance.onend = () => { this.speakingTerm = ''; };
+    utterance.onerror = () => { this.speakingTerm = ''; };
+    this.speakingTerm = term;
+    window.speechSynthesis.speak(utterance);
   }
 
   scrollToTop(): void {

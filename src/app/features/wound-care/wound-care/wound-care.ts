@@ -42,6 +42,23 @@ export class WoundCare implements OnInit {
     this.selected = null;
   }
 
+  hasVideo(topic: Topic): boolean {
+    return topic.sections.some(s => s.videoTitle !== undefined);
+  }
+
+  lightboxSrc = '';
+  lightboxAlt = '';
+
+  openLightbox(src: string, alt: string): void {
+    this.lightboxSrc = src;
+    this.lightboxAlt = alt;
+  }
+
+  closeLightbox(): void {
+    this.lightboxSrc = '';
+    this.lightboxAlt = '';
+  }
+
   formatContent(content: string): string {
     const text = content.trim();
 

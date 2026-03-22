@@ -22,8 +22,14 @@
         <div class="card-front">
           <div class="card-label">TERM</div>
           <h2>{{ current.term }}</h2>
+          <button class="speak-btn" [class.speaking]="speaking"
+            (click)="speak(current.term, $event)"
+            title="Pronounce this term">
+            <span class="material-icons">{{ speaking ? 'stop_circle' : 'volume_up' }}</span>
+            {{ speaking ? 'Stop' : 'Pronounce' }}
+          </button>
           <mat-chip class="cat-chip">{{ current.category }}</mat-chip>
-          <p class="hint">Click to reveal definition</p>
+          <p class="hint">Click card to reveal definition</p>
         </div>
         <div class="card-back">
           <div class="card-label">DEFINITION</div>
