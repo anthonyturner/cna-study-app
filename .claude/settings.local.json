@@ -25,7 +25,9 @@
       "Bash(node add-skill-transfer.js)",
       "Bash(rm add-skill-transfer.js)",
       "Bash(node add-day8-skills.js)",
-      "Bash(rm add-day8-skills.js)"
+      "Bash(rm add-day8-skills.js)",
+      "Bash(node add-day8-images.js)",
+      "Bash(rm add-day8-images.js)"
     ]
   }
 }

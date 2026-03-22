@@ -932,102 +932,122 @@
   {
     "id": 156,
     "term": "Affected Side",
-    "definition": "The weaker side of the body due to stroke or injury. When dressing, place clothing on the affected side first; when undressing, remove from the stronger side first."
+    "definition": "The weaker side of the body due to stroke or injury. When dressing, place clothing on the affected side first; when undressing, remove from the stronger side first.",
+    "category": "Anatomy & Movement"
   },
   {
     "id": 157,
     "term": "Prosthesis",
-    "definition": "An artificial body part or self-help device used when a resident has difficulty performing an activity of daily living, such as an artificial limb, hearing aid, or glasses."
+    "definition": "An artificial body part or self-help device used when a resident has difficulty performing an activity of daily living, such as an artificial limb, hearing aid, or glasses.",
+    "category": "Patient Care"
   },
   {
     "id": 158,
     "term": "Ureter",
-    "definition": "One of two tubes that carry urine from the kidneys to the bladder."
+    "definition": "One of two tubes that carry urine from the kidneys to the bladder.",
+    "category": "Urinary"
   },
   {
     "id": 159,
     "term": "Urethra",
-    "definition": "The tube through which urine passes out of the body from the bladder."
+    "definition": "The tube through which urine passes out of the body from the bladder.",
+    "category": "Urinary"
   },
   {
     "id": 160,
     "term": "Oliguria",
-    "definition": "Scant or abnormally small production of urine; from 'olig' (scant) + 'uria' (urine)."
+    "definition": "Scant or abnormally small production of urine; from 'olig' (scant) + 'uria' (urine).",
+    "category": "Urinary"
   },
   {
     "id": 161,
     "term": "Dysuria",
-    "definition": "Difficult or painful urination; from 'dys' (difficult) + 'uria' (urine). A common symptom of urinary tract infections."
+    "definition": "Difficult or painful urination; from 'dys' (difficult) + 'uria' (urine). A common symptom of urinary tract infections.",
+    "category": "Urinary"
   },
   {
     "id": 162,
     "term": "Hematuria",
-    "definition": "The presence of blood in the urine; from 'hemat' (blood) + 'uria' (urine). May indicate UTI, trauma, or kidney disease."
+    "definition": "The presence of blood in the urine; from 'hemat' (blood) + 'uria' (urine). May indicate UTI, trauma, or kidney disease.",
+    "category": "Urinary"
   },
   {
     "id": 163,
     "term": "Nocturia",
-    "definition": "Frequent urination during the night; a common age-related change in the urinary system."
+    "definition": "Frequent urination during the night; a common age-related change in the urinary system.",
+    "category": "Urinary"
   },
   {
     "id": 164,
     "term": "CKD",
-    "definition": "Chronic Kidney Disease; gradual loss of kidney function over many years. Common causes include hypertension and diabetes."
+    "definition": "Chronic Kidney Disease; gradual loss of kidney function over many years. Common causes include hypertension and diabetes.",
+    "category": "Medical Conditions"
   },
   {
     "id": 165,
     "term": "Menopause",
-    "definition": "The time when a female permanently stops having menstrual periods; associated with decreased estrogen levels which can lead to bone loss."
+    "definition": "The time when a female permanently stops having menstrual periods; associated with decreased estrogen levels which can lead to bone loss.",
+    "category": "Reproductive"
   },
   {
     "id": 166,
     "term": "Vaginitis",
-    "definition": "An infection of the vagina caused by bacteria, protozoa, or fungus (yeast). Signs include change in vaginal discharge, itching, and burning."
+    "definition": "An infection of the vagina caused by bacteria, protozoa, or fungus (yeast). Signs include change in vaginal discharge, itching, and burning.",
+    "category": "Medical Conditions"
   },
   {
     "id": 167,
     "term": "Foley Catheter",
-    "definition": "An indwelling urinary catheter that is inserted and left in the bladder so urine drains constantly into a drainage bag; held in place by an inflated balloon."
+    "definition": "An indwelling urinary catheter that is inserted and left in the bladder so urine drains constantly into a drainage bag; held in place by an inflated balloon.",
+    "category": "Medical Equipment"
   },
   {
     "id": 168,
     "term": "Stoma",
-    "definition": "An artificial opening created surgically; for example, the opening created for a colostomy on the abdominal wall."
+    "definition": "An artificial opening created surgically; for example, the opening created for a colostomy on the abdominal wall.",
+    "category": "Medical Terms"
   },
   {
     "id": 169,
     "term": "Colostomy",
-    "definition": "The surgical creation of an artificial opening (stoma) between the colon and the abdominal wall to allow feces to exit the body."
+    "definition": "The surgical creation of an artificial opening (stoma) between the colon and the abdominal wall to allow feces to exit the body.",
+    "category": "Medical Terms"
   },
   {
     "id": 170,
     "term": "Sputum",
-    "definition": "Mucus that is produced by the respiratory tract (lungs, bronchi, trachea) and expelled through the mouth; collected for specimen analysis."
+    "definition": "Mucus that is produced by the respiratory tract (lungs, bronchi, trachea) and expelled through the mouth; collected for specimen analysis.",
+    "category": "Medical Terms"
   },
   {
     "id": 171,
     "term": "Clean Catch Specimen",
-    "definition": "A urine specimen collected after cleaning the perineal area to reduce the number of microbes in the sample; used for urinalysis to detect infections."
+    "definition": "A urine specimen collected after cleaning the perineal area to reduce the number of microbes in the sample; used for urinalysis to detect infections.",
+    "category": "Patient Care"
   },
   {
     "id": 172,
     "term": "Enema",
-    "definition": "The introduction of fluid into the rectum and lower colon, ordered by a doctor to remove feces or relieve constipation or fecal impaction."
+    "definition": "The introduction of fluid into the rectum and lower colon, ordered by a doctor to remove feces or relieve constipation or fecal impaction.",
+    "category": "Patient Care"
   },
   {
     "id": 173,
     "term": "Perineal Care",
-    "definition": "Cleaning the genital and anal areas; performed at least daily during bathing, or whenever the area is soiled, to prevent infection and promote comfort."
+    "definition": "Cleaning the genital and anal areas; performed at least daily during bathing, or whenever the area is soiled, to prevent infection and promote comfort.",
+    "category": "Personal Care"
   },
   {
     "id": 174,
     "term": "Bedside Commode",
-    "definition": "A portable toilet chair with a container used by residents who cannot walk to the bathroom; allows a normal position for elimination."
+    "definition": "A portable toilet chair with a container used by residents who cannot walk to the bathroom; allows a normal position for elimination.",
+    "category": "Medical Equipment"
   },
   {
     "id": 175,
     "term": "Intake and Output (I&O)",
-    "definition": "The measurement of all fluids taken in (intake) and all fluids lost (output) by a resident; used to monitor fluid balance."
+    "definition": "The measurement of all fluids taken in (intake) and all fluids lost (output) by a resident; used to monitor fluid balance.",
+    "category": "Patient Care"
   },
   {
     "id": 176,
@@ -1268,5 +1288,59 @@
     "term": "Abduction Pillow",
     "definition": "A triangular pillow placed between the legs after hip surgery to immobilize and position the hips and knees, preventing the hip from being turned inward or outward.",
     "category": "Musculoskeletal"
+  },
+  {
+    "id": 216,
+    "term": "Integumentary System",
+    "definition": "The organ system that forms the external covering of the body, consisting of the skin, hair, nails, and associated glands. It protects the body from the environment, regulates temperature, prevents water loss, and provides sensory information.",
+    "category": "Integumentary System"
+  },
+  {
+    "id": 217,
+    "term": "Musculoskeletal System",
+    "definition": "The body system made up of muscles and bones that provides the framework for the body and allows it to move. Includes 206 bones and approximately 500 muscles in the adult body, as well as joints, cartilage, and tendons.",
+    "category": "Musculoskeletal"
+  },
+  {
+    "id": 218,
+    "term": "Nervous System",
+    "definition": "The body system that controls, directs, and coordinates body functions. Divided into the Central Nervous System (brain and spinal cord) and the Peripheral Nervous System (cranial and spinal nerves).",
+    "category": "Neurological"
+  },
+  {
+    "id": 219,
+    "term": "Central Nervous System",
+    "definition": "The division of the nervous system consisting of the brain and spinal cord. It receives, processes, and responds to sensory information from the body.",
+    "category": "Neurological"
+  },
+  {
+    "id": 220,
+    "term": "Peripheral Nervous System",
+    "definition": "The division of the nervous system consisting of 12 pairs of cranial nerves and 31 pairs of spinal nerves. It carries impulses between the central nervous system and the rest of the body.",
+    "category": "Neurological"
+  },
+  {
+    "id": 221,
+    "term": "Endocrine System",
+    "definition": "The body system made up of glands that produce and secrete hormones directly into the bloodstream. It regulates growth, metabolism, reproduction, blood sugar levels, and maintains homeostasis.",
+    "category": "Endocrine"
+  },
+  {
+    "id": 222,
+    "term": "Digestive System",
+    "definition": "The body system responsible for breaking down food into nutrients that can be absorbed into the bloodstream and used by the body. Includes the mouth, esophagus, stomach, small intestine, large intestine, and accessory organs.",
+    "category": "Digestive"
+  },
+  {
+    "id": 223,
+    "term": "Urinary System",
+    "definition": "The body system responsible for filtering waste products from the blood and eliminating them from the body as urine. Consists of the kidneys, ureters, bladder, and urethra.",
+    "category": "Urinary"
+  },
+  {
+    "id": 224,
+    "term": "Reproductive System",
+    "definition": "The body system responsible for producing offspring. The male reproductive system produces and delivers sperm; the female reproductive system produces eggs and provides the environment for fetal development.",
+    "category": "Reproductive"
   }
 ]
