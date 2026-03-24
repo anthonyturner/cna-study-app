@@ -27,7 +27,9 @@
       "Bash(node add-day8-skills.js)",
       "Bash(rm add-day8-skills.js)",
       "Bash(node add-day8-images.js)",
-      "Bash(rm add-day8-images.js)"
+      "Bash(rm add-day8-images.js)",
+      "Bash(node fix-day8-content.js)",
+      "Bash(rm fix-day8-content.js)"
     ]
   }
 }

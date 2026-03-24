@@ -166,6 +166,12 @@ export class StudyDays implements OnInit {
   }
 
   formatContent(content: string): string {
+    // Handle explicit \n line breaks — process each line independently
+    if (content.includes('\n')) {
+      return content.split('\n').map(l => l.trim()).filter(Boolean)
+        .map(l => this.formatContent(l)).join('');
+    }
+
     const text = content.trim();
 
     // Numbered list: (1) item (2) item ...

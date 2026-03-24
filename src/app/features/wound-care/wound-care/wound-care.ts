@@ -60,6 +60,11 @@ export class WoundCare implements OnInit {
   }
 
   formatContent(content: string): string {
+    if (content.includes('\n')) {
+      return content.split('\n').map(l => l.trim()).filter(Boolean)
+        .map(l => this.formatContent(l)).join('');
+    }
+
     const text = content.trim();
 
     if (/\(1\)/.test(text)) {

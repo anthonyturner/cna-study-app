@@ -37,13 +37,52 @@
         <mat-icon [style.color]="selected.color">checklist</mat-icon>
         <h2>Procedure Steps</h2>
         <mat-chip class="step-count">{{ selected.steps.length }} steps</mat-chip>
+        <button mat-stroked-button class="flash-toggle-btn" (click)="toggleFlashMode()">
+          <mat-icon>{{ flashMode ? 'list' : 'style' }}</mat-icon>
+          {{ flashMode ? 'Show List' : 'Flash Cards' }}
+        </button>
       </div>
-      <ol class="steps-list">
-        <li *ngFor="let step of selected.steps; let i = index" class="step-item">
-          <div class="step-number" [style.background]="selected.color">{{ i + 1 }}</div>
-          <div class="step-text">{{ step }}</div>
-        </li>
-      </ol>
+
+      <!-- Flash card mode -->
+      <div *ngIf="flashMode; else stepsList" class="flash-area">
+        <mat-progress-bar mode="determinate" [value]="flashProgress" class="flash-progress"></mat-progress-bar>
+        <p class="flash-counter">Step {{ flashIndex + 1 }} of {{ selected.steps.length }}</p>
+
+        <div class="flashcard" [class.flipped]="flashFlipped" (click)="flashFlip()">
+          <div class="card-inner">
+            <div class="card-front" [style.border-top-color]="selected.color">
+              <div class="card-label">STEP</div>
+              <div class="flash-step-number" [style.color]="selected.color">{{ flashIndex + 1 }}</div>
+              <p class="flash-skill-name">{{ selected.title }}</p>
+              <p class="hint">Click to reveal step</p>
+            </div>
+            <div class="card-back">
+              <div class="card-label">STEP {{ flashIndex + 1 }}</div>
+              <p>{{ flashCurrent }}</p>
+              <p class="hint">Click to flip back</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="nav-buttons">
+          <button mat-stroked-button (click)="flashPrev()" [disabled]="flashIndex === 0">
+            <mat-icon>arrow_back</mat-icon> Previous
+          </button>
+          <button mat-flat-button color="primary" (click)="flashNext()" [disabled]="flashIndex === selected.steps.length - 1">
+            Next <mat-icon>arrow_forward</mat-icon>
+          </button>
+        </div>
+      </div>
+
+      <!-- List mode -->
+      <ng-template #stepsList>
+        <ol class="steps-list">
+          <li *ngFor="let step of selected.steps; let i = index" class="step-item">
+            <div class="step-number" [style.background]="selected.color">{{ i + 1 }}</div>
+            <div class="step-text">{{ step }}</div>
+          </li>
+        </ol>
+      </ng-template>
     </div>
   </div>
 

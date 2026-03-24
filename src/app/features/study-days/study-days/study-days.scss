@@ -520,12 +520,12 @@
   color: #374151;
   font-size: 0.94rem;
 
-  p {
+  ::ng-deep p {
     line-height: 1.8;
     margin: 0 0 8px;
   }
 
-  .content-subheading {
+  ::ng-deep .content-subheading {
     display: block;
     font-size: 0.72rem;
     font-weight: 800;
@@ -537,7 +537,7 @@
     &:first-child { margin-top: 0; }
   }
 
-  ul, ol {
+  ::ng-deep ul, ::ng-deep ol {
     margin: 0 0 10px;
     padding-left: 22px;
 

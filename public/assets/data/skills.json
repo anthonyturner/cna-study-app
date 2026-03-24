@@ -52,7 +52,8 @@
       "Complete a safety check on the room.",
       "Wash your hands.",
       "Record the measurement in its proper place."
-    ]
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=C6R3u582dTg"
   },
   {
     "id": "measuring-weight",
@@ -74,7 +75,8 @@
       "Complete a safety check on the room.",
       "Wash your hands.",
       "Record the measurement in its proper place."
-    ]
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=v52PmU8IGWk"
   },
   {
     "id": "unoccupied-bed",
@@ -823,7 +825,8 @@
       "Wash your hands.",
       "Report any changes to the nurse.",
       "Document the procedure."
-    ]
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=sqkE7MNndyE"
   },
   {
     "id": "assisting-ambulation",
