@@ -1947,5 +1947,260 @@
         "imageUrl": "/assets/data/images/day-8/IMG_0881.JPEG"
       }
     ]
+  },
+  {
+    "id": "mental-health-aging",
+    "title": "Mental Health & Aging",
+    "icon": "psychology",
+    "color": "#6A1B9A",
+    "summary": "Developmental tasks of aging, body changes, concept of loss, and promoting mental health and quality of life.",
+    "day": 9,
+    "sections": [
+      {
+        "heading": "Developmental Tasks of Aging",
+        "content": "Developmental tasks are tasks which arise and must be accomplished during each age period. Successful achievement of tasks leads to happiness and readiness for future tasks; failure may lead to unhappiness and difficulty with future tasks.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0896.JPEG"
+      },
+      {
+        "heading": "Changes in the Body with Aging",
+        "content": "Aging is a normal, gradual process which includes changes in body systems. Body functions slow down while energy level decreases. Some changes can be controlled, while others cannot be prevented.\nCommon changes: slower response to stimuli, reduced ability to hear, reduced blood vessel elasticity, heart problems, and loss of skin elasticity.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0897.JPEG"
+      },
+      {
+        "heading": "Concept of Loss",
+        "content": "Residents commonly experience multiple types of loss: loss of loved ones, loss of health, loss of income, loss of independence, loss of role, loss of body functions, and loss of sense of personal worth. Due to these losses, residents may feel depressed and no longer needed or valued.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0897.JPEG"
+      },
+      {
+        "heading": "Assisting Residents Experiencing Loss",
+        "content": "To help residents feel useful and maintain self-worth: allow residents to perform as many ADLs as possible by themselves. Offer choices and let residents make decisions — offering options limits feelings of helplessness. Encourage the development of hobbies. Practice active listening. Encourage residents to attend activities and events they can participate in.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0898.JPEG"
+      },
+      {
+        "heading": "Mental Health",
+        "content": "Mental health is the normal functioning of emotional and intellectual abilities. A mentally healthy person can: deal with daily stressors, solve problems, care for self and others, give and accept love, feel comfortable with themselves, handle disappointment and frustration, take responsibility for decisions, and control desires and impulses appropriately.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0898.JPEG"
+      },
+      {
+        "heading": "Promoting Quality of Life",
+        "content": "We can promote quality of life by providing a warm, friendly environment and meaningful activities. Assist the resident to meet his/her own schedule — when to bathe, when to sleep, when to participate in activities. Resident schedules and preferences should be respected.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0898.JPEG"
+      }
+    ]
+  },
+  {
+    "id": "depression-anxiety-mental-illness",
+    "title": "Depression, Anxiety & Mental Illness",
+    "icon": "mood_bad",
+    "color": "#1565C0",
+    "summary": "Clinical depression, anxiety disorders, schizophrenia, and guidelines for communicating with residents with mental illness.",
+    "day": 9,
+    "sections": [
+      {
+        "heading": "Mental Stress",
+        "content": "Mental stress occurs from perceived threat or dangerous situations. It produces signs and symptoms and alters the body's ability to function. It often causes inappropriate behaviors. When communicating with residents under stress: do not talk to adults as if they were small children; use simple, clear statements and allow time to respond; be mindful of body language.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0899.JPEG"
+      },
+      {
+        "heading": "Clinical Depression",
+        "content": "Clinical depression is a serious mental illness that causes internal mental, emotional, and physical pain and disability. It is not a normal reaction to loss — sadness is only one symptom. Depression also worsens other illnesses and, if left untreated, may result in suicide.\nCommon symptoms: pain including headaches and unusual aches, loss of appetite, loss of interest in activities, irritability, oversleeping, problems with memory and thinking, unorganized thinking, repetitive thoughts of death or illness, trouble concentrating.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0900.JPEG"
+      },
+      {
+        "heading": "Anxiety",
+        "content": "Anxiety is a feeling of being trapped or overwhelmed. It is distinct from depression.\nPhysical signs of anxiety: sweating, shaking, racing heart, dry mouth.\nRelated disorders include: agoraphobia, panic disorder, specific phobias (fear of flying, heights, etc.), and obsessive-compulsive disorder (OCD). Anxiety-related disorders may be treated by a therapist through regular consultation.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0900.JPEG"
+      },
+      {
+        "heading": "Schizophrenia",
+        "content": "Schizophrenia is a brain disorder that affects a person's ability to think and communicate. It affects the ability to manage emotions, make decisions, and interact with people.\nSigns include: hallucinations (seeing or hearing things that are not real) and delusions (persistent false beliefs).",
+        "imageUrl": "/assets/data/images/day-9/IMG_0901.JPEG"
+      },
+      {
+        "heading": "Guidelines: Mental Illness",
+        "content": "Observe residents carefully for changes in behavior. Support the resident and his/her family. Respect the resident's beliefs, values, and personal preferences.\nObserve and report: changes in ability, social withdrawal, changes in personality, and extreme or unusual behaviors.\nWhen communicating: use simple, clear statements. Be aware of body language — what you say and how you say it matters.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0902.JPEG"
+      }
+    ]
+  },
+  {
+    "id": "resident-behavior-management",
+    "title": "Resident Behavior & Therapeutic Communication",
+    "icon": "record_voice_over",
+    "color": "#00695C",
+    "summary": "Understanding resident behavior, combative and angry behavior guidelines, inappropriate behavior, and therapeutic intervention techniques.",
+    "day": 9,
+    "sections": [
+      {
+        "heading": "Understanding Behavior",
+        "content": "Behavior is defined as the action of a person in response to a stimulus. Stimuli include: visual, auditory, smell, taste, and perceived cues. Behavior can be positive or negative. Negative behavior includes resistance to change, being uncooperative, or displaying inappropriate actions. Always observe, document, and report behavior changes.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0903.JPEG"
+      },
+      {
+        "heading": "Combative Behavior",
+        "content": "Residents may display confrontational, threatening, or fighting behaviors such as pushing, hitting, or verbal attacks. This may result from disease affecting the brain, frustration, or other unidentifiable causes. Combative behavior should not be taken personally.\nGuidelines: stay calm; try not to take behavior personally; wait for the resident to calm down; report and document all combative behavior to the nurse; be flexible and patient; do not argue or verbally challenge the resident; praise the resident for good behavior.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0904.JPEG"
+      },
+      {
+        "heading": "Angry Behavior",
+        "content": "Anger is a natural emotion with many causes, including disease, fear, pain, and frustration.\nGuidelines: stay calm; do not take it personally; empathize with the resident; listen patiently; do not argue; treat the resident with dignity and respect; maintain eye contact and listen carefully; stay at a safe distance if the resident becomes upset.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0905.JPEG"
+      },
+      {
+        "heading": "Inappropriate Behavior",
+        "content": "Inappropriate behavior should be viewed as a symptom of a problem, not a personal attack. Do not take it personally unless the action is directly directed at you. Inappropriate behaviors may include: stealing, damaging property, touching themselves in public, and sexual or negative comments. Remain professional; try to understand why; observe and report to the charge nurse.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0905.JPEG"
+      },
+      {
+        "heading": "Therapeutic Intervention",
+        "content": "Therapeutic intervention is the art of interacting with others in a way that modifies the outcome.\nWhen confronted with a verbally aggressive resident: keep direct eye contact; move away to give space; use verbal calming techniques such as 'You seem angry — is something bothering you?'\nVerbal Redirection: prompt with calm statements such as 'Please go to your room.'\nPhysical Redirection: if verbal redirection is unsuccessful, use calm, gentle guidance to redirect the resident's movement.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0906.JPEG"
+      },
+      {
+        "heading": "Specific Therapeutic Responses",
+        "content": "For a resident who is yelling or cursing at staff: speak in a calm manner; your voice is a calming influence; take a slow, deep breath.\nFor a resident showing signs of physical violence: use a soft, non-threatening voice; encourage verbalization of feelings; ask how you can assist; do not make physical contact if it feels unsafe; provide reassurance.\nAllow residents to make personal choices when appropriate: clothing, shampoo, activities, and food preferences from the menu.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0907.JPEG"
+      },
+      {
+        "heading": "Cultural Awareness & Confidentiality",
+        "content": "Different cultures have different types of food, clothing, music, customs, language, attitudes, and values. Some cultures may find personal information difficult to discuss. It is important to treat everyone with dignity and respect.\nConfidentiality: personal information about residents must be protected. Discuss resident information only with appropriate staff on a need-to-know basis. Privacy of the resident — including personal information — must always be protected.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0909.JPEG"
+      }
+    ]
+  },
+  {
+    "id": "cognitive-impairment-alzheimers",
+    "title": "Cognitive Impairment & Alzheimer's Disease",
+    "icon": "brain",
+    "color": "#4527A0",
+    "summary": "Types of cognitive impairment, dementia vs. delirium, Alzheimer's disease, and the 7 stages of dementia.",
+    "day": 9,
+    "sections": [
+      {
+        "heading": "Cognitive Impairment",
+        "content": "A cognitive impairment is any disorder of the brain that affects the way a person thinks. It can affect the ability to think, reason, use language, and remember.\nCauses may be reversible or irreversible. Vascular causes affect blood vessels of the brain, limiting oxygen and nutrients. Psychiatric causes include conditions like depression that affect memory or mood.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0910.JPEG"
+      },
+      {
+        "heading": "Dementia vs. Delirium",
+        "content": "Dementia is a set of chronic signs and symptoms resulting from a disease of the brain. It is progressive and long-term. The most common form is Alzheimer's disease.\nDelirium is a temporary, short-lived state of mental confusion that comes on suddenly. Possible causes include dehydration, depression, alcohol, medications, or urinary tract infections. Unlike dementia, delirium may be reversible if the underlying cause is treated.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0910.JPEG"
+      },
+      {
+        "heading": "Alzheimer's Disease",
+        "content": "Alzheimer's disease is a progressive neurological disorder that causes the loss of ability to carry out basic functions. Approximately 2.5 million Americans are affected; patients live an average of 8–10 years after diagnosis.\nIn the beginning phase, short-term memory is affected but the person can still recognize family and friends. In later stages, the person may be unable to recognize family, may not speak, and requires full care.\nBrain changes include: abnormal plaques and tangled bundles of fibers in brain tissue, death of nerve cells in memory areas, and lower levels of brain chemicals that carry messages between nerve cells.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0911.JPEG"
+      },
+      {
+        "heading": "Symptoms of Cognitive Impairment",
+        "content": "Memory: especially short-term memory is impaired. Attention: attention span may be reduced. Language: difficulty speaking or understanding others. Expressive: memory loss affects communication. Cognitive: difficulty following instructions or completing tasks.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0911.JPEG"
+      },
+      {
+        "heading": "Stages of Dementia — Stages 1–3",
+        "content": "Stage 1 — Normal: No memory deficit evident, no objective evidence of memory deficit.\nStage 2 — Very Mild Cognitive Decline: Forgetfulness; forgetting names of previously familiar people; no objective deficit in social situations; person still functions appropriately.\nStage 3 — Mild Cognitive Decline (Early Confusion): Early signs of short-term memory deficit; difficulty when traveling to unfamiliar locations; difficulty with task performance in demanding situations.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0912.JPEG"
+      },
+      {
+        "heading": "Stages of Dementia — Stages 4–5",
+        "content": "Stage 4 — Moderate Cognitive Decline: Increasing problems with memory and disorientation; decreased knowledge of current or recent events; difficulty with complex tasks and concentration.\nStage 5 — Moderately Severe Cognitive Decline: May need assistance with personal care; unable to recall major past events; difficulty counting down from 100 by 7s; difficulty with bathing, feeding, hygiene, and dressing.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0913.JPEG"
+      },
+      {
+        "heading": "Stages of Dementia — Stage 6–7",
+        "content": "Stage 6 — Severe Cognitive Decline: Total dependence on caregiver; needs reminders for daily events; inability to recall recent events; may need assistance with all ADLs; may become incontinent; anxiety, agitation, and inability to recognize familiar surroundings.\nStage 7 — Very Severe: Requires full assistance; possible loss of speech; inability to perform any ADLs independently.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0913.JPEG"
+      }
+    ]
+  },
+  {
+    "id": "dementia-behaviors",
+    "title": "Dementia-Related Behaviors",
+    "icon": "warning_amber",
+    "color": "#BF360C",
+    "summary": "Sundowning, yelling, resistance to care, sleep disturbances, wandering, paranoia, verbal aggression, and family involvement.",
+    "day": 9,
+    "sections": [
+      {
+        "heading": "Sundowning",
+        "content": "Sundowning is a phenomenon in which residents with dementia exhibit increased confusion and agitation during the late afternoon or evening hours. Triggers include environmental changes, fatigue, and decreased light. As the sun goes down, the resident may become confused and restless. Keep the environment well-lit and comfortable in the evening hours.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0914.JPEG"
+      },
+      {
+        "heading": "Yelling & Repetitive Sounds",
+        "content": "Some residents have constant or episodic periods of yelling or repetitive vocalizations.\nCauses: under-stimulation, pain, unmet needs, constipation, fear, or medication effects.\nManagement: ensure yelling is not a response to pain, discomfort, or fear; provide comfort measures; offer a snack if hunger is the cause; reward and reinforce appropriate communication; refer ongoing inappropriate communication to the nurse.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0920.JPEG"
+      },
+      {
+        "heading": "Resistance to Care",
+        "content": "Refusal of tasks can be verbal or physical. Residents may resist ADLs as a way of asserting control — they may feel safer when they remain in charge.\nCauses: pain, loss of independence, feeling used, feeling out of control.\nManagement: offer choices about care (who performs it, how, and when); encourage self-dressing; allow the resident to do as much as possible; if the resident becomes physical, stop and approach again later.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0923.JPEG"
+      },
+      {
+        "heading": "Sleep Disturbances",
+        "content": "Sleep is a biological need. About 25–50% of older adults experience sleep problems.\nCommon causes: restless leg syndrome, sleep apnea, effects from medications, increased napping during the day.\nManagement: limit daytime naps; encourage activity during the day; listen for environmental factors that inhibit sleep; provide a relaxing evening routine; keep the toilet accessible (commode or bedpan); use absorbent pads for incontinent residents at night.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0921.JPEG"
+      },
+      {
+        "heading": "Wandering",
+        "content": "Wandering is a common behavior in residents with dementia.\nManagement: ensure doors are secured; do not attempt to forcibly prevent wandering; make sure the environment is safe and free of hazards in hallways; maintain activity schedules including scheduled exercise; encourage physical activity to reduce wandering during the day.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0917.JPEG"
+      },
+      {
+        "heading": "Paranoid Behaviors",
+        "content": "Paranoia is characterized by false beliefs (delusions). Residents may refuse medications, accuse others of stealing, or distrust caregivers.\nParanoid behaviors include: hoarding, misplacing objects and blaming others, and making accusations.\nManagement: create activities to decrease time in paranoid behaviors; do not argue or try to reason with the delusion; redirect as needed.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0921.JPEG"
+      },
+      {
+        "heading": "Verbal Aggression & Disruptive Sexual Behavior",
+        "content": "Verbal aggression: often associated with verbal threats and may accompany other forms of aggression. Remember that the resident may not be able to control their behavior.\nDisruptive sexual behavior: may result from unmet needs. If a resident is disrobing, provide cover and assist with dressing — do not be judgmental. Remain professional and report to the charge nurse.\nFamily and staff reactions: anger, guilt, and frustration are common — support staff and families in coping.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0926.JPEG"
+      },
+      {
+        "heading": "Family Involvement",
+        "content": "Families may be called upon to provide information about the resident's background and preferences. This information helps nursing staff create a better care environment. Family involvement is especially important during medical emergencies and when personal decisions about care must be made.\nEvery behavior has a cause — residents with cognitive impairment cannot always communicate what they need, so the CNA must observe carefully and respond.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0916.JPEG"
+      }
+    ]
+  },
+  {
+    "id": "therapeutic-approaches-dementia",
+    "title": "Therapeutic Approaches for Dementia Care",
+    "icon": "self_improvement",
+    "color": "#00695C",
+    "summary": "Environmental modifications, reality orientation therapy, reminiscence therapy, validation therapy, and systemic methods for cognitive impairment.",
+    "day": 9,
+    "sections": [
+      {
+        "heading": "Environmental Modifications",
+        "content": "To accommodate and redirect behaviors: limit visual stimuli that might upset or confuse the resident; keep all surfaces clean and safe; set up activity stations to draw residents away from forbidden areas; provide familiar objects and music.\nTo address impaired judgment: remove harmful, sharp, and breakable objects from the environment; keep equipment out of reach; keep personal care items (shampoo, deodorant, soap) in a safe place.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0927.JPEG"
+      },
+      {
+        "heading": "Memory & Orientation Aids",
+        "content": "For memory: keep familiar habits and routines; arrange familiar items the resident can easily find; maintain consistent daily routines.\nFor orientation: place memory aids (clocks, calendars, name boards) where the resident can see them; show the resident the date and time as part of routines; have the resident wear regular clothes during the day and pajamas at night to reinforce day/night orientation.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0929.JPEG"
+      },
+      {
+        "heading": "Interpersonal Skills with Dementia Residents",
+        "content": "Residents with dementia may have difficulty interacting with others. Do not expect a resident to remember specific events.\nFor staff: maintain clear eye contact, be aware of body language, and speak in a calm, measured tone of voice. Never confront or argue with a resident with dementia — this may lead to a catastrophic reaction such as yelling, crying, or hitting.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0929.JPEG"
+      },
+      {
+        "heading": "Reality Orientation Therapy",
+        "content": "Reality Orientation is a tool that assists a person with dementia to function at their highest ability level and maintain independence. It involves orienting the resident through conversations, clocks, calendars, reality orientation boards, photos, large-print puzzles, and group activities such as bingo, trivia, and card playing. Reality orientation is practiced around the clock — all staff are encouraged to apply the techniques consistently.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0930.JPEG"
+      },
+      {
+        "heading": "Reminiscence Therapy",
+        "content": "Reminiscence therapy relates to recollections of people or events that bring enjoyment. For people with dementia, encouraging reminiscence is particularly beneficial — it gives the person a sense of worth and engages long-term memory.\nTypes of reminiscence activities: visual (photographs, paintings), scent or food (different kinds of music or familiar scents), and tactile (touching objects, feeling textures, painting and pottery).",
+        "imageUrl": "/assets/data/images/day-9/IMG_0931.JPEG"
+      },
+      {
+        "heading": "Validation Therapy",
+        "content": "Validation therapy involves empathetic listening. Rather than trying to orient the resident to our reality, the caregiver enters the resident's reality with empathy. This approach reduces anxiety and restores dignity.\nKey principle: agree with and explore what the resident experiences rather than correcting them. Every conversation should include familiar words and names of familiar people and objects. Treat people with memory impairment with full dignity — do not talk down to them.",
+        "imageUrl": "/assets/data/images/day-9/IMG_0931.JPEG"
+      }
+    ]
   }
 ]

@@ -85,6 +85,13 @@ export class StudyDays implements OnInit {
       subtitle: 'Bones, joints, fractures, body mechanics, positioning, transfers, gait belt, nervous system diseases, stroke, and ambulation.',
       icon: 'accessibility_new',
       color: '#5D4037'
+    },
+    {
+      day: 9,
+      title: 'Mental Health & Cognitive Impairment',
+      subtitle: 'Mental health, depression, anxiety, mental illness, dementia, Alzheimer\'s stages, dementia behaviors, and therapeutic approaches.',
+      icon: 'psychology',
+      color: '#6A1B9A'
     }
   ];
 
