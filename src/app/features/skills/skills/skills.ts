@@ -19,7 +19,25 @@ export class Skills implements OnInit {
   skills: CnaSkill[] = [];
   filtered: CnaSkill[] = [];
   selected: CnaSkill | null = null;
-  activeCategory = 'All';
+  activeGroup = 'All';
+
+  private readonly groupMap: Record<string, 'ADL' | 'Mobility' | 'Documentation'> = {
+    'Bathing':         'ADL',
+    'Oral Care':       'ADL',
+    'Hair Care':       'ADL',
+    'Personal Care':   'ADL',
+    'Bed Making':      'ADL',
+    'End of Life Care':'ADL',
+    'Nutrition':       'ADL',
+    'Transfers':       'Mobility',
+    'Positioning':     'Mobility',
+    'Ambulation':      'Mobility',
+    'Range of Motion': 'Mobility',
+    'Vital Signs':     'Documentation',
+    'Measurements':    'Documentation',
+  };
+
+  readonly groups = ['All', 'ADL', 'Mobility', 'Documentation'] as const;
 
   constructor(private dataService: CnaDataService, private sanitizer: DomSanitizer) {}
 
@@ -32,9 +50,8 @@ export class Skills implements OnInit {
     );
   }
 
-  get categories(): string[] {
-    const cats = ['All', ...new Set(this.skills.map(s => s.category))];
-    return cats;
+  skillGroup(skill: CnaSkill): string {
+    return this.groupMap[skill.category] ?? 'ADL';
   }
 
   ngOnInit(): void {
@@ -44,9 +61,11 @@ export class Skills implements OnInit {
     });
   }
 
-  filterBy(category: string): void {
-    this.activeCategory = category;
-    this.filtered = category === 'All' ? this.skills : this.skills.filter(s => s.category === category);
+  filterBy(group: string): void {
+    this.activeGroup = group;
+    this.filtered = group === 'All'
+      ? this.skills
+      : this.skills.filter(s => this.skillGroup(s) === group);
   }
 
   frameworkOpen = false;

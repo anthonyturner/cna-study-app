@@ -234,14 +234,18 @@
       </div>
     </div>
 
-    <!-- Category filter -->
+    <!-- Group filter -->
     <div class="category-filter">
       <button
-        *ngFor="let cat of categories"
+        *ngFor="let group of groups"
         class="filter-btn"
-        [class.active]="activeCategory === cat"
-        (click)="filterBy(cat)">
-        {{ cat }}
+        [class.active]="activeGroup === group"
+        [class.filter-adl]="group === 'ADL'"
+        [class.filter-mobility]="group === 'Mobility'"
+        [class.filter-documentation]="group === 'Documentation'"
+        (click)="filterBy(group)">
+        <mat-icon class="filter-icon">{{ group === 'All' ? 'apps' : group === 'ADL' ? 'bathtub' : group === 'Mobility' ? 'directions_walk' : 'edit_note' }}</mat-icon>
+        {{ group }}
       </button>
     </div>
 
