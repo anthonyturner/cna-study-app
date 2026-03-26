@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, HostListener } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { MatCardModule } from '@angular/material/card';
 import { MatButtonModule } from '@angular/material/button';
@@ -116,5 +116,16 @@ export class Skills implements OnInit {
   back(): void {
     this.selected = null;
     this.flashMode = false;
+  }
+
+  showBackToTop = false;
+
+  @HostListener('window:scroll')
+  onScroll(): void {
+    this.showBackToTop = window.scrollY > 300;
+  }
+
+  scrollToTop(): void {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 }
