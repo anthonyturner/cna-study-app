@@ -1,0 +1,149 @@
+.care-plan-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+}
+
+// ── Page header ────────────────────────────────────────────
+.page-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  margin-bottom: 28px;
+
+  h1 {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #0B1F3A;
+    margin: 0 0 4px;
+    letter-spacing: -0.02em;
+  }
+
+  .subtitle {
+    color: #6B7A99;
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+}
+
+.page-icon {
+  font-size: 40px;
+  height: 40px;
+  width: 40px;
+  color: #0D47A1;
+  margin-top: 4px;
+  flex-shrink: 0;
+}
+
+// ── Legend ─────────────────────────────────────────────────
+.legend {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 28px;
+  flex-wrap: wrap;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #4B6280;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+
+  mat-icon {
+    font-size: 18px;
+    height: 18px;
+    width: 18px;
+  }
+}
+
+// ── Grid ───────────────────────────────────────────────────
+.sets-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+// ── Card ───────────────────────────────────────────────────
+.set-card {
+  border-radius: 14px !important;
+  box-shadow: 0 4px 18px rgba(11, 31, 58, 0.09) !important;
+  transition: box-shadow 0.2s, transform 0.2s;
+
+  &:hover {
+    box-shadow: 0 8px 28px rgba(11, 31, 58, 0.15) !important;
+    transform: translateY(-2px);
+  }
+
+  mat-card-content {
+    padding: 20px !important;
+  }
+}
+
+.set-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.set-number {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: #0B1F3A;
+  letter-spacing: -0.01em;
+}
+
+.skill-count {
+  font-size: 0.7rem !important;
+  font-weight: 600;
+  background: #EEF2FA !important;
+  color: #4B6280 !important;
+  height: 22px !important;
+  padding: 0 10px !important;
+}
+
+// ── Skill rows ─────────────────────────────────────────────
+.skill-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.skill-row {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 10px 12px;
+  border-left: 3px solid;
+  border-radius: 0 8px 8px 0;
+  background: #F8FAFD;
+}
+
+.skill-type-badge {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.65rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 2px;
+
+  mat-icon {
+    font-size: 14px;
+    height: 14px;
+    width: 14px;
+  }
+}
+
+.skill-title {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: #1A2F52;
+  line-height: 1.4;
+}

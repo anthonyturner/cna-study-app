@@ -49,6 +49,25 @@ export class Skills implements OnInit {
     this.filtered = category === 'All' ? this.skills : this.skills.filter(s => s.category === category);
   }
 
+  frameworkOpen = false;
+
+  readonly standardSteps: string[] = [
+    'Knock before entering the resident\'s room.',
+    'Identify the resident.',
+    'Introduce yourself by name and title.',
+    'Explain the procedure to the resident.',
+    'Provide for privacy.',
+    'Wash your hands.',
+    'Gather supplies.',
+    'Put on gloves.',
+    'Perform the skill.',
+    'Place the call light within the resident\'s reach.',
+    'Confirm the resident is comfortable.',
+    'Remove and discard gloves.',
+    'Wash your hands.',
+    'Report and record your observations.',
+  ];
+
   flashMode = false;
   flashIndex = 0;
   flashFlipped = false;

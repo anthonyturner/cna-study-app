@@ -96,6 +96,144 @@
       </div>
     </div>
 
+    <!-- Standard procedure framework -->
+    <div class="framework-banner">
+      <button class="framework-toggle" (click)="frameworkOpen = !frameworkOpen">
+        <div class="framework-toggle-left">
+          <mat-icon>library_books</mat-icon>
+          <div>
+            <span class="framework-title">Standard Procedure Framework</span>
+            <span class="framework-sub">Steps repeated across most skills — memorize these</span>
+          </div>
+        </div>
+        <mat-icon class="chevron" [class.open]="frameworkOpen">expand_more</mat-icon>
+      </button>
+
+      <div class="framework-steps" [class.open]="frameworkOpen">
+        <div class="framework-grid">
+          <div *ngFor="let step of standardSteps; let i = index" class="framework-step">
+            <div class="fw-num">{{ i + 1 }}</div>
+            <div class="fw-text">{{ step }}</div>
+          </div>
+        </div>
+        <!-- Visual flow diagram -->
+        <div class="flow-diagram">
+          <div class="flow-phase phase-entry">
+            <div class="phase-label">Entry</div>
+            <div class="phase-steps">
+              <div class="flow-step">Knock on door</div>
+              <div class="flow-step">Identify resident</div>
+              <div class="flow-step">Introduce yourself</div>
+              <div class="flow-step">Explain procedure</div>
+            </div>
+          </div>
+
+          <div class="flow-arrow"><mat-icon>arrow_forward</mat-icon></div>
+
+          <div class="flow-phase phase-setup">
+            <div class="phase-label">Setup</div>
+            <div class="phase-steps">
+              <div class="flow-step">Provide privacy</div>
+              <div class="flow-step">Wash hands</div>
+              <div class="flow-step">Gather supplies</div>
+              <div class="flow-step">Put on gloves</div>
+            </div>
+          </div>
+
+          <div class="flow-arrow"><mat-icon>arrow_forward</mat-icon></div>
+
+          <div class="flow-phase phase-skill">
+            <div class="phase-label">Skill</div>
+            <div class="phase-steps">
+              <div class="flow-step flow-step-main">Perform the skill</div>
+            </div>
+          </div>
+
+          <div class="flow-arrow"><mat-icon>arrow_forward</mat-icon></div>
+
+          <div class="flow-phase phase-wrapup">
+            <div class="phase-label">Wrap-up</div>
+            <div class="phase-steps">
+              <div class="flow-step">Place call light</div>
+              <div class="flow-step">Confirm comfort</div>
+              <div class="flow-step">Remove gloves</div>
+              <div class="flow-step">Wash hands</div>
+              <div class="flow-step">Report &amp; record</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Simulated chat example -->
+        <div class="chat-example">
+          <div class="chat-header">
+            <mat-icon>chat</mat-icon>
+            <span>Example Interaction — CNA: Maria S. &nbsp;|&nbsp; Resident: Mr. Johnson</span>
+          </div>
+          <div class="chat-body">
+
+            <div class="chat-action phase-entry-tag">🚪 Entry</div>
+            <div class="chat-bubble cna">
+              <span class="bubble-name">Maria</span>
+              <span class="bubble-text">*knocks on door* Good morning, Mr. Johnson?</span>
+            </div>
+            <div class="chat-bubble resident">
+              <span class="bubble-name">Mr. Johnson</span>
+              <span class="bubble-text">Yes, come in!</span>
+            </div>
+           
+            <div class="chat-bubble cna">
+              <span class="bubble-name">Maria</span>
+              <span class="bubble-text">I'm Maria, your CNA today. I'm here to take your vital signs — I'll be checking your pulse, respirations, and blood pressure. It won't take long and should be comfortable. Is that okay with you?</span>
+            </div>
+            <div class="chat-bubble resident">
+              <span class="bubble-name">Mr. Johnson</span>
+              <span class="bubble-text">Sure, go ahead.</span>
+            </div>
+
+            <div class="chat-action phase-setup-tag">🧴 Setup</div>
+            <div class="chat-bubble cna">
+              <span class="bubble-name">Maria</span>
+              <span class="bubble-text">I'll just close the curtain for your privacy. *closes curtain, washes hands, gathers equipment, puts on gloves*</span>
+            </div>
+
+            <div class="chat-action phase-skill-tag">⚕️ Performing the Skill</div>
+            <div class="chat-bubble cna">
+              <span class="bubble-name">Maria</span>
+              <span class="bubble-text">I'm going to place my fingers on your wrist to count your pulse — you'll just feel a light touch.</span>
+            </div>
+            <div class="chat-bubble resident">
+              <span class="bubble-name">Mr. Johnson</span>
+              <span class="bubble-text">No problem.</span>
+            </div>
+            <div class="chat-bubble cna">
+              <span class="bubble-name">Maria</span>
+              <span class="bubble-text">*counts pulse and respirations silently* Now I'll check your blood pressure. You'll feel the cuff squeeze your arm — let me know if it's uncomfortable.</span>
+            </div>
+
+            <div class="chat-action phase-wrapup-tag">✅ Wrap-up</div>
+            <div class="chat-bubble cna">
+              <span class="bubble-name">Maria</span>
+              <span class="bubble-text">All done! Here's your call light in case you need anything. *removes gloves, washes hands* Are you comfortable? Is there anything else I can do for you?</span>
+            </div>
+            <div class="chat-bubble resident">
+              <span class="bubble-name">Mr. Johnson</span>
+              <span class="bubble-text">I'm good, thank you Maria.</span>
+            </div>
+            <div class="chat-bubble cna">
+              <span class="bubble-name">Maria</span>
+              <span class="bubble-text">You're welcome! I'll go report your results to the nurse right away. Have a great morning!</span>
+            </div>
+
+          </div>
+        </div>
+
+        <p class="framework-note">
+          <mat-icon>info_outline</mat-icon>
+          A few skills (e.g. showering, post-mortem care) vary from this pattern — always check the full steps.
+        </p>
+      </div>
+    </div>
+
     <!-- Category filter -->
     <div class="category-filter">
       <button

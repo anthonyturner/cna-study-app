@@ -31,5 +31,9 @@ export const routes: Routes = [
     path: 'skills',
     loadComponent: () => import('./features/skills/skills/skills').then(m => m.Skills)
   },
+  {
+    path: 'care-plan-sets',
+    loadComponent: () => import('./features/care-plan-sets/care-plan-sets/care-plan-sets').then(m => m.CarePlanSets)
+  },
   { path: '**', redirectTo: '' }
 ];

@@ -1,0 +1,39 @@
+<div class="care-plan-container">
+
+  <div class="page-header">
+    <mat-icon class="page-icon">fact_check</mat-icon>
+    <div>
+      <h1>Testing Care Plan Sets</h1>
+      <p class="subtitle">Each set contains 1 ADL, 1 Mobility skill, and 1 Documentation skill — as seen on the CNA proctored exam.</p>
+    </div>
+  </div>
+
+  <div class="legend">
+    <span class="legend-item" *ngFor="let type of legendTypes">
+      <mat-icon [style.color]="typeColor[type]">{{ typeIcon[type] }}</mat-icon>
+      {{ type }}
+    </span>
+  </div>
+
+  <div class="sets-grid">
+    <mat-card *ngFor="let set of sets" class="set-card">
+      <mat-card-content>
+        <div class="set-header">
+          <span class="set-number">Set {{ set.setNumber }}</span>
+          <mat-chip class="skill-count">3 Skills</mat-chip>
+        </div>
+
+        <div class="skill-rows">
+          <div *ngFor="let skill of set.skills" class="skill-row" [style.border-left-color]="typeColor[skill.type]">
+            <div class="skill-type-badge" [style.color]="typeColor[skill.type]">
+              <mat-icon>{{ typeIcon[skill.type] }}</mat-icon>
+              <span>{{ skill.type }}</span>
+            </div>
+            <div class="skill-title">{{ skill.title }}</div>
+          </div>
+        </div>
+      </mat-card-content>
+    </mat-card>
+  </div>
+
+</div>
