@@ -2202,5 +2202,210 @@
         "imageUrl": "/assets/data/images/day-9/IMG_0931.JPEG"
       }
     ]
+  },
+  {
+    "id": "restorative-nursing-intro",
+    "title": "Introduction to Restorative Nursing Care",
+    "icon": "self_improvement",
+    "color": "#1565C0",
+    "summary": "What restorative nursing is, its benefits, types of programs, and the roles of CNAs, Physical Therapists, and Occupational Therapists.",
+    "day": 10,
+    "sections": [
+      {
+        "heading": "What is Restorative Nursing?",
+        "content": "Restorative nursing focuses on maintaining the resident's current level of function — not necessarily improving it. It includes specialized nursing care designed to help the resident reach their highest possible level of independence. Restorative programs are not the same as rehabilitation.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0946.JPEG"
+      },
+      {
+        "heading": "Benefits of Restorative Programs",
+        "content": "Maintains and restores physical and mental well-being. Increases independence. Improves self-image and self-esteem. Increases productivity in personal care, grooming, feeding, and recreational activities.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0946.JPEG"
+      },
+      {
+        "heading": "Types of Restorative Programs",
+        "content": "Ambulation. Dressing. Communication. Toileting. Transfer of function. Active Range of Motion (ROM). Contracture prevention.\nGoals should be social and functional. The CNA's role is to ensure continuation of these programs and assist in completing them.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0947.JPEG"
+      },
+      {
+        "heading": "Role of the Physical Therapist",
+        "content": "Performs restorative care. Instructs staff on mobility techniques and adaptive devices. Consults with other disciplines as needed.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0947.JPEG"
+      },
+      {
+        "heading": "Role of the Occupational Therapist",
+        "content": "Refers residents to restorative care. Instructs staff on adaptive devices for ADLs. Consults with other disciplines as needed.\nEach ADL involves several steps. A resident may not be able to complete all steps. The CNA encourages the resident to perform as many steps as possible independently and uses assistive devices as needed.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0947.JPEG"
+      }
+    ]
+  },
+  {
+    "id": "ambulation-transfer-restorative",
+    "title": "Ambulation, Transfers & Fall Prevention",
+    "icon": "directions_walk",
+    "color": "#2E7D32",
+    "summary": "Ambulation programs, levels of assistance, assistive devices, fall prevention, and transfer techniques.",
+    "day": 10,
+    "sections": [
+      {
+        "heading": "Benefits of Daily Ambulation",
+        "content": "Daily ambulation contributes to the resident's general health. It improves circulation, digestion, elimination, muscle strength, emotional satisfaction, and overall health.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0948.JPEG"
+      },
+      {
+        "heading": "Ambulation Program Levels",
+        "content": "Supervised Ambulation: the resident may experience unexpected loss of balance. Staff provide physical assistance to ensure safety.\nMinimal to Moderate Assistance: the resident has weakness or an unsteady gait. One or two staff assist with a gait belt. Most residents can walk over 100 feet.\nModerate to Maximum Assistance: resident has significant unsteadiness or weakness. One or two staff guard against falls. Distance is usually less than 100 feet.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0948.JPEG"
+      },
+      {
+        "heading": "Assistive Devices",
+        "content": "Crutches: assist ambulation for non-weight-bearing or partial weight-bearing residents.\nCane: provides stability for weakness on one side.\nWalker: a four-legged assistive device providing support for standing, mobility, self-care, and ambulation.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0949.JPEG"
+      },
+      {
+        "heading": "In Case of a Resident Fall",
+        "content": "Do not try to stop the resident's fall — this can injure both you and the resident. If a fall occurs, immediately notify your nurse or supervisor. Guide the resident to the floor using a smooth, controlled motion. Use your legs — not your back — and keep your knees bent. Stay with the resident and call for assistance.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0949.JPEG"
+      },
+      {
+        "heading": "Transfer Techniques",
+        "content": "The purpose of transferring is to safely move a resident from one place to another, or to teach them how to transfer independently.\nTransfer types: one-person standard transfer, one-person assisted transfer, two-person transfer.\nAlways use a gait belt. Follow the care plan for the appropriate technique.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0949.JPEG"
+      }
+    ]
+  },
+  {
+    "id": "adaptive-equipment-adls",
+    "title": "Adaptive Equipment for ADLs",
+    "icon": "hardware",
+    "color": "#E65100",
+    "summary": "Adaptive equipment for eating and dressing, including built-up utensils, scoop dishes, sock aids, dressing sticks, button hooks, and shoe horns.",
+    "day": 10,
+    "sections": [
+      {
+        "heading": "Adaptive Eating Equipment",
+        "content": "Adaptive equipment for eating enables the resident to feed themselves and maintain their optimal level of independence, dignity, and safety.\nCut-out cups: aid when a resident cannot tilt their head back to drink.\nBuilt-up utensils: assist in grasping for residents who have difficulty holding standard utensils.\nBuilt-up handles: aid when a resident cannot hold or manipulate utensils properly.\nScoop dishes: have a raised edge so food can be pushed against it to get onto the utensil.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0950.JPEG"
+      },
+      {
+        "heading": "Levels of Eating Assistance",
+        "content": "Minimal Assist: utensils are set up and placed in the resident's hand; the resident does most of the eating independently.\nModerate Assist: staff guide the resident's hand or provide physical support during the meal.\nMaximal Assist: staff perform most of the feeding while encouraging the resident to participate as much as possible.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0950.JPEG"
+      },
+      {
+        "heading": "Adaptive Dressing Equipment",
+        "content": "Adaptive dressing equipment helps residents maintain independence in dressing despite limited range of motion or strength.\nSock Aid: the resident places the sock over the device, drops it to the floor, and slips their foot in without bending over.\nDressing Stick: a rod with a hook used to pull up pants, push clothing off the shoulders, or manage clothing without bending.\nShoe Horn: extends the back of the shoe so it slides onto the heel without bending down.\nButton Hook: a wire loop device that pulls buttons through buttonholes for residents with limited finger dexterity.\nElastic Shoelaces: replace standard laces so shoes can slip on and off without tying.\nVelcro Closures: when possible, clothing with Velcro fasteners replaces buttons or zippers for easier dressing.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0952.JPEG"
+      }
+    ]
+  },
+  {
+    "id": "range-of-motion-restorative",
+    "title": "Range of Motion (ROM) Exercises",
+    "icon": "accessibility_new",
+    "color": "#6A1B9A",
+    "summary": "Types of ROM, key joint motion terms, disuse syndrome, and step-by-step ROM exercises for all major joints.",
+    "day": 10,
+    "sections": [
+      {
+        "heading": "Disuse Syndrome",
+        "content": "Disuse syndrome describes the changes that occur in the body due to prolonged bed rest, immobility, or physical inactivity — not caused by a specific disease. It leads to muscle weakness and joint stiffness that reduces mobility and the ability to perform ADLs.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0953.JPEG"
+      },
+      {
+        "heading": "What is Range of Motion?",
+        "content": "Range of motion (ROM) programs support mobility and circulation. ROM is defined as moving a joint through its fullest extent without causing resistance or pain. Doctors may order ROM as part of a restorative care plan.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0954.JPEG"
+      },
+      {
+        "heading": "Types of ROM",
+        "content": "AROM — Active Range of Motion: the resident performs all the movement independently. Joints, bones, ligaments, and muscles all receive the benefit.\nPROM — Passive Range of Motion: the CNA provides all the movement while the resident relaxes completely.\nAAROM — Active Assisted Range of Motion: the resident does part of the movement and the CNA assists with the rest.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0954.JPEG"
+      },
+      {
+        "heading": "ROM Key Terms",
+        "content": "Abduction: moving a body part away from the center of the body.\nAdduction: moving a body part toward the center of the body.\nFlexion: bending a joint (decreasing the angle).\nExtension: straightening a joint (increasing the angle).\nDorsiflexion: bending the foot and toes upward toward the ceiling.\nPlantar Flexion: pointing the foot and toes downward.\nExternal Rotation: turning a body part outward.\nInternal Rotation: turning a body part inward.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0954.JPEG"
+      },
+      {
+        "heading": "General ROM Guidelines",
+        "content": "Move each joint slowly and smoothly — never force movement. Perform ROM only on the joints you have been instructed to work on. Support the limb above and below the joint throughout the exercise. Repeat each movement 3–5 times. Stop immediately if the resident reports pain or resistance is felt. Report any pain, swelling, or changes in joint mobility to the nurse.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0954.JPEG"
+      },
+      {
+        "heading": "ROM Exercises — Shoulder, Elbow & Wrist",
+        "content": "Shoulder: raise the arm forward and upward (flexion), lower back to the side (extension). Move the arm outward from the body (abduction) and back (adduction). Rotate the arm inward and outward.\nElbow: bend the elbow bringing the hand toward the shoulder (flexion), then straighten (extension).\nWrist: bend the wrist upward (extension) and downward (flexion). Rock the hand side to side. Gently rotate the wrist in both directions.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0955.JPEG"
+      },
+      {
+        "heading": "ROM Exercises — Hip, Knee, Ankle & Foot",
+        "content": "Hip: raise the leg toward the chest (flexion), lower flat (extension). Move the leg away from the body (abduction) and back (adduction). Roll the leg inward (internal rotation) and outward (external rotation).\nKnee: bend the knee bringing the heel toward the buttock (flexion), then straighten (extension).\nAnkle: push the foot upward toward the shin (dorsiflexion), point it downward (plantar flexion). Move the foot side to side.\nFingers and toes: bend and straighten each digit gently. Spread and close fingers.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0956.JPEG"
+      }
+    ]
+  },
+  {
+    "id": "positioning-bowel-bladder",
+    "title": "Positioning, Bowel & Bladder Training",
+    "icon": "airline_seat_flat",
+    "color": "#00695C",
+    "summary": "Bed and chair positioning guidelines, bowel training, types of urinary incontinence, and bladder training programs.",
+    "day": 10,
+    "sections": [
+      {
+        "heading": "Bed Mobility & Positioning",
+        "content": "Bed mobility is the ability to change positions while in bed — rolling side to side, sitting up, and repositioning. Residents can use bed rails, an overhead trapeze, and foot supports to assist with independent movement.\nGuidelines: when working on rolling, teach the resident to use bed rails for assistance. Support the resident's head when rolling. Reposition frequently to prevent pressure injuries. Proper body alignment must be maintained at all times.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0957.JPEG"
+      },
+      {
+        "heading": "Positioning in a Chair",
+        "content": "Proper chair positioning prevents pressure injuries and maintains comfort.\nBack: fully supported against the back of the chair.\nFeet: flat on the floor or on a footrest.\nArms: supported by armrests to prevent shoulder strain.\nPositioning devices: wedge cushions, lateral supports, foot supports, and orthotics may all be used to maintain correct alignment.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0958.JPEG"
+      },
+      {
+        "heading": "Bowel Training",
+        "content": "Bowel incontinence is the accidental loss of control of stool. Causes include diarrhea, constipation, rectal prolapse, medications, tumors, polyps, and strictures.\nGoals of bowel training: develop a regular pattern for bowel movements; provide comfortable, consistent care; prevent constipation and discomfort.\nFactors affecting bowel habits: diet and fiber content, activity level, hydration (6–8 glasses of water daily), and privacy. Offering the bedpan or toilet after meals — especially breakfast — promotes regular elimination.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0959.JPEG"
+      },
+      {
+        "heading": "CNA Role in Bowel Care",
+        "content": "Observe and record toileting and bowel habits. Encourage a diet high in fiber to prevent constipation. Provide privacy during toileting. Offer toileting after meals, particularly breakfast — this is the best time to promote a regular bowel movement. Document whether bowel movements occurred and any observations.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0960.JPEG"
+      },
+      {
+        "heading": "Types of Urinary Incontinence",
+        "content": "Stress Incontinence: small leaks of urine with physical activity such as coughing, sneezing, or lifting heavy objects.\nUrge Incontinence: sudden, strong urge to urinate followed by involuntary loss of urine.\nOverflow Incontinence: the bladder does not fully empty, causing small amounts of urine to dribble or overflow continuously.\nFunctional Incontinence: the resident feels the urge to void but cannot reach the toilet in time due to mobility limitations, confusion, or environmental barriers.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0961.JPEG"
+      },
+      {
+        "heading": "Bladder Training Programs",
+        "content": "Goal: restore the resident's urinary continence and independence, thereby regaining dignity.\nScheduled Toileting: the resident is taken to the toilet on a set timed schedule (e.g., every 2 hours) regardless of whether they feel the urge.\nPrompted Voiding: staff check with the resident at regular intervals, ask if they need to void, and encourage them to use the toilet.\nCNA Role: provide adequate fluid intake; ensure privacy by closing doors and curtains; offer toileting at scheduled times and as needed; document whether the resident was continent or incontinent.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0961.JPEG"
+      }
+    ]
+  },
+  {
+    "id": "prosthetic-orthotic-devices",
+    "title": "Prosthetic & Orthotic Devices",
+    "icon": "accessibility",
+    "color": "#BF360C",
+    "summary": "Purpose and care of prosthetic limbs, types of amputations, orthotic devices including splints, AFOs, and neck collars.",
+    "day": 10,
+    "sections": [
+      {
+        "heading": "Prosthetic Devices",
+        "content": "The goal of a prosthetic care program is to maintain the resident's independence, safety in ambulation, and ability to use their prosthesis correctly.\nTypes of amputations: below-knee amputation (BKA), above-knee amputation (AKA), and hip disarticulation (removal at or above the hip joint).",
+        "imageUrl": "/assets/data/images/day-10/IMG_0962.JPEG"
+      },
+      {
+        "heading": "Care of a Prosthetic Limb",
+        "content": "Use a prosthetic sock to hold the device in place and protect the residual limb (stump). Keep the stump clean and dry — wash daily and dry thoroughly. Exercise the stump as directed to maintain strength. Inspect the stump daily for redness, skin breakdown, swelling, or sores. Report any skin changes to the nurse immediately. When the prosthesis becomes loose or uncomfortable, notify the nurse before use.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0963.JPEG"
+      },
+      {
+        "heading": "Orthotic Devices",
+        "content": "The goal of an orthotic program is to maintain the resident's normal functioning and alignment.\nSplints: support weak body parts and prevent further joint deterioration or contracture.\nAnkle Foot Orthosis (AFO): positioned at the ankle with the foot inserted; secured with Velcro. Used to prevent foot drop and support the ankle.\nOrthotic Shoes: support or protect joints or tissues of the foot.\nNeck Collar (Cervical Collar): used for residents with unstable neck joints where twisting or holding the neck upright may be difficult.",
+        "imageUrl": "/assets/data/images/day-10/IMG_0963.JPEG"
+      }
+    ]
   }
 ]

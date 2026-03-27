@@ -92,6 +92,13 @@ export class StudyDays implements OnInit {
       subtitle: 'Mental health, depression, anxiety, mental illness, dementia, Alzheimer\'s stages, dementia behaviors, and therapeutic approaches.',
       icon: 'psychology',
       color: '#6A1B9A'
+    },
+    {
+      day: 10,
+      title: 'Basic Restorative Services',
+      subtitle: 'Restorative nursing, ambulation programs, adaptive equipment, range of motion exercises, positioning, bowel & bladder training, and prosthetic/orthotic devices.',
+      icon: 'self_improvement',
+      color: '#1565C0'
     }
   ];
 
