@@ -135,14 +135,97 @@ export class StudyDays implements OnInit {
     this.selected = null;
   }
 
+  selectedDay: number | null = null;
+
+  get currentDayTopics(): Topic[] {
+    return this.selectedDay ? this.topicsForDay(this.selectedDay) : [];
+  }
+
+  get currentTopicIndex(): number {
+    return this.currentDayTopics.findIndex(t => t.id === this.selected?.id);
+  }
+
+  get hasPrev(): boolean { return this.currentTopicIndex > 0; }
+  get hasNext(): boolean { return this.currentTopicIndex < this.currentDayTopics.length - 1; }
+
+  prevTopic(): void {
+    if (this.hasPrev) {
+      this.selected = this.currentDayTopics[this.currentTopicIndex - 1];
+      this.sectionQuery = '';
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  }
+
+  nextTopic(): void {
+    if (this.hasNext) {
+      this.selected = this.currentDayTopics[this.currentTopicIndex + 1];
+      this.sectionQuery = '';
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  }
+
+  // ── Section search (within a topic) ─────────────────────
+  sectionQuery = '';
+
+  get filteredSections() {
+    if (!this.selected) return [];
+    const q = this.sectionQuery.trim().toLowerCase();
+    if (!q) return this.selected.sections;
+    return this.selected.sections.filter(s =>
+      s.heading.toLowerCase().includes(q) ||
+      s.content.toLowerCase().includes(q)
+    );
+  }
+
+  onSectionSearch(query: string): void { this.sectionQuery = query; }
+  clearSectionSearch(): void { this.sectionQuery = ''; }
+
   select(topic: Topic): void {
     this.selected = topic;
+    this.sectionQuery = '';
+    if (topic.day) this.selectedDay = topic.day;
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
   back(): void {
     this.selected = null;
+    this.selectedDay = null;
+    this.sectionQuery = '';
   }
 
+  // ── Search ───────────────────────────────────────────────
+  searchQuery = '';
+  searchResults: { topic: Topic; day: StudyDay }[] = [];
+
+  onSearch(query: string): void {
+    this.searchQuery = query;
+    const q = query.trim().toLowerCase();
+    if (!q) { this.searchResults = []; return; }
+
+    const results: { topic: Topic; day: StudyDay }[] = [];
+    for (const [dayNum, topics] of this.topicsByDay) {
+      const studyDay = this.studyDays.find(sd => sd.day === dayNum);
+      if (!studyDay) continue;
+      for (const topic of topics) {
+        const hit =
+          topic.title.toLowerCase().includes(q) ||
+          topic.summary.toLowerCase().includes(q) ||
+          topic.sections.some(s =>
+            s.heading.toLowerCase().includes(q) ||
+            s.content.toLowerCase().includes(q)
+          );
+        if (hit) results.push({ topic, day: studyDay });
+      }
+    }
+    this.searchResults = results;
+  }
+
+  clearSearch(): void {
+    this.searchQuery = '';
+    this.searchResults = [];
+  }
+
+  // ── Lightbox ─────────────────────────────────────────────
   lightboxSrc = '';
   lightboxAlt = '';
 

@@ -54,6 +54,97 @@
   }
 }
 
+// ── Search bar ───────────────────────────────────────────
+.search-bar {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  border: 2px solid #E3E8F0;
+  border-radius: 12px;
+  padding: 0 16px;
+  margin-bottom: 24px;
+  transition: border-color 0.2s;
+
+  &:focus-within {
+    border-color: #1565C0;
+    box-shadow: 0 0 0 3px rgba(21, 101, 192, 0.1);
+  }
+}
+
+.search-icon {
+  color: #6B7A99;
+  font-size: 20px;
+  flex-shrink: 0;
+  margin-right: 10px;
+}
+
+.search-input {
+  flex: 1;
+  border: none;
+  outline: none;
+  font-size: 0.95rem;
+  color: #0B1F3A;
+  padding: 14px 0;
+  background: transparent;
+
+  &::placeholder { color: #A0AABB; }
+}
+
+.search-clear {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  color: #9AA8C0;
+  display: flex;
+  align-items: center;
+  border-radius: 50%;
+
+  .material-icons { font-size: 18px; }
+
+  &:hover { color: #0B1F3A; background: #F0F4FA; }
+}
+
+.search-results-label {
+  font-size: 0.88rem;
+  color: #6B7A99;
+  margin-bottom: 16px;
+  strong { color: #0B1F3A; }
+}
+
+.search-no-results {
+  text-align: center;
+  color: #6B7A99;
+  font-size: 0.92rem;
+  padding: 40px 0;
+  strong { color: #0B1F3A; }
+}
+
+.search-results-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 16px;
+  margin-bottom: 32px;
+
+  @include bp.mobile {
+    grid-template-columns: 1fr;
+  }
+}
+
+.search-result-card {
+  .search-day-badge {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #fff;
+    border-radius: 20px;
+    padding: 3px 10px;
+    margin-bottom: 10px;
+  }
+}
+
 // ── Day list ─────────────────────────────────────────────
 .days-list {
   display: flex;
@@ -473,6 +564,87 @@
     font-size: 0.9rem;
     font-weight: 500;
   }
+}
+
+// ── Section search (within a topic) ─────────────────────
+.section-search-bar {
+  display: flex;
+  align-items: center;
+  background: #F8FAFD;
+  border: 1px solid #E3E8F0;
+  border-radius: 10px;
+  padding: 0 14px;
+  margin-bottom: 16px;
+  transition: border-color 0.2s;
+
+  &:focus-within {
+    border-color: #1565C0;
+    background: #fff;
+    box-shadow: 0 0 0 3px rgba(21, 101, 192, 0.08);
+  }
+
+  .search-input { padding: 11px 0; font-size: 0.9rem; }
+}
+
+.section-match-count {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #1565C0;
+  background: #E3F2FD;
+  border-radius: 20px;
+  padding: 2px 8px;
+  white-space: nowrap;
+  margin-right: 6px;
+}
+
+// ── Topic nav bar ─────────────────────────────────────────
+.topic-nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.topic-nav-pager {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.pager-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  font-size: 0.83rem !important;
+  font-weight: 600 !important;
+  min-width: unset !important;
+
+  mat-icon {
+    font-size: 18px;
+    height: 18px;
+    width: 18px;
+  }
+}
+
+.pager-label {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #6B7A99;
+  white-space: nowrap;
+  min-width: 40px;
+  text-align: center;
+}
+
+.topic-nav-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 32px;
+  padding-top: 24px;
+  border-top: 1px solid #E3E8F0;
 }
 
 // ── Topic detail (reused from topics page style) ─────────

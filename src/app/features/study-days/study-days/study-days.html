@@ -2,9 +2,22 @@
 
   <!-- Topic detail view -->
   <div *ngIf="selected; else dayList">
-    <button mat-button (click)="back()" class="back-btn">
-      <mat-icon>arrow_back</mat-icon> Back to Study Days
-    </button>
+    <div class="topic-nav-bar">
+      <button mat-button (click)="back()" class="back-btn">
+        <mat-icon>arrow_back</mat-icon> Back to Study Days
+      </button>
+      <div class="topic-nav-pager">
+        <button mat-stroked-button class="pager-btn" (click)="prevTopic()" [disabled]="!hasPrev">
+          <mat-icon>chevron_left</mat-icon> Previous
+        </button>
+        <span class="pager-label" *ngIf="currentDayTopics.length">
+          {{ currentTopicIndex + 1 }} / {{ currentDayTopics.length }}
+        </span>
+        <button mat-stroked-button class="pager-btn" (click)="nextTopic()" [disabled]="!hasNext">
+          Next <mat-icon>chevron_right</mat-icon>
+        </button>
+      </div>
+    </div>
 
     <div class="topic-header" [style.border-left-color]="selected.color">
       <mat-icon [style.color]="selected.color">{{ selected.icon }}</mat-icon>
@@ -15,10 +28,30 @@
       </div>
     </div>
 
-    <mat-accordion>
+    <!-- Section search -->
+    <div class="section-search-bar">
+      <span class="material-icons search-icon">search</span>
+      <input
+        class="search-input"
+        type="text"
+        placeholder="Search within this topic…"
+        [value]="sectionQuery"
+        (input)="onSectionSearch($any($event.target).value)" />
+      <span *ngIf="sectionQuery.trim()" class="section-match-count">
+        {{ filteredSections.length }} section{{ filteredSections.length === 1 ? '' : 's' }}
+      </span>
+      <button *ngIf="sectionQuery" class="search-clear" (click)="clearSectionSearch()" aria-label="Clear">
+        <span class="material-icons">close</span>
+      </button>
+    </div>
+    <p *ngIf="sectionQuery.trim() && !filteredSections.length" class="search-no-results" style="margin-bottom:16px">
+      No sections match <strong>"{{ sectionQuery.trim() }}"</strong>
+    </p>
+
+    <mat-accordion [multi]="false">
       <mat-expansion-panel
-        *ngFor="let section of selected.sections; let i = index"
-        [expanded]="i === 0">
+        *ngFor="let section of filteredSections; let i = index"
+        [expanded]="!!sectionQuery.trim() || i === 0">
         <mat-expansion-panel-header>
           <mat-panel-title>
             {{ section.heading }}
@@ -63,6 +96,16 @@
         </div>
       </mat-expansion-panel>
     </mat-accordion>
+
+    <div class="topic-nav-bottom" *ngIf="currentDayTopics.length">
+      <button mat-stroked-button class="pager-btn" (click)="prevTopic()" [disabled]="!hasPrev">
+        <mat-icon>chevron_left</mat-icon> Previous Topic
+      </button>
+      <span class="pager-label">{{ currentTopicIndex + 1 }} / {{ currentDayTopics.length }}</span>
+      <button mat-flat-button color="primary" class="pager-btn" (click)="nextTopic()" [disabled]="!hasNext">
+        Next Topic <mat-icon>chevron_right</mat-icon>
+      </button>
+    </div>
   </div>
 
   <!-- Day list view -->
@@ -70,6 +113,46 @@
     <h1>Study by Day</h1>
     <p class="subtitle">Topics organized by your class schedule</p>
 
+    <!-- Search bar -->
+    <div class="search-bar">
+      <span class="material-icons search-icon">search</span>
+      <input
+        class="search-input"
+        type="text"
+        placeholder="Search topics, sections, content…"
+        [value]="searchQuery"
+        (input)="onSearch($any($event.target).value)" />
+      <button *ngIf="searchQuery" class="search-clear" (click)="clearSearch()" aria-label="Clear search">
+        <span class="material-icons">close</span>
+      </button>
+    </div>
+
+    <!-- Search results -->
+    <div *ngIf="searchQuery.trim(); else dayList2">
+      <p class="search-results-label" *ngIf="searchResults.length; else noResults">
+        {{ searchResults.length }} result{{ searchResults.length === 1 ? '' : 's' }} for
+        <strong>"{{ searchQuery.trim() }}"</strong>
+      </p>
+      <ng-template #noResults>
+        <p class="search-no-results">No results found for <strong>"{{ searchQuery.trim() }}"</strong></p>
+      </ng-template>
+      <div class="search-results-grid">
+        <mat-card
+          *ngFor="let r of searchResults"
+          class="topic-card search-result-card"
+          (click)="select(r.topic)"
+          [style.border-top-color]="r.topic.color">
+          <mat-card-content>
+            <div class="search-day-badge" [style.background]="r.day.color">Day {{ r.day.day }}</div>
+            <mat-icon class="topic-icon" [style.color]="r.topic.color">{{ r.topic.icon }}</mat-icon>
+            <h3>{{ r.topic.title }}</h3>
+            <p>{{ r.topic.summary }}</p>
+          </mat-card-content>
+        </mat-card>
+      </div>
+    </div>
+
+    <ng-template #dayList2>
     <div class="days-list">
       <div
         *ngFor="let sd of studyDays"
@@ -129,6 +212,7 @@
 
       </div>
     </div>
+    </ng-template> <!-- #dayList2 -->
   </ng-template>
 
 </div>

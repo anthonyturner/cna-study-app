@@ -1342,5 +1342,11 @@
     "term": "Reproductive System",
     "definition": "The body system responsible for producing offspring. The male reproductive system produces and delivers sperm; the female reproductive system produces eggs and provides the environment for fetal development.",
     "category": "Reproductive"
+  },
+  {
+    "id": 225,
+    "term": "Transfer of Function",
+    "definition": "A restorative nursing technique in which a resident is taught to use a stronger or unaffected body part to compensate for a weaker or impaired one, thereby maintaining as much independence as possible in activities of daily living.",
+    "category": "Restorative Care"
   }
 ]

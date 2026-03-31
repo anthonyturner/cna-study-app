@@ -35,16 +35,58 @@ export class Topics implements OnInit {
     });
   }
 
+  // ── Section search (within a topic) ─────────────────────
+  sectionQuery = '';
+
+  get filteredSections() {
+    if (!this.selected) return [];
+    const q = this.sectionQuery.trim().toLowerCase();
+    if (!q) return this.selected.sections;
+    return this.selected.sections.filter(s =>
+      s.heading.toLowerCase().includes(q) ||
+      s.content.toLowerCase().includes(q)
+    );
+  }
+
+  onSectionSearch(query: string): void { this.sectionQuery = query; }
+  clearSectionSearch(): void { this.sectionQuery = ''; }
+
   select(topic: Topic): void {
     this.selected = this.selected?.id === topic.id ? null : topic;
+    this.sectionQuery = '';
   }
 
   back(): void {
     this.selected = null;
+    this.sectionQuery = '';
   }
 
   hasVideo(topic: Topic): boolean {
     return topic.sections.some(s => s.videoTitle !== undefined);
+  }
+
+  // ── Search ───────────────────────────────────────────────
+  searchQuery = '';
+
+  get filteredTopics(): Topic[] {
+    const q = this.searchQuery.trim().toLowerCase();
+    if (!q) return this.topics;
+    return this.topics.filter(t =>
+      t.title.toLowerCase().includes(q) ||
+      t.summary.toLowerCase().includes(q) ||
+      t.sections.some(s =>
+        s.heading.toLowerCase().includes(q) ||
+        s.content.toLowerCase().includes(q)
+      )
+    );
+  }
+
+  onSearch(query: string): void {
+    this.searchQuery = query;
+  }
+
+  clearSearch(): void {
+    this.searchQuery = '';
   }
 
   lightboxSrc = '';

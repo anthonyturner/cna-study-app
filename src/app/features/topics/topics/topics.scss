@@ -14,6 +14,103 @@
   }
 }
 
+// ── Search bar ───────────────────────────────────────────
+.search-bar {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  border: 2px solid #E3E8F0;
+  border-radius: 12px;
+  padding: 0 16px;
+  margin-bottom: 24px;
+  transition: border-color 0.2s;
+
+  &:focus-within {
+    border-color: #1565C0;
+    box-shadow: 0 0 0 3px rgba(21, 101, 192, 0.1);
+  }
+}
+
+.search-icon {
+  color: #6B7A99;
+  font-size: 20px;
+  flex-shrink: 0;
+  margin-right: 10px;
+}
+
+.search-input {
+  flex: 1;
+  border: none;
+  outline: none;
+  font-size: 0.95rem;
+  color: #0B1F3A;
+  padding: 14px 0;
+  background: transparent;
+
+  &::placeholder { color: #A0AABB; }
+}
+
+.search-clear {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  color: #9AA8C0;
+  display: flex;
+  align-items: center;
+  border-radius: 50%;
+
+  .material-icons { font-size: 18px; }
+
+  &:hover { color: #0B1F3A; background: #F0F4FA; }
+}
+
+// ── Section search (within a topic) ─────────────────────
+.section-search-bar {
+  display: flex;
+  align-items: center;
+  background: #F8FAFD;
+  border: 1px solid #E3E8F0;
+  border-radius: 10px;
+  padding: 0 14px;
+  margin-bottom: 16px;
+  transition: border-color 0.2s;
+
+  &:focus-within {
+    border-color: #1565C0;
+    background: #fff;
+    box-shadow: 0 0 0 3px rgba(21, 101, 192, 0.08);
+  }
+
+  .search-input { padding: 11px 0; font-size: 0.9rem; }
+}
+
+.section-match-count {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #1565C0;
+  background: #E3F2FD;
+  border-radius: 20px;
+  padding: 2px 8px;
+  white-space: nowrap;
+  margin-right: 6px;
+}
+
+.search-results-label {
+  font-size: 0.88rem;
+  color: #6B7A99;
+  margin-bottom: 16px;
+  strong { color: #0B1F3A; }
+}
+
+.search-no-results {
+  text-align: center;
+  color: #6B7A99;
+  font-size: 0.92rem;
+  padding: 40px 0;
+  strong { color: #0B1F3A; }
+}
+
 .topics-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(275px, 1fr));

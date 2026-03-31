@@ -14,8 +14,28 @@
       </div>
     </div>
 
+    <!-- Section search -->
+    <div class="section-search-bar">
+      <span class="material-icons search-icon">search</span>
+      <input
+        class="search-input"
+        type="text"
+        placeholder="Search within this topic…"
+        [value]="sectionQuery"
+        (input)="onSectionSearch($any($event.target).value)" />
+      <span *ngIf="sectionQuery.trim()" class="section-match-count">
+        {{ filteredSections.length }} section{{ filteredSections.length === 1 ? '' : 's' }}
+      </span>
+      <button *ngIf="sectionQuery" class="search-clear" (click)="clearSectionSearch()" aria-label="Clear">
+        <span class="material-icons">close</span>
+      </button>
+    </div>
+    <p *ngIf="sectionQuery.trim() && !filteredSections.length" class="search-no-results" style="margin-bottom:16px">
+      No sections match <strong>"{{ sectionQuery.trim() }}"</strong>
+    </p>
+
     <mat-accordion>
-      <mat-expansion-panel *ngFor="let section of selected.sections; let i = index" [expanded]="i === 0">
+      <mat-expansion-panel *ngFor="let section of filteredSections; let i = index" [expanded]="!!sectionQuery.trim() || i === 0">
         <mat-expansion-panel-header>
           <mat-panel-title>
             {{ section.heading }}
@@ -62,9 +82,31 @@
     <h1>Study Topics</h1>
     <p class="subtitle">Select a topic to start studying</p>
 
+    <!-- Search bar -->
+    <div class="search-bar">
+      <span class="material-icons search-icon">search</span>
+      <input
+        class="search-input"
+        type="text"
+        placeholder="Search topics, sections, content…"
+        [value]="searchQuery"
+        (input)="onSearch($any($event.target).value)" />
+      <button *ngIf="searchQuery" class="search-clear" (click)="clearSearch()" aria-label="Clear search">
+        <span class="material-icons">close</span>
+      </button>
+    </div>
+
+    <p *ngIf="searchQuery.trim() && filteredTopics.length" class="search-results-label">
+      {{ filteredTopics.length }} result{{ filteredTopics.length === 1 ? '' : 's' }} for
+      <strong>"{{ searchQuery.trim() }}"</strong>
+    </p>
+    <p *ngIf="searchQuery.trim() && !filteredTopics.length" class="search-no-results">
+      No results found for <strong>"{{ searchQuery.trim() }}"</strong>
+    </p>
+
     <div class="topics-grid">
       <mat-card
-        *ngFor="let topic of topics"
+        *ngFor="let topic of filteredTopics"
         class="topic-card"
         (click)="select(topic)"
         [style.border-top-color]="topic.color">
