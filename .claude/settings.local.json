@@ -29,7 +29,10 @@
       "Bash(node add-day8-images.js)",
       "Bash(rm add-day8-images.js)",
       "Bash(node fix-day8-content.js)",
-      "Bash(rm fix-day8-content.js)"
+      "Bash(rm fix-day8-content.js)",
+      "Bash(node -e \"const t=require\\(''./public/assets/data/topics.json''\\); const last=t[t.length-1]; console.log\\(last.id, last.title, last.day\\);\")",
+      "Bash(node -e \"const t=require\\(''./public/assets/data/topics.json''\\); console.log\\(t.length\\);\")",
+      "Bash(node scripts/add-day11.mjs)"
     ]
   }
 }

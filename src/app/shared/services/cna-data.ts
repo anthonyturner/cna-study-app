@@ -58,6 +58,15 @@ export interface Topic {
   category?: string;
 }
 
+export interface StudyDay {
+  day: number;
+  title: string;
+  subtitle: string;
+  icon: string;
+  color: string;
+  comingSoon?: boolean;
+}
+
 export interface QuizQuestion {
   id: number;
   question: string;
@@ -96,5 +105,9 @@ export class CnaDataService {
 
   getSkills(): Observable<CnaSkill[]> {
     return this.http.get<CnaSkill[]>('/assets/data/skills.json');
+  }
+
+  getStudyDays(): Observable<StudyDay[]> {
+    return this.http.get<StudyDay[]>('/assets/data/study-days.json');
   }
 }

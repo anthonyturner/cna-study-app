@@ -7,16 +7,7 @@ import { MatExpansionModule } from '@angular/material/expansion';
 import { MatChipsModule } from '@angular/material/chips';
 import { MatBadgeModule } from '@angular/material/badge';
 import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
-import { CnaDataService, Topic, phoneticize } from '../../../shared/services/cna-data';
-
-export interface StudyDay {
-  day: number;
-  title: string;
-  subtitle: string;
-  icon: string;
-  color: string;
-  comingSoon?: boolean;
-}
+import { CnaDataService, Topic, StudyDay, phoneticize } from '../../../shared/services/cna-data';
 
 @Component({
   selector: 'app-study-days',
@@ -29,78 +20,7 @@ export class StudyDays implements OnInit {
   selected: Topic | null = null;
   expandedDay: number | null = 1;
 
-  studyDays: StudyDay[] = [
-    {
-      day: 1,
-      title: 'BASICS',
-      subtitle: 'What is it? Understanding the foundation of CNA care.',
-      icon: 'school',
-      color: '#6a1b9a'
-    },
-    {
-      day: 2,
-      title: 'OSHA & Safety',
-      subtitle: 'Infection control, vital signs, safety procedures, and personal care.',
-      icon: 'health_and_safety',
-      color: '#1565C0'
-    },
-    {
-      day: 3,
-      title: "Promoting Resident's Independence",
-      subtitle: 'Independence, abuse prevention, and circulatory & respiratory systems.',
-      icon: 'self_improvement',
-      color: '#00695C'
-    },
-    {
-      day: 4,
-      title: "Components & Care of the Resident's Environment",
-      subtitle: 'Environment, admission/discharge, isolation, bedmaking, aging, pain, end-of-life care, and personal care skills & bathing.',
-      icon: 'bed',
-      color: '#E65100'
-    },
-    {
-      day: 5,
-      title: 'Grooming & Personal Hygiene',
-      subtitle: 'AM & PM care, bathing, hair care, oral hygiene, denture care, shaving, and nail & foot care.',
-      icon: 'spa',
-      color: '#00695C'
-    },
-    {
-      day: 6,
-      title: 'Body Systems, Elimination & Specimen Collection',
-      subtitle: 'Dressing, urinary system, reproductive system, perineal care, catheter care, digestive disorders, and specimen collection.',
-      icon: 'biotech',
-      color: '#0277BD'
-    },
-    {
-      day: 7,
-      title: 'Endocrine System, Nutrition & Skin Integrity',
-      subtitle: 'Diabetes, nutrition, therapeutic diets, dining assistance, enteral feedings, integumentary system, and pressure injury prevention.',
-      icon: 'restaurant',
-      color: '#2E7D32'
-    },
-    {
-      day: 8,
-      title: 'Musculoskeletal System, Nervous System & Mobility',
-      subtitle: 'Bones, joints, fractures, body mechanics, positioning, transfers, gait belt, nervous system diseases, stroke, and ambulation.',
-      icon: 'accessibility_new',
-      color: '#5D4037'
-    },
-    {
-      day: 9,
-      title: 'Mental Health & Cognitive Impairment',
-      subtitle: 'Mental health, depression, anxiety, mental illness, dementia, Alzheimer\'s stages, dementia behaviors, and therapeutic approaches.',
-      icon: 'psychology',
-      color: '#6A1B9A'
-    },
-    {
-      day: 10,
-      title: 'Basic Restorative Services',
-      subtitle: 'Restorative nursing, ambulation programs, adaptive equipment, range of motion exercises, positioning, bowel & bladder training, and prosthetic/orthotic devices.',
-      icon: 'self_improvement',
-      color: '#1565C0'
-    }
-  ];
+  studyDays: StudyDay[] = [];
 
   constructor(private dataService: CnaDataService, private sanitizer: DomSanitizer) {}
 
@@ -114,6 +34,10 @@ export class StudyDays implements OnInit {
   }
 
   ngOnInit(): void {
+    this.dataService.getStudyDays().subscribe(days => {
+      this.studyDays = days;
+    });
+
     this.dataService.getTopics().subscribe(topics => {
       const map = new Map<number, Topic[]>();
       topics.forEach(t => {
