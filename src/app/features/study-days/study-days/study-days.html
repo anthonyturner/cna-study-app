@@ -63,7 +63,7 @@
             </button>
           </mat-panel-title>
         </mat-expansion-panel-header>
-        <div class="section-content" [innerHTML]="formatContent(section.content)"></div>
+        <div class="section-content" appGlossaryTooltip [innerHTML]="highlightTerms(formatContent(section.content))"></div>
         <div class="section-table-block" *ngIf="section.table">
           <p *ngIf="section.table.caption" class="table-caption">{{ section.table.caption }}</p>
           <table class="section-table">

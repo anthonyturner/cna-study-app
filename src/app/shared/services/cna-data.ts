@@ -2,6 +2,44 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
+// ── Glossary term highlighter ─────────────────────────────────────────────
+// Wraps known glossary terms in the rendered HTML with a tooltip span.
+// Safe to call on content we fully control (own JSON files).
+function escapeRegex(s: string): string {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+export function highlightGlossaryTerms(html: string, terms: GlossaryTerm[]): string {
+  if (!terms.length || !html) return html;
+
+  // Build term → definition map; also extract abbreviated forms like (ADLs)
+  const termMap = new Map<string, string>();
+  for (const t of terms) {
+    const main = t.term.replace(/\s*\([^)]*\)\s*$/, '').trim();
+    const abbrMatch = t.term.match(/\(([A-Za-z]{2,}s?)\)/);
+    if (main.length >= 4) termMap.set(main.toLowerCase(), t.definition);
+    if (abbrMatch && abbrMatch[1].length >= 3) termMap.set(abbrMatch[1].toLowerCase(), t.definition);
+  }
+
+  // Sort entries longest-first so "medical asepsis" matches before "asepsis"
+  const sorted = [...termMap.entries()].sort((a, b) => b[0].length - a[0].length);
+  if (!sorted.length) return html;
+
+  const pattern = new RegExp(
+    `\\b(${sorted.map(([k]) => escapeRegex(k)).join('|')})\\b`,
+    'gi'
+  );
+
+  // Only replace inside text nodes — skip content between < and >
+  return html.replace(/(<[^>]+>|[^<]+)/g, chunk => {
+    if (chunk.startsWith('<')) return chunk;
+    return chunk.replace(pattern, match => {
+      const def = (termMap.get(match.toLowerCase()) ?? '').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+      return `<span class="gl-term" data-def="${def}">${match}</span>`;
+    });
+  });
+}
+
 const PHONETIC_MAP: Record<string, string> = {
   'HIPAA': 'Hip-pay',
   'NPO': 'N-P-O',

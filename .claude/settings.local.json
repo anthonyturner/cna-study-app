@@ -32,7 +32,16 @@
       "Bash(rm fix-day8-content.js)",
       "Bash(node -e \"const t=require\\(''./public/assets/data/topics.json''\\); const last=t[t.length-1]; console.log\\(last.id, last.title, last.day\\);\")",
       "Bash(node -e \"const t=require\\(''./public/assets/data/topics.json''\\); console.log\\(t.length\\);\")",
-      "Bash(node scripts/add-day11.mjs)"
+      "Bash(node scripts/add-day11.mjs)",
+      "Bash(node scripts/add-prevention-infection.mjs)",
+      "Bash(node -e \"const g=require\\(''./public/assets/data/glossary.json''\\); console.log\\(''terms:'', g.length\\); console.log\\(''sample:'', JSON.stringify\\(g.slice\\(0,2\\), null, 2\\)\\);\")",
+      "Bash(python3 -c \"import json,sys; data=json.load\\(sys.stdin\\); print\\(len\\(data\\)\\); print\\(max\\(x[''''id''''] for x in data\\)\\)\")",
+      "Bash(node scripts/add-suffixes.mjs)",
+      "Bash(node -e \"const d=require\\(''./public/assets/data/glossary.json''\\); const s=d.filter\\(x=>x.category===''Medical Suffix''\\); console.log\\(''Suffix count:'', s.length\\); s.slice\\(0,5\\).forEach\\(x=>console.log\\(x.id, x.term\\)\\)\")",
+      "Bash(node scripts/add-more-terms.mjs)",
+      "Bash(node -e \"const t=require\\(''./public/assets/data/topics.json''\\); const rom=t.filter\\(x=>x.title.toLowerCase\\(\\).includes\\(''range''\\)\\); console.log\\(JSON.stringify\\(rom, null, 2\\)\\)\")",
+      "Bash(node scripts/update-rom.mjs)",
+      "Bash(node -e \"const t=require\\(''./public/assets/data/topics.json''\\); const r=t.find\\(x=>x.id===''range-of-motion-restorative''\\); r.sections.forEach\\(\\(s,i\\)=>console.log\\(i+1, s.heading\\)\\)\")"
     ]
   }
 }

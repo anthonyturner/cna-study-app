@@ -5,18 +5,20 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 import { MatExpansionModule } from '@angular/material/expansion';
 import { MatChipsModule } from '@angular/material/chips';
-import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
-import { CnaDataService, Topic } from '../../../shared/services/cna-data';
+import { DomSanitizer, SafeHtml, SafeResourceUrl } from '@angular/platform-browser';
+import { CnaDataService, GlossaryTerm, Topic, highlightGlossaryTerms } from '../../../shared/services/cna-data';
+import { GlossaryTooltipDirective } from '../../../shared/directives/glossary-tooltip.directive';
 
 @Component({
   selector: 'app-topics',
   templateUrl: './topics.html',
   styleUrl: './topics.scss',
-  imports: [CommonModule, MatCardModule, MatButtonModule, MatIconModule, MatExpansionModule, MatChipsModule]
+  imports: [CommonModule, MatCardModule, MatButtonModule, MatIconModule, MatExpansionModule, MatChipsModule, GlossaryTooltipDirective]
 })
 export class Topics implements OnInit {
   topics: Topic[] = [];
   selected: Topic | null = null;
+  glossaryTerms: GlossaryTerm[] = [];
 
   constructor(private dataService: CnaDataService, private sanitizer: DomSanitizer) {}
 
@@ -30,9 +32,14 @@ export class Topics implements OnInit {
   }
 
   ngOnInit(): void {
-    this.dataService.getTopics().subscribe(topics => {
-      this.topics = topics;
-    });
+    this.dataService.getTopics().subscribe(topics => { this.topics = topics; });
+    this.dataService.getGlossary().subscribe(terms => { this.glossaryTerms = terms; });
+  }
+
+  highlightTerms(html: string): SafeHtml {
+    return this.sanitizer.bypassSecurityTrustHtml(
+      highlightGlossaryTerms(html, this.glossaryTerms)
+    );
   }
 
   // ── Section search (within a topic) ─────────────────────

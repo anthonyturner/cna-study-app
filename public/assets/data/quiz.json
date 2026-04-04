@@ -2058,5 +2058,135 @@
     "explanation": "Always dress the weaker side first — place the weaker arm or leg into clothing first to prevent overstretching or injury to the limb.",
     "category": "Neurological",
     "day": 8
+  },
+  {
+    "id": 161,
+    "question": "Which type of microorganism requires a living cell to grow and multiply?",
+    "options": [
+      "Bacteria",
+      "Fungi",
+      "Viruses",
+      "Protozoa"
+    ],
+    "answer": 2,
+    "explanation": "Viruses grow only in living cells. They cause diseases such as the common cold, herpes, AIDS, and hepatitis.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 162,
+    "question": "E. coli normally lives in the colon. If it enters the urinary system, it becomes a(n):",
+    "options": [
+      "Normal flora",
+      "Non-pathogen",
+      "Pathogen",
+      "Antibiotic"
+    ],
+    "answer": 2,
+    "explanation": "When a non-pathogen is transferred from its normal environment, it can become a pathogen. E. coli transferred to the urinary system can cause a urinary tract infection.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 163,
+    "question": "Which of the following is a sign of infection that is MOST commonly absent or atypical in older persons?",
+    "options": [
+      "Confusion",
+      "Fever",
+      "Discharge from wound",
+      "Nausea"
+    ],
+    "answer": 1,
+    "explanation": "Older persons may have a slight fever or no fever at all during infection. They may instead show confusion or delirium. All changes — even minor ones — should be reported immediately.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 164,
+    "question": "What are the six links in the chain of infection (in order)?",
+    "options": [
+      "Pathogen, reservoir, portal of exit, transmission, portal of entry, susceptible host",
+      "Host, transmission, pathogen, entry, exit, immunity",
+      "Bacteria, virus, fungi, protozoa, vector, host",
+      "Entry, exit, host, pathogen, vector, immunity"
+    ],
+    "answer": 0,
+    "explanation": "The chain of infection must have all six links present: source (pathogen), reservoir, portal of exit, method of transmission, portal of entry, and a susceptible host.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 165,
+    "question": "MRSA stands for:",
+    "options": [
+      "Multi-Resistant Staph Aureus",
+      "Methicillin-Resistant Staphylococcus Aureus",
+      "Methicillin-Related Skin Abrasion",
+      "Multi-Resistant Streptococcus Aureus"
+    ],
+    "answer": 1,
+    "explanation": "MRSA stands for Methicillin-Resistant Staphylococcus aureus. It is resistant to methicillin and can cause serious infections in the bloodstream, lungs, and joints.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 166,
+    "question": "A healthcare-associated infection (HAI) is best defined as:",
+    "options": [
+      "An infection a person had before being admitted to a facility",
+      "An infection related to receiving health care in any setting",
+      "An infection caused only in hospital operating rooms",
+      "Any infection involving drug-resistant bacteria"
+    ],
+    "answer": 1,
+    "explanation": "An HAI is an infection that develops in a person cared for in any setting where health care is given — hospitals, nursing centers, clinics, or home care. It is related to receiving health care.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 167,
+    "question": "Which is the single most important practice to prevent the spread of infection?",
+    "options": [
+      "Wearing gloves",
+      "Hand hygiene",
+      "Wearing a gown",
+      "Using a mask"
+    ],
+    "answer": 1,
+    "explanation": "Hand hygiene is the single most important way to prevent the spread of microbes and infection, as stated in Chapter 16 of the textbook.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 168,
+    "question": "The correct way to sneeze or cough to prevent spreading microbes is to:",
+    "options": [
+      "Cover your mouth with both hands",
+      "Turn away from others without covering",
+      "Sneeze or cough into your upper arm",
+      "Use a tissue and then place it in your pocket"
+    ],
+    "answer": 2,
+    "explanation": "You should sneeze or cough into your upper arm (elbow), not into your hands. Covering with hands transfers microbes to surfaces you touch.",
+    "category": "Infection Control"
+  },
+  {
+    "id": 169,
+    "question": "Medical asepsis is also called:",
+    "options": [
+      "Sterile technique",
+      "Surgical asepsis",
+      "Clean technique",
+      "Transmission precaution"
+    ],
+    "answer": 2,
+    "explanation": "Medical asepsis is also called \"clean technique.\" It reduces the number of microbes and prevents them from spreading. Surgical asepsis is called \"sterile technique.\"",
+    "category": "Infection Control"
+  },
+  {
+    "id": 170,
+    "question": "Which patient group is at GREATEST risk for a severe infection because their immune system is suppressed by medication?",
+    "options": [
+      "Burn patients",
+      "Transplant patients",
+      "Elderly patients",
+      "Pediatric patients"
+    ],
+    "answer": 1,
+    "explanation": "Transplant patients receive drugs to prevent organ rejection — these drugs suppress the immune system, making it unable to produce antibodies needed to fight infection.",
+    "category": "Infection Control"
   }
 ]

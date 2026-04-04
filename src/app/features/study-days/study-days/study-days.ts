@@ -6,19 +6,21 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatExpansionModule } from '@angular/material/expansion';
 import { MatChipsModule } from '@angular/material/chips';
 import { MatBadgeModule } from '@angular/material/badge';
-import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
-import { CnaDataService, Topic, StudyDay, phoneticize } from '../../../shared/services/cna-data';
+import { DomSanitizer, SafeHtml, SafeResourceUrl } from '@angular/platform-browser';
+import { CnaDataService, GlossaryTerm, Topic, StudyDay, phoneticize, highlightGlossaryTerms } from '../../../shared/services/cna-data';
+import { GlossaryTooltipDirective } from '../../../shared/directives/glossary-tooltip.directive';
 
 @Component({
   selector: 'app-study-days',
   templateUrl: './study-days.html',
   styleUrl: './study-days.scss',
-  imports: [CommonModule, MatCardModule, MatButtonModule, MatIconModule, MatExpansionModule, MatChipsModule, MatBadgeModule]
+  imports: [CommonModule, MatCardModule, MatButtonModule, MatIconModule, MatExpansionModule, MatChipsModule, MatBadgeModule, GlossaryTooltipDirective]
 })
 export class StudyDays implements OnInit {
   topicsByDay: Map<number, Topic[]> = new Map();
   selected: Topic | null = null;
   expandedDay: number | null = 1;
+  glossaryTerms: GlossaryTerm[] = [];
 
   studyDays: StudyDay[] = [];
 
@@ -34,9 +36,8 @@ export class StudyDays implements OnInit {
   }
 
   ngOnInit(): void {
-    this.dataService.getStudyDays().subscribe(days => {
-      this.studyDays = days;
-    });
+    this.dataService.getStudyDays().subscribe(days => { this.studyDays = days; });
+    this.dataService.getGlossary().subscribe(terms => { this.glossaryTerms = terms; });
 
     this.dataService.getTopics().subscribe(topics => {
       const map = new Map<number, Topic[]>();
@@ -184,6 +185,12 @@ export class StudyDays implements OnInit {
 
   topicsForDay(day: number): Topic[] {
     return this.topicsByDay.get(day) ?? [];
+  }
+
+  highlightTerms(html: string): SafeHtml {
+    return this.sanitizer.bypassSecurityTrustHtml(
+      highlightGlossaryTerms(html, this.glossaryTerms)
+    );
   }
 
   formatContent(content: string): string {
