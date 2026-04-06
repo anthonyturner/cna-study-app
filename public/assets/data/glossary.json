@@ -2260,5 +2260,11 @@
     "definition": "An uncomfortable awareness of the heartbeat — the sensation that the heart is beating rapidly, irregularly, pounding, or skipping beats. Can be triggered by stress, caffeine, dehydration, or cardiac arrhythmias. Report to the nurse, especially if accompanied by chest pain or dizziness.",
     "category": "Vital Signs",
     "id": 377
+  },
+  {
+    "id": 378,
+    "term": "Amnesia",
+    "definition": "The partial or total loss of memory, often caused by brain injury, stroke, neurological disease, severe psychological trauma, or certain medications. Anterograde amnesia is the inability to form new memories after the event; retrograde amnesia is the loss of memories from before the event. CNAs should use calm, reassuring communication and avoid correcting or arguing with a person who cannot recall recent events.",
+    "category": "Neurological"
   }
 ]

@@ -41,7 +41,9 @@
       "Bash(node scripts/add-more-terms.mjs)",
       "Bash(node -e \"const t=require\\(''./public/assets/data/topics.json''\\); const rom=t.filter\\(x=>x.title.toLowerCase\\(\\).includes\\(''range''\\)\\); console.log\\(JSON.stringify\\(rom, null, 2\\)\\)\")",
       "Bash(node scripts/update-rom.mjs)",
-      "Bash(node -e \"const t=require\\(''./public/assets/data/topics.json''\\); const r=t.find\\(x=>x.id===''range-of-motion-restorative''\\); r.sections.forEach\\(\\(s,i\\)=>console.log\\(i+1, s.heading\\)\\)\")"
+      "Bash(node -e \"const t=require\\(''./public/assets/data/topics.json''\\); const r=t.find\\(x=>x.id===''range-of-motion-restorative''\\); r.sections.forEach\\(\\(s,i\\)=>console.log\\(i+1, s.heading\\)\\)\")",
+      "Bash(node -e \"const t=require\\(''./public/assets/data/topics.json''\\); const b=t.find\\(x=>x.id===''bedmaking''\\); console.log\\(JSON.stringify\\(b, null, 2\\)\\)\")",
+      "Bash(node scripts/update-bedmaking.mjs)"
     ]
   }
 }

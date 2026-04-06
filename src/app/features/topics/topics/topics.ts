@@ -111,8 +111,23 @@ export class Topics implements OnInit {
 
   formatContent(content: string): string {
     if (content.includes('\n')) {
-      return content.split('\n').map(l => l.trim()).filter(Boolean)
-        .map(l => this.formatContent(l)).join('');
+      const lines = content.split('\n').map(l => l.trim()).filter(Boolean);
+      let html = '';
+      let i = 0;
+      while (i < lines.length) {
+        if (lines[i].startsWith('•')) {
+          const bullets: string[] = [];
+          while (i < lines.length && lines[i].startsWith('•')) {
+            bullets.push(lines[i].replace(/^•\s*/, ''));
+            i++;
+          }
+          html += '<ul>' + bullets.map(b => `<li>${b}</li>`).join('') + '</ul>';
+        } else {
+          html += this.formatContent(lines[i]);
+          i++;
+        }
+      }
+      return html;
     }
 
     const text = content.trim();
